@@ -1,0 +1,81 @@
+{
+  "source_text": "Siddhānta Śiromaṇi & Āryabhaṭīya",
+  "aryabhatiya_finding": "The Āryabhaṭīya names NO individual stars. Evidence: (1) W.E. Clark's complete 1930 translation (full text fetched from https://archive.org/stream/in.ernet.dli.2015.61416/2015.61416.The-Aryabhatiya-Of-Aryabhata_djvu.txt) was searched for Agastya, Canopus, Sirius, Dhruva, 'pole star', and all 27 nakshatra names — zero hits; the index lists only generic 'Asterisms'. (2) The complete Sanskrit text of all four padas on sa.wikisource (https://sa.wikisource.org/wiki/गोल-पाद , /दश-गीतिका-पाद , /गणित-पाद , /काल-क्रिया-पाद) was searched for अगस्त्य, ध्रुव, सप्तर्षि and nakshatra names — zero hits. The Gola-pada speaks only generically of the asterisms: verse 4.9 'अचलानि भानि तद्-वत् सम-पश्चिम-गानि लङ्कायाम्' — Clark: 'just so at Lanka a man sees the stationary asterisms moving backward (westward) in a straight line'; 4.10 refers to the भ-पञ्जर ('cage of the asterisms'); Clark: 'the circle of the asterisms, together with the planets, driven by the provector wind, constantly moves straight westward at Lanka'. Gola 11-12 and 16-17 place the gods on Meru at the north pole (Clark: 'The gods, who dwell in the north on Meru, see the northern half of the sphere of the asterisms moving from left to right') but name no pole star — the word Dhruva does not occur anywhere in the text. There is no yogatārā catalog and no verse about any individual star; the Daśagītikā gives only revolution counts of 'the asterisms' as a whole.",
+  "entries": [
+    {
+      "name_devanagari": "अगस्त्य",
+      "name_iast": "Agastya",
+      "modern_star": {"common_name": "Canopus", "bayer": "α Carinae", "constellation": "Carina"},
+      "identification_confidence": "certain",
+      "identification_notes": "Universal identification in the Siddhanta tradition. Bhāskara gives polar longitude 87° (sapta-nāga), polar latitude 77° south (turaga-adri); his Vāsanābhāṣya on v.16 adds that Agastya is invisible where the terrestrial latitude exceeds 37° ('यस्मिन् देशे सप्तत्रिशदधिकाः पलांशास्तत्रागस्त्यो न दृश्यते'). Verse 12 calls it 'muni' (the sage). The 1861 public-domain volume (Sūrya Siddhānta portion, same tradition) prints 'Agastya (Canopus)' explicitly (p.63, 68). D. Arkasomayaji's translation of this very verse also glosses 'Agastya (Canopus)'.",
+      "citation": "Siddhānta Śiromaṇi, Grahagaṇitādhyāya, Bhagrahayutyadhikāra v.7 (also vv.8, 12, 16)",
+      "shloka_devanagari": "अगस्त्यध्रुवः सप्तनागास्तु भागास्तुरखाद्यस्तस्य यम्यः शरांशः । षडष्टौ लवा लुब्धकस्य ध्रुवोऽयं नभोऽम्भोधिभागाः शरस्तस्य याम्यः ॥७॥ [verbatim from unproofread OCR; expected readings याम्यः for यम्यः, तुरगाद्रयस् for तुरखाद्यस्]",
+      "shloka_source_url": "https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तशिरोमणिः.djvu/349",
+      "translation_en": "[paraphrase] The polar longitude (dhruva) of Agastya is 87 degrees and its polar latitude (śara) 77 degrees south; the polar longitude of Lubdhaka is 86 degrees and its polar latitude 40 degrees south.",
+      "translator": "Paraphrased from D. Arkasomayaji, Siddhānta Śiromaṇi Gaṇitādhyāya (Kendriya Sanskrit Vidyapeetha, Tirupati; copyrighted, not quoted verbatim). No public-domain English translation of the Gaṇitādhyāya exists online.",
+      "translation_source_url": "https://archive.org/details/SiddhantaSiromaniGanitadhyaya"
+    },
+    {
+      "name_devanagari": "लुब्धक (मृगरिपु)",
+      "name_iast": "Lubdhaka (Mṛgaripu / Mṛgavyādha)",
+      "modern_star": {"common_name": "Sirius", "bayer": "α Canis Majoris", "constellation": "Canis Major"},
+      "identification_confidence": "certain",
+      "identification_notes": "Bhāskara's mūla uses 'Lubdhaka' (the Hunter) in vv.7-8 and 'mṛgaripu' (enemy of the deer) in v.12 ('भाना मुनेर्मृगरिपोरुदयास्तलग्ने'); the name Mṛgavyādha for the same star appears on the same page only in Nṛsiṃha Daivajña's Vārttika quoting Sūrya Siddhānta 9.12 ('स्वात्यगस्त्यमृगव्याधचित्राज्येष्ठाः पुनर्वसुः', sa.wikisource page 347). Values: polar longitude 86° (ṣaḍ-aṣṭau), polar latitude 40° south (nabho'mbhodhi). Iṣṭanāḍīs 2 1/6 nāḍī = 13 kālāṃśas per the Vāsanābhāṣya ('तत्र त्रयोदशा १३ कालांशाः'). 1861 PD volume: 'Mrigavyādha (Sirius)' (p.63).",
+      "citation": "Siddhānta Śiromaṇi, Grahagaṇitādhyāya, Bhagrahayutyadhikāra vv.7-8 (also vv.12, 16)",
+      "shloka_devanagari": "अगस्त्यस्य नाडीद्वयं प्रोक्तमिष्टं सषड्भागनाडीद्वयं लुब्धकस्य । त्रिभागाधिकं स्थूलभानामणूना ततश्वाधिकं तारतम्येन कल्प्यम् ॥८॥ [verbatim from unproofread OCR]",
+      "shloka_source_url": "https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तशिरोमणिः.djvu/349",
+      "translation_en": "[paraphrase] The iṣṭa-nāḍīs (arc of visibility for heliacal rising) are two nāḍīs for Agastya, two nāḍīs and a sixth for Lubdhaka, a third more for the large stars, and progressively more for the fainter ones.",
+      "translator": "Paraphrased from D. Arkasomayaji (copyrighted); Bhāskara's own Vāsanābhāṣya glosses: Agastya 12 kālāṃśas, Lubdhaka 13, gross stars 14, faint ones 15-16.",
+      "translation_source_url": "https://archive.org/details/SiddhantaSiromaniGanitadhyaya"
+    },
+    {
+      "name_devanagari": "अभिजित्",
+      "name_iast": "Abhijit",
+      "modern_star": {"common_name": "Vega", "bayer": "α Lyrae", "constellation": "Lyra"},
+      "identification_confidence": "certain",
+      "identification_notes": "Included by Bhāskara among the 28 asterisms whose dhruvas he lists (Vāsanābhāṣya on vv.1-3: 'अष्टौ नखा इत्यादयोऽश्विन्यादीनां साभिजितां ध्रुवभागा वेदितव्याः' — the dhruvas of Aśvinī etc. together with Abhijit). Its śara is 62° north (largest in the list, per the Bhagrahayuti latitude table), matching Vega's ecliptic latitude of about +61.7°. Bhāskara's Vāsanābhāṣya on v.16 makes it circumpolar above latitude 52°. The 1861 PD volume identifies 'Abhijit (α Lyrae)' (pp.63, 68).",
+      "citation": "Siddhānta Śiromaṇi, Grahagaṇitādhyāya, Bhagrahayutyadhikāra vv.1-6 with Vāsanābhāṣya; Vāsanābhāṣya on v.16",
+      "shloka_devanagari": "यस्य स्फुटा क्रान्तिरुदक् च यत्र लम्बाधिका तत्र सदोदितं तत् । न दृश्यते तत् खलु यस्य याम्या भं लुब्धकः कुम्भभवो ग्रहो वा ।।१६।। — with Bhāskara's own bhāṣya: 'यत्र द्विपश्चाशदधिकाः पलांशास्तत्राभिजित् सदोदितमेव' [verbatim from unproofread OCR; द्विपञ्चाशद् expected]",
+      "shloka_source_url": "https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तशिरोमणिः.djvu/351",
+      "translation_en": "[own rendering, no PD translation exists] (v.16) A star whose true declination is north and exceeds the co-latitude is ever-visible there; one whose declination is south (by that amount) is never seen — be it Lubdhaka, the pot-born (Agastya), or even a planet. (Bhāṣya) Where the degrees of latitude exceed 52, Abhijit is ever-risen (circumpolar).",
+      "translator": "Own literal rendering (clearly marked), checked against Arkasomayaji's paraphrase ('where the latitude is greater than 52°, there Abhijit is always above the horizon').",
+      "translation_source_url": "https://archive.org/details/SiddhantaSiromaniGanitadhyaya"
+    },
+    {
+      "name_devanagari": "रेवतीतारा",
+      "name_iast": "Revatī-tārā (junction star of Revatī, the zero point)",
+      "modern_star": {"common_name": "Revati (traditional zero-point star)", "bayer": "ζ Piscium", "constellation": "Pisces"},
+      "identification_confidence": "likely",
+      "identification_notes": "In the upapatti to Bhagrahayuti vv.4-6 Bhāskara himself describes the observational procedure: at night one sights the Revatī star through the armillary sphere and sets the end of Pisces (Mīnānta, i.e. longitude 360°) on it, then reads off each yogatārā's dhruva and śara on the sighting-ring. Bhāskara assigns Revatī dhruva 0 and śara 0. The traditional identification ζ Piscium is printed in the 1861 PD volume ('Revati (ζ Piscium)', p.63); some modern scholars debate whether the faint ζ Psc can be the intended zero star, hence 'likely' rather than 'certain'.",
+      "citation": "Siddhānta Śiromaṇi, Grahagaṇitādhyāya, Bhagrahayutyadhikāra, Vāsanābhāṣya (upapatti) on vv.4-6",
+      "shloka_devanagari": "…रात्रौ गोलमध्यगचिहुगतया दृष्ट्या रेवतो.तारां विलोक्य क्रान्तिवृत्ते यो मीनान्तस्तं रेवतीतारायां निवेश्य मध्यगतयैव दृष्टच्याश्चिन्यादेर्नक्षत्रस्य योगतारां विलोक्य तस्योपरिवेधवलयं निवेश्यम् । [prose bhāṣya, verbatim from unproofread OCR with visible OCR slips]",
+      "shloka_source_url": "https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तशिरोमणिः.djvu/349",
+      "translation_en": "[own rendering, no PD translation exists] At night, sighting through the mark at the centre of the sphere, one observes the star of Revatī and places upon it the end of Pisces on the ecliptic ring; then, sighting the yogatārā of Aśvinī and the other nakshatras, the sighting-ring is laid over each; the degrees from the end of Pisces to the intersection give that asterism's dhruva, and the degrees between the intersection and the yogatārā give its śara, north or south.",
+      "translator": "Own literal rendering (clearly marked) of Bhāskara's Vāsanābhāṣya.",
+      "translation_source_url": "https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तशिरोमणिः.djvu/349"
+    },
+    {
+      "name_devanagari": "अश्विन्यादीनां साभिजितां योगताराः",
+      "name_iast": "Aśvinyādi yogatārāḥ (sābhijit)",
+      "modern_star": {"common_name": "collective catalog of 28 junction stars", "bayer": "various", "constellation": "various (zodiacal belt and beyond)"},
+      "identification_confidence": "likely",
+      "identification_notes": "Bhāskara gives the polar longitudes (vv.1-3) and rectified latitudes (vv.4-6) of all 28 yogatārās in bhūtasaṅkhyā word-numerals, stating (bhāṣya) that Kṛttikā and Rohiṇī are to be diminished by 32' and Viśākhā, Anurādhā, Jyeṣṭhā increased by 5': 'कृत्तिकारोहिणीनक्षत्रयोद्वत्रिशत्कलोनाः । विशाखानुराधाज्येष्ठानां कलापञ्चकेनाधिका ध्रुवकभागा वेदितव्याः' (sa.wikisource p.347). Per Arkasomayaji the base values are Brahmagupta's, copied also by Śrīpati. Standard traditional identifications for the brightest members, as printed in the public-domain 1861 volume (Sūrya Siddhānta portion, pp.63-68): Svātī = Arcturus, Citrā = Spica, Jyeṣṭhā = Antares, Punarvasu = β Geminorum, Rohiṇī = Aldebaran (α Tauri), Maghā = Regulus, Kṛttikā = Pleiades (η Tauri), Hasta = δ Corvi, Śravaṇa = α Aquilae, Dhaniṣṭhā = α Delphini, Viśākhā = α Librae, Aśvinī = α(β) Arietis, Revatī = ζ Piscium. Individual per-star numeric values in the online OCR tables are too corrupted to transcribe reliably.",
+      "citation": "Siddhānta Śiromaṇi, Grahagaṇitādhyāya, Bhagrahayutyadhikāra vv.1-6; cf. Golādhyāya, Dṛkkarmavāsanā v.12",
+      "shloka_devanagari": "अष्टौ नखा गजगुणाः खशरास्त्रिषट्काः सप्तर्तवस्त्रिनव चाङ्गदशोऽष्टकाष्ठाः । गोऽकस्तथाद्रिमनवः शरबाणचन्द्राः खात्यष्टयस्त्रिधृतयो नवनन्दचन्द्राः ।।१।। अर्काधिनो जिनयमा नवबाहुदस्राः कब्ध्यश्चिनो जलधितत्त्वमिताश्च भागाः । षटयश्विनश्वपवनोत्कृतयोऽष्ट्रभानिखाडूश्विनी नखगुणा रसदन्तसंख्याः ॥२॥ सप्तामराः खमिति भध्रुवका निरुक्ता दृकर्मणायनभवेन सहाश्विधिष्ण्यात् । ब्रह्माग्निभधुवलवा रदलितिकोना मैत्रन्द्रयोद्वर्यधिपभस्य च सेषुलिसाः ॥३॥ [vv.1-3, dhruvakas; verbatim from unproofread OCR — several word-numerals visibly garbled] … दिशोऽकश्च सार्धाब्धयः सार्धवेदा दशेशा रसाः खं स्वराः खं च सूर्याः । त्रिचन्द्राः कुचन्द्रा विपादौ च दस्रौ तुरङ्गाग्नयः सत्रिभागं च रूपम् ॥४॥ विपादं द्वयं सार्थरामाश्च सार्धा गजाः सत्रिभागेषवो मार्गणाश्च । द्विषष्टिः खरामाश्च षड्वर्गसंख्यास्त्रिभागो जिना उत्कृतिः खं च भानाम् ॥५॥ निरुक्ताः स्फुटा योगताराशरांशास्त्रय ब्रह्मधिष्ण्याद्विशाखादिषट्कम् । करो वारुणं त्वाष्ट्रभं सार्पमेषां शरा दक्षिणा उत्तराः शेषभानाम् ।॥६॥ [vv.4-6, śaras]",
+      "shloka_source_url": "https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तशिरोमणिः.djvu/346 (vv.1-3), https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तशिरोमणिः.djvu/348 (vv.4-6)",
+      "translation_en": "No public-domain translation of these Gaṇitādhyāya verses exists online. Bhāskara's own conception of this catalog is however translated in the public-domain 1861 rendering of Golādhyāya, Dṛkkarma-vāsanā v.12: '12. As the constellations are fixed their latitudes as given in the books of these curly [read: early] astronomers are the bpasuat-b'aras [read: spashta-śaras], i.e. tho reduced values of the latitudes so as to render them fit to be added to or subtracted from the declination; and tho dhkuvas [read: dhruvas] or longitude of these constellations are given, after being corrected by tho ayana drtkkakma [read: drikkarma] so as to suit those corrected latitudes that is, the star will appear to rise at the equator at the same time with longitude found by the correction.' [verbatim from OCR of the 1861 edition, bracketed restorations of obvious OCR errors added]",
+      "translator": "Lancelot Wilkinson, revised by Bapu Deva Sastri (1861), public domain (for Golādhyāya IX.12); Gaṇitādhyāya vv.1-6 values paraphrased from Arkasomayaji.",
+      "translation_source_url": "https://archive.org/details/in.ernet.dli.2015.46927"
+    }
+  ],
+  "caveats": [
+    "All Devanagari shlokas are verbatim from UNPROOFREAD OCR pages (proofread level 1) on sa.wikisource, transcribing the Sampūrṇānand Sanskrit University 1981 edition of the Grahagaṇitādhyāya with Bhāskara's Vāsanābhāṣya and Nṛsiṃha Daivajña's Vāsanāvārttika (ed. Muralīdhara Chaturvedī). Obvious OCR slips remain (e.g. 'यम्यः' for 'याम्यः', 'तुरखाद्यस्' for 'तुरगाद्रयस्', 'रेवतो.तारां', 'द्विपश्चाशद्' for 'द्विपञ्चाशद्'); they were deliberately NOT silently corrected. Check against a printed edition before publication.",
+    "There is NO public-domain English translation of the Gaṇitādhyāya online: the Wilkinson/Bapu Deva Sastri 1861 'Translation of the Siddhánta Śiromani' covers only the Golādhyāya (13 chapters; verified from its table of contents and general index — Agastya, Mṛgavyādha, Brahmahṛdaya, Yogatārā entries all point to pages of the Sūrya Siddhānta portion). English for the Bhagrahayuti verses is therefore paraphrase of D. Arkasomayaji's copyrighted translation (Tirupati ed., scan fetched from archive.org) or clearly-marked own renderings of the bhāṣya.",
+    "Correction to the task premise: in the Bhagrahayutyadhikāra Bhāskara's own verses individually name ONLY Agastya and Lubdhaka (also 'muni' and 'mṛgaripu', v.12; 'kumbhabhava', v.16). Brahmahṛdaya, Agni, Prajāpati, Apāṃvatsa and Āpas do NOT occur in Bhāskara's mūla or his Vāsanābhāṣya there; Brahmahṛdaya and Mṛgavyādha appear on the same pages only inside Nṛsiṃha Daivajña's Vārttika (17th c.) quoting Sūrya Siddhānta 9.12-18 (footnoted as 'सू० सि० ९ अ०' in the edition, sa.wikisource p.347).",
+    "Bhāskara's dhruva/śara values reproduce Brahmagupta's star table (so also Śrīpati), with Bhāskara's stated corrections of -32' for Kṛttikā and Rohiṇī and +5' for Viśākhā, Anurādhā, Jyeṣṭhā; his catalog is thus not an independent observation record (per Arkasomayaji's commentary, and Bhāskara's own bhāṣya on vv.1-3).",
+    "Key numeric values were cross-confirmed between the Sanskrit OCR and Arkasomayaji: Agastya 87°, śara 77° S; Lubdhaka 86°, śara 40° S; kālāṃśas 12 (Agastya) and 13 (Lubdhaka); Agastya invisible above terrestrial latitude 37°; Abhijit circumpolar above 52°. The full 28-row dhruva/śara tables in both online OCRs are too corrupted for reliable transcription and were not included.",
+    "The 1861 translation quote (Golādhyāya IX.12) is verbatim from the DLI scan's OCR (archive.org item in.ernet.dli.2015.46927), which is noisy; bracketed restorations are marked. The en.wikisource proofread project of the same book exists but its pages are still 'to be proofread'.",
+    "Pañcasiddhāntikā ch. 14 was NOT examined (the two primary texts exhausted the time budget).",
+    "Ecliptic vs polar coordinates: Bhāskara's dhruvas are POLAR longitudes (ayana-dṛkkarma applied) and his śaras 'sphuṭa' (pole-directed) latitudes, as he states in vv.17-21 and in Golādhyāya IX.12; they are not directly comparable to modern ecliptic coordinates without conversion."
+  ]
+}

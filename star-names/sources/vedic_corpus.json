@@ -1,0 +1,304 @@
+{
+ "source_text": "Vedic corpus",
+ "entries": [
+  {
+   "name_devanagari": "कृत्तिकाः",
+   "name_iast": "Kṛttikāḥ",
+   "modern_star": {
+    "common_name": "Pleiades (M45); brightest member Alcyone",
+    "bayer": "η Tauri (Alcyone)",
+    "constellation": "Taurus"
+   },
+   "identification_confidence": "certain",
+   "identification_notes": "Heads the oldest nakshatra list; deity Agni. Universally identified with the Pleiades. Eggeling and Whitney both gloss Krittikas = Pleiades. Also attested TB 1.5.1.1 ('agneḥ kṛttikāḥ'), TB 3.1.1.1, ŚB 2.1.2.1-5, AV 19.7.2.",
+   "citation": "Taittirīya Saṃhitā 4.4.10.1",
+   "shloka_devanagari": "कृत्तिका नक्षत्रम् अग्निर् देवताऽग्ने रुचः स्थ प्रजापतेर् धातुः सोमस्यर्चे त्वा रुचे त्वा द्युते त्वा भासे त्वा ज्योतिषे त्वा रोहिणी नक्षत्रम् प्रजापतिर् देवता मृगशीर्षं नक्षत्रꣳ सोमो देवताऽऽर्द्रा नक्षत्रꣳ रुद्रो देवता पुनर्वसू नक्षत्रम् अदितिर् देवता तिष्यो नक्षत्रम् बृहस्पतिर् देवताऽऽश्रेषा नक्षत्रꣳ सर्पा देवता मघा नक्षत्रम् पितरो देवता",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/तैत्तिरीयसंहिता(विस्वरः)/काण्डम्_४/प्रपाठकः_४",
+   "translation_en": "(Thou art) Krttikas, the Naksatra, Agni, the deity; ye are the radiances of Agni, of Prajapati, of the creator, of Soma; to the Re thee, to radiance thee, to the shining thee, to the blaze thee, to the light thee. (Thou art) Rohini the Naksatra, Prajapati the deity; Mrgaçirsa the Naksatra, Soma the deity; Ardra the Naksatra, Rudra the deity; the two Punarvasus the Naksatra, Aditi the deity; Tisya the Naksatra, Brhaspati the deity; the Açresas the Naksatra, the serpents the deity; the Maghas the Naksatra, the fathers the deity.",
+   "translator": "A.B. Keith, The Veda of the Black Yajus School (1914)",
+   "translation_source_url": "https://www.sacred-texts.com/hin/yv/yv04.htm (fetched via https://web.archive.org/web/20210301091213/https://www.sacred-texts.com/hin/yv/yv04.htm)"
+  },
+  {
+   "name_devanagari": "कृत्तिकाः",
+   "name_iast": "Kṛttikāḥ",
+   "modern_star": {
+    "common_name": "Pleiades (M45)",
+    "bayer": "η Tauri (Alcyone)",
+    "constellation": "Taurus"
+   },
+   "identification_confidence": "certain",
+   "identification_notes": "The famous archaeoastronomical passage: the Krittikas 'do not swerve from the eastern quarter'. The Pleiades rose due east (on the celestial equator) c. 3000-2500 BCE, which S.B. Dikshit (1895) used to date the ŚB; the dating argument (not the star identification) is disputed, since 'not swerving from the east' may be an approximation. ŚB 2.1.2.2 also notes they are the most numerous asterism (other nakshatras have 1-4 stars).",
+   "citation": "Śatapatha Brāhmaṇa 2.1.2.3",
+   "shloka_devanagari": "एता ह वै प्राच्यै दिशो न च्यवन्ते । सर्वाणि ह वा अन्यानि नक्षत्राणि प्राच्यै दिशश्च्यवन्ते तत्प्राच्यामेवास्यैतद्दिश्याहितौ भवतस्तस्मात्कृत्तिकास्वादधीत - २.१.२.३",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/शतपथब्राह्मणम्/काण्डम्_२/अध्यायः_१/ब्राह्मण_२",
+   "translation_en": "And again, they do not move away from the eastern quarter, whilst the other asterisms do move from the eastern quarter. Thus his (two fires) are established in the eastern quarter: for this reason he may set up his fires under the Krittikas.",
+   "translator": "Julius Eggeling, SBE vol. 12 (1882)",
+   "translation_source_url": "https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm (fetched via https://web.archive.org/web/20210506123309/https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm)"
+  },
+  {
+   "name_devanagari": "अम्बा, दुला, नितत्नी, अभ्रयन्ती, मेघयन्ती, वर्षयन्ती, चुपुणीका",
+   "name_iast": "Ambā, Dulā, Nitatnī, Abhrayantī, Meghayantī, Varṣayantī, Cupuṇīkā",
+   "modern_star": {
+    "common_name": "the seven individual stars of the Pleiades",
+    "bayer": "brightest members: η, 27, 17, 20, 23, 19, 28 Tauri (no secure one-to-one mapping)",
+    "constellation": "Taurus"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "The Taittirīya Brāhmaṇa names seven individual Kṛttikās in the svāhā-calls of the Agni-Kṛttikā offering; several names are rain/cloud words (Abhrayantī 'bringing clouds', Meghayantī 'making clouds', Varṣayantī 'raining'). The group = Pleiades is certain; which Vedic name maps to which star cannot be determined.",
+   "citation": "Taittirīya Brāhmaṇa 3.1.4.1",
+   "shloka_devanagari": "अग्निर्वा अकामयत । अन्नादो देवानाꣳ स्यामिति । स एतमग्नये कृत्तिकाभ्यः पुरोडाशमष्टाकपालं निरवपत् । ततो वै सोऽन्नादो देवानामभवत् । अग्निर्वै देवानामन्नादः । यथा ह वा अग्निर्देवनामन्नादः । एवꣳ ह वा एष मनुष्याणां भवति । य एतेन हविषा यजते । य उ चैनदेवं वेद । सोऽत्र जुहोति । अग्नये स्वाहा कृत्तिकाभ्यः स्वाहा । अम्बायै स्वाहा दुलायै स्वाहा । नितत्न्यै स्वाहाभ्रयन्त्यै स्वाहा । मेघयन्त्यै स्वाहा वर्षयन्त्यै स्वाहा । चुपुणीकायै स्वाहेति १",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/तैत्तिरीयब्राह्मणम्_(विस्वरपाठः)/काण्डः_३/प्रपाठकः_०१",
+   "translation_en": "[Paraphrase] Agni desired: 'May I be the eater of food of the gods.' He offered an eight-potsherd cake to Agni of the Krittikas, and thereby became the food-eater of the gods... He makes offering with: 'To Agni svaha! To the Krittikas svaha! To Amba svaha! To Dula svaha! To Nitatni svaha! To Abhrayanti svaha! To Meghayanti svaha! To Varshayanti svaha! To Cupunika svaha!' No public-domain English translation of the Taittiriya Brahmana exists; rendering above is the researcher's own paraphrase of the Sanskrit. Cf. P.-E. Dumont, 'The Ishtis to the Nakshatras (or Oblations to the Lunar Mansions) of the Taittiriya-Brahmana', Proceedings of the American Philosophical Society 98.3 (1954), pp. 204-223 (copyrighted, not quoted).",
+   "translator": "Researcher's paraphrase (no public-domain translation); cf. P.-E. Dumont (1954)",
+   "translation_source_url": "https://www.jstor.org/stable/i344439 (PAPS 98.3, 1954; copyrighted, cited not quoted)"
+  },
+  {
+   "name_devanagari": "रोहिणी",
+   "name_iast": "Rohiṇī",
+   "modern_star": {
+    "common_name": "Aldebaran",
+    "bayer": "α Tauri",
+    "constellation": "Taurus"
+   },
+   "identification_confidence": "certain",
+   "identification_notes": "'The red one', deity Prajāpati; universally identified with the bright red star Aldebaran. Also TS 4.4.10.1, TB 1.5.1.1, TB 3.1.1.1-2 ('rohiṇī devy udagāt purastāt' - the goddess Rohini has risen in the east), AV 19.7.2, and AB 3.33 where the female deer (rohit) of the Prajāpati myth is Rohiṇī.",
+   "citation": "Śatapatha Brāhmaṇa 2.1.2.6",
+   "shloka_devanagari": "रोहिण्यामग्नी आदधीत । रोहिण्यां ह वै प्रजापतिः प्रजाकामोऽग्नी आदधे स प्रजा असृजत ता अस्य प्रजाः सृष्टा एकरूपा उपस्तब्धास्तस्थू रोहिण्य इवैव तद्वै रोहिण्यै रोहिणीत्वं बहुर्हैव प्रजया पशुभिर्भवति य एवं विद्वान्रोहिण्यामाधत्ते - २.१.२.६",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/शतपथब्राह्मणम्/काण्डम्_२/अध्यायः_१/ब्राह्मण_२",
+   "translation_en": "He may also set up his fires under (the asterism of) Rohini. For under Rohini it was that Pragapati, when desirous of progeny (or creatures), set up his fires. He created beings, and the creatures produced by him remained invariable and constant, like (red) cows (rohini): hence the cow-like nature of Rohini. Rich in cattle and offspring therefore he becomes whosoever, knowing this, sets up his fires under Rohini.",
+   "translator": "Julius Eggeling, SBE vol. 12 (1882)",
+   "translation_source_url": "https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm (fetched via https://web.archive.org/web/20210506123309/https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm)"
+  },
+  {
+   "name_devanagari": "रोहिणी (द्वितीया; = ज्येष्ठा)",
+   "name_iast": "Rohiṇī (second; = Jyeṣṭhā)",
+   "modern_star": {
+    "common_name": "Antares",
+    "bayer": "α Scorpii",
+    "constellation": "Scorpius"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "TS 4.4.10 lists a SECOND Rohini with deity Indra, standing between Anuradha and Vicrtau (= Mula) - i.e. in the position of the later Jyestha. Antares, the other great red star of the zodiacal belt, evidently also bore the name 'the red one'; later lists rename it Jyeṣṭhā (so already TB 1.5.1 and AV 19.7.3).",
+   "citation": "Taittirīya Saṃhitā 4.4.10.2",
+   "shloka_devanagari": "अनूराधा नक्षत्रम् मित्रो देवता रोहिणी नक्षत्रम् इन्द्रो देवता विचृतौ नक्षत्रम् पितरो देवता",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/तैत्तिरीयसंहिता(विस्वरः)/काण्डम्_४/प्रपाठकः_४",
+   "translation_en": "Anruradha the Naksatra, Mitra the deity; Rohini the Naksatra, Indra the deity; the two Viçrts the Naksatra; the fathers the deity.",
+   "translator": "A.B. Keith, The Veda of the Black Yajus School (1914)",
+   "translation_source_url": "https://www.sacred-texts.com/hin/yv/yv04.htm (fetched via https://web.archive.org/web/20210301091213/https://www.sacred-texts.com/hin/yv/yv04.htm)"
+  },
+  {
+   "name_devanagari": "मृगशीर्षम्",
+   "name_iast": "Mṛgaśīrṣa",
+   "modern_star": {
+    "common_name": "Meissa and the head of Orion",
+    "bayer": "λ Orionis (with φ1, φ2 Orionis)",
+    "constellation": "Orion"
+   },
+   "identification_confidence": "certain",
+   "identification_notes": "'The deer's head' = the compact triangle of faint stars forming Orion's head, chief star λ Orionis. The ŚB explicitly makes it 'the head of Prajapati', whose body (Orion) was pierced by the three-jointed arrow (Orion's belt) - see ŚB 2.1.2.9 and AB 3.33. Also TS 4.4.10.1 (deity Soma), AV 19.7.2 (mṛgaśiraḥ), TB 1.5.1.1 (called Invakā).",
+   "citation": "Śatapatha Brāhmaṇa 2.1.2.8-9",
+   "shloka_devanagari": "मृगशीर्षेऽग्नी आदधीत । एतद्वै प्रजापतेः शिरो यन्मृगशीर्षं श्रीर्वै शिरः श्रीर्हि वै शिरस्तस्माद्योऽर्धस्य श्रेष्ठो भवत्यसावमुष्यार्धस्य शिर इत्याहुः श्रियं ह गच्छति य एवं विद्वान्मृगशीर्ष आधत्ते - २.१.२.८ अथ यस्मान्ना मृगशीर्ष आदधीत । प्रजापतेर्वा एतच्छरीरं यत्र वा एनं तदावेध्यंस्तदिषुणा त्रिकाण्डेनेत्याहुः स एतच्छरीरमजहाद्वास्तु वै शरीरमयज्ञियं निर्वीर्यं तस्मान्न मृगशीर्ष आदधीत - २.१.२.९",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/शतपथब्राह्मणम्/काण्डम्_२/अध्यायः_१/ब्राह्मण_२",
+   "translation_en": "He may also set up his fires under (the asterism of) Mrigasirsha. For Mrigasirsha, indeed, is the head of Pragapati; and the head (siras) means excellence (sri)... On the other hand (it is argued) why one should not set up his fire under Mrigasirsha. The latter, indeed, is Pragapati's body. Now, when they (the gods) on that occasion pierced him with what is called 'the three-knotted arrow,' he abandoned that body, for the body is a mere relic (or dwelling, vastu), unholy and sapless. He should therefore not set up his fires under Mrigasirsha.",
+   "translator": "Julius Eggeling, SBE vol. 12 (1882)",
+   "translation_source_url": "https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm (fetched via https://web.archive.org/web/20210506123309/https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm)"
+  },
+  {
+   "name_devanagari": "इन्वकाः (इन्वगाः)",
+   "name_iast": "Invakāḥ (Invagāḥ)",
+   "modern_star": {
+    "common_name": "alternative Taittirīya name of Mṛgaśīrṣa - the stars of Orion's head",
+    "bayer": "λ, φ1, φ2 Orionis",
+    "constellation": "Orion"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "In the Taittirīya tradition Soma's nakshatra is called Invakā where other lists have Mṛgaśīrṣa: TB 1.5.1.1 'somasyenvakā', and TB 3.1.4.3 invokes Mṛgaśīrṣa and the Invakās side by side in the same offering, proving the equation.",
+   "citation": "Taittirīya Brāhmaṇa 1.5.1.1; 3.1.4.3",
+   "shloka_devanagari": "अग्नेः कृत्तिकाः । शुक्रं परस्ताज्ज्योतिरवस्तात् । प्रजापते रोहिणी ।आपः परस्तादोषधयोऽवस्तात् । सोमस्येन्वका । विततानि परस्ताद्वयन्तोऽवस्तात् । रुद्रस्य बाहू ।मृगयवः परस्ताद्विक्षारोऽवस्तात् । अदित्यै पुनर्वसू ।वातः परस्तादार्द्रमवस्तात् १ || सोमो वा अकामयत । ओषधीनाꣳ राज्यमभिजयेयमिति । स एतꣳ सोमाय मृगशीर्षाय श्यामाकं चरुं पयसि निरवपत् । ततो वै स ओषधीनाꣳ राज्यमभ्यजयत् । समानानाꣳ ह वै राज्यमभिजयति । य एतेन हविषा यजते । य उ चैनदेवं वेद । सोऽत्र जुहोति । सोमाय स्वाहा मृगशीर्षाय स्वाहा । इन्वकाभ्यः स्वाहौषधीभ्यः स्वाहा । राज्याय स्वाहाभिजित्यै स्वाहेति ३",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/तैत्तिरीयब्राह्मणम्_(विस्वरपाठः)/काण्डः_१/प्रपाठकः_०५ ; https://sa.wikisource.org/wiki/तैत्तिरीयब्राह्मणम्_(विस्वरपाठः)/काण्डः_३/प्रपाठकः_०१",
+   "translation_en": "[Paraphrase of TB 1.5.1.1] The Krittikas are Agni's; brightness above, light below. Rohini is Prajapati's; the waters above, the plants below. The Invakas are Soma's; things spread out above, the weavers below. The Bahu (the two Arms) are Rudra's; hunters above, ... below. The two Punarvasus are Aditi's; wind above, moisture below. [TB 3.1.4.3] Soma desired: 'May I win the kingship of the plants'; he offered a caru of millet in milk to Soma of Mrgasirsha... 'To Soma svaha! To Mrgasirsha svaha! To the Invakas svaha! To the plants svaha!' No public-domain English translation of the Taittiriya Brahmana exists; rendering above is the researcher's own paraphrase of the Sanskrit. Cf. P.-E. Dumont (1954), copyrighted, not quoted.",
+   "translator": "Researcher's paraphrase (no public-domain translation); cf. P.-E. Dumont (1954)",
+   "translation_source_url": "https://www.jstor.org/stable/i344439 (PAPS 98.3, 1954; copyrighted, cited not quoted)"
+  },
+  {
+   "name_devanagari": "आर्द्रा",
+   "name_iast": "Ārdrā",
+   "modern_star": {
+    "common_name": "Betelgeuse",
+    "bayer": "α Orionis",
+    "constellation": "Orion"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "'The moist one', deity Rudra. Standard identification is Betelgeuse (the bright reddish star adjoining Mṛgaśīrṣa in the ecliptic sequence); a minority of older scholars (e.g. Weber) proposed Sirius because of the Rudra connection. The Taittirīya Brāhmaṇa (1.5.1.1) substitutes the dual name Bāhū 'the two Arms (of Rudra)'. Also AV 19.7.2, TB 3.1.1.3 ('ārdrayā rudraḥ prathamānaḥ eti').",
+   "citation": "Taittirīya Saṃhitā 4.4.10.1",
+   "shloka_devanagari": "मृगशीर्षं नक्षत्रꣳ सोमो देवताऽऽर्द्रा नक्षत्रꣳ रुद्रो देवता",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/तैत्तिरीयसंहिता(विस्वरः)/काण्डम्_४/प्रपाठकः_४",
+   "translation_en": "Mrgaçirsa the Naksatra, Soma the deity; Ardra the Naksatra, Rudra the deity.",
+   "translator": "A.B. Keith, The Veda of the Black Yajus School (1914)",
+   "translation_source_url": "https://www.sacred-texts.com/hin/yv/yv04.htm (fetched via https://web.archive.org/web/20210301091213/https://www.sacred-texts.com/hin/yv/yv04.htm)"
+  },
+  {
+   "name_devanagari": "बाहू (रुद्रस्य)",
+   "name_iast": "Bāhū (Rudrasya)",
+   "modern_star": {
+    "common_name": "'the two Arms' of the deer/Orion: usually taken as Betelgeuse and Bellatrix",
+    "bayer": "α Orionis and γ Orionis",
+    "constellation": "Orion"
+   },
+   "identification_confidence": "disputed",
+   "identification_notes": "TB 1.5.1 gives Rudra's nakshatra as the dual Bāhū 'the two arms' in place of Ārdrā, fitting the picture of the celestial deer (Orion): the two bright shoulder stars Betelgeuse + Bellatrix. Which two stars are meant is not stated in the text; Betelgeuse-Bellatrix is the common scholarly reading, and the mention of 'hunters' (mṛgayavaḥ) alongside is part of the same Orion tableau.",
+   "citation": "Taittirīya Brāhmaṇa 1.5.1.1",
+   "shloka_devanagari": "रुद्रस्य बाहू ।मृगयवः परस्ताद्विक्षारोऽवस्तात्",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/तैत्तिरीयब्राह्मणम्_(विस्वरपाठः)/काण्डः_१/प्रपाठकः_०५",
+   "translation_en": "[Paraphrase] Of Rudra are the two Arms (Bahu); the hunters above, ... below. No public-domain English translation of the Taittiriya Brahmana exists; rendering above is the researcher's own paraphrase of the Sanskrit. Cf. P.-E. Dumont (1954), copyrighted, not quoted.",
+   "translator": "Researcher's paraphrase (no public-domain translation); cf. P.-E. Dumont (1954)",
+   "translation_source_url": "https://www.jstor.org/stable/i344439 (PAPS 98.3, 1954; copyrighted, cited not quoted)"
+  },
+  {
+   "name_devanagari": "तिष्यः",
+   "name_iast": "Tiṣya",
+   "modern_star": {
+    "common_name": "the later Puṣya: the Asellus stars and Praesepe region",
+    "bayer": "γ, δ, θ Cancri (δ Cancri = Asellus Australis nearest the ecliptic), with the Praesepe cluster M44",
+    "constellation": "Cancer"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "Tiṣya, deity Bṛhaspati, is the archaic name that the AV (19.7.2) and all later lists call Puṣya; Whitney's note to AV 19.7 flags this TS/AV name difference explicitly. A faint asterism: identification rests on its fixed position between Punarvasū (Castor/Pollux) and Āśleṣā, hence 'likely' rather than 'certain'. Also TB 3.1.1.5, TB 3.1.4.6 (Bṛhaspati-Tiṣya offering).",
+   "citation": "Taittirīya Saṃhitā 4.4.10.1",
+   "shloka_devanagari": "तिष्यो नक्षत्रम् बृहस्पतिर् देवता",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/तैत्तिरीयसंहिता(विस्वरः)/काण्डम्_४/प्रपाठकः_४",
+   "translation_en": "Tisya the Naksatra, Brhaspati the deity.",
+   "translator": "A.B. Keith, The Veda of the Black Yajus School (1914)",
+   "translation_source_url": "https://www.sacred-texts.com/hin/yv/yv04.htm (fetched via https://web.archive.org/web/20210301091213/https://www.sacred-texts.com/hin/yv/yv04.htm)"
+  },
+  {
+   "name_devanagari": "पुष्यः",
+   "name_iast": "Puṣya",
+   "modern_star": {
+    "common_name": "Asellus Australis / Praesepe region (= Tiṣya)",
+    "bayer": "δ Cancri region (γ, δ, θ Cancri with M44)",
+    "constellation": "Cancer"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "AV nakshatra hymn, verse 2; the AV series begins with the Krittikas (Pleiades) like the TS but comprises 28 asterisms including Abhijit (Vega). Whitney emends the corrupt turmiśaṁ of AV 19.7.1 to aṣṭāviṅśáṁ 'twenty-eight-fold'.",
+   "citation": "Atharvaveda (Śaunaka) 19.7 (nakṣatra hymn, esp. v. 2)",
+   "shloka_devanagari": "चित्राणि साकं दिवि रोचनानि सरीसृपाणि भुवने जवानि । तुर्मिशं सुमतिमिच्छमानो अहानि गीर्भिः सपर्यामि नाकम् ॥१॥ सुहवमग्ने कृत्तिका रोहिणी चास्तु भद्रं मृगशिरः शमार्द्रा । पुनर्वसू सूनृता चारु पुष्यो भानुराश्लेषा अयनं मघा मे ॥२॥ पुण्यं पूर्वा फल्गुन्यौ चात्र हस्तश्चित्रा शिवा स्वाति सुखो मे अस्तु । राधे विशाखे सुहवानुराधा ज्येष्ठा सुनक्षत्रमरिष्ट मूलम् ॥३॥ अन्नं पूर्वा रासतां मे अषाढा ऊर्जं देव्युत्तरा आ वहन्तु । अभिजिन् मे रासतां पुण्यमेव श्रवणः श्रविष्ठाः कुर्वतां सुपुष्टिम् ॥४॥ आ मे महच्छतभिषग्वरीय आ मे द्वया प्रोष्ठपदा सुशर्म । आ रेवती चाश्वयुजौ भगं म आ मे रयिं भरण्य आ वहन्तु ॥५॥",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/अथर्ववेदः/काण्डं_१९/सूक्तम्_००७",
+   "translation_en": "1. Seeking favor of the twenty-eight-fold (?) wondrous ones, shining in the sky together, ever-moving, hasting in the creation (bhuvana), I worship (sapary) with songs the days, the firmament (naka). 2. Easy of invocation for me [be] the Krittikas and Rohini; be Mriga-çiras excellent, [and] Ardra healthful (çam); be the two Punarvasus pleasantness, Pushya what is agreeable, the Açleshas light (bhanu), the Maghas progress (ayana) [for me]. ... 5. Let Çatabhishaj [bring] to me what is great widely; let the double Proshthapadas [bring] to me good protection (suçarman); let Revati and the two Açvayuj [bring] fortune to me; let the Bharanis bring to me wealth.",
+   "translator": "W.D. Whitney, Atharva-Veda Samhita, HOS 8 (1905), p. 907",
+   "translation_source_url": "https://archive.org/details/atharvavedasamhi02whituoft (full text: https://archive.org/download/atharvavedasamhi02whituoft/atharvavedasamhi02whituoft_djvu.txt, pp. 906-909)"
+  },
+  {
+   "name_devanagari": "सप्तर्षयः / ऋक्षाः",
+   "name_iast": "Saptarṣayaḥ / Ṛkṣāḥ",
+   "modern_star": {
+    "common_name": "the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid)",
+    "bayer": "α, β, γ, δ, ε, ζ, η Ursae Majoris",
+    "constellation": "Ursa Major"
+   },
+   "identification_confidence": "certain",
+   "identification_notes": "The ŚB states that the Seven Rishis 'were in former times called the Rkshas (bears)' - preserving the older name ṛkṣāḥ 'bears' (cf. RV 1.24.10) that matches the Greco-Roman Bear, and notes they rise in the north while the Krittikas rise in the east - exactly true of the circumpolar Dipper vs. the equatorial Pleiades. Also shown to the bride in ĀGS 1.7.22.",
+   "citation": "Śatapatha Brāhmaṇa 2.1.2.4",
+   "shloka_devanagari": "अथ यस्मान्न कृत्तिकास्वादधीत । ऋक्षाणां ह वा एता अग्रे पत्न्य आसुः सप्तर्षीनु ह स्म वै पुरर्क्षा इत्याचक्षते ता मिथुनेन व्यार्ध्यन्तामी ह्युत्तरा हि सप्तर्षय उद्यन्ति पुर एता अशमिव वै तद्यो मिथुनेन व्यृद्धः स नेन्मिथुनेन व्यृध्या इति तस्मान्न कृत्तिकास्वादधीत - २.१.२.४",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/शतपथब्राह्मणम्/काण्डम्_२/अध्यायः_१/ब्राह्मण_२",
+   "translation_en": "On the other hand (it is argued) why he should not set up the fires under the Krittikas. Originally, namely, the latter were the wives of the Bears (riksha); for the seven Rishis were in former times called the Rikshas (bears). They were, however, precluded from intercourse (with their husbands), for the latter, the seven Rishis, rise in the north, and they (the Krittikas) in the east. Now it is a misfortune for one to be precluded from intercourse (with his wife): he should therefore not set up his fires under the Krittikas, lest he should thereby be precluded from intercourse.",
+   "translator": "Julius Eggeling, SBE vol. 12 (1882), pp. 282-283",
+   "translation_source_url": "https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm (fetched via https://web.archive.org/web/20210506123309/https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm)"
+  },
+  {
+   "name_devanagari": "ध्रुवः",
+   "name_iast": "Dhruva",
+   "modern_star": {
+    "common_name": "Polaris (the pole star)",
+    "bayer": "α Ursae Minoris",
+    "constellation": "Ursa Minor"
+   },
+   "identification_confidence": "disputed",
+   "identification_notes": "'The fixed one', shown to the bride on the wedding night (dhruva-darśana) as an emblem of constancy. In the historical period Dhruva = Polaris, but scholars note that at plausible dates of the ritual's origin (2nd-1st millennium BCE) no bright star stood at the pole: α Draconis (Thuban) was pole star c. 2800 BCE, and Polaris only closed on the pole in the last ~1500 years. Dhruva may therefore be an idealized 'fixed point' of the sky, an earlier pole star remembered, or a faint near-polar star. Parallel rite with the mantra dhruvám asi: Śāṅkhāyana GS 1.17.2-4, tr. Oldenberg: 'Let them sit silent, when the sun has set, until the polar-star appears. He shows her the polar-star with the words, Firm be thou, thriving with me! Let her say, I see the polar-star; may I obtain offspring' (same source URL).",
+   "citation": "Āśvalāyana Gṛhya Sūtra 1.7.22",
+   "shloka_devanagari": "ध्रुवमरुन्धतीं सप्तऋषीनिति दृष्ट्वा वाचं विसृजेत जीवपत्नीं प्रजां विन्देयेति २२",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/आश्वलायनगृह्यसूत्रम्/अध्यायः_१",
+   "translation_en": "When she sees the polar-star, the star Arundhati, and the seven Rishis (ursa major), let her break the silence (and say), 'May my husband live and I get offspring.'",
+   "translator": "Hermann Oldenberg, SBE vol. 29 (1886)",
+   "translation_source_url": "https://sacred-texts.com/hin/sbe29/sbe29.txt (fetched via https://web.archive.org/web/20080113225826/http://sacred-texts.com/hin/sbe29/sbe29.txt)"
+  },
+  {
+   "name_devanagari": "अरुन्धती",
+   "name_iast": "Arundhatī",
+   "modern_star": {
+    "common_name": "Alcor, the faint companion of Mizar in the Big Dipper's handle",
+    "bayer": "80 Ursae Majoris",
+    "constellation": "Ursa Major"
+   },
+   "identification_confidence": "certain",
+   "identification_notes": "Wife of the rishi Vasiṣṭha (= Mizar, ζ UMa), shown to the bride as the model of conjugal fidelity; the pan-Indian tradition of arundhatī-darśana fixes the identification with Alcor securely.",
+   "citation": "Āśvalāyana Gṛhya Sūtra 1.7.22",
+   "shloka_devanagari": "ध्रुवमरुन्धतीं सप्तऋषीनिति दृष्ट्वा वाचं विसृजेत जीवपत्नीं प्रजां विन्देयेति २२",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/आश्वलायनगृह्यसूत्रम्/अध्यायः_१",
+   "translation_en": "When she sees the polar-star, the star Arundhati, and the seven Rishis (ursa major), let her break the silence (and say), 'May my husband live and I get offspring.'",
+   "translator": "Hermann Oldenberg, SBE vol. 29 (1886)",
+   "translation_source_url": "https://sacred-texts.com/hin/sbe29/sbe29.txt (fetched via https://web.archive.org/web/20080113225826/http://sacred-texts.com/hin/sbe29/sbe29.txt)"
+  },
+  {
+   "name_devanagari": "मृगः (प्रजापतिः)",
+   "name_iast": "Mṛga (Prajāpati)",
+   "modern_star": {
+    "common_name": "the celestial deer = Orion",
+    "bayer": "constellation Orion (head λ Ori; body the Belt region)",
+    "constellation": "Orion"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "The Prajapati-Rudra myth read astronomically: Prajapati, become a deer pursuing his daughter (Rohiṇī, the red doe = Aldebaran), is pierced and 'they call him the deer (mṛga)' in the sky. The astronomical reading (Orion) is standard scholarship since Weber; Keith's own footnote records that 'the astronomical data here given afford Tilak the source of his work Orion.' The text names the asterisms but not the modern stars, hence 'likely'. Cf. ŚB 2.1.2.8-9 where Mṛgaśīrṣa is the pierced Prajapati's head/body.",
+   "citation": "Aitareya Brāhmaṇa 3.33",
+   "shloka_devanagari": "प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्यन्ये तामृश्यो भूत्वा रोहितं भूतामभ्यैत् ... तमभ्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकाण्डा सो एवेषुस्त्रिकाण्डा।",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/ऐतरेय_ब्राह्मणम्/पञ्चिका_३_(तृतीय_पञ्चिका)",
+   "translation_en": "Prajapati felt love towards his own daughter, the sky some say, Usas others. Having become a stag he approached her in the form of a deer. ... Having aimed at him he pierced him; being pierced he flew upwards; him they call 'the deer'. The piercer of the deer is he of that name. The female deer is Rohini; the three-pointed arrow is the three-pointed arrow.",
+   "translator": "A.B. Keith, Rigveda Brahmanas, HOS 25 (1920), pp. 185-186",
+   "translation_source_url": "https://archive.org/details/rigvedabrahmana00keitgoog (full text: https://archive.org/download/rigvedabrahmana00keitgoog/rigvedabrahmana00keitgoog_djvu.txt, pp. 185-186)"
+  },
+  {
+   "name_devanagari": "मृगव्याधः",
+   "name_iast": "Mṛgavyādha",
+   "modern_star": {
+    "common_name": "Sirius, 'the deer-piercer' (the hunter of the Orion tableau; = later Lubdhaka)",
+    "bayer": "α Canis Majoris",
+    "constellation": "Canis Major"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "The piercer is the dread archer-god (Rudra/Bhūtapati). Identification with Sirius - the brilliant star 'aiming' along the line of Orion's belt - is the standard scholarly and later Indian tradition (Sirius = Lubdhaka 'the hunter' in classical astronomy); the AB itself does not name the star, hence 'likely'.",
+   "citation": "Aitareya Brāhmaṇa 3.33",
+   "shloka_devanagari": "तमभ्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकाण्डा सो एवेषुस्त्रिकाण्डा।",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/ऐतरेय_ब्राह्मणम्/पञ्चिका_३_(तृतीय_पञ्चिका)",
+   "translation_en": "Having aimed at him he pierced him; being pierced he flew upwards; him they call 'the deer'. The piercer of the deer is he of that name. The female deer is Rohini; the three-pointed arrow is the three-pointed arrow.",
+   "translator": "A.B. Keith, Rigveda Brahmanas, HOS 25 (1920), pp. 185-186",
+   "translation_source_url": "https://archive.org/details/rigvedabrahmana00keitgoog (full text: https://archive.org/download/rigvedabrahmana00keitgoog/rigvedabrahmana00keitgoog_djvu.txt, pp. 185-186)"
+  },
+  {
+   "name_devanagari": "इषुस्त्रिकाण्डा",
+   "name_iast": "Iṣus trikāṇḍā",
+   "modern_star": {
+    "common_name": "Orion's Belt - Mintaka, Alnilam, Alnitak - as the 'three-jointed arrow'",
+    "bayer": "δ, ε, ζ Orionis",
+    "constellation": "Orion"
+   },
+   "identification_confidence": "likely",
+   "identification_notes": "The 'three-parted arrow' shot at Prajapati; the three aligned Belt stars piercing the deer's body. The same arrow appears in ŚB 2.1.2.9 ('iṣuṇā trikāṇḍena' - Eggeling: 'the three-knotted arrow') as the reason Prajapati abandoned the body that is Mṛgaśīrṣa's vicinity. Standard astronomical reading (Weber, Tilak); the text does not name the stars.",
+   "citation": "Aitareya Brāhmaṇa 3.33; cf. Śatapatha Brāhmaṇa 2.1.2.9",
+   "shloka_devanagari": "तमभ्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकाण्डा सो एवेषुस्त्रिकाण्डा।",
+   "shloka_source_url": "https://sa.wikisource.org/wiki/ऐतरेय_ब्राह्मणम्/पञ्चिका_३_(तृतीय_पञ्चिका)",
+   "translation_en": "The female deer is Rohini; the three-pointed arrow is the three-pointed arrow. [ŚB 2.1.2.9, tr. Eggeling: 'when they (the gods) on that occasion pierced him with what is called the three-knotted arrow, he abandoned that body'.]",
+   "translator": "A.B. Keith, Rigveda Brahmanas, HOS 25 (1920); Julius Eggeling, SBE 12 (1882)",
+   "translation_source_url": "https://archive.org/details/rigvedabrahmana00keitgoog (full text: https://archive.org/download/rigvedabrahmana00keitgoog/rigvedabrahmana00keitgoog_djvu.txt, pp. 185-186) ; https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm (fetched via https://web.archive.org/web/20210506123309/https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm)"
+  }
+ ],
+ "caveats": [
+  "Sanskrit passages are copied verbatim from the Sanskrit Wikisource e-texts listed in shloka_source_url (fetched 2026-07-24 via the MediaWiki raw API); only wiki markup and editor footnote tags were removed and whitespace collapsed. The e-texts carry their own quirks preserved here, e.g. the anusvara sign ꣳ and inconsistent danda spacing.",
+  "AV 19.7.1 as transmitted reads 'turmiśaṁ', a corrupt word; Whitney emends to aṣṭāviṅśáṁ 'twenty-eight-fold'. The Wikisource text prints the transmitted reading.",
+  "Translations quoted are public domain: A.B. Keith 1914 (TS), Julius Eggeling 1882 (ŚB, SBE 12), Hermann Oldenberg 1886 (ĀGS, SBE 29), W.D. Whitney 1905 (AV, HOS 8), A.B. Keith 1920 (AB, HOS 25). sacred-texts.com blocks automated fetching, so its pages were retrieved through Wayback Machine snapshots given in translation_source_url; Whitney and Keith 1920 were taken from archive.org scans. OCR artifacts and italic-markup splits were normalized without changing wording; diacritics are simplified.",
+  "No complete public-domain English translation of the Taittirīya Brāhmaṇa exists. TB 1.5.1 and 3.1.x renderings here are the researcher's own paraphrases of the Sanskrit, with reference to P.-E. Dumont, 'The Ishtis to the Nakshatras of the Taittiriya-Brahmana', PAPS 98.3 (1954), pp. 204-223 (copyrighted, cited but not quoted). TB 3.1.1-2 contains full nakshatra mantras with presiding deities matching TS 4.4.10.",
+  "Nakshatras are asterisms (star groups); the single 'junction star' (yogatārā) equations used in the modern_star fields come from later siddhantic astronomy and modern scholarship, not from the Vedic texts themselves, which never cite coordinates. Identifications are secure for bright unmistakable groups (Pleiades, Aldebaran, Big Dipper, Alcor), and inferential for faint ones (Tishya/Pushya) and for the Orion-Sirius reading of AB 3.33 (accepted since Weber and Tilak's 'Orion', noted in Keith's footnote, but the text names no stars).",
+  "TS 4.4.10 contains two Rohinis: the Prajapati-Rohini (Aldebaran) and a second Indra-Rohini in the position of later Jyeshtha (Antares); TS also shows archaic names Tisya (= later Pushya), Vicrtau (= later Mula), Apabharani, and Srona (= later Sravana). TB 1.5.1 adds Invaka (= Mrgasirsha), Bahu (= Ardra) and Nishtya (= Svati). The AV 19.7 list has 28 nakshatras (including Abhijit = Vega); the TS list 27 with some names doubled.",
+  "The Krittika east-rising statement (ŚB 2.1.2.3) and the Dhruva pole-star problem are both entangled in contested chronology: the Pleiades sat on the celestial equator c. 3000-2500 BCE (Dikshit's dating argument), and no bright pole star existed c. 1500 BCE (Thuban served c. 2800 BCE; Polaris only in recent centuries). Both facts are reported here descriptively; the entries take no position on text dating.",
+  "ĀGS 1.7.22 numbering follows the Wikisource e-text and Oldenberg (Adhyaya 1, Kandika 7, sutra 22); the mantra 'dhruvam asi' cited in some secondary literature for the dhruva-darshana belongs to the parallel rite in other Grhya texts (e.g. Śāṅkhāyana GS 1.17.3, quoted under the Dhruva entry from the same Oldenberg volume)."
+ ]
+}
