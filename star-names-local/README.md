@@ -6,7 +6,7 @@ What speakers of the different Indian languages call a star, an asterism or a co
 
 > **This file is generated — do not edit it.** The originals are the per-language-group research files in [`sources/`](sources/). See [`FORMAT.md`](FORMAT.md) for the schema and the editorial rules.
 
-**522 names** across **26 languages** for **45 sky objects**. 341 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
+**522 names** across **26 languages** for **46 sky objects**. 341 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
 
 **Register.** Every name is tagged by register. That is the point of the database rather than a detail: most Indian languages inherited the 27 Sanskrit nakshatra names and adapted them phonologically, and a table of those adaptations would be large and nearly uninformative. The tags separate that borrowed layer from names the languages made themselves. **vernacular** — formed in the language itself, not a Sanskrit loan; **folk** — rural or colloquial usage, from a dictionary's own usage note or from ethnography; **tribal** — from a distinct Adivasi tradition; **sanskritic** — the Sanskrit name in this language's script and phonology.
 
@@ -45,7 +45,7 @@ Of 522 names, **369 are not Sanskrit** — 177 vernacular, 101 folk, 91 tribal, 
 | [Meteors and shooting stars](#meteors-and-shooting-stars) | 15 | 20 | `tara` |
 | ['Star' as a word](#star-as-a-word) | 12 | 21 | `tara` |
 | [Venus](#venus) | 12 | 15 | `tara` |
-| [Ursa Minor](#ursa-minor) | 11 | 20 | `dhruva` |
+| [The pole star](#the-pole-star) | 11 | 17 | `dhruva` |
 | [Canopus](#canopus) | 11 | 14 | `agastya` |
 | [The lunar mansions as a system](#the-lunar-mansions-as-a-system) | 10 | 60 | `nakshatra-generic` |
 | [Figures with no secure modern identification](#figures-with-no-secure-modern-identification) | 10 | 13 | — |
@@ -62,6 +62,7 @@ Of 522 names, **369 are not Sanskrit** — 177 vernacular, 101 folk, 91 tribal, 
 | [The Moon](#the-moon) | 3 | 3 | — |
 | [The Sun](#the-sun) | 3 | 3 | `uttara-phalguni` |
 | [The zodiac](#the-zodiac) | 3 | 3 | — |
+| [Ursa Minor](#ursa-minor) | 3 | 3 | `rksha` |
 | [Spica](#spica) | 2 | 4 | `chitra` |
 | [Capella](#capella) | 2 | 3 | `brahmahridaya` |
 | ['Sky' as a word](#sky-as-a-word) | 2 | 2 | `tarapatha` |
@@ -2947,17 +2948,15 @@ In the Hasada country and the Karra police subdivision their close conjunction i
 
 <sub>Flagged sanskritic on Hoffmann's own analysis. He notes that Sukrani exists in no Hindu system: for the Mundas she is whatever bright star or planet happens to sit near Venus in a given year. This is the only astrology Hoffmann found in the whole of Munda sky-lore, and he is emphatic that the Munda 'neither knows, nor cares to know, what a horoscope is'.</sub>
 
-## Ursa Minor
+## The pole star
 
-**Modern:** Ursa Minor · α–η Ursae Minoris · Ursa Minor  
+**Modern:** Polaris (the pole star) · α Ursae Minoris · Ursa Minor  
 **Sanskrit database:** `dhruva` — Dhruva (Polaris (the pole star)) ([entry](../star-names/star-names.json))  
 **Named in 11 languages:** Bengali, Gondi, Hindi, Kannada, Malayalam, Marathi, Odia, Sinhala, Tamil, Telugu, Urdu
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Marathi | ध्रुवमत्स्य | *dhruvamatsya* | the pole-fish | vernacular |
 | Marathi | मेढ | *mēḍha* | a forked stake used as a post | vernacular |
-| Urdu | فرقدان | *farqadān* | 'the two calves' (dual of farqad 'a calf') | vernacular |
 | Urdu | جدي | *jadī* | 'the kid, the young he-goat' | vernacular |
 | Urdu | قطبي | *quṭbī tārā* | 'the polar star' | vernacular |
 | Kannada | ಧ್ರುವಪಾಶ | *dhruvapāśa* | the pole-star rope | folk |
@@ -2968,7 +2967,6 @@ In the Hasada country and the Karra police subdivision their close conjunction i
 | Kannada | ಔತ್ತಾನಪಾದಿ | *auttānapādi* | son of Uttānapāda | sanskritic |
 | Kannada | ಧ್ರುವ | *dhruva* | fixed, immovable | sanskritic |
 | Malayalam | ധ്രുവം / ധ്രുവന്‍ | *dhruvam / dhruvan* | 'the fixed one' | sanskritic |
-| Malayalam | ഋക്ഷം | *ṛkṣam* | 'bear' | sanskritic |
 | Marathi | ध्रुव | *dhruva* | fixed, immovable | sanskritic |
 | Marathi | धुरु | *dhuru* | — | sanskritic |
 | Odia | ସୌମ୍ୟ ଧ୍ରୁବ / ଯାମ୍ୟ ଧ୍ରୁବ | *Sa̲u̲mya dhruba / J̄āmya dhruba* | 'the northern Dhruva' and 'the southern (Yama's) Dhruva' | sanskritic |
@@ -2976,28 +2974,12 @@ In the Hasada country and the Karra police subdivision their close conjunction i
 | Tamil | துருவம் | *turuvam* | — | sanskritic |
 | Telugu | ధ్రువనక్షత్రము | *dhruva-nakṣatramu* | the fixed star | sanskritic |
 
-**ध्रुवमत्स्य · dhruvamatsya** — Marathi (Maharashtra) · *vernacular* · confidence: likely
-
-> ॰मत्स्य -पु. (ज्यो.) लघुऋक्ष किंवा लघुऋक्षांतील दोन मुख्य तार्‍यांपैकीं एक. दुसरा मुख्य तारा ध्रुव होय.
-> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. ध्रुव (compound ॰मत्स्य), p. 1770 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact))
-
-<sub>A 20th-century Marathi constellation vocabulary rather than village usage: Date's own supporting quotation is from a teacher-training manual listing ध्रुवमत्स्य beside सप्तर्षि, नरतुरंगम ('man-horse' = Sagittarius) and ययाति as figures to teach children. Register 'vernacular' in the sense of Marathi-formed, but the milieu is the modern classroom, not folk tradition. Date is also internally unsure whether the word names Ursa Minor as a whole or one of its two bright stars.</sub>
-
 **मेढ · mēḍha** — Marathi (Maharashtra) · *vernacular* · confidence: certain
 
 > मेढ mēḍha f A forked stake. Used as a post. Hence a short post generally whether forked or not. Pr. हातीं लागली चेड आणि धर मांडवाची मेढ. 2 The polar star.
 > <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. मेढ, p. 664 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AE%E0%A5%87%E0%A4%A2&searchhws=yes&matchtype=exact))
 
 <sub>The best vernacular find for the pole star: an ordinary farmyard word — the forked post that holds up a booth — used for Polaris, the peg the sky is pinned to. It answers the Sanskrit मेढी 'threshing-post' as an image of the pole, but मेढ is the live Marathi noun and Molesworth marks it with no S. Corroborated independently by Vaze (1911), p. 464: 'मेढ mēḍha f A forked stake. The polar star.'</sub>
-
-**فرقدان · farqadān** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
-
-The Arabic al-farqadān, the pair that circles close to the pole. Shakespear (1834, p. 1258) muddles them as 'Two stars near the pole, the greater and lesser bears'; Platts has the identification right.
-
-> A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.
-> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. farqadān, p. 779 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779))
-
-<sub>Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'.</sub>
 
 **جدي · jadī** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
 
@@ -3082,15 +3064,6 @@ Also ಧ್ರುವನಕ್ಷತ್ರ dhruva-nakṣatra, same page.
 > <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ധ്രുവം dhruvam, p. 523 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=523))
 
 <sub>Purely Sanskrit; Gundert records no Dravidian pole-star name for Malayalam. (Thurston, Castes and Tribes of Southern India, vol. I p. 108, records a Dravidian one for the Nilgiri Badagas — 'Aranjoti (the pole-star)', shown to the couple at a wedding — but Badaga is outside this compilation.) The astrological gloss ജലജോയം is obscure.</sub>
-
-**ഋക്ഷം · ṛkṣam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: disputed
-
-Used in the compound ജന്മര്‍ക്ഷദിനം 'the day of one's birth-asterism'.
-
-> ഋക്ഷം r̥kṣam ṛkšam S. (G. 'rktos) 1. Bear, Ursa minor. 2. constellation in general ജന്മര്‍ക്ഷദി നം Bhg.
-> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഋക്ഷം ṛkṣam, p. 153 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%8B%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%82&searchhws=yes&matchtype=exact))
-
-<sub>Gundert glosses the Bear as Ursa MINOR, where Sanskrit ṛkṣāḥ is standardly Ursa Major (the Saptarṣis) — as Gundert himself has it under സപ്തം. The discrepancy is his, not the language's; flagged disputed. Sense 2, 'constellation in general', is the ordinary Malayalam usage.</sub>
 
 **ध्रुव · dhruva** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
 
@@ -4875,6 +4848,43 @@ A technical term of Kerala astronomy: ഭഗണം also means a complete revolut
 > <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഭഗണം bhagaṇam, p. 756 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AD%E0%B4%97%E0%B4%A3%E0%B4%82&searchhws=yes&matchtype=exact))
 
 <sub>Gundert's citation 'Gan.' is a Malayalam mathematical/astronomical work — direct lexical evidence that the technical vocabulary of the Kerala school passed into the general language. Note also ഭഗണന്‍ 'an astrologer' in the same entry.</sub>
+
+## Ursa Minor
+
+**Modern:** Ursa Minor · α–η Ursae Minoris · Ursa Minor  
+**Sanskrit database:** `rksha` — Ṛkṣāḥ (Ursa Major (the Seven Ṛṣis / Big Dipper)) ([entry](../star-names/star-names.json))  
+**Named in 3 languages:** Malayalam, Marathi, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | ध्रुवमत्स्य | *dhruvamatsya* | the pole-fish | vernacular |
+| Urdu | فرقدان | *farqadān* | 'the two calves' (dual of farqad 'a calf') | vernacular |
+| Malayalam | ഋക്ഷം | *ṛkṣam* | 'bear' | sanskritic |
+
+**ध्रुवमत्स्य · dhruvamatsya** — Marathi (Maharashtra) · *vernacular* · confidence: likely
+
+> ॰मत्स्य -पु. (ज्यो.) लघुऋक्ष किंवा लघुऋक्षांतील दोन मुख्य तार्‍यांपैकीं एक. दुसरा मुख्य तारा ध्रुव होय.
+> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. ध्रुव (compound ॰मत्स्य), p. 1770 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact))
+
+<sub>A 20th-century Marathi constellation vocabulary rather than village usage: Date's own supporting quotation is from a teacher-training manual listing ध्रुवमत्स्य beside सप्तर्षि, नरतुरंगम ('man-horse' = Sagittarius) and ययाति as figures to teach children. Register 'vernacular' in the sense of Marathi-formed, but the milieu is the modern classroom, not folk tradition. Date is also internally unsure whether the word names Ursa Minor as a whole or one of its two bright stars.</sub>
+
+**فرقدان · farqadān** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+The Arabic al-farqadān, the pair that circles close to the pole. Shakespear (1834, p. 1258) muddles them as 'Two stars near the pole, the greater and lesser bears'; Platts has the identification right.
+
+> A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. farqadān, p. 779 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779))
+
+<sub>Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'.</sub>
+
+**ഋക്ഷം · ṛkṣam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: disputed
+
+Used in the compound ജന്മര്‍ക്ഷദിനം 'the day of one's birth-asterism'.
+
+> ഋക്ഷം r̥kṣam ṛkšam S. (G. 'rktos) 1. Bear, Ursa minor. 2. constellation in general ജന്മര്‍ക്ഷദി നം Bhg.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഋക്ഷം ṛkṣam, p. 153 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%8B%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Gundert glosses the Bear as Ursa MINOR, where Sanskrit ṛkṣāḥ is standardly Ursa Major (the Saptarṣis) — as Gundert himself has it under സപ്തം. The discrepancy is his, not the language's; flagged disputed. Sense 2, 'constellation in general', is the ordinary Malayalam usage.</sub>
 
 ## Spica
 

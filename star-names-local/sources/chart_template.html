@@ -1,0 +1,433 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Star Names in the Languages of India — Sky Chart</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0a0f1e; --panel: #121a30; --panel-t: rgba(16, 23, 43, 0.88);
+    --ink: #e9eef8; --ink-2: #9aa6c0; --ink-3: #5d6a88;
+    --line: #232f4d; --grid: #1b2540; --grid-strong: #263454;
+    /* validated dark-surface categorical palette: all six checks pass on #0a0f1e */
+    --c-star: #c98500; --c-cluster: #3987e5; --c-figure: #d55181; --c-diffuse: #008300;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --indic: "Noto Sans Devanagari", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Kannada",
+             "Noto Sans Malayalam", "Noto Sans Bengali", "Noto Sans Gujarati", "Noto Sans Oriya",
+             "Noto Sans Gurmukhi", "Noto Sans Sinhala", "Noto Nastaliq Urdu", var(--sans);
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { height: 100%; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--sans); overflow: hidden; }
+  #app { position: fixed; inset: 0; }
+  #sky { position: absolute; inset: 0; width: 100%; height: 100%; display: block; cursor: crosshair; }
+
+  #hud {
+    position: absolute; top: 14px; left: 16px; z-index: 20;
+    max-width: min(470px, calc(100vw - 32px));
+    background: var(--panel-t); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+    border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px 10px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.45);
+  }
+  #hud h1 { font-family: var(--serif); font-weight: 600; font-size: 17px; letter-spacing: .02em; text-wrap: balance; }
+  #hud .sub { color: var(--ink-2); font-size: 11.5px; margin-top: 3px; line-height: 1.45; }
+  .row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 9px; align-items: center; }
+  .rowlab { font-size: 10px; letter-spacing: .07em; text-transform: uppercase; color: var(--ink-3); margin-right: 2px; }
+  .chip {
+    display: inline-flex; align-items: center; gap: 6px; font-size: 11px; color: var(--ink-2);
+    background: transparent; border: 1px solid var(--line); border-radius: 999px;
+    padding: 3.5px 10px 3.5px 7px; cursor: pointer; font-family: var(--sans);
+    transition: border-color 120ms, color 120ms, opacity 120ms;
+  }
+  .chip:hover { border-color: var(--ink-3); color: var(--ink); }
+  .chip:focus-visible, button:focus-visible, select:focus-visible, .marker:focus-visible {
+    outline: 2px solid var(--c-cluster); outline-offset: 2px;
+  }
+  .chip .dot { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+  .chip .dot.sq { border-radius: 2px; transform: rotate(45deg) scale(.92); }
+  .chip.off { opacity: .38; }
+  .chip.off .dot { background: var(--ink-3) !important; }
+  .chip .n { color: var(--ink-3); font-variant-numeric: tabular-nums; }
+  .chip.active { border-color: var(--ink-2); color: var(--ink); }
+  select {
+    background: var(--panel); color: var(--ink); border: 1px solid var(--line);
+    border-radius: 999px; padding: 4px 9px; font-size: 11px; font-family: var(--sans); cursor: pointer;
+  }
+
+  #tooltip {
+    position: absolute; z-index: 30; pointer-events: none; background: var(--panel-t);
+    -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+    border: 1px solid var(--line); border-radius: 8px; padding: 8px 11px; max-width: 280px;
+    opacity: 0; transition: opacity 90ms; box-shadow: 0 6px 22px rgba(0,0,0,.5);
+  }
+  #tooltip.show { opacity: 1; }
+  #tooltip .tt { font-family: var(--serif); font-size: 14px; }
+  #tooltip .tn { color: var(--ink-2); font-size: 11.5px; margin-top: 3px; }
+  #tooltip .tx { font-family: var(--indic); font-size: 13px; margin-top: 4px; line-height: 1.5; }
+
+  #drawer {
+    position: absolute; top: 0; right: 0; bottom: 0; z-index: 40; width: min(460px, 100vw);
+    background: var(--panel); border-left: 1px solid var(--line);
+    transform: translateX(102%); transition: transform 200ms ease;
+    display: flex; flex-direction: column; box-shadow: -12px 0 40px rgba(0,0,0,.5);
+  }
+  #drawer.open { transform: translateX(0); }
+  @media (prefers-reduced-motion: reduce) { #drawer, #tooltip { transition: none; } }
+  #drawer header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 16px; border-bottom: 1px solid var(--line); flex: none;
+  }
+  #drawer header .htitle { font-family: var(--serif); font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); }
+  #drawer header button { background: none; border: 1px solid var(--line); color: var(--ink-2); border-radius: 6px; width: 26px; height: 26px; cursor: pointer; }
+  #drawer header button:hover { color: var(--ink); border-color: var(--ink-3); }
+  #drawer .body { overflow-y: auto; padding: 4px 16px 28px; }
+
+  .objhead { padding: 14px 0 6px; }
+  .objhead h2 { font-family: var(--serif); font-size: 21px; font-weight: 600; }
+  .objhead .mod { color: var(--ink-2); font-size: 12.5px; margin-top: 4px; }
+  .objhead .cnt { color: var(--ink-3); font-size: 11.5px; margin-top: 6px; }
+  .nm { padding: 12px 0; border-top: 1px solid var(--line); }
+  .nm .lang { font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-3); }
+  .nm .native { font-family: var(--indic); font-size: 21px; line-height: 1.4; margin-top: 2px; }
+  .nm .roman { font-style: italic; font-size: 14px; color: var(--ink); margin-top: 1px; }
+  .nm .lit { font-size: 12.5px; color: var(--ink-2); margin-top: 4px; }
+  .nm .use { font-size: 12px; color: var(--ink-2); margin-top: 5px; line-height: 1.55; }
+  .badges { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 7px; }
+  .badge { font-size: 10px; letter-spacing: .05em; text-transform: uppercase; border-radius: 4px; padding: 2px 6px; border: 1px solid var(--line); color: var(--ink-2); }
+  .badge.reg-vernacular { border-color: #3987e5; color: #8fc0f5; }
+  .badge.reg-folk { border-color: #c98500; color: #e5b45c; }
+  .badge.reg-tribal { border-color: #d55181; color: #eaa0bd; }
+  .badge.reg-sanskritic { border-color: var(--line); }
+  .badge.conf-disputed { border-style: dashed; }
+  .badge.conf-unidentified { border-style: dotted; opacity: .8; }
+  .q { font-size: 12px; line-height: 1.6; color: var(--ink-2); border-left: 2px solid var(--line); padding: 4px 0 4px 10px; margin-top: 8px; font-family: var(--indic); }
+  .cite { font-size: 11px; color: var(--ink-3); margin-top: 4px; }
+  .cite a { color: var(--c-cluster); text-decoration: none; }
+  .cite a:hover { text-decoration: underline; }
+  .nq { font-size: 11.5px; color: var(--ink-3); font-style: italic; margin-top: 8px; }
+  .notes { font-size: 11px; color: var(--ink-3); line-height: 1.5; margin-top: 6px; }
+
+  .ix-row { display: flex; align-items: baseline; gap: 8px; width: 100%; text-align: left;
+    background: none; border: none; cursor: pointer; padding: 6px 4px; border-radius: 6px;
+    font-family: var(--sans); color: var(--ink); }
+  .ix-row:hover { background: rgba(255,255,255,.05); }
+  .ix-row .im { color: var(--ink-3); font-size: 11.5px; margin-left: auto; }
+  .ix-h { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); margin-top: 16px; }
+  .about p { font-size: 12.5px; color: var(--ink-2); line-height: 1.65; margin-top: 10px; }
+  .about p b { color: var(--ink); }
+
+  #credits { position: absolute; right: 16px; bottom: 6px; z-index: 10; font-size: 10px;
+    color: var(--ink-3); text-align: right; pointer-events: none; line-height: 1.4; }
+  .axis-lab { fill: var(--ink-3); font-size: 10.5px; font-family: var(--sans); font-variant-numeric: tabular-nums; }
+  .obj-lab { font-family: var(--sans); font-size: 11px; paint-order: stroke; stroke: var(--bg);
+    stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
+  .marker { cursor: pointer; }
+
+  @media (max-width: 700px) {
+    #hud { max-width: calc(100vw - 24px); left: 12px; top: 10px; padding: 9px 10px 7px; }
+    #hud .sub, #credits { display: none; }
+    #hud h1 { font-size: 15px; }
+    .row { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+    .row::-webkit-scrollbar { display: none; }
+    .row .chip { flex: 0 0 auto; }
+  }
+</style>
+
+<div id="app">
+  <svg id="sky" role="img" aria-label="Sky chart of Indian-language star names on a rectangular right-ascension / declination grid"></svg>
+  <header id="hud">
+    <h1>What India's languages call the stars</h1>
+    <div class="sub" id="subline"></div>
+    <div class="row" id="legend" role="group" aria-label="Object kind"></div>
+    <div class="row" id="registers" role="group" aria-label="Register filter"></div>
+    <div class="row">
+      <span class="rowlab">Language</span>
+      <select id="langsel" aria-label="Filter by language"></select>
+      <button class="chip" id="btn-index">Index</button>
+      <button class="chip" id="btn-about">About</button>
+    </div>
+  </header>
+  <div id="tooltip" role="status"></div>
+  <aside id="drawer" aria-hidden="true">
+    <header><span class="htitle" id="drawer-title">Names</span><button id="drawer-close" aria-label="Close panel">✕</button></header>
+    <div class="body" id="drawer-body"></div>
+  </aside>
+  <footer id="credits">
+    J2000 equirectangular RA/Dec · marker area ∝ number of languages naming the object<br>
+    Sources: Digital Dictionaries of South Asia &amp; archive.org · 19th-century lexicography and ethnography
+  </footer>
+</div>
+
+<script>
+"use strict";
+const DB = __DATA__;
+
+const KIND = {
+  star:    { label: "Single star",      color: "var(--c-star)",    hex: "#c98500", shape: "circle" },
+  cluster: { label: "Cluster",          color: "var(--c-cluster)", hex: "#3987e5", shape: "circle" },
+  figure:  { label: "Figure / group",   color: "var(--c-figure)",  hex: "#d55181", shape: "square" },
+  diffuse: { label: "Milky Way",        color: "var(--c-diffuse)", hex: "#008300", shape: "circle" },
+};
+const REGISTERS = ["vernacular", "folk", "tribal", "sanskritic"];
+const REG_HEX = { vernacular: "#3987e5", folk: "#c98500", tribal: "#d55181", sanskritic: "#8a93a8" };
+
+const svgNS = "http://www.w3.org/2000/svg";
+const svg = document.getElementById("sky");
+const tip = document.getElementById("tooltip");
+const drawer = document.getElementById("drawer");
+const drawerBody = document.getElementById("drawer-body");
+const drawerTitle = document.getElementById("drawer-title");
+
+const state = {
+  kind: { star: true, cluster: true, figure: true, diffuse: true },
+  reg: { vernacular: true, folk: true, tribal: true, sanskritic: true },
+  lang: "",  // "" = all
+};
+
+const MARGIN = { top: 34, right: 26, bottom: 62, left: 46 };
+let PW = 0, PH = 0;
+const xOf = ra => MARGIN.left + ((360 - ra) / 360) * PW;
+const yOf = dec => MARGIN.top + (90 - dec) / 180 * PH;
+
+// J2000 galactic -> equatorial, for the Milky Way band.
+const NGP_RA = 192.85948 * Math.PI / 180, NGP_DEC = 27.12825 * Math.PI / 180, L_NCP = 122.93192 * Math.PI / 180;
+function galToEq(lDeg, bDeg) {
+  const l = lDeg * Math.PI / 180, b = bDeg * Math.PI / 180;
+  const sd = Math.sin(NGP_DEC) * Math.sin(b) + Math.cos(NGP_DEC) * Math.cos(b) * Math.cos(L_NCP - l);
+  const dec = Math.asin(Math.max(-1, Math.min(1, sd)));
+  const y = Math.cos(b) * Math.sin(L_NCP - l);
+  const x = Math.cos(NGP_DEC) * Math.sin(b) - Math.sin(NGP_DEC) * Math.cos(b) * Math.cos(L_NCP - l);
+  let ra = NGP_RA + Math.atan2(y, x);
+  ra = ((ra * 180 / Math.PI) % 360 + 360) % 360;
+  return [ra, dec * 180 / Math.PI];
+}
+/** Lift the pen where a path crosses the RA seam, so nothing streaks across the chart. */
+function wrapPath(pts) {
+  let d = "", prev = null;
+  for (const [ra, dec] of pts) {
+    const x = xOf(ra), y = yOf(dec);
+    if (prev !== null && Math.abs(ra - prev) > 180) d += ` M ${x.toFixed(1)} ${y.toFixed(1)}`;
+    else d += (d ? " L" : "M") + ` ${x.toFixed(1)} ${y.toFixed(1)}`;
+    prev = ra;
+  }
+  return d;
+}
+
+/** Names of an object surviving the current register + language filter. */
+function visibleNames(o) {
+  return o.names.filter(n => state.reg[n.register] && (!state.lang || n.language === state.lang));
+}
+function visibleLangCount(o) {
+  return new Set(visibleNames(o).map(n => n.language)).size;
+}
+
+function el(tag, attrs) {
+  const e = document.createElementNS(svgNS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  return e;
+}
+const esc = s => String(s == null ? "" : s);
+
+function draw() {
+  const W = svg.clientWidth || window.innerWidth, H = svg.clientHeight || window.innerHeight;
+  PW = W - MARGIN.left - MARGIN.right;
+  PH = H - MARGIN.top - MARGIN.bottom;
+  while (svg.firstChild) svg.removeChild(svg.firstChild);
+  if (PW <= 0 || PH <= 0) return;
+
+  const gGrid = el("g", {}), gBand = el("g", {}), gMark = el("g", {}), gLab = el("g", {});
+
+  // grid
+  for (let ra = 0; ra <= 360; ra += 30) {
+    const x = xOf(ra);
+    gGrid.appendChild(el("line", { x1: x, y1: MARGIN.top, x2: x, y2: MARGIN.top + PH,
+      stroke: ra % 90 === 0 ? "var(--grid-strong)" : "var(--grid)", "stroke-width": 1 }));
+    const t = el("text", { x, y: MARGIN.top + PH + 16, "text-anchor": "middle", class: "axis-lab" });
+    t.textContent = (ra / 15) % 24 + "h";
+    gGrid.appendChild(t);
+  }
+  for (let dec = -90; dec <= 90; dec += 30) {
+    const y = yOf(dec);
+    gGrid.appendChild(el("line", { x1: MARGIN.left, y1: y, x2: MARGIN.left + PW, y2: y,
+      stroke: dec === 0 ? "var(--grid-strong)" : "var(--grid)", "stroke-width": 1 }));
+    const t = el("text", { x: MARGIN.left - 8, y: y + 3.5, "text-anchor": "end", class: "axis-lab" });
+    t.textContent = (dec > 0 ? "+" : "") + dec + "°";
+    gGrid.appendChild(t);
+  }
+
+  // Milky Way band, if its object survives the filter. It gets a handle on the
+  // band itself: it is the most widely named object here (21 languages), so it
+  // has to be clickable like everything else — a band you cannot open is a hole.
+  const mw = DB.objects.find(o => o.key === "milky-way");
+  const mwVisible = mw && state.kind.diffuse && visibleNames(mw).length > 0;
+  if (mwVisible) {
+    for (const b of [-10, 0, 10]) {
+      const pts = [];
+      for (let l = 0; l <= 360; l += 2) pts.push(galToEq(l, b));
+      gBand.appendChild(el("path", { d: wrapPath(pts), fill: "none", stroke: KIND.diffuse.hex,
+        "stroke-width": b === 0 ? 1.6 : 1, opacity: b === 0 ? 0.55 : 0.25,
+        "stroke-dasharray": b === 0 ? "none" : "4 4" }));
+    }
+    const [mra, mdec] = galToEq(40, 0);
+    mw.ra = mra; mw.dec = mdec;   // so the tooltip and hit-test find it like any other
+  } else if (mw) {
+    mw.ra = mw.dec = null;        // cleared, or a filtered-out band leaves a ghost handle
+  }
+
+  // marks
+  const shown = DB.objects.filter(o => o.ra !== null && state.kind[o.kind] && visibleNames(o).length > 0);
+  shown.sort((a, b) => visibleLangCount(b) - visibleLangCount(a));
+  const maxL = Math.max(1, ...shown.map(visibleLangCount));
+  const placed = [];
+  for (const o of shown) {
+    const n = visibleLangCount(o);
+    const r = 4 + 11 * Math.sqrt(n / maxL);       // area ∝ language count
+    const x = xOf(o.ra), y = yOf(o.dec), k = KIND[o.kind];
+    const g = el("g", { class: "marker", tabindex: "0", role: "button",
+      "data-key": o.key, "aria-label": `${o.title}, ${n} languages` });
+    if (k.shape === "square") {
+      g.appendChild(el("rect", { x: x - r * 0.8, y: y - r * 0.8, width: r * 1.6, height: r * 1.6,
+        rx: 2, fill: k.hex, "fill-opacity": .28, stroke: k.hex, "stroke-width": 1.6 }));
+    } else {
+      g.appendChild(el("circle", { cx: x, cy: y, r, fill: k.hex, "fill-opacity": .28,
+        stroke: k.hex, "stroke-width": 1.6 }));
+    }
+    g.appendChild(el("circle", { cx: x, cy: y, r: Math.max(r, 11), fill: "transparent" })); // hit target
+    gMark.appendChild(g);
+
+    // selective direct labels: only where they fit without collision
+    const lx = x + r + 5, ly = y + 4;
+    const box = { x: lx, y: ly - 9, w: o.title.length * 5.6, h: 13 };
+    const clash = placed.some(p => !(box.x > p.x + p.w || box.x + box.w < p.x || box.y > p.y + p.h || box.y + box.h < p.y));
+    if (!clash && box.x + box.w < MARGIN.left + PW && PW * PH > 190000) {
+      const t = el("text", { x: lx, y: ly, class: "obj-lab", fill: "var(--ink-2)" });
+      t.textContent = o.title;
+      gLab.appendChild(t);
+      placed.push(box);
+    }
+  }
+  svg.appendChild(gGrid); svg.appendChild(gBand); svg.appendChild(gMark); svg.appendChild(gLab);
+  updateSub(shown.length);
+}
+
+function updateSub(nShown) {
+  const total = DB.objects.reduce((a, o) => a + visibleNames(o).length, 0);
+  const langs = new Set();
+  DB.objects.forEach(o => visibleNames(o).forEach(n => langs.add(n.language)));
+  document.getElementById("subline").textContent =
+    `${total} names · ${langs.size} languages · ${nShown} objects on the sky · ` +
+    `${DB.objects.filter(o => o.ra === null && visibleNames(o).length).length} in the index`;
+}
+
+// ---------- HUD ----------
+const legend = document.getElementById("legend");
+for (const key of ["star", "cluster", "figure", "diffuse"]) {
+  const k = KIND[key];
+  const b = document.createElement("button");
+  b.className = "chip"; b.setAttribute("aria-pressed", "true");
+  b.innerHTML = `<span class="dot${k.shape === "square" ? " sq" : ""}" style="background:${k.hex}"></span>${k.label}`;
+  b.onclick = () => { state.kind[key] = !state.kind[key]; b.classList.toggle("off", !state.kind[key]);
+    b.setAttribute("aria-pressed", String(state.kind[key])); draw(); };
+  legend.appendChild(b);
+}
+const regRow = document.getElementById("registers");
+regRow.innerHTML = '<span class="rowlab">Register</span>';
+for (const r of REGISTERS) {
+  const n = DB.objects.reduce((a, o) => a + o.names.filter(x => x.register === r).length, 0);
+  const b = document.createElement("button");
+  b.className = "chip"; b.setAttribute("aria-pressed", "true");
+  b.innerHTML = `<span class="dot" style="background:${REG_HEX[r]}"></span>${r} <span class="n">${n}</span>`;
+  b.onclick = () => { state.reg[r] = !state.reg[r]; b.classList.toggle("off", !state.reg[r]);
+    b.setAttribute("aria-pressed", String(state.reg[r])); draw(); };
+  regRow.appendChild(b);
+}
+const sel = document.getElementById("langsel");
+sel.innerHTML = '<option value="">All languages</option>' +
+  DB.languages.map(([l, n]) => `<option value="${l}">${l} (${n})</option>`).join("");
+sel.onchange = () => { state.lang = sel.value; draw(); };
+
+// ---------- interaction ----------
+function objByKey(k) { return DB.objects.find(o => o.key === k); }
+
+svg.addEventListener("mousemove", ev => {
+  const g = ev.target.closest(".marker");
+  if (!g) { tip.classList.remove("show"); return; }
+  const o = objByKey(g.dataset.key), vs = visibleNames(o);
+  const sample = vs.slice(0, 4).map(n => (n.name_native || n.name_roman)).join(" · ");
+  tip.innerHTML = `<div class="tt">${esc(o.title)}</div>` +
+    `<div class="tn">${visibleLangCount(o)} languages · ${vs.length} names</div>` +
+    `<div class="tx">${esc(sample)}${vs.length > 4 ? " …" : ""}</div>`;
+  tip.classList.add("show");
+  const r = tip.getBoundingClientRect();
+  tip.style.left = Math.min(ev.clientX + 14, window.innerWidth - r.width - 10) + "px";
+  tip.style.top = Math.min(ev.clientY + 14, window.innerHeight - r.height - 10) + "px";
+});
+svg.addEventListener("mouseleave", () => tip.classList.remove("show"));
+
+function openObject(key) {
+  const o = objByKey(key), vs = visibleNames(o);
+  drawerTitle.textContent = "Names";
+  let h = `<div class="objhead"><h2>${esc(o.title)}</h2>`;
+  if (o.modern_star && o.modern_star.common_name) {
+    const m = o.modern_star;
+    h += `<div class="mod">${[m.common_name, m.bayer, m.constellation].filter(x => x && x !== "—").map(esc).join(" · ")}</div>`;
+  }
+  h += `<div class="cnt">${visibleLangCount(o)} languages · ${vs.length} names`;
+  if (o.sanskrit_db_id) h += ` · Sanskrit database: <code>${esc(o.sanskrit_db_id)}</code>`;
+  h += `</div></div>`;
+  for (const n of vs) {
+    h += `<div class="nm"><div class="lang">${esc(n.language)}${n.region ? " · " + esc(n.region) : ""}</div>`;
+    if (n.name_native) h += `<div class="native">${esc(n.name_native)}</div>`;
+    h += `<div class="roman">${esc(n.name_roman)}</div>`;
+    if (n.literal_meaning) h += `<div class="lit">‘${esc(n.literal_meaning)}’</div>`;
+    h += `<div class="badges"><span class="badge reg-${n.register}">${n.register}</span>` +
+         `<span class="badge conf-${n.confidence}">${n.confidence}</span></div>`;
+    if (n.usage_note) h += `<div class="use">${esc(n.usage_note)}</div>`;
+    if (n.quote) h += `<div class="q">${esc(n.quote)}</div>`;
+    else h += `<div class="nq">No quotation — this source is in copyright and is paraphrased only.</div>`;
+    h += `<div class="cite">${esc(n.citation)}` +
+         (n.source_url ? ` · <a href="${esc(n.source_url)}" target="_blank" rel="noopener">source</a>` : "") + `</div>`;
+    if (n.notes) h += `<div class="notes">${esc(n.notes)}</div>`;
+    h += `</div>`;
+  }
+  drawerBody.innerHTML = h;
+  drawerBody.scrollTop = 0;
+  drawer.classList.add("open"); drawer.setAttribute("aria-hidden", "false");
+}
+
+svg.addEventListener("click", ev => {
+  const g = ev.target.closest(".marker");
+  if (g) openObject(g.dataset.key);
+});
+svg.addEventListener("keydown", ev => {
+  if (ev.key !== "Enter" && ev.key !== " ") return;
+  const g = ev.target.closest(".marker");
+  if (g) { ev.preventDefault(); openObject(g.dataset.key); }
+});
+document.getElementById("drawer-close").onclick = () => {
+  drawer.classList.remove("open"); drawer.setAttribute("aria-hidden", "true");
+};
+document.addEventListener("keydown", e => { if (e.key === "Escape") document.getElementById("drawer-close").click(); });
+
+document.getElementById("btn-index").onclick = () => {
+  drawerTitle.textContent = "Index";
+  const onSky = DB.objects.filter(o => o.ra !== null && visibleNames(o).length);
+  const off = DB.objects.filter(o => o.ra === null && visibleNames(o).length);
+  const rows = list => list.map(o =>
+    `<button class="ix-row" data-key="${o.key}"><span>${esc(o.title)}</span>` +
+    `<span class="im">${visibleLangCount(o)} lang · ${visibleNames(o).length} names</span></button>`).join("");
+  drawerBody.innerHTML =
+    `<div class="ix-h">On the sky</div>${rows(onSky)}` +
+    `<div class="ix-h">Not plottable — no fixed position</div>` +
+    `<p class="notes">Comets, meteors, the planets and the words for “star” and “sky” have no place on a chart of fixed stars. They are recorded all the same.</p>${rows(off)}`;
+  drawerBody.querySelectorAll(".ix-row").forEach(b => b.onclick = () => openObject(b.dataset.key));
+  drawer.classList.add("open"); drawer.setAttribute("aria-hidden", "false");
+};
+document.getElementById("btn-about").onclick = () => {
+  drawerTitle.textContent = "About";
+  drawerBody.innerHTML = `<div class="about">${DB.about}</div>`;
+  drawer.classList.add("open"); drawer.setAttribute("aria-hidden", "false");
+};
+
+window.addEventListener("resize", draw);
+draw();
+</script>

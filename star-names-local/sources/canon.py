@@ -16,9 +16,12 @@ RULES = [
     ("orion",         r"\borion\b|mrigashirsha|mriga[sś]iras|kalpurush|k[aā]lapuru[sṣ]a"),
     ("pleiades",      r"pleiad|krittika|k[rṛ]ttik[aā]|kārttikai"),
     ("ursa-major",    r"ursa major|great bear|big dipper|charles'?s? wain|saptar[sṣ]|seven sages|seven brothers|plough \(constellation\)"),
-    ("ursa-minor",    r"ursa minor|little bear"),
     ("alcor",         r"alcor|arundhat"),
+    # Before ursa-minor: nearly every entry here is about the pole star itself, and
+    # carries "Ursa Minor" only in its modern_star.constellation field. Tested the
+    # other way round, the constellation swallows the star and the label lies.
     ("pole-star",     r"pole ?star|polar ?star|north ?star|dhruva|pole of the sky"),
+    ("ursa-minor",    r"ursa minor|little bear"),
     ("milky-way",     r"milky ?way|galaxy|ak[aā][sś]agang|via lactea"),
     ("venus-morning", r"morning ?star|venus as (the )?morning|dawn ?star"),
     ("venus-evening", r"evening ?star|venus as (the )?evening"),

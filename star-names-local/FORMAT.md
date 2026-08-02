@@ -7,13 +7,27 @@ The originals are the seven per-language-group research files in **`sources/*.js
 ```
 sources/*.json ─── merge.py (+ canon.py) ──→ star-names-local.json
                                          └─→ README.md
+                                              │
+star-names-local.json ── build_chart.py ──────┼─→ sky-chart.html
+                         (+ chart_template.html)
+                      ── build_matrix.py ─────┴─→ coverage-matrix.html
 ```
 
-Regenerate from `sources/`:
+Regenerate from `sources/`, in this order:
 
 ```bash
-python3 merge.py
+python3 merge.py && python3 build_chart.py && python3 build_matrix.py
 ```
+
+`sky-chart.html` plots each object on an equirectangular RA/Dec grid, marker area ∝ the number of
+languages naming it and colour = what kind of object it is. `coverage-matrix.html` is objects ×
+languages, cells coloured by the least-Sanskritic register present. Both are self-contained.
+
+Sky positions live in `build_chart.py`, not in the database — the research records what a source
+says, and where to put that on a chart is a separate judgement. Objects with no fixed position
+(comets, meteors, the planets, the word for "star") carry no coordinates and appear only in the
+chart's index. `build_chart.py` reads the *Sanskrit* chart's position table for any object reached
+through a `sanskrit_db_id`, so the two charts cannot drift apart.
 
 This database is **separate from `docs/star-names/`**, which holds the Sanskrit compilation. The
 relationship is one-way and read-only: `merge.py` reads `../star-names/star-names.json` to resolve

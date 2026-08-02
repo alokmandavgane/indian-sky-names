@@ -5,7 +5,7 @@
  "register_note": "Every name is tagged by register. That is the point of the database rather than a detail: most Indian languages inherited the 27 Sanskrit nakshatra names and adapted them phonologically, and a table of those adaptations would be large and nearly uninformative. The tags separate that borrowed layer from names the languages made themselves. **vernacular** — formed in the language itself, not a Sanskrit loan; **folk** — rural or colloquial usage, from a dictionary's own usage note or from ethnography; **tribal** — from a distinct Adivasi tradition; **sanskritic** — the Sanskrit name in this language's script and phonology.",
  "counts": {
   "entries": 522,
-  "objects": 45,
+  "objects": 46,
   "languages": 26,
   "by_register": {
    "vernacular": 177,
@@ -8103,13 +8103,13 @@
    ]
   },
   {
-   "key": "ursa-minor",
-   "title": "Ursa Minor",
+   "key": "pole-star",
+   "title": "The pole star",
    "sanskrit_db_id": "dhruva",
    "sanskrit_name": "Dhruva (Polaris (the pole star))",
    "modern_star": {
-    "common_name": "Ursa Minor",
-    "bayer": "α–η Ursae Minoris",
+    "common_name": "Polaris (the pole star)",
+    "bayer": "α Ursae Minoris",
     "constellation": "Ursa Minor"
    },
    "languages": [
@@ -8125,34 +8125,8 @@
     "Telugu",
     "Urdu"
    ],
-   "n_names": 20,
+   "n_names": 17,
    "names": [
-    {
-     "sky_object": "Ursa Minor",
-     "sanskrit_db_id": null,
-     "modern_star": {
-      "common_name": "Ursa Minor",
-      "bayer": "α–η Ursae Minoris",
-      "constellation": "Ursa Minor"
-     },
-     "language": "Marathi",
-     "iso639_3": "mar",
-     "region": "Maharashtra",
-     "name_native": "ध्रुवमत्स्य",
-     "name_roman": "dhruvamatsya",
-     "literal_meaning": "the pole-fish",
-     "register": "vernacular",
-     "usage_note": null,
-     "citation": "Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. ध्रुव (compound ॰मत्स्य), p. 1770",
-     "source_type": "dictionary",
-     "source_date": "1932-38",
-     "source_url": "https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact",
-     "quote": "॰मत्स्य -पु. (ज्यो.) लघुऋक्ष किंवा लघुऋक्षांतील दोन मुख्य तार्‍यांपैकीं एक. दुसरा मुख्य तारा ध्रुव होय.",
-     "quote_lang": "mr",
-     "confidence": "likely",
-     "notes": "A 20th-century Marathi constellation vocabulary rather than village usage: Date's own supporting quotation is from a teacher-training manual listing ध्रुवमत्स्य beside सप्तर्षि, नरतुरंगम ('man-horse' = Sagittarius) and ययाति as figures to teach children. Register 'vernacular' in the sense of Marathi-formed, but the milieu is the modern classroom, not folk tradition. Date is also internally unsure whether the word names Ursa Minor as a whole or one of its two bright stars.",
-     "_source_group": "Marathi, Konkani & Gujarati"
-    },
     {
      "sky_object": "the pole star",
      "sanskrit_db_id": "medhi",
@@ -8178,32 +8152,6 @@
      "confidence": "certain",
      "notes": "The best vernacular find for the pole star: an ordinary farmyard word — the forked post that holds up a booth — used for Polaris, the peg the sky is pinned to. It answers the Sanskrit मेढी 'threshing-post' as an image of the pole, but मेढ is the live Marathi noun and Molesworth marks it with no S. Corroborated independently by Vaze (1911), p. 464: 'मेढ mēḍha f A forked stake. The polar star.'",
      "_source_group": "Marathi, Konkani & Gujarati"
-    },
-    {
-     "sky_object": "the Guards of Ursa Minor",
-     "sanskrit_db_id": null,
-     "modern_star": {
-      "common_name": "Kochab and Pherkad, the Guards of the Pole",
-      "bayer": "β and γ Ursae Minoris",
-      "constellation": "Ursa Minor"
-     },
-     "language": "Urdu",
-     "iso639_3": "urd",
-     "region": "Urdu, from Arabic",
-     "name_native": "فرقدان",
-     "name_roman": "farqadān",
-     "literal_meaning": "'the two calves' (dual of farqad 'a calf')",
-     "register": "vernacular",
-     "usage_note": "The Arabic al-farqadān, the pair that circles close to the pole. Shakespear (1834, p. 1258) muddles them as 'Two stars near the pole, the greater and lesser bears'; Platts has the identification right.",
-     "citation": "John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. farqadān, p. 779",
-     "source_type": "dictionary",
-     "source_date": "1884",
-     "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779",
-     "quote": "A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.",
-     "quote_lang": "en",
-     "confidence": "certain",
-     "notes": "Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'.",
-     "_source_group": "Hindi, Urdu, Punjabi & Rajasthani"
     },
     {
      "sky_object": "Pole Star",
@@ -8463,32 +8411,6 @@
      "quote_lang": "en",
      "confidence": "certain",
      "notes": "Purely Sanskrit; Gundert records no Dravidian pole-star name for Malayalam. (Thurston, Castes and Tribes of Southern India, vol. I p. 108, records a Dravidian one for the Nilgiri Badagas — 'Aranjoti (the pole-star)', shown to the couple at a wedding — but Badaga is outside this compilation.) The astrological gloss ജലജോയം is obscure.",
-     "_source_group": "Malayalam, Tulu, Kodava & Sinhala"
-    },
-    {
-     "sky_object": "the Bear; a constellation in general",
-     "sanskrit_db_id": "rksha",
-     "modern_star": {
-      "common_name": "Ursa Minor (so Gundert)",
-      "bayer": null,
-      "constellation": "Ursa Minor"
-     },
-     "language": "Malayalam",
-     "iso639_3": "mal",
-     "region": "Kerala (Malabar, Cochin, Travancore)",
-     "name_native": "ഋക്ഷം",
-     "name_roman": "ṛkṣam",
-     "literal_meaning": "'bear'",
-     "register": "sanskritic",
-     "usage_note": "Used in the compound ജന്മര്‍ക്ഷദിനം 'the day of one's birth-asterism'.",
-     "citation": "Gundert, A Malayalam and English Dictionary (1872), s.v. ഋക്ഷം ṛkṣam, p. 153",
-     "source_type": "dictionary",
-     "source_date": "1872",
-     "source_url": "https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%8B%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%82&searchhws=yes&matchtype=exact",
-     "quote": "ഋക്ഷം r̥kṣam ṛkšam S. (G. 'rktos) 1. Bear, Ursa minor. 2. constellation in general ജന്മര്‍ക്ഷദി നം Bhg.",
-     "quote_lang": "en",
-     "confidence": "disputed",
-     "notes": "Gundert glosses the Bear as Ursa MINOR, where Sanskrit ṛkṣāḥ is standardly Ursa Major (the Saptarṣis) — as Gundert himself has it under സപ്തം. The discrepancy is his, not the language's; flagged disputed. Sense 2, 'constellation in general', is the ordinary Malayalam usage.",
      "_source_group": "Malayalam, Tulu, Kodava & Sinhala"
     },
     {
@@ -13418,6 +13340,103 @@
      "quote_lang": "en",
      "confidence": "certain",
      "notes": "Gundert's citation 'Gan.' is a Malayalam mathematical/astronomical work — direct lexical evidence that the technical vocabulary of the Kerala school passed into the general language. Note also ഭഗണന്‍ 'an astrologer' in the same entry.",
+     "_source_group": "Malayalam, Tulu, Kodava & Sinhala"
+    }
+   ]
+  },
+  {
+   "key": "ursa-minor",
+   "title": "Ursa Minor",
+   "sanskrit_db_id": "rksha",
+   "sanskrit_name": "Ṛkṣāḥ (Ursa Major (the Seven Ṛṣis / Big Dipper))",
+   "modern_star": {
+    "common_name": "Ursa Minor",
+    "bayer": "α–η Ursae Minoris",
+    "constellation": "Ursa Minor"
+   },
+   "languages": [
+    "Malayalam",
+    "Marathi",
+    "Urdu"
+   ],
+   "n_names": 3,
+   "names": [
+    {
+     "sky_object": "Ursa Minor",
+     "sanskrit_db_id": null,
+     "modern_star": {
+      "common_name": "Ursa Minor",
+      "bayer": "α–η Ursae Minoris",
+      "constellation": "Ursa Minor"
+     },
+     "language": "Marathi",
+     "iso639_3": "mar",
+     "region": "Maharashtra",
+     "name_native": "ध्रुवमत्स्य",
+     "name_roman": "dhruvamatsya",
+     "literal_meaning": "the pole-fish",
+     "register": "vernacular",
+     "usage_note": null,
+     "citation": "Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. ध्रुव (compound ॰मत्स्य), p. 1770",
+     "source_type": "dictionary",
+     "source_date": "1932-38",
+     "source_url": "https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact",
+     "quote": "॰मत्स्य -पु. (ज्यो.) लघुऋक्ष किंवा लघुऋक्षांतील दोन मुख्य तार्‍यांपैकीं एक. दुसरा मुख्य तारा ध्रुव होय.",
+     "quote_lang": "mr",
+     "confidence": "likely",
+     "notes": "A 20th-century Marathi constellation vocabulary rather than village usage: Date's own supporting quotation is from a teacher-training manual listing ध्रुवमत्स्य beside सप्तर्षि, नरतुरंगम ('man-horse' = Sagittarius) and ययाति as figures to teach children. Register 'vernacular' in the sense of Marathi-formed, but the milieu is the modern classroom, not folk tradition. Date is also internally unsure whether the word names Ursa Minor as a whole or one of its two bright stars.",
+     "_source_group": "Marathi, Konkani & Gujarati"
+    },
+    {
+     "sky_object": "the Guards of Ursa Minor",
+     "sanskrit_db_id": null,
+     "modern_star": {
+      "common_name": "Kochab and Pherkad, the Guards of the Pole",
+      "bayer": "β and γ Ursae Minoris",
+      "constellation": "Ursa Minor"
+     },
+     "language": "Urdu",
+     "iso639_3": "urd",
+     "region": "Urdu, from Arabic",
+     "name_native": "فرقدان",
+     "name_roman": "farqadān",
+     "literal_meaning": "'the two calves' (dual of farqad 'a calf')",
+     "register": "vernacular",
+     "usage_note": "The Arabic al-farqadān, the pair that circles close to the pole. Shakespear (1834, p. 1258) muddles them as 'Two stars near the pole, the greater and lesser bears'; Platts has the identification right.",
+     "citation": "John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. farqadān, p. 779",
+     "source_type": "dictionary",
+     "source_date": "1884",
+     "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779",
+     "quote": "A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.",
+     "quote_lang": "en",
+     "confidence": "certain",
+     "notes": "Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'.",
+     "_source_group": "Hindi, Urdu, Punjabi & Rajasthani"
+    },
+    {
+     "sky_object": "the Bear; a constellation in general",
+     "sanskrit_db_id": "rksha",
+     "modern_star": {
+      "common_name": "Ursa Minor (so Gundert)",
+      "bayer": null,
+      "constellation": "Ursa Minor"
+     },
+     "language": "Malayalam",
+     "iso639_3": "mal",
+     "region": "Kerala (Malabar, Cochin, Travancore)",
+     "name_native": "ഋക്ഷം",
+     "name_roman": "ṛkṣam",
+     "literal_meaning": "'bear'",
+     "register": "sanskritic",
+     "usage_note": "Used in the compound ജന്മര്‍ക്ഷദിനം 'the day of one's birth-asterism'.",
+     "citation": "Gundert, A Malayalam and English Dictionary (1872), s.v. ഋക്ഷം ṛkṣam, p. 153",
+     "source_type": "dictionary",
+     "source_date": "1872",
+     "source_url": "https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%8B%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%82&searchhws=yes&matchtype=exact",
+     "quote": "ഋക്ഷം r̥kṣam ṛkšam S. (G. 'rktos) 1. Bear, Ursa minor. 2. constellation in general ജന്മര്‍ക്ഷദി നം Bhg.",
+     "quote_lang": "en",
+     "confidence": "disputed",
+     "notes": "Gundert glosses the Bear as Ursa MINOR, where Sanskrit ṛkṣāḥ is standardly Ursa Major (the Saptarṣis) — as Gundert himself has it under സപ്തം. The discrepancy is his, not the language's; flagged disputed. Sense 2, 'constellation in general', is the ordinary Malayalam usage.",
      "_source_group": "Malayalam, Tulu, Kodava & Sinhala"
     }
    ]
