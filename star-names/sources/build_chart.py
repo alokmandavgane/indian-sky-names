@@ -30,7 +30,11 @@ P = {
     "hasta":            (183.95,-17.54, 2.59, "star", None, None),  # Gienah
     "chitra":           (201.30,-11.16, 0.98, "star", None, None),  # Spica
     "svati":            (213.92, 19.18,-0.05, "star", None, None),  # Arcturus
-    "vishakha":         (222.72,-19.79, 4.54, "star", None, None),  # iota Lib
+    "vishakha":         (222.72,-19.79, 4.54, "star", None,  # iota Lib
+                         "Contested. Plotted at ι Librae, where Sāmanta's 1899 re-observation puts it to 32'. "
+                         "But the Śārdūlakarṇāvadāna and both early Chinese witnesses make Viśākhā TWO stars, "
+                         "horn-shaped — which can only be the bright scale-pair α/β Librae, as Burgess himself "
+                         "believed. The asterism and the computed junction-star may simply have parted company."),
     "anuradha":         (240.08,-22.62, 2.29, "star", None, None),  # Dschubba
     "jyeshtha":         (247.35,-26.43, 1.06, "star", None, None),  # Antares
     "mula":             (263.40,-37.10, 1.62, "star", None, None),  # Shaula
@@ -155,6 +159,38 @@ P = {
     "auttanapadi":      (37.95,  89.26, 1.98, "star", "औत्तानपादिः", None),
 }
 
+# Alias names plot on the very star they denote, so clicking a point stacks every
+# name any text gives it. Target ids, not coordinates, so the two stay in step.
+ALIAS_OF = {
+    "bahula": "krittika", "kattika-karttika": "krittika", "anala-krittika": "krittika",
+    "paitamaha": "rohini", "svayambhuva": "rohini", "prajapatya": "rohini",
+    "yamya-bharani": "bharani", "paushna": "revati", "bhagya": "purva-phalguni",
+    "pavana-svati": "svati", "tvashtra": "chitra",
+    "varuna-shatabhishaj": "shatabhishaj", "pracetas-shatabhishaj": "shatabhishaj",
+    "maindra-jyeshtha": "jyeshtha", "aindra-nakshatra": "jyeshtha",
+    "ekapada": "purva-bhadrapada", "aditya-punarvasu": "punarvasu",
+    "aditidaivatya": "punarvasu", "devamatri": "punarvasu",
+    "vishnubha": "shravana", "govinda-shravana": "shravana",
+    "brahma-nakshatra": "abhijit", "nairrita": "mula", "jiva-pushya": "pushya",
+    "vitta-dhanishtha": "dhanishtha", "kumbhayoni": "agastya",
+}
+ALIAS_NOTE = {
+    "paitamaha": "A name for ROHIṆĪ (Aldebaran) — not for the fixed star Prajāpati "
+                 "(δ Aurigae), which is a different point on this chart.",
+    "svayambhuva": "A name for ROHIṆĪ (Aldebaran) — not for the fixed star Prajāpati "
+                   "(δ Aurigae), which is a different point on this chart.",
+    "prajapatya": "The Rāmāyaṇa's name for ROHIṆĪ (Aldebaran) — not for the fixed star "
+                  "Prajāpati (δ Aurigae), which is a different point on this chart.",
+    "anala-krittika": "Utpala's name for KṚTTIKĀ (Alcyone) — not for the fixed star Agni "
+                      "(β Tauri, Elnath), which is a different point on this chart.",
+    "brahma-nakshatra": "Utpala's name for ABHIJIT (Vega). Distinct from the Vedic Brāhmaṇa "
+                        "nakshatra, whose deity is Soma, and from the circumpolar Brahmarāśi.",
+}
+for _a, _t in ALIAS_OF.items():
+    _ra, _dec, _mag, _kind, _ov, _n = P[_t]
+    P[_a] = (_ra, _dec, _mag, "star", None, ALIAS_NOTE.get(_a))
+
+
 # Star-roads: drawn as a dashed line through the road's own nakshatras.
 ROADS = {
     "nagavithi":  ["ashvini", "bharani", "krittika"],
@@ -173,22 +209,36 @@ ROAD_NOTE = {
                 "same chapter, instead gives Hasta, Citrā and Svātī — the text contradicts itself.",
     "vaishvanari": "Matsya 124.59 gives Vaiśvānarī the same three asterisms that 124.53 gives Ajavīthī, so the two "
                    "roads are drawn on top of each other here. The contradiction is the text's, not the chart's.",
-    "govithi": "Drawn on the Matsya reading. Varāhamihira's Bṛhat Saṃhitā 9 instead makes Govīthī = Hasta, Citrā, Svāti.",
-    "jaradgava": "Drawn on the Matsya reading (vāruṇa = Śatabhiṣaj). Bṛhat Saṃhitā 9 instead makes Jāradgavī = "
-                 "Viśākhā, Anurādhā, Jyeṣṭhā.",
+    "govithi": "Drawn on the Matsya reading. Bṛhat Saṃhitā 9.2cd gives Govīthī = Aśvinī, Revatī and the two "
+               "Bhādrapadās — close to the Matsya, adding only Aśvinī. The Hasta/Citrā/Svāti version belongs to the "
+               "sequential scheme at BS 9.1, which Varāhamihira attributes to others.",
+    "jaradgava": "Drawn on the Matsya reading (vāruṇa = Śatabhiṣaj), which Bṛhat Saṃhitā 9.3ab confirms exactly: "
+                 "the triad beginning at Śravaṇa.",
 }
 
 # Milky Way names, pinned to the galactic equator at these galactic longitudes
 # (chosen so the three labels sit apart along the band).
 GALACTIC = {"akashaganga": 35.0, "mandakini": 80.0, "viyadganga": 135.0,
             "chayapatha": 195.0, "svarnadi": 250.0, "tripathaga": 300.0,
-            "suradirghika": 340.0}
+            "suradirghika": 340.0, "vyomaganga": 60.0, "nabhonadi": 220.0}
 
 def short_dev(name):
     """First name only — chart labels take the head of a synonym list."""
     return re.split(r"[,(（/]", name)[0].strip()
 
 UNPLOTTED_NOTE = {
+    "yama-samanta": "Sāmanta gives this southern star coordinates (dhruva 66°, 22° south) but no identification "
+                    "has been made; recorded unemended rather than guessed at.",
+    "suravithi": "A road of the gods named at Mahābhārata 3.44.12 with no asterisms attached — it does not belong "
+                 "to the nine-vīthī set and cannot be traced on the sky.",
+    "shukra-shanmandala": "Six named blocks of consecutive nakshatras spanning the whole ecliptic. The names survive "
+                          "only in the Parāśara passage Utpala quotes; Varāhamihira describes the six but names none.",
+    "rohini-shakata": "The Wain of Rohiṇī — the Hyades cluster, a V-shaped group rather than a single point. "
+                      "Utpala calls it six stars, the Śārdūlakarṇāvadāna five.",
+    "brahmarashi": "A circumpolar group named between Dhruva and the Saptarṣis in both Utpala and the epics, "
+                   "never identified; three translators give three different renderings.",
+    "nakshatramala": "A second 'garland of asterisms' placed in the southern sky at Rāmāyaṇa 1.59.20-22, unidentified.",
+    "dakshina-saptarshi": "A southern counterpart of the Great Bear, named in the Rāmāyaṇa and never identified.",
     "yogatara-catalog": "A catalog of all 28 junction stars as a set (Bhāskara's dhruva/śara table) — not a single point.",
     "brahmana-nakshatra": "An extra nakshatra name with no identified star; almost certainly a ritual category "
                           "rather than an observed asterism.",

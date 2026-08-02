@@ -34,6 +34,13 @@ SOURCES = {
     "puranas": "Purāṇas",
     "lexicons_buddhist": "Lexicons, Nirukta & Buddhist",
     "later_siddhantas": "Later siddhāntas & al-Bīrūnī",
+    "utpala": "Utpala's commentary",
+    "panini": "Pāṇini & Patañjali",
+    "vatesvara_samanta": "Vaṭeśvara & Sāmanta",
+    "kerala": "Āryabhaṭīya commentaries",
+    "xiuyao": "Chinese Buddhist witnesses",
+    "epics": "Mahābhārata & Rāmāyaṇa",
+    "kavya": "Classical kāvya",
 }
 
 # (source_key, name_iast) -> canonical entry id.  Entries sharing an id merge
@@ -114,7 +121,9 @@ CANON = {
 
 # Sources whose entries carry an explicit "db_id" (newer research files); the
 # older four are mapped through CANON above.
-DB_ID_SOURCES = {"vedic_expansion", "puranas", "lexicons_buddhist", "later_siddhantas"}
+DB_ID_SOURCES = {"vedic_expansion", "puranas", "lexicons_buddhist", "later_siddhantas",
+                 "utpala", "panini", "vatesvara_samanta", "kerala", "xiuyao",
+                 "epics", "kavya"}
 
 NAKSHATRAS = [
     "ashvini", "bharani", "krittika", "rohini", "mrigashirsha", "ardra",
@@ -128,7 +137,7 @@ INDIVIDUAL = ["agastya", "mrigavyadha", "lubdhaka", "agni", "brahmahridaya",
               "prajapati", "apamvatsa", "apas", "dhruva",
               # further names for the same few bright stars, plus one unidentified
               "kumbhasambhava", "maitravaruni", "muni", "mrigahartri",
-              "lopamudravallabha", "auttanapadi", "shula"]
+              "lopamudravallabha", "auttanapadi", "shula", "kumbhayoni", "yama-samanta"]
 SAPTARSHI = ["saptarshi", "marichi", "vasishtha", "angiras", "atri",
              "pulastya", "pulaha", "kratu", "arundhati"]
 # Asterisms of the Vedic star-lore proper (the Orion tableau, the Bears)
@@ -145,6 +154,15 @@ NAKSHATRA_ALIAS = [
     # siddhāntic deity-epithets
     "vaishnava", "vasava", "ahirbudhnya", "ashvinidaivata", "maitra",
     "raudrarksha", "saumya", "prajesha", "agneya",
+    # Pāṇini's archaic stratum, and the Middle-Indic form behind the Chinese
+    "bahula", "kattika-karttika",
+    # deity-epithets from Utpala, the epics, Vaṭeśvara and Sāmanta
+    "paitamaha", "svayambhuva", "prajapatya", "anala-krittika", "yamya-bharani",
+    "paushna", "bhagya", "pavana-svati", "tvashtra", "varuna-shatabhishaj",
+    "pracetas-shatabhishaj", "maindra-jyeshtha", "aindra-nakshatra", "ekapada",
+    "aditya-punarvasu", "aditidaivatya", "devamatri", "vishnubha",
+    "govinda-shravana", "brahma-nakshatra", "nairrita", "jiva-pushya",
+    "vitta-dhanishtha",
 ]
 
 # The generic vocabulary of "star" itself
@@ -155,12 +173,14 @@ SHISHUMARA_POS = ["dhata-vidhata", "indra-mahendra", "kashyapa", "marichi-tail",
                   "prajapati-circumpolar", "suniti"]
 STAR_ROAD = ["nagavithi", "gajavithi", "airavati", "arshabhi", "govithi",
              "jaradgava", "ajavithi", "mrigavithi", "vaishvanari",
-             "margas", "pitryana-devayana"]
+             "margas", "pitryana-devayana", "suravithi", "shukra-shanmandala"]
 MILKY_WAY = ["akashaganga", "chayapatha", "tripathaga",
-             "mandakini", "viyadganga", "svarnadi", "suradirghika"]
+             "mandakini", "viyadganga", "svarnadi", "suradirghika",
+             "vyomaganga", "nabhonadi"]
 SKY_REGION = ["vishnupada", "medhi", "pravaha", "tarapatha"]
 COLLECTIVE = ["yogatara-catalog", "dakshayanyah", "citrashikhandin",
-              "ashtavimshati-nakshatrani", "nakshatra-catur-dvarika", "taragraha"]
+              "ashtavimshati-nakshatrani", "nakshatra-catur-dvarika", "taragraha",
+              "rohini-shakata", "brahmarashi", "nakshatramala", "dakshina-saptarshi"]
 
 CATEGORY = {}
 for i in NAKSHATRAS: CATEGORY[i] = "nakshatra"
@@ -177,6 +197,24 @@ for i in SKY_REGION: CATEGORY[i] = "sky-region"
 for i in COLLECTIVE: CATEGORY[i] = "collective"
 
 SEE_ALSO = {
+    "bahula": ["krittika", "anala-krittika", "kattika-karttika", "krittika-seven"],
+    "kattika-karttika": ["krittika", "bahula"],
+    "anala-krittika": ["krittika", "agni", "bahula"],
+    "paitamaha": ["rohini", "svayambhuva", "prajapatya", "prajesha", "prajapati", "rohini-shakata"],
+    "svayambhuva": ["rohini", "paitamaha", "prajapati"],
+    "prajapatya": ["rohini", "paitamaha", "prajapati", "prajesha"],
+    "rohini-shakata": ["rohini", "krittika-seven", "ilvala", "ishus-trikanda"],
+    "brahma-nakshatra": ["abhijit", "brahmana-nakshatra", "brahmarashi"],
+    "brahmarashi": ["brahma-nakshatra", "dhruva", "saptarshi"],
+    "kumbhayoni": ["agastya", "kumbhasambhava", "maitravaruni", "muni"],
+    "vyomaganga": ["akashaganga", "nabhonadi", "mandakini", "viyadganga"],
+    "nabhonadi": ["akashaganga", "vyomaganga", "svarnadi"],
+    "suravithi": ["margas", "pitryana-devayana", "shukra-shanmandala"],
+    "shukra-shanmandala": ["margas", "suravithi"],
+    "nakshatramala": ["dakshina-saptarshi", "trishanku"],
+    "dakshina-saptarshi": ["saptarshi", "nakshatramala", "trishanku"],
+    "yama-samanta": ["agastya", "shula"],
+
     "mrigavyadha": ["lubdhaka"],
     "lubdhaka": ["mrigavyadha"],
     "tishya": ["pushya"],
@@ -276,7 +314,7 @@ SEE_ALSO = {
     "tarapatha": ["chayapatha"],
 }
 
-CONF_RANK = {"certain": 0, "likely": 1, "disputed": 2}
+CONF_RANK = {"certain": 0, "likely": 1, "disputed": 2, "unidentified": 3}
 
 def load(name):
     with open(os.path.join(SCRATCH, name + ".json")) as f:

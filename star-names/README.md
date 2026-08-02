@@ -12,95 +12,122 @@ Authentic references to star names in Sanskrit texts: the original shloka (copie
 
 | Sanskrit | IAST | Modern star | Bayer | Confidence | Attested in |
 |---|---|---|---|---|---|
-| [अश्विनी](#अश्विनी-aśvinī--sheratan) | Aśvinī | Sheratan | β Arietis | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [भरणी](#भरणी-bharaṇī--35-arietis-musca-borealis) | Bharaṇī | 35 Arietis (Musca Borealis) | 35 Arietis | disputed | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [कृत्तिका](#कृत्तिका-kṛttikā--alcyone-pleiades) | Kṛttikā | Alcyone (Pleiades) | η Tauri | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vedic corpus |
-| [रोहिणी](#रोहिणी-rohiṇī--aldebaran) | Rohiṇī | Aldebaran | α Tauri | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vedic corpus |
-| [मृगशीर्ष](#मृगशीर्ष-mṛgaśīrṣa--meissa) | Mṛgaśīrṣa | Meissa | λ Orionis | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vedic corpus |
-| [आर्द्रा](#आर्द्रा-ārdrā--betelgeuse) | Ārdrā | Betelgeuse | α Orionis | disputed | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vedic corpus |
-| [पुनर्वसु](#पुनर्वसु-punarvasu--pollux) | Punarvasu | Pollux | β Geminorum | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [पुष्य](#पुष्य-puṣya--asellus-australis) | Puṣya | Asellus Australis | δ Cancri | likely | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vedic corpus |
-| [आश्लेषा](#आश्लेषा-āśleṣā--ashlesha) | Āśleṣā | Ashlesha | ε Hydrae | disputed | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [मघा](#मघा-maghā--regulus) | Maghā | Regulus | α Leonis | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [पूर्वफल्गुनी](#पूर्वफल्गुनी-pūrva-phalgunī--zosma) | Pūrva-Phalgunī | Zosma | δ Leonis | likely | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [उत्तरफल्गुनी](#उत्तरफल्गुनी-uttara-phalgunī--denebola) | Uttara-Phalgunī | Denebola | β Leonis | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [हस्त](#हस्त-hasta--gienah) | Hasta | Gienah | γ Corvi | disputed | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [चित्रा](#चित्रा-citrā--spica) | Citrā | Spica | α Virginis | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [स्वाती](#स्वाती-svātī--arcturus) | Svātī | Arcturus | α Boötis | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [विशाखा](#विशाखा-viśākhā--ι-librae) | Viśākhā | ι Librae | ι Librae | disputed | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [अनुराधा](#अनुराधा-anurādhā--dschubba) | Anurādhā | Dschubba | δ Scorpii | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [ज्येष्ठा](#ज्येष्ठा-jyeṣṭhā--antares) | Jyeṣṭhā | Antares | α Scorpii | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [मूल](#मूल-mūla--shaula) | Mūla | Shaula | λ Scorpii | likely | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [पूर्वाषाढा](#पूर्वाषाढा-pūrvāṣāḍhā--kaus-media) | Pūrvāṣāḍhā | Kaus Media | δ Sagittarii | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [उत्तराषाढा](#उत्तराषाढा-uttarāṣāḍhā--nunki) | Uttarāṣāḍhā | Nunki | σ Sagittarii | likely | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [अभिजित्](#अभिजित्-abhijit--vega) | Abhijit | Vega | α Lyrae | certain | Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Siddhānta Śiromaṇi; Sūrya Siddhānta |
-| [श्रवण](#श्रवण-śravaṇa--altair) | Śravaṇa | Altair | α Aquilae | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [श्रविष्ठा](#श्रविष्ठा-śraviṣṭhā-dhaniṣṭhā--rotanev) | Śraviṣṭhā (Dhaniṣṭhā) | Rotanev | β Delphini | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [शतभिषज्](#शतभिषज्-śatabhiṣaj--hydor) | Śatabhiṣaj | Hydor | λ Aquarii | disputed | Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [पूर्वभाद्रपदा](#पूर्वभाद्रपदा-pūrva-bhādrapadā--markab) | Pūrva-Bhādrapadā | Markab | α Pegasi | certain | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [उत्तरभाद्रपदा](#उत्तरभाद्रपदा-uttara-bhādrapadā--algenib--alpheratz) | Uttara-Bhādrapadā | Algenib / Alpheratz | γ Pegasi / α Andromedae | disputed | Lexicons, Nirukta & Buddhist; Sūrya Siddhānta |
-| [रेवती](#रेवती-revatī--revati) | Revatī | Revati | ζ Piscium | likely | Lexicons, Nirukta & Buddhist; Siddhānta Śiromaṇi; Sūrya Siddhānta |
+| [अश्विनी](#अश्विनी-aśvinī--sheratan) | Aśvinī | Sheratan | β Arietis | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [भरणी](#भरणी-bharaṇī--35-arietis-musca-borealis) | Bharaṇī | 35 Arietis (Musca Borealis) | 35 Arietis | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [कृत्तिका](#कृत्तिका-kṛttikā--alcyone-pleiades) | Kṛttikā | Alcyone (Pleiades) | η Tauri | certain | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [रोहिणी](#रोहिणी-rohiṇī--aldebaran) | Rohiṇī | Aldebaran | α Tauri | certain | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [मृगशीर्ष](#मृगशीर्ष-mṛgaśīrṣa--meissa) | Mṛgaśīrṣa | Meissa | λ Orionis | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [आर्द्रा](#आर्द्रा-ārdrā--betelgeuse) | Ārdrā | Betelgeuse | α Orionis | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [पुनर्वसु](#पुनर्वसु-punarvasu--pollux) | Punarvasu | Pollux | β Geminorum | certain | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [पुष्य](#पुष्य-puṣya--asellus-australis) | Puṣya | Asellus Australis | δ Cancri | likely | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [आश्लेषा](#आश्लेषा-āśleṣā--ashlesha) | Āśleṣā | Ashlesha | ε Hydrae | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [मघा](#मघा-maghā--regulus) | Maghā | Regulus | α Leonis | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [पूर्वफल्गुनी](#पूर्वफल्गुनी-pūrva-phalgunī--zosma) | Pūrva-Phalgunī | Zosma | δ Leonis | likely | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [उत्तरफल्गुनी](#उत्तरफल्गुनी-uttara-phalgunī--denebola) | Uttara-Phalgunī | Denebola | β Leonis | certain | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [हस्त](#हस्त-hasta--gienah) | Hasta | Gienah | γ Corvi | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [चित्रा](#चित्रा-citrā--spica) | Citrā | Spica | α Virginis | certain | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [स्वाती](#स्वाती-svātī--arcturus) | Svātī | Arcturus | α Boötis | certain | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [विशाखा](#विशाखा-viśākhā--ι-librae) | Viśākhā | ι Librae | ι Librae | disputed | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [अनुराधा](#अनुराधा-anurādhā--dschubba) | Anurādhā | Dschubba | δ Scorpii | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [ज्येष्ठा](#ज्येष्ठा-jyeṣṭhā--antares) | Jyeṣṭhā | Antares | α Scorpii | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [मूल](#मूल-mūla--shaula) | Mūla | Shaula | λ Scorpii | likely | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [पूर्वाषाढा](#पूर्वाषाढा-pūrvāṣāḍhā--kaus-media) | Pūrvāṣāḍhā | Kaus Media | δ Sagittarii | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [उत्तराषाढा](#उत्तराषाढा-uttarāṣāḍhā--nunki) | Uttarāṣāḍhā | Nunki | σ Sagittarii | likely | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [अभिजित्](#अभिजित्-abhijit--vega) | Abhijit | Vega | α Lyrae | certain | Chinese Buddhist witnesses; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Siddhānta Śiromaṇi; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [श्रवण](#श्रवण-śravaṇa--altair) | Śravaṇa | Altair | α Aquilae | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [श्रविष्ठा](#श्रविष्ठा-śraviṣṭhā-dhaniṣṭhā--rotanev) | Śraviṣṭhā (Dhaniṣṭhā) | Rotanev | β Delphini | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [शतभिषज्](#शतभिषज्-śatabhiṣaj--hydor) | Śatabhiṣaj | Hydor | λ Aquarii | disputed | Chinese Buddhist witnesses; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [पूर्वभाद्रपदा](#पूर्वभाद्रपदा-pūrva-bhādrapadā--markab) | Pūrva-Bhādrapadā | Markab | α Pegasi | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [उत्तरभाद्रपदा](#उत्तरभाद्रपदा-uttara-bhādrapadā--algenib--alpheratz) | Uttara-Bhādrapadā | Algenib / Alpheratz | γ Pegasi / α Andromedae | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [रेवती](#रेवती-revatī--revati) | Revatī | Revati | ζ Piscium | likely | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Siddhānta Śiromaṇi; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [अघा](#अघा-aghā--regulus) | Aghā | Regulus | α Leonis | likely | Ṛgveda & Vedāṅga Jyotiṣa |
 | [अर्जुन्यौ](#अर्जुन्यौ-arjunyau-arjunī--the-two-phalgunīs--zosmachertan-group-and-denebola) | Arjunyau (Arjunī) | the two Phalgunīs — Zosma/Chertan group and Denebola | δ & θ Leonis; β Leonis | likely | Ṛgveda & Vedāṅga Jyotiṣa |
 | [निष्ट्यम् / निस्त्या](#निष्ट्यम्--निस्त्या-niṣṭya--nistyā--arcturus) | Niṣṭya / Nistyā | Arcturus | α Boötis | likely | Ṛgveda & Vedāṅga Jyotiṣa |
-| [सार्प](#सार्प-sārpa--āśleṣā-head-of-hydra) | Sārpa | Āśleṣā (head of Hydra) | ε Hydrae (with δ, η, ρ, σ Hydrae) | likely | Later siddhāntas & al-Bīrūnī; Ṛgveda & Vedāṅga Jyotiṣa |
+| [सार्प](#सार्प-sārpa--āśleṣā-head-of-hydra) | Sārpa | Āśleṣā (head of Hydra) | ε Hydrae (with δ, η, ρ, σ Hydrae) | likely | Later siddhāntas & al-Bīrūnī; Mahābhārata & Rāmāyaṇa; Ṛgveda & Vedāṅga Jyotiṣa |
 | [ज्येष्ठघ्नी](#ज्येष्ठघ्नी-jyeṣṭhaghnī--antares-cor-scorpionis) | Jyeṣṭhaghnī | Antares (Cor Scorpionis) | α Scorpii | certain | Ṛgveda & Vedāṅga Jyotiṣa |
 | [मूलबर्हण](#मूलबर्हण-mūlabarhaṇa-fem-mūlabarhaṇī--the-scorpions-tail-mūla) | Mūlabarhaṇa (fem. Mūlabarhaṇī) | the Scorpion's tail (Mūla) | λ, υ and the chain ε–υ Scorpii | likely | Ṛgveda & Vedāṅga Jyotiṣa |
 | [इन्वकाः](#इन्वकाः-इन्वगाः-invakāḥ-invagāḥ--alternative-taittirīya-name-of-mṛgaśīrṣa---the-stars-of-orions-head) | Invakāḥ (Invagāḥ) | alternative Taittirīya name of Mṛgaśīrṣa - the stars of Orion's head | λ, φ1, φ2 Orionis | likely | Vedic corpus; Ṛgveda & Vedāṅga Jyotiṣa |
-| [इल्वलाः](#इल्वलाः-ilvalāḥ--the-stars-of-orions-head) | Ilvalāḥ | the stars of Orion's head | λ, φ¹, φ² Orionis | likely | Lexicons, Nirukta & Buddhist |
-| [तिष्यः](#तिष्यः-tiṣya--the-later-puṣya-the-asellus-stars-and-praesepe-region) | Tiṣya | the later Puṣya: the Asellus stars and Praesepe region | γ, δ, θ Cancri (δ Cancri = Asellus Australis nearest the ecliptic), with the Praesepe cluster M44 | disputed | Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Vedic corpus; Ṛgveda & Vedāṅga Jyotiṣa |
-| [सिध्यः](#सिध्यः-sidhya--asellus-australis) | Sidhya | Asellus Australis | δ Cancri | certain | Lexicons, Nirukta & Buddhist |
+| [इल्वलाः](#इल्वलाः-ilvalāḥ--the-stars-of-orions-head) | Ilvalāḥ | the stars of Orion's head | λ, φ¹, φ² Orionis | likely | Lexicons, Nirukta & Buddhist; Vaṭeśvara & Sāmanta |
+| [तिष्यः](#तिष्यः-tiṣya--the-later-puṣya-the-asellus-stars-and-praesepe-region) | Tiṣya | the later Puṣya: the Asellus stars and Praesepe region | γ, δ, θ Cancri (δ Cancri = Asellus Australis nearest the ecliptic), with the Praesepe cluster M44 | disputed | Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Vedic corpus; Ṛgveda & Vedāṅga Jyotiṣa |
+| [सिध्यः](#सिध्यः-sidhya--asellus-australis) | Sidhya | Asellus Australis | δ Cancri | certain | Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali |
 | [बाहू](#बाहू-रुद्रस्य-bāhū-rudrasya--the-two-arms-of-the-deerorion-usually-taken-as-betelgeuse-and-bellatrix) | Bāhū (Rudrasya) | 'the two Arms' of the deer/Orion: usually taken as Betelgeuse and Bellatrix | α Orionis and γ Orionis | disputed | Vedic corpus |
 | [रोहिणी](#रोहिणी-द्वितीया--ज्येष्ठा-rohiṇī-second--jyeṣṭhā--antares) | Rohiṇī (second; = Jyeṣṭhā) | Antares | α Scorpii | likely | Vedic corpus |
-| [अश्वयुक्](#अश्वयुक्-aśvayuj--sheratan) | Aśvayuj | Sheratan | β Arietis | certain | Lexicons, Nirukta & Buddhist |
+| [अश्वयुक्](#अश्वयुक्-aśvayuj--sheratan) | Aśvayuj | Sheratan | β Arietis | certain | Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali |
 | [राधा](#राधा-rādhā--zubenelgenubi) | Rādhā | Zubenelgenubi | α Librae | certain | Lexicons, Nirukta & Buddhist |
-| [श्रविष्ठा](#श्रविष्ठा-śraviṣṭhā--rotanev-dhaniṣṭhā) | Śraviṣṭhā | Rotanev (Dhaniṣṭhā) | β Delphini (with α–δ Delphini) | likely | Lexicons, Nirukta & Buddhist; Ṛgveda & Vedāṅga Jyotiṣa |
-| [प्रोष्ठपदा](#प्रोष्ठपदा-proṣṭhapadā--markab--algenib) | Proṣṭhapadā | Markab / Algenib | α and γ Pegasi | certain | Lexicons, Nirukta & Buddhist |
-| [आग्रहायणी](#आग्रहायणी-āgrahāyaṇī--meissa) | Āgrahāyaṇī | Meissa | λ Orionis | certain | Lexicons, Nirukta & Buddhist |
-| [अश्वत्थ](#अश्वत्थ-aśvattha--altair-śravaṇaśroṇā) | Aśvattha | Altair (Śravaṇa/Śroṇā) | α Aquilae | disputed | Ṛgveda & Vedāṅga Jyotiṣa |
+| [श्रविष्ठा](#श्रविष्ठा-śraviṣṭhā--rotanev-dhaniṣṭhā) | Śraviṣṭhā | Rotanev (Dhaniṣṭhā) | β Delphini (with α–δ Delphini) | likely | Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Ṛgveda & Vedāṅga Jyotiṣa |
+| [प्रोष्ठपदा](#प्रोष्ठपदा-proṣṭhapadā--markab--algenib) | Proṣṭhapadā | Markab / Algenib | α and γ Pegasi | certain | Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Utpala's commentary |
+| [आग्रहायणी](#आग्रहायणी-āgrahāyaṇī--meissa) | Āgrahāyaṇī | Meissa | λ Orionis | certain | Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali |
+| [अश्वत्थ](#अश्वत्थ-aśvattha--altair-śravaṇaśroṇā) | Aśvattha | Altair (Śravaṇa/Śroṇā) | α Aquilae | disputed | Pāṇini & Patañjali; Ṛgveda & Vedāṅga Jyotiṣa |
 | [ब्राह्मण](#ब्राह्मण-brāhmaṇa--unidentified) | Brāhmaṇa | unidentified | — | disputed | Ṛgveda & Vedāṅga Jyotiṣa |
 | [वैष्णव](#वैष्णव-vaiṣṇava--altair) | Vaiṣṇava | Altair | α Aquilae | certain | Later siddhāntas & al-Bīrūnī |
 | [वासव](#वासव-vāsava--rotanev) | Vāsava | Rotanev | β Delphini | likely | Later siddhāntas & al-Bīrūnī |
 | [अहिर्बुध्न्य](#अहिर्बुध्न्य-ahirbudhnya--algenib--alpheratz) | Ahirbudhnya | Algenib / Alpheratz | γ Pegasi / α Andromedae | certain | Later siddhāntas & al-Bīrūnī |
 | [अश्विनिदैवत](#अश्विनिदैवत-aśvinidaivata--sheratan) | Aśvinidaivata | Sheratan | β Arietis | certain | Later siddhāntas & al-Bīrūnī |
-| [मैत्र](#मैत्र-maitra--dschubba) | Maitra | Dschubba | δ Scorpii | certain | Later siddhāntas & al-Bīrūnī |
+| [मैत्र](#मैत्र-maitra--dschubba) | Maitra | Dschubba | δ Scorpii | certain | Later siddhāntas & al-Bīrūnī; Mahābhārata & Rāmāyaṇa |
 | [रौद्रर्क्ष](#रौद्रर्क्ष-raudrarkṣa--betelgeuse) | Raudrarkṣa | Betelgeuse | α Orionis | disputed | Later siddhāntas & al-Bīrūnī |
 | [सौम्य](#सौम्य-saumya--meissa) | Saumya | Meissa | λ Orionis | certain | Later siddhāntas & al-Bīrūnī |
 | [प्राजेश](#प्राजेश-prājeśa--aldebaran) | Prājeśa | Aldebaran | α Tauri | certain | Later siddhāntas & al-Bīrūnī |
 | [आग्नेय](#आग्नेय-āgneya--alcyone) | Āgneya | Alcyone | η Tauri | certain | Later siddhāntas & al-Bīrūnī |
-| [अगस्त्य](#अगस्त्य-agastya--canopus) | Agastya | Canopus | α Carinae | certain | Bṛhat Saṃhitā; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Purāṇas; Siddhānta Śiromaṇi; Sūrya Siddhānta |
-| [मृगव्याध](#मृगव्याध-mṛgavyādha--sirius) | Mṛgavyādha | Sirius | α Canis Majoris | likely | Later siddhāntas & al-Bīrūnī; Sūrya Siddhānta; Vedic corpus |
-| [लुब्धक](#लुब्धक-lubdhaka--sirius) | Lubdhaka | Sirius | α Canis Majoris | disputed | Bṛhat Saṃhitā; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Siddhānta Śiromaṇi |
-| [अग्नि](#अग्नि-हुतभुज्-agni-hutabhuj--elnath) | Agni (Hutabhuj) | Elnath | β Tauri | certain | Sūrya Siddhānta |
-| [ब्रह्महृदय](#ब्रह्महृदय-brahmahṛdaya--capella) | Brahmahṛdaya | Capella | α Aurigae | certain | Later siddhāntas & al-Bīrūnī; Sūrya Siddhānta |
-| [प्रजापति](#प्रजापति-prajāpati--prijipati) | Prajāpati | Prijipati | δ Aurigae | likely | Sūrya Siddhānta |
-| [अपांवत्स](#अपांवत्स-apāṃvatsa--θ-virginis) | Apāṃvatsa | θ Virginis | θ Virginis | likely | Sūrya Siddhānta |
-| [आपस्](#आपस्-आपः-āpas--minelauva-auva) | Āpas | Minelauva (Auva) | δ Virginis | certain | Sūrya Siddhānta |
-| [ध्रुवः](#ध्रुवः-dhruva--polaris-the-pole-star) | Dhruva | Polaris (the pole star) | α Ursae Minoris | disputed | Lexicons, Nirukta & Buddhist; Purāṇas; Vedic corpus |
+| [बहुला](#बहुला-bahulā--alcyone-the-pleiades) | Bahulā | Alcyone (the Pleiades) | η Tauri | certain | Pāṇini & Patañjali |
+| [कार्त्तिक](#कार्त्तिक-kārttika-middle-indic-kattika--alcyone-pleiades--the-star-that-names-the-month) | Kārttika (Middle-Indic Kattika) | Alcyone (Pleiades) — the star that names the month | η Tauri | certain | Chinese Buddhist witnesses |
+| [पैतामह](#पैतामह-paitāmaha--aldebaran) | Paitāmaha | Aldebaran | α Tauri | certain | Utpala's commentary |
+| [स्वायम्भुव](#स्वायम्भुव-svāyambhuva--aldebaran) | Svāyambhuva | Aldebaran | α Tauri | certain | Utpala's commentary |
+| [प्राजापत्य](#प्राजापत्य-prājāpatya-prājāpatyaṃ-nakṣatram--aldebaran) | Prājāpatya (prājāpatyaṃ nakṣatram) | Aldebaran | α Tauri | certain | Mahābhārata & Rāmāyaṇa |
+| [अनल](#अनल-anala--alcyone-pleiades) | Anala | Alcyone (Pleiades) | η Tauri | certain | Utpala's commentary |
+| [याम्य](#याम्य-yāmya--35-arietis-musca-borealis) | Yāmya | 35 Arietis (Musca Borealis) | 35 Arietis | certain | Utpala's commentary |
+| [पौष्ण](#पौष्ण-pauṣṇa--revati) | Pauṣṇa | Revati | ζ Piscium | certain | Utpala's commentary |
+| [भाग्य](#भाग्य-bhāgya--zosma) | Bhāgya | Zosma | δ Leonis | likely | Mahābhārata & Rāmāyaṇa; Utpala's commentary |
+| [पवन / अनिल / वायव्य](#पवन--अनिल--वायव्य-pavana--anila--vāyavya--arcturus) | Pavana / Anila / Vāyavya | Arcturus | α Boötis | certain | Utpala's commentary |
+| [त्वाष्ट्र](#त्वाष्ट्र-tvāṣṭra--spica) | Tvāṣṭra | Spica | α Virginis | certain | Utpala's commentary |
+| [वारुण](#वारुण-vāruṇa--hydor) | Vāruṇa | Hydor | λ Aquarii | certain | Utpala's commentary |
+| [प्रचेतस्](#प्रचेतस्-pracetas--śatabhiṣaj-λ-aquarii) | Pracetas | Śatabhiṣaj (λ Aquarii) | λ Aquarii | certain | Vaṭeśvara & Sāmanta |
+| [मैन्द्र](#मैन्द्र-maindra--antares) | Maindra | Antares | α Scorpii | likely | Utpala's commentary |
+| [ऐन्द्र नक्षत्र](#ऐन्द्र-नक्षत्र-aindra-nakṣatra--antares) | Aindra nakṣatra | Antares | α Scorpii | certain | Mahābhārata & Rāmāyaṇa |
+| [एकपाद / अजा](#एकपाद--अजा-ekapāda--ajā--markab) | Ekapāda / Ajā | Markab | α Pegasi | certain | Utpala's commentary |
+| [आदित्य](#आदित्य-āditya--pollux) | Āditya | Pollux | β Geminorum | certain | Utpala's commentary |
+| [नक्षत्रेऽदितिदैवत्ये](#नक्षत्रेऽदितिदैवत्ये-aditidaivatya-nakṣatra--pollux) | Aditidaivatya nakṣatra | Pollux | β Geminorum | certain | Mahābhārata & Rāmāyaṇa |
+| [देवमातृ](#देवमातृ-devamātṛ--punarvasu-β-geminorum) | Devamātṛ | Punarvasu (β Geminorum) | β Geminorum | certain | Vaṭeśvara & Sāmanta |
+| [विष्णुभ](#विष्णुभ-viṣṇubha--altair) | Viṣṇubha | Altair | α Aquilae | certain | Utpala's commentary |
+| [गोविन्द](#गोविन्द-govinda--śravaṇa-α-aquilae) | Govinda | Śravaṇa (α Aquilae) | α Aquilae | certain | Vaṭeśvara & Sāmanta |
+| [ब्रह्मनक्षत्रम्](#ब्रह्मनक्षत्रम्-brahma-nakṣatra--vega) | Brahma-nakṣatra | Vega | α Lyrae | certain | Utpala's commentary |
+| [नैर्ऋत](#नैर्ऋत-nairṛta-nairṛtaṃ-nakṣatram--shaula) | Nairṛta (nairṛtaṃ nakṣatram) | Shaula | λ Scorpii | certain | Mahābhārata & Rāmāyaṇa |
+| [जीव](#जीव-jīva--puṣya-δ-cancri) | Jīva | Puṣya (δ Cancri) | δ Cancri | certain | Vaṭeśvara & Sāmanta |
+| [वित्त](#वित्त-vitta--dhaniṣṭhā-β-delphini) | Vitta | Dhaniṣṭhā (β Delphini) | β Delphini | certain | Vaṭeśvara & Sāmanta |
+| [अगस्त्य](#अगस्त्य-agastya--canopus) | Agastya | Canopus | α Carinae | disputed | Bṛhat Saṃhitā; Classical kāvya; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Purāṇas; Pāṇini & Patañjali; Siddhānta Śiromaṇi; Sūrya Siddhānta; Utpala's commentary; Vaṭeśvara & Sāmanta; Āryabhaṭīya commentaries |
+| [मृगव्याध](#मृगव्याध-mṛgavyādha--sirius) | Mṛgavyādha | Sirius | α Canis Majoris | disputed | Later siddhāntas & al-Bīrūnī; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [लुब्धक](#लुब्धक-lubdhaka--sirius) | Lubdhaka | Sirius | α Canis Majoris | disputed | Bṛhat Saṃhitā; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Siddhānta Śiromaṇi; Vaṭeśvara & Sāmanta |
+| [अग्नि](#अग्नि-हुतभुज्-agni-hutabhuj--elnath) | Agni (Hutabhuj) | Elnath | β Tauri | certain | Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [ब्रह्महृदय](#ब्रह्महृदय-brahmahṛdaya--capella) | Brahmahṛdaya | Capella | α Aurigae | certain | Later siddhāntas & al-Bīrūnī; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [प्रजापति](#प्रजापति-prajāpati--prijipati) | Prajāpati | Prijipati | δ Aurigae | disputed | Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [अपांवत्स](#अपांवत्स-apāṃvatsa--θ-virginis) | Apāṃvatsa | θ Virginis | θ Virginis | likely | Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [आपस्](#आपस्-आपः-āpas--minelauva-auva) | Āpas | Minelauva (Auva) | δ Virginis | likely | Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [ध्रुवः](#ध्रुवः-dhruva--polaris-the-pole-star) | Dhruva | Polaris (the pole star) | α Ursae Minoris | disputed | Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Purāṇas; Vedic corpus |
 | [कुम्भसम्भवः](#कुम्भसम्भवः-kumbhasambhava--canopus) | Kumbhasambhava | Canopus | α Carinae | certain | Lexicons, Nirukta & Buddhist |
 | [मैत्रावरुणिः](#मैत्रावरुणिः-maitrāvaruṇi--canopus) | Maitrāvaruṇi | Canopus | α Carinae | certain | Lexicons, Nirukta & Buddhist |
-| [मुनि](#मुनि-muni--canopus) | Muni | Canopus | α Carinae | certain | Later siddhāntas & al-Bīrūnī |
+| [मुनि](#मुनि-muni--canopus) | Muni | Canopus | α Carinae | disputed | Later siddhāntas & al-Bīrūnī; Vaṭeśvara & Sāmanta |
 | [मृगहर्तृ](#मृगहर्तृ-mṛgahartṛ--sirius) | Mṛgahartṛ | Sirius | α Canis Majoris | certain | Later siddhāntas & al-Bīrūnī |
 | [लोपामुद्रावल्लभ](#लोपामुद्रावल्लभ-lopāmudrāvallabha--canopus) | Lopāmudrāvallabha | Canopus | α Carinae | certain | Later siddhāntas & al-Bīrūnī |
 | [औत्तानपादिः](#औत्तानपादिः-auttānapādi--pole-star) | Auttānapādi | Pole Star | α Ursae Minoris / the celestial pole | certain | Lexicons, Nirukta & Buddhist |
 | [शूल](#शूल--śūla--unidentified-red-star-reported-south-of-canopus) | Śūla | unidentified red star reported south of Canopus | — | disputed | Later siddhāntas & al-Bīrūnī |
-| [सप्तर्षयः / ऋक्षाः](#सप्तर्षयः--ऋक्षाः-saptarṣayaḥ--ṛkṣāḥ--the-big-dipper---seven-bright-stars-of-ursa-major-dubhe-merak-phecda-megrez-alioth-mizar-alkaid) | Saptarṣayaḥ / Ṛkṣāḥ | the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid) | α, β, γ, δ, ε, ζ, η Ursae Majoris | certain | Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Purāṇas; Vedic corpus |
-| [मरीचि](#मरीचि-marīci--alkaid-benetnash) | Marīci | Alkaid (Benetnash) | η Ursae Majoris | likely | Bṛhat Saṃhitā |
-| [वसिष्ठ](#वसिष्ठ-vasiṣṭha--mizar) | Vasiṣṭha | Mizar | ζ Ursae Majoris | certain | Bṛhat Saṃhitā |
-| [अङ्गिरस्](#अङ्गिरस्-aṅgiras--alioth) | Aṅgiras | Alioth | ε Ursae Majoris | likely | Bṛhat Saṃhitā |
-| [अत्रि](#अत्रि-atri--megrez) | Atri | Megrez | δ Ursae Majoris | likely | Bṛhat Saṃhitā |
-| [पुलस्त्य](#पुलस्त्य-pulastya--phecda) | Pulastya | Phecda | γ Ursae Majoris | likely | Bṛhat Saṃhitā |
-| [पुलह](#पुलह-pulaha--merak) | Pulaha | Merak | β Ursae Majoris | likely | Bṛhat Saṃhitā |
-| [क्रतु](#क्रतु-kratu--dubhe) | Kratu | Dubhe | α Ursae Majoris | likely | Bṛhat Saṃhitā |
-| [अरुन्धती](#अरुन्धती-arundhatī--alcor-the-faint-companion-of-mizar-in-the-big-dippers-handle) | Arundhatī | Alcor, the faint companion of Mizar in the Big Dipper's handle | 80 Ursae Majoris | certain | Bṛhat Saṃhitā; Later siddhāntas & al-Bīrūnī; Vedic corpus |
+| [कुम्भयोनि](#कुम्भयोनि-kumbhayoni--canopus) | Kumbhayoni | Canopus | α Carinae | certain | Classical kāvya |
+| [यम](#यम-yama--unidentified--a-southern-star-given-coordinates-by-sāmanta) | Yama | unidentified — a southern star given coordinates by Sāmanta | — | unidentified | Vaṭeśvara & Sāmanta |
+| [सप्तर्षयः / ऋक्षाः](#सप्तर्षयः--ऋक्षाः-saptarṣayaḥ--ṛkṣāḥ--the-big-dipper---seven-bright-stars-of-ursa-major-dubhe-merak-phecda-megrez-alioth-mizar-alkaid) | Saptarṣayaḥ / Ṛkṣāḥ | the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid) | α, β, γ, δ, ε, ζ, η Ursae Majoris | disputed | Classical kāvya; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Purāṇas; Pāṇini & Patañjali; Utpala's commentary; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [मरीचि](#मरीचि-marīci--alkaid-benetnash) | Marīci | Alkaid (Benetnash) | η Ursae Majoris | likely | Bṛhat Saṃhitā; Vaṭeśvara & Sāmanta |
+| [वसिष्ठ](#वसिष्ठ-vasiṣṭha--mizar) | Vasiṣṭha | Mizar | ζ Ursae Majoris | likely | Bṛhat Saṃhitā; Mahābhārata & Rāmāyaṇa; Vaṭeśvara & Sāmanta |
+| [अङ्गिरस्](#अङ्गिरस्-aṅgiras--alioth) | Aṅgiras | Alioth | ε Ursae Majoris | likely | Bṛhat Saṃhitā; Vaṭeśvara & Sāmanta |
+| [अत्रि](#अत्रि-atri--megrez) | Atri | Megrez | δ Ursae Majoris | likely | Bṛhat Saṃhitā; Vaṭeśvara & Sāmanta |
+| [पुलस्त्य](#पुलस्त्य-pulastya--phecda) | Pulastya | Phecda | γ Ursae Majoris | likely | Bṛhat Saṃhitā; Vaṭeśvara & Sāmanta |
+| [पुलह](#पुलह-pulaha--merak) | Pulaha | Merak | β Ursae Majoris | likely | Bṛhat Saṃhitā; Vaṭeśvara & Sāmanta |
+| [क्रतु](#क्रतु-kratu--dubhe) | Kratu | Dubhe | α Ursae Majoris | likely | Bṛhat Saṃhitā; Vaṭeśvara & Sāmanta |
+| [अरुन्धती](#अरुन्धती-arundhatī--alcor-the-faint-companion-of-mizar-in-the-big-dippers-handle) | Arundhatī | Alcor, the faint companion of Mizar in the Big Dipper's handle | 80 Ursae Majoris | disputed | Bṛhat Saṃhitā; Classical kāvya; Later siddhāntas & al-Bīrūnī; Mahābhārata & Rāmāyaṇa; Utpala's commentary; Vaṭeśvara & Sāmanta; Vedic corpus |
 | [ऋक्षाः](#ऋक्षाः-ṛkṣāḥ--ursa-major-the-seven-ṛṣis--big-dipper) | Ṛkṣāḥ | Ursa Major (the Seven Ṛṣis / Big Dipper) | α–η Ursae Majoris | disputed | Lexicons, Nirukta & Buddhist; Ṛgveda & Vedāṅga Jyotiṣa |
 | [अम्बा](#अम्बा-दुला-नितत्नी-अभ्रयन्ती-मेघयन्ती-वर्षयन्ती-चुपुणीका-ambā-dulā-nitatnī-abhrayantī-meghayantī-varṣayantī-cupuṇīkā--the-seven-individual-stars-of-the-pleiades) | Ambā, Dulā, Nitatnī, Abhrayantī, Meghayantī, Varṣayantī, Cupuṇīkā | the seven individual stars of the Pleiades | brightest members: η, 27, 17, 20, 23, 19, 28 Tauri (no secure one-to-one mapping) | likely | Vedic corpus |
 | [मृगः](#मृगः-प्रजापतिः-mṛga-prajāpati--the-celestial-deer--orion) | Mṛga (Prajāpati) | the celestial deer = Orion | constellation Orion (head λ Ori; body the Belt region) | likely | Vedic corpus |
-| [इषुस्त्रिकाण्डा](#इषुस्त्रिकाण्डा-iṣus-trikāṇḍā--orions-belt---mintaka-alnilam-alnitak---as-the-three-jointed-arrow) | Iṣus trikāṇḍā | Orion's Belt - Mintaka, Alnilam, Alnitak - as the 'three-jointed arrow' | δ, ε, ζ Orionis | likely | Vedic corpus |
+| [इषुस्त्रिकाण्डा](#इषुस्त्रिकाण्डा-iṣus-trikāṇḍā--orions-belt---mintaka-alnilam-alnitak---as-the-three-jointed-arrow) | Iṣus trikāṇḍā | Orion's Belt - Mintaka, Alnilam, Alnitak - as the 'three-jointed arrow' | δ, ε, ζ Orionis | likely | Vaṭeśvara & Sāmanta; Vedic corpus |
 | [विचृतौ](#विचृतौ-vicṛtau--shaula-and-lesath-the-scorpions-sting) | Vicṛtau | Shaula and Lesath (the Scorpion's sting) | λ & υ Scorpii | certain | Ṛgveda & Vedāṅga Jyotiṣa |
 | [शिशुमार](#शिशुमार-śiśumāra--the-celestial-porpoisedolphin--a-whole-star-figure-not-a-single-star) | Śiśumāra | the celestial porpoise/dolphin — a whole star-figure, not a single star | — | disputed | Purāṇas |
 | [सक्वर](#सक्वर--sakvara--the-circumpolar-14-star-figure-a-second-name-for-the-śiśumāra) | Sakvara | the circumpolar 14-star figure (a second name for the Śiśumāra) | — | disputed | Later siddhāntas & al-Bīrūnī |
-| [त्रिशङ्कु](#त्रिशङ्कु-triśaṅku--triśaṅku--a-king-fixed-head-downward-in-the-southern-sky) | Triśaṅku | Triśaṅku — a king fixed head-downward in the southern sky | — | disputed | Purāṇas |
+| [त्रिशङ्कु](#त्रिशङ्कु-triśaṅku--triśaṅku--a-king-fixed-head-downward-in-the-southern-sky) | Triśaṅku | Triśaṅku — a king fixed head-downward in the southern sky | — | unidentified | Chinese Buddhist witnesses; Mahābhārata & Rāmāyaṇa; Purāṇas |
 | [धाता](#धाता-विधाता-dhātā-vidhātā--two-circumpolar-star-positions-at-the-root-of-the-śiśumāras-tail) | Dhātā, Vidhātā | two circumpolar star-positions at the root of the Śiśumāra's tail | — | disputed | Purāṇas |
 | [इन्द्र / महेन्द्र](#इन्द्र--महेन्द्र-indra--mahendra--a-circumpolar-star-on-the-tail-of-the-śiśumāra) | Indra / Mahendra | a circumpolar star on the tail of the Śiśumāra | — | disputed | Purāṇas |
 | [कश्यप](#कश्यप-kaśyapa--a-circumpolar-star-on-the-tail-of-the-śiśumāra-adjacent-to-dhruva) | Kaśyapa | a circumpolar star on the tail of the Śiśumāra, adjacent to Dhruva | — | disputed | Purāṇas |
@@ -110,41 +137,49 @@ Authentic references to star names in Sanskrit texts: the original shloka (copie
 | [यम](#यम-अधराहनौ-yama-on-the-lower-jaw--a-star-on-the-lower-jaw-of-the-śiśumāra-opposite-agasti) | Yama (on the lower jaw) | a star on the lower jaw of the Śiśumāra, opposite Agasti | — | disputed | Purāṇas |
 | [प्रजापति](#प्रजापति-पुच्छे-prajāpati-in-the-tail--a-circumpolar-star-on-the-śiśumāras-tail--not-the-ecliptic-prajāpati) | Prajāpati (in the tail) | a CIRCUMPOLAR star on the Śiśumāra's tail — not the ecliptic Prajāpati | — | disputed | Purāṇas |
 | [सुनीति](#सुनीति-sunīti--a-star-beside-dhruva--dhruvas-mother-placed-as-a-star-near-the-pole) | Sunīti | a star beside Dhruva — Dhruva's mother, placed as a star near the pole | — | disputed | Purāṇas |
-| [नागवीथी](#नागवीथी-nāgavīthī--the-serpent-road-northernmost-of-the-nine-star-roads) | Nāgavīthī | the Serpent-road, northernmost of the nine star-roads | — | likely | Purāṇas |
-| [गजवीथी](#गजवीथी-gajavīthī--the-elephant-road) | Gajavīthī | the Elephant-road | — | likely | Purāṇas |
-| [ऐरावती](#ऐरावती-airāvatī--the-road-of-airāvata) | Airāvatī | the road of Airāvata | — | likely | Purāṇas |
-| [आर्षभी](#आर्षभी-ārṣabhī--the-bull-road) | Ārṣabhī | the Bull-road | — | likely | Purāṇas |
-| [गोवीथी](#गोवीथी-govīthī--the-cow-road) | Govīthī | the Cow-road | — | disputed | Purāṇas |
-| [जरद्गव / जारद्गवी](#जरद्गव--जारद्गवी-jaradgava--jāradgavī--the-old-ox-road) | Jaradgava / Jāradgavī | the Old-Ox road | — | disputed | Purāṇas |
-| [अजवीथी](#अजवीथी-ajavīthī--the-goat-road--a-three-nakṣatra-segment-of-the-ecliptic-belt) | Ajavīthī | the Goat-road — a three-nakṣatra segment of the ecliptic belt | — | disputed | Purāṇas |
-| [मृगवीथी](#मृगवीथी-mṛgavīthī--the-deer-road) | Mṛgavīthī | the Deer-road | — | likely | Purāṇas |
-| [वैश्वानरी](#वैश्वानरी-vaiśvānarī--the-road-of-vaiśvānara-fire) | Vaiśvānarī | the road of Vaiśvānara (Fire) | — | disputed | Purāṇas |
-| [ऐरावत / जरद्गव / वैश्वानर](#ऐरावत--जरद्गव--वैश्वानर-मार्गाः-airāvata--jaradgava--vaiśvānara-the-three-mārgas--the-three-great-celestial-belts--northern-middle-southern) | Airāvata / Jaradgava / Vaiśvānara (the three mārgas) | the three great celestial belts — northern, middle, southern | — | likely | Purāṇas |
+| [नागवीथी](#नागवीथी-nāgavīthī--the-serpent-road-northernmost-of-the-nine-star-roads) | Nāgavīthī | the Serpent-road, northernmost of the nine star-roads | — | likely | Purāṇas; Utpala's commentary |
+| [गजवीथी](#गजवीथी-gajavīthī--the-elephant-road) | Gajavīthī | the Elephant-road | — | likely | Purāṇas; Utpala's commentary |
+| [ऐरावती](#ऐरावती-airāvatī--the-road-of-airāvata) | Airāvatī | the road of Airāvata | — | likely | Purāṇas; Utpala's commentary |
+| [आर्षभी](#आर्षभी-ārṣabhī--the-bull-road) | Ārṣabhī | the Bull-road | — | likely | Purāṇas; Utpala's commentary |
+| [गोवीथी](#गोवीथी-govīthī--the-cow-road) | Govīthī | the Cow-road | — | disputed | Purāṇas; Utpala's commentary |
+| [जरद्गव / जारद्गवी](#जरद्गव--जारद्गवी-jaradgava--jāradgavī--the-old-ox-road) | Jaradgava / Jāradgavī | the Old-Ox road | — | disputed | Purāṇas; Utpala's commentary |
+| [अजवीथी](#अजवीथी-ajavīthī--the-goat-road--a-three-nakṣatra-segment-of-the-ecliptic-belt) | Ajavīthī | the Goat-road — a three-nakṣatra segment of the ecliptic belt | — | disputed | Purāṇas; Utpala's commentary |
+| [मृगवीथी](#मृगवीथी-mṛgavīthī--the-deer-road) | Mṛgavīthī | the Deer-road | — | likely | Purāṇas; Utpala's commentary |
+| [वैश्वानरी](#वैश्वानरी-vaiśvānarī--the-road-of-vaiśvānara-fire) | Vaiśvānarī | the road of Vaiśvānara (Fire) | — | disputed | Mahābhārata & Rāmāyaṇa; Purāṇas; Utpala's commentary |
+| [ऐरावत / जरद्गव / वैश्वानर](#ऐरावत--जरद्गव--वैश्वानर-मार्गाः-airāvata--jaradgava--vaiśvānara-the-three-mārgas--the-three-great-celestial-belts--northern-middle-southern) | Airāvata / Jaradgava / Vaiśvānara (the three mārgas) | the three great celestial belts — northern, middle, southern | — | likely | Purāṇas; Utpala's commentary |
 | [पितृयाण / देवयान](#पितृयाण--देवयान-pitṛyāṇa--devayāna--the-road-of-the-fathers--the-road-of-the-gods--two-celestial-bands-defined-by-star-markers) | Pitṛyāṇa / Devayāna | the Road of the Fathers / the Road of the Gods — two celestial bands defined by star markers | — | likely | Purāṇas |
-| [आकाशगङ्गा](#आकाशगङ्गा-ākāśagaṅgā--the-milky-way-lit-sky-ganges) | Ākāśagaṅgā | the Milky Way (lit. 'sky-Ganges') | — | likely | Purāṇas |
-| [छायापथ](#छायापथ-chāyāpatha--the-milky-way-lit-the-shadow-path) | Chāyāpatha | the Milky Way (lit. 'the shadow-path') | — | certain | Purāṇas |
+| [सुरवीथी](#सुरवीथी-suravīthī--the-road-of-the-gods--the-broad-path-of-the-asterisms) | Suravīthī | the road of the gods — the broad path of the asterisms | — | likely | Mahābhārata & Rāmāyaṇa |
+| [आद्य](#आद्य-रोहित-दारुण-विरोचन-ऊर्ध्वदण्ड-तीक्ष्ण-ādya-rohita-dāruṇa-virocana-ūrdhvadaṇḍa-tīkṣṇa-the-six-maṇḍalas--the-six-circles-of-the-ecliptic--named-blocks-of-46-consecutive-nakṣatras) | Ādya, Rohita, Dāruṇa, Virocana, Ūrdhvadaṇḍa, Tīkṣṇa (the six maṇḍalas) | the six 'circles' of the ecliptic — named blocks of 4–6 consecutive nakṣatras | — | likely | Utpala's commentary |
+| [आकाशगङ्गा](#आकाशगङ्गा-ākāśagaṅgā--the-milky-way-lit-sky-ganges) | Ākāśagaṅgā | the Milky Way (lit. 'sky-Ganges') | — | likely | Classical kāvya; Purāṇas |
+| [छायापथ](#छायापथ-chāyāpatha--the-milky-way-lit-the-shadow-path) | Chāyāpatha | the Milky Way (lit. 'the shadow-path') | — | certain | Classical kāvya; Purāṇas |
 | [त्रिपथगा](#त्रिपथगा-tripathagā--the-milky-way-as-the-three-path-goer-the-gaṅgā-of-the-three-worlds) | Tripathagā | the Milky Way, as the 'three-path-goer' (the Gaṅgā of the three worlds) | — | certain | Purāṇas |
 | [मन्दाकिनी](#मन्दाकिनी-mandākinī--milky-way) | Mandākinī | Milky Way | — | likely | Lexicons, Nirukta & Buddhist |
 | [वियद्गङ्गा](#वियद्गङ्गा-viyadgaṅgā--milky-way) | Viyadgaṅgā | Milky Way | — | likely | Lexicons, Nirukta & Buddhist |
 | [स्वर्णदी](#स्वर्णदी-svarnadī--milky-way) | Svarnadī | Milky Way | — | likely | Lexicons, Nirukta & Buddhist |
 | [सुरदीर्घिका](#सुरदीर्घिका-suradīrghikā--milky-way) | Suradīrghikā | Milky Way | — | disputed | Lexicons, Nirukta & Buddhist |
+| [व्योमगङ्गा](#व्योमगङ्गा-vyomagaṅgā--the-milky-way) | Vyomagaṅgā | the Milky Way | — | likely | Classical kāvya |
+| [नभोनदी](#नभोनदी-nabhonadī--the-milky-way) | Nabhonadī | the Milky Way | — | likely | Classical kāvya |
 | [विष्णुपद](#विष्णुपद-viṣṇupada--the-step-of-viṣṇu--the-third-and-highest-region-of-the-sky-where-dhruva-stands) | Viṣṇupada | 'the step of Viṣṇu' — the third and highest region of the sky, where Dhruva stands | — | disputed | Lexicons, Nirukta & Buddhist; Purāṇas |
 | [मेढी / मेढीभूत](#मेढी--मेढीभूत-meḍhī--meḍhībhūta--the-threshing-post--the-celestial-pole-as-the-pivot-to-which-the-sky-is-tethered) | Meḍhī / Meḍhībhūta | 'the threshing-post' — the celestial pole as the pivot to which the sky is tethered | — | certain | Purāṇas |
 | [प्रवह](#प्रवह-pravaha--the-wind-that-carries-the-stars-around-the-pole) | Pravaha | the wind that carries the stars around the pole | — | certain | Purāṇas |
 | [तारापथः](#तारापथः-tārāpatha--the-firmament-star-road) | Tārāpatha | the firmament ('star-road') | — | certain | Lexicons, Nirukta & Buddhist |
-| [नक्षत्रम्](#नक्षत्रम्-nakṣatra--star--asterism-generic) | Nakṣatra | star / asterism (generic) | — | certain | Lexicons, Nirukta & Buddhist |
+| [नक्षत्रम्](#नक्षत्रम्-nakṣatra--star--asterism-generic) | Nakṣatra | star / asterism (generic) | — | certain | Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali |
 | [भम्](#भम्-bha--star--asterism-generic) | Bha | star / asterism (generic) | — | certain | Lexicons, Nirukta & Buddhist |
 | [तारा](#तारा-tārā--star-generic) | Tārā | star (generic) | — | certain | Lexicons, Nirukta & Buddhist |
-| [तारका](#तारका-tārakā--star-generic) | Tārakā | star (generic) | — | certain | Lexicons, Nirukta & Buddhist |
+| [तारका](#तारका-tārakā--star-generic) | Tārakā | star (generic) | — | certain | Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali |
 | [उडु](#उडु-uḍu--star--lunar-mansion-generic) | Uḍu | star / lunar mansion (generic) | — | certain | Lexicons, Nirukta & Buddhist |
 | [धिष्ण्यम्](#धिष्ण्यम्-dhiṣṇya--asterism--star-station-generic) | Dhiṣṇya | asterism / star-station (generic) | — | certain | Lexicons, Nirukta & Buddhist |
 | [स्तृभिः](#स्तृभिः-stṛbhiḥ-stem-stṛ--the-stars-generic-vedic) | Stṛbhiḥ (stem stṛ) | the stars (generic, Vedic) | — | certain | Lexicons, Nirukta & Buddhist |
-| [अश्विन्यादीनां साभिजितां योगताराः](#अश्विन्यादीनां-साभिजितां-योगताराः-aśvinyādi-yogatārāḥ-sābhijit--collective-catalog-of-28-junction-stars) | Aśvinyādi yogatārāḥ (sābhijit) | collective catalog of 28 junction stars | various | likely | Later siddhāntas & al-Bīrūnī; Siddhānta Śiromaṇi |
+| [अश्विन्यादीनां साभिजितां योगताराः](#अश्विन्यादीनां-साभिजितां-योगताराः-aśvinyādi-yogatārāḥ-sābhijit--collective-catalog-of-28-junction-stars) | Aśvinyādi yogatārāḥ (sābhijit) | collective catalog of 28 junction stars | various | likely | Classical kāvya; Later siddhāntas & al-Bīrūnī; Siddhānta Śiromaṇi; Vaṭeśvara & Sāmanta |
 | [दाक्षायिण्यः](#दाक्षायिण्यः-dākṣāyaṇyaḥ--the-27-lunar-mansions-collectively) | Dākṣāyaṇyaḥ | the 27 lunar mansions collectively | — | certain | Lexicons, Nirukta & Buddhist |
-| [चित्रशिखण्डिनः](#चित्रशिखण्डिनः-citraśikhaṇḍinaḥ--big-dipper--great-bear) | Citraśikhaṇḍinaḥ | Big Dipper / Great Bear | α–η Ursae Majoris | certain | Lexicons, Nirukta & Buddhist |
-| [अष्टाविंशतिनक्षत्राणि](#अष्टाविंशतिनक्षत्राणि-aṣṭāviṃśati-nakṣatrāṇi--the-28-fold-nakshatra-circle-buddhist) | Aṣṭāviṃśati-nakṣatrāṇi | the 28-fold nakshatra circle (Buddhist) | — | certain | Lexicons, Nirukta & Buddhist |
-| [चतुर्द्वारिकाणि नक्षत्राणि](#चतुर्द्वारिकाणि-नक्षत्राणि-catur-dvārikāṇi-nakṣatrāṇi--the-28-nakshatras-in-four-gate-groups-of-seven) | Catur-dvārikāṇi nakṣatrāṇi | the 28 nakshatras in four gate-groups of seven | — | certain | Lexicons, Nirukta & Buddhist |
-| [ताराग्रहाः](#ताराग्रहाः-tārāgrahāḥ--the-five-star-planets) | Tārāgrahāḥ | the five star-planets | Mercury, Venus, Mars, Jupiter, Saturn | certain | Lexicons, Nirukta & Buddhist |
+| [चित्रशिखण्डिनः](#चित्रशिखण्डिनः-citraśikhaṇḍinaḥ--big-dipper--great-bear) | Citraśikhaṇḍinaḥ | Big Dipper / Great Bear | α–η Ursae Majoris | likely | Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa |
+| [अष्टाविंशतिनक्षत्राणि](#अष्टाविंशतिनक्षत्राणि-aṣṭāviṃśati-nakṣatrāṇi--the-28-fold-nakshatra-circle-buddhist) | Aṣṭāviṃśati-nakṣatrāṇi | the 28-fold nakshatra circle (Buddhist) | — | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist |
+| [चतुर्द्वारिकाणि नक्षत्राणि](#चतुर्द्वारिकाणि-नक्षत्राणि-catur-dvārikāṇi-nakṣatrāṇi--the-28-nakshatras-in-four-gate-groups-of-seven) | Catur-dvārikāṇi nakṣatrāṇi | the 28 nakshatras in four gate-groups of seven | — | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist |
+| [ताराग्रहाः](#ताराग्रहाः-tārāgrahāḥ--the-five-star-planets) | Tārāgrahāḥ | the five star-planets | Mercury, Venus, Mars, Jupiter, Saturn | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist |
+| [रोहिणीशकटम् / प्राजापत्यं शकटम्](#रोहिणीशकटम्--प्राजापत्यं-शकटम्-rohiṇī-śakaṭa--prājāpatya-śakaṭa--the-wain-of-rohiṇī--the-v-shaped-hyades-cluster-with-aldebaran) | Rohiṇī-śakaṭa / Prājāpatya śakaṭa | the 'Wain of Rohiṇī' — the V-shaped Hyades cluster with Aldebaran | α, θ¹, θ², γ, δ, ε Tauri | certain | Utpala's commentary |
+| [ब्रह्मराशिः](#ब्रह्मराशिः-brahmarāśi--unidentified-circumpolar-star-group-listed-between-dhruva-and-the-saptarṣis) | Brahmarāśi | unidentified circumpolar star-group, listed between Dhruva and the Saptarṣis | — | unidentified | Mahābhārata & Rāmāyaṇa; Utpala's commentary |
+| [नक्षत्रमाला](#नक्षत्रमाला-nakṣatramālā-also-nakṣatravaṃśa--a-second-garland-of-asterisms-in-the-southern-sky) | Nakṣatramālā (also nakṣatravaṃśa) | a second 'garland of asterisms' in the southern sky | — | unidentified | Mahābhārata & Rāmāyaṇa |
+| [दक्षिणमार्गस्थाः सप्तर्षयः](#दक्षिणमार्गस्थाः-सप्तर्षयः-dakṣiṇamārgasthāḥ-saptarṣayaḥ--a-southern-counterpart-of-the-great-bear) | Dakṣiṇamārgasthāḥ saptarṣayaḥ | a southern counterpart of the Great Bear | — | unidentified | Mahābhārata & Rāmāyaṇa |
 
 ## What each source yielded
 
@@ -155,6 +190,20 @@ Authentic references to star names in Sanskrit texts: the original shloka (copie
 **Lexicons, Nirukta & Buddhist.** The Amarakośa is the richest yield: its Dig-varga (1.3) — not the Svarga-varga, as often assumed — supplies six generic star-words (nakṣatra, ṛkṣa, bha, tārā, tārakā, uḍu), the patronymic Auttānapādi for the pole star, two further names for Agastya/Canopus (Kumbhasambhava, Maitrāvaruṇi), the collective Dākṣāyaṇyaḥ for the 27 nakshatras, Citraśikhaṇḍinaḥ for the Seven Sages, archaic asterism names (Aśvayuj, Rādhā, Sidhya, Śraviṣṭhā, Proṣṭhapadā, Āgrahāyaṇī), and Ilvalāḥ defined by a relative clause as 'the stars that dwell in the head-region' of the Deer; the Svarga-varga (1.1.116) adds four Milky Way synonyms. Yāska's Nirukta 3.20 gives the oldest Indian etymologies of nakṣatra, ṛkṣa and stṛ. The Buddhist Śārdūlakarṇāvadāna is the single most valuable astronomical witness found: for all 28 nakshatras it gives an exact star-count, a figure, a muhūrta-value, a deity and a gotra — data that bears directly on which stars each asterism comprised. The Jain canon defeated the search: no fetchable Prakrit e-text of the Sūryaprajñapti or its relatives exists online. Arthaśāstra 2.20 turns out NOT to contain a nakshatra list at all.
 
 **Later siddhāntas & al-Bīrūnī.** Sūrya Siddhānta ch. 9 (udayāstādhikāra) yielded the target verse 9.12 verbatim, naming Svātī, Agastya, Mṛgavyādha, Citrā, Jyeṣṭhā, Punarvasu, Abhijit and Brahmahṛdaya as the brightest class of stars, and 9.18, listing the six that never set heliacally; 9.13–15 add nine deity-epithet names for nakshatras. Chapter 10 contains NO star names at all (verified verse by verse); a bonus find is SS 13.8–9, naming Abhijit, the Saptarṣayaḥ and Agastya for the armillary sphere. The Pañcasiddhāntikā names exactly ONE non-nakshatra star — Agastya — and gives coordinates for only SEVEN yogatārās, with Varāhamihira's implied Canopus latitude (75°30' S) markedly better than the Sūrya Siddhānta's 80°. Brahmagupta's yogatārā table WAS located in the Bhagrahayutyadhikāra, with the edition's commentary stating explicitly that Bhāskara reproduced these same values; Brahmagupta names only two non-nakshatra stars, under four names, two of which are new here (muni, mṛgahartṛ). Colebrooke 1817 proves useless for stars — he translated only the mathematical chapters. Al-Bīrūnī is the richest single find: he independently confirms Brahmahṛdaya = Capella and Arundhatī = Alcor (by Ptolemaic catalogue number), reproduces visibility lists matching SS 9.12 and 9.18 almost star for star, glosses Śiśumāra by Persian susmār, fails to identify Śatabhiṣaj, and preserves two otherwise-unknown stars.
+
+**Utpala's commentary.** Bhaṭṭotpala's Vivṛti (966 CE) was read in three independent archive.org scans of three different printed editions (Achyuta Nand Jha's Vimala ed. vol. 1; Krishna Chandra Dvivedi's ed. part I; A.V. Tripathi's Sarasvatī Bhavana ed. part I) plus parts II and III for the later chapters, with GRETIL's Yano–Sugita mūla as the control for Varāhamihira's own verses. The Sudhakara Dvivedi Vizianagram edition is on archive.org but only as pre-Unicode OCR gibberish and was not usable; the modern reprints OCR cleanly in Devanagari and were used instead. GRETIL has NO keyed text of the commentary itself — its Bṛhat Saṃhitā file carries only about thirty scattered [u.] variant markers, none of which touches a star name. THE YIELD IS CONCENTRATED ALMOST ENTIRELY IN CHAPTER 9. Adjudicating the three schemes Varāhamihira leaves open at 9.7, Utpala lays five rival vīthī systems side by side and names their authors — Devala, Kāśyapa, Parāśara, Garga and Varāhamihira's own lost Samāsa-saṃhitā — quoting each verbatim. That single chapter yields: a variant naming of the three mārgas as VĀTA, VYĀḌA and VAIŚVĀNARA (against the database's Purāṇic Airāvata/Jaradgava/Vaiśvānara); a previously unrecorded SIXTH sky-division scheme, Parāśara's six named maṇḍalas ĀDYA, ROHITA, DĀRUṆA, VIROCANA, ŪRDHVADAṆḌA, TĪKṢṆA; new name-forms for four of the nine vīthīs (Vārṣabhī, Gauḥ, Ājī, Mṛgavīthikā, Mṛgākhyā, Vyāḍa-vīthī); and eleven deity-epithet names for individual asterisms that the database did not have — Paitāmaha and Svāyambhuva (Rohiṇī), Pauṣṇa (Revatī), Bhāgya (Pūrva-Phalgunī), Pavana/Anila/Vāyavya (Svātī), Anala (Kṛttikā), Yāmya (Bharaṇī), Tvāṣṭra (Citrā), Vāruṇa (Śatabhiṣaj), Maindra (Jyeṣṭhā), Ekapāda/Ajā (Pūrva-Bhādrapadā), Āditya (Punarvasu), Viṣṇubha (Śravaṇa). Parāśara's assignment of Mūla + the two Āṣāḍhās to the VAIŚVĀNARĪ independently resolves the Matsya 124.53/124.59 self-contradiction the database flags as unresolved, in favour of 124.59. Two further finds lie outside ch. 9: ROHIṆĪ-ŚAKAṬA / PRĀJĀPATYA ŚAKAṬA, the Wain of Rohiṇī (BS 9.25, 24.30, 47.14), which Utpala uniquely calls a SIX-star figure and pins to Taurus 17° with >2° south latitude by quoting Brahmagupta's Brahmasiddhānta and one Bhānubhaṭṭa — the Hyades V; and BRAHMA-NAKṢATRA and BRAHMARĀŚI, from Parāśara's comet passage on BS 11.33–36, the first securely = Abhijit (Vega) by substitution against the mūla, the second an otherwise unknown circumpolar group left unidentified. NEGATIVE FINDINGS, all verified by exhaustive grep across all volumes: the commentary NEVER mentions Brahmahṛdaya, Apāṃvatsa, Mṛgavyādha, Lubdhaka, Triśaṅku, Chāyāpatha, or the Śiśumāra as a star-figure (the only 'śiśumārī' hits are a medicinal plant, and 'Brahmahṛdaya'/'Lubdhaka' appear only in a modern editor's coordinate table); ch. 12 adds no new name for Canopus and ch. 13 no rishi-to-star mapping; the nakṣatra chapters 97 and 100 in part II are pure muhūrta material whose only astronomical content is the tāra-pramāṇa (star-count) list and the deity list, both already Varāhamihira's own.
+
+**Pāṇini & Patañjali.** Pāṇini's Aṣṭādhyāyī turns out to be a genuine and unusually rich asterism source, and the hypothesis in the brief is confirmed: nakṣatra is a formal grammatical category for him (4.2.3 nakṣatreṇa yuktaḥ kālaḥ; 2.3.45 nakṣatre ca lupi; 4.3.16, 4.3.37, 4.4.141 nakṣatrād ghaḥ) and he cites individual asterisms by name in the sūtra text itself. I verified against TWO independent e-texts of the sūtrapāṭha (GRETIL's Kāśikā-derived text and GRETIL's independent 'alt' text from a separate lineage) plus a Devanāgarī witness on Sanskrit Wikisource, and they agree on every name. The names Pāṇini himself uses, in sūtra text, are: Bahulā (4.3.34 — the archaic name of Kṛttikā, and NOT otherwise in this database), Śraviṣṭhā (4.3.34, not Dhaniṣṭhā), Proṣṭhapadā (1.2.60, 4.2.35, 7.3.18, not Bhādrapadā), Tiṣya (1.2.63, 4.3.34, 6.4.149) alongside Puṣya (3.1.116), Sidhya (3.1.116), Aśvayuj (4.3.36) and Āśvayujī (4.3.45, not Aśvinī), plus Ārdrā and Mūla (4.3.28), Punarvasu (1.2.61, 1.2.63), Phalgunī (1.2.60, 4.3.34), Hasta, Svāti, Anurādhā, Viśākhā, Aṣāḍhā (4.3.34; Viśākhā and Aṣāḍhā again at 5.1.110), Abhijit and Śatabhiṣaj (4.3.36), Śravaṇa/Śravaṇā (4.2.5, 4.2.23), Revatī (4.1.146, 4.4.122), Aśvattha (4.2.5, 4.2.22, 4.3.48), Āgrahāyaṇī (4.2.22, 4.3.50, 5.4.110) and Kārttikī (4.2.23). That is roughly 22 asterisms and asterism-derived time-names from a text conventionally dated c. 500–350 BCE — and every one of the four archaic forms flagged in the brief (Tiṣya, Śraviṣṭhā, Bahulā, Proṣṭhapadā) is present, in the archaic form, with no trace of the later Puṣya-Dhaniṣṭhā-Kṛttikā-Bhādrapadā replacements except Puṣya, which Pāṇini gives as a distinct co-existing word at 3.1.116. IMPORTANT NEGATIVES, checked with sandhi-tolerant searching over both recensions: Kṛttikā, Rohiṇī, Mṛgaśīrṣa, Bharaṇī, Āśleṣā, Maghā, Citrā, Jyeṣṭhā, Dhaniṣṭhā, Bhādrapadā and Aśvinī do NOT occur anywhere in the sūtrapāṭha; nor do Saptarṣi, Arundhatī, Ṛkṣa (as a star word), Dhruva (as a star — the word occurs only in its ordinary sense 'fixed' at 1.4.24, 3.4.54, 6.2.177), Niṣṭya, Invakā or Ilvalā. Agastya occurs exactly once, at 6.4.149 sūrya-tiṣya-agastya-matsyānāṃ ya upadhāyāḥ, grouped with Sūrya and Tiṣya, but the sūtra is a phonological rule and the tradition reads Agastya there as the ṛṣi/gotra name (it also heads no star gloss in Vasu), so I have marked that identification disputed rather than claiming Canopus. On Patañjali: the only complete public e-text of the Mahābhāṣya (GRETIL, from Kielhorn 1880–85 rev. Abhyankar, input by George Cardona) IS MISSING ADHYĀYA 4 ENTIRELY — I verified `grep -c '(p_4,'` returns 0, and the corresponding Sanskrit Wikisource page 404s — so Patañjali's comment on the richest sūtras (4.2.3, 4.3.34, 4.3.36) could not be recovered in this session. What survives elsewhere is still substantial: on 1.2.63 Patañjali says outright that tiṣya-punarvasu 'exists and refers to a luminary' (asti eva jyotiṣi vartate), gives kṛttikā-rohiṇyaḥ as his counter-example, and supplies the synonym pairs puṣya-punarvasū / sidhya-punarvasū — i.e. he explicitly equates Tiṣya = Puṣya and states Sidhya as a synonym of/parallel to Punarvasu, corroborating the database's tishya and sidhya aliases; on 1.2.60 he explains that 'the word phalgunī applies when the moon has come near the Phalgunī'; on 2.3.45 he cites adya puṣyaḥ / adya maghā ('today is Puṣya', 'today is Maghā') — the earliest datable Maghā here; on 3.1.26 maghābhiḥ yojayati; on 1.1.62 citrāyāṃ jātā citrā (Citrā); and Kātyāyana's vārttika on 2.2.34, ṛtu-nakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām with the example kṛttikā-rohiṇyaḥ, presupposes a fixed canonical nakṣatra ORDER headed by Kṛttikā. A separate vārttika on 7.3.45, tārakā jyotiṣi, distinguishes tārakā 'star' from tārikā 'maidservant'. The gaṇapāṭha (fetched from Sanskrit Wikisource) adds Rohiṇī and Revatī in the gaurādi gaṇa on 4.1.41, marked explicitly rohiṇī nakṣatre / revatī nakṣatre; Kṛttikā, Ārdrā and Śravaṇa in the aṃśvādi gaṇa on 6.2.193; Śraviṣṭhā in the aśvādi gaṇa on 4.1.110; Rohiṇī in śubhrādi on 4.1.123; Revatī heading revatyādi on 4.1.146; Taiṣa and Pauṣa as the worked nakṣatra examples in the sāndhyādi gaṇa on 4.3.16; Tārakā heading tārakādi on 5.2.36; and Rohiṇī-, Bharaṇī- and Śatabhiṣak- as first members of personal names in the suṣāmādi gaṇa on 8.3.98. The gaṇapāṭha is however transmitted separately from the sūtrapāṭha and demonstrably accreted, so nothing found only there can carry the Pāṇinian date, and I have flagged every such entry.
+
+**Vaṭeśvara & Sāmanta.** Both texts were found and both yielded coordinate sets, but NEITHER exists as a Sanskrit e-text: GRETIL's master index (fetched in full) lists only Brahmagupta's Brāhmasphuṭasiddhānta and the Sūrya Siddhānta among jyotiṣa siddhāntas — no vaTezvara, no siddhAntadarpaNa, no sAmanta file exists (probed directly, 404) — and Sanskrit Wikisource full-text search for वटेश्वरसिद्धान्त and सिद्धान्तदर्पण returns nothing. What does exist is scans: K. S. Shukla's INSA edition of the Vaṭeśvara-siddhānta Sanskrit text and Joges Chandra Ray's public-domain Calcutta 1899 edition of the Siddhānta Darpaṇa, both on archive.org, in two independent copies for the latter. The archive.org Devanagari OCR of all of these is unusable, so every verse recorded here was transcribed by reading the PAGE FACSIMILES at full resolution and, for the Siddhānta Darpaṇa, cross-checking every figure against a second scan of the same edition. VAṬEŚVARA (VIII.2.1–9, printed pp. 293–294) turns out to give a complete fourth set of yogatārā dhruvakas and kṣepas, stated unusually as degrees WITHIN each sign and using the Greek-derived sign names jituma and kulīra; the values are essentially the inherited Sūrya-Siddhānta/Brahmagupta set (his Agastya = 87°/77° S is Brahmagupta's exactly, against a true 85°13'/75°58' for 904 CE in his own frame), with his own Citrā at 183° shifting his sidereal zero about 3°. SĀMANTA (XII.1–58, printed pp. 114–120) is the real find: his 28 dhruvas and śaras are a genuine re-observation, twenty of the twenty-eight longitudes within 1° of truth and most latitudes within 20', and every correction he makes to the inherited figures moves TOWARDS the modern star. The two entries this database flagged as disputed are resolved by him. Viśākhā: he lowers 213° to 207° with śara 2° SOUTH, which is ι Librae (206°28'/1°55' S) to within 32' and 5', while α² Librae is 5°49' away and on the wrong side of the ecliptic and β Librae is 11° wrong in latitude. Śatabhiṣaj: he lowers 320° to 317°45' with śara 0°20' south, which is λ Aquarii (317°43'/0°25' S) to within TWO ARCMINUTES — the star al-Bīrūnī left 'unknown'. Four further disputed identifications fall out with it: Ārdrā = Betelgeuse (65°/15°40' S against 65°05'/16°03' S), Uttara-Bhādrapadā = α Andromedae not γ Pegasi (338°/28° N against 338°16'/28°11'), Bharaṇī's junction star = 41 Arietis not 35 (21°/11° against 20°50'/10°58'), and Hasta = δ Corvi rather than γ. Sāmanta also disagrees openly with the tradition three times: XII.31 announces that 'modern experts' have determined a DIFFERENT position for Hutabhuj, Brahmahṛdaya and Prajāpati, and gives Hutabhuj 58°15'/5°15' N (= β Tauri to 5' and 8', correcting the Sūrya Siddhānta's grossly wrong 52°/8°), Brahmahṛdaya 56°/23° N (= Capella to 22' and 2', correcting a 7° latitude error), and — most radically — moves Prajāpati from 38° NORTH of the ecliptic to the bright star 32° SOUTH of it below Orion, i.e. from δ Aurigae to Rigel; XII.27 records but rejects a rival identification of Mṛgavyādha with that same southern star, Sāmanta holding Lubdhaka/Muni to be 'the star exceeding all stars' south of Punarvasu, for which he gives 77°/40° S — Sirius to 9' and 19', the best Sirius coordinate in any Sanskrit siddhānta. New material beyond the disputed cases: a first coordinate for the ILVALAS (61°/23° S, three 'arrow-like' stars = Orion's Belt, conflicting with the Amarakośa's placement of them in the Deer's head); Agastya at 75° south, the best Canopus latitude in the series, together with an explicit, dated comparison against the Sūrya Siddhānta's 90° and the Siddhānta Śiromaṇi's 87° 'by the wise Bhāskara in the Kali year 4251' (= 1150 CE, correct) and a reported observed shift of 7°30' in 718 years, which matches the real secular drift of Canopus's polar longitude (about 7°24') almost exactly; measured polar latitudes for all SEVEN ṚṢIS (Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60), which reproduce the true order and values within 2° and so independently confirm the standard α–η Ursae Majoris assignment; a measured Mizar–Alcor separation of 7' for Arundhatī; a new name-form Āpyavasu for Āpas; and a hitherto unrecorded star called YAMA with coordinates (dhruva 66, 22°, southern) that could NOT be identified and is recorded unemended. What was NOT there: neither text names any star absent from the existing database except Yama; Vaṭeśvara adds no new star name at all beyond Muni, Vyādha, Lubdhaka and Agastya, all already present; and no modern translation was used — Shukla's Vaṭeśvara and all modern renderings of Sāmanta are in copyright and are neither quoted nor relied on here.
+
+**Āryabhaṭīya commentaries.** The database's headline negative — that the Āryabhaṭīya names no individual stars — is CONFIRMED for the mūla and for most of the tradition, but is REFUTED in its strong form ('Āryabhaṭa's tradition had no interest in named stars') by Nīlakaṇṭha Somayāji. (1) MŪLA, re-verified against a second independent e-text (GRETIL sa_AryabhaTa-AryabhaTIya.txt, T. Hayashi's keying of Shukla 1976, IAST): word-boundary search for agastya, lubdhaka, mṛgavyādha, brahmahṛdaya, dhruva, saptarṣi, arundhatī, abhijit, apāṃvatsa, śiśumāra, kālapṛṣṭha, yogatārā and all 27 nakṣatra names returned ZERO except aśvayuja (AB 3.4, naming Jupiter-years), hasta (a cubit), mūla (square/cube root) and meru (AB 4.10, 4.15, the north pole). tārā occurs only inside tārā-graha ('star-planet' = the five planets) and bhū-tārā-graha-vivara; nakṣatra occurs once, in ravi-śaśi-nakṣatra-gaṇāḥ. So the mūla does not even use nakṣatra names for time-reckoning beyond aśvayuja. (2) BHĀSKARA I's Āryabhaṭīyabhāṣya, 629 CE — the earliest commentary and the decisive control (GRETIL sa_AryabhaTa-AryabhaTIya-comm.txt, D. Feller's keying of Shukla 1976, 534 KB, all four pādas; the Someśvara material in that file is only a two-verse upasaṃhāra colophon). Word-boundary search of the same name list: agastya, lubdhaka, mṛgavyādha, brahmahṛdaya, saptarṣi, arundhatī, abhijit, apāṃvatsa, vasiṣṭha, śiśumāra, kālapṛṣṭha, yogatārā, dhruvatārā, dhruvaka ALL ZERO. dhruva occurs 3× in one passage, and is unambiguously the celestial POLE, not a star (a traveller going north sees the dhruva rise higher; on reaching Meru it is overhead; north of Meru it hangs to the south). marīci = the sun's rays (divasakara-marīci), not the ṛṣi. pulastya-pulaha-kratu occur once, in a grammatical aside on the word 'para', not astronomically. atri has zero word-boundary hits (all 39 raw hits are inside triṃśat, tribhuja, etc.). Every nakṣatra name in Bhāskara's bhāṣya is a CALENDAR DIVISION, never an object: kṛttikāsu agnim ādadhīta (Taittirīya Brāhmaṇa ritual timing), the derivation of the month-name kārtika from conjunction with Kṛttikā, svātyādiṣu nakṣatreṣu ('the nakṣatras beginning with Svāti'), Citrā at the Caitra full moon, a snakebite-prognostic verse quoted from a Viṣatantra, and the śraviṣṭhādi-vs-makarādi solstice debate. So the negative finding holds for the whole Āryabhaṭa lineage as expressed in commentary on the mūla. (3) BUT Bhāskara I's own independent karaṇas DO carry a star catalogue, which his bhāṣya suppresses. Laghubhāskarīya ch. VIII is titled 'Conjunction of a planet and a star': vv. 1–4 give the polar longitudes of the 27 yogatārās, vv. 6–9 their latitudes, v. 10 defines absolute conjunction, and vv. 11–16 give the Moon's latitude when she occults named objects — the yogatārā of Kṛttikā, the central star of Maghā, the cart of Rohiṇī (Hyades) as distinct from the yogatārā of Rohiṇī (Aldebaran), Citrā (Spica), Anurādhā, Jyeṣṭhā (Antares), the brighter of the two northern stars of Viśākhā, Puṣya and Revatī. Mahābhāskarīya III.63–74 has the same catalogue in verse (III.72: rohiṇī-śakaṭa, śākra-tārakā, citrā; III.74: the star of the Pitṛs, i.e. Maghā). These are stars named AS OBJECTS with coordinates, so the sharper statement is: the Āryabhaṭa school had a yogatārā catalogue but confined it to the karaṇas. Crucially, that catalogue contains NO extra-zodiacal star — searches of Shukla's Laghubhāskarīya (1963) and Mahābhāskarīya (1960) English texts for Agastya, Canopus, Lubdhaka, Mṛgavyādha, Brahmahṛdaya, Apāṃvatsa, Sirius, Arundhatī, Abhijit, 'pole star', Seven Sages returned ZERO; the only dhruva hits are dhruvaka (an epoch constant), dhruvaprota-vṛtta (hour circle) and Dhruva as the 12th yoga. This is the sharpest contrast with the Sūrya Siddhānta ch. 8, which adds Agastya, Mṛgavyādha, Agni, Brahmahṛdaya, Apāṃvatsa and Āpaḥ to the 27. (4) NĪLAKAṆṬHA SOMAYĀJI's Āryabhaṭīyabhāṣya, c. 1500 — THE REFUTATION. All three TSS volumes were downloaded as Devanagari OCR and searched. Gaṇitapāda (TSS 101) and Kālakriyāpāda (TSS 110): zero named stars. But the Golapāda volume (TSS 185) contains अगस्त्य TWICE, in two separate digressions. Under Golapāda 4.46 Nīlakaṇṭha turns from eclipse colours to the shadows and heliacal risings of the STARS, says their yogabhāgas (polar longitudes) and vikṣepas (latitudes) are to be derived by the method of the coming verse kṣitiraviyogāt (4.48), that the rising-and-setting degrees of those near the sun must be settled by OBSERVATION, and then: 'for [the yogatārās] beginning with Aśvinī and for the well-known [stars] beginning with Agastya, the polar longitudes, latitudes and rising-setting degrees have been recited — and so in the Sūrya Siddhānta.' Under Golapāda 4.48 he mounts an epistemological argument about how a star's name attaches to it, quoting the Vedic ṣaṭ kṛttikā nakṣatram and amī ye subhage divi vicṛtau nāma tārake, arguing that śruti cannot point with a finger so the name–object relation is learned from the usage of elders, and concluding: 'therefore the stars beginning with Aśvinī, those beginning with AGASTYA, and the rising of the SAPTARṢI are simply well-known'; he adds that Brahmā, Garga, Maya and others record particular regions of the star-circle as fixed on the 27 nakṣatras 'and on Agastya etc.', and that the final determination is by direct observation with the gnomon, staff and bow-instrument. So Nīlakaṇṭha, glossing the Āryabhaṭīya, names Agastya, the Saptarṣi and the Vicṛtau — but he names them as OBJECTS WHOSE COORDINATES ARE GIVEN ELSEWHERE (he defers to the Sūrya Siddhānta), and he supplies no numbers himself. (5) TANTRASAṄGRAHA (1501) — NEGATIVE, and structurally so. Two independent OCR passes of the 1958 Trivandrum edition with Śaṅkara Vāriar's Laghuvivṛti were searched; both give ZERO for अगस्त्य, लुब्धक, मृगव्याध, ब्रह्महृदय, अपांवत्स, अभिजित, अरुन्धती, सप्तर्षि, शिशुमार, कालपृष्ठ and योगतारा. The few ध्रुव hits are kalyādi-dhruva (epoch constants) and the dvandva 'the two poles' in a quoted verse. The printed viṣayānukramaṇī confirms the structure: the eight chapters run from mean longitudes to the elevation of the Moon's cusps and end at p. 156 with the orbits of Mars etc.; the dṛkkarma section (pp. 138–141) treats the rising and setting of the PLANETS only. Tantrasaṅgraha has no star chapter and no yogatārā list — unlike the Sūrya Siddhānta it deliberately omits the nakṣatra-graha-yuti material. (6) PARAMEŚVARA — NEGATIVE on both fronts. His Siddhāntadīpikā is printed inside T. S. Kuppanna Sastri's Mahābhāskarīya (with Govindasvāmin's bhāṣya), 523 K Devanagari characters, and the whole volume returns ZERO for अगस्त्य, लुब्धक, मृगव्याध, ब्रह्महृदय, अपांवत्स, अभिजित, अरुन्धती, सप्तर्षि, शिशुमार; its only star material is the 27-yogatārā catalogue of MBh III.63–74 (योगतारा 1, योगभाग 4, रोहिणी 3, कृत्तिका 2). His Bhaṭadīpikā on the Āryabhaṭīya (Kern 1874) likewise returns zero for every name; its 9 तारा hits are all tārā-graha / bhū-tārā-graha-vivara, i.e. the Āryabhaṭīya's own vocabulary. NOTE the Bhaṭadīpikā negative is the WEAKEST here: Kern's 1874 type defeats the OCR, roughly one word in five is corrupt, and नक्षत्र scores 0, which is implausible for a genuine text — treat it as suggestive only. Parameśvara's Sūrya-Siddhānta commentary exists online only as an unOCR'd palm-leaf manuscript scan, and his Laghubhāskarīya-vivaraṇa could not be found online at all. (7) YUKTIBHĀṢĀ (Sanskrit version, ed. K. V. Sarma) and KARAṆAPADDHATI — NEGATIVE. Both return zero for every name searched. Yuktibhāṣā's 38 ध्रुव hits are the POLE: it speaks of the north and south dhruva, the two dhruvas as the ends of the axis, and calls the elevation of the dhruva the akṣa (terrestrial latitude); it once says 'a certain asterism called dhruva' but immediately posits a southern one too, so this is the pole point, not a pole star. Its 11 मघा hits are all inside sama-ghāta (equal product). Karaṇapaddhati's OCR is short (47 K chars) and possibly incomplete, so its negative is weak. NET RESULT: the reframing is warranted but must be narrow. Āryabhaṭa named no star; Bhāskara I named none in commentary but catalogued the 27 yogatārās in his karaṇas; Parameśvara, the Tantrasaṅgraha, the Yuktibhāṣā and the Karaṇapaddhati name none; and Nīlakaṇṭha alone, in the Golapāda commentary and only in digression, names Agastya and the Saptarṣi — while pointing the reader to the Sūrya Siddhānta for their coordinates rather than giving any himself. No Kerala text yields a single new star name, and no text in the entire Āryabhaṭa lineage yields Lubdhaka, Mṛgavyādha, Brahmahṛdaya, Apāṃvatsa, Abhijit, Arundhatī, Śiśumāra or a named pole star.
+
+**Chinese Buddhist witnesses.** Fetched and read in full the CBETA/Taishō XML of the Xiuyao jing (T21n1299, Amoghavajra 759 CE, revised by Yang Jingfeng 764 CE) and of the two earlier Chinese translations of the same Śārdūlakarṇāvadāna material — the Modengqie jing 摩登伽經 (T21n1300, attributed to Zhu Lüyan and Zhi Qian, 230 CE) and Dharmarakṣa's Shetoujian taizi ershiba xiu jing 舍頭諫太子二十八宿經 (T21n1301, c. 307 CE) — plus the Chinese Mahāmāyūrī (T19n0982), the Fanfanyu glossary (T54n2130) and five minor Tang astral texts (T21n1302–1311). THE BRIEF'S CENTRAL PREMISE IS FALSE AND THAT IS THE FIRST FINDING: none of these texts transcribes the Sanskrit nakshatra NAMES phonetically. T1299, T1300 and T982 use the Chinese lunar-lodge names (昴畢觜參…), and T1301 uses semantic Chinese translations (名稱, 長育, 鹿首, 生眚, 增財, 熾盛, 不覲, 土地, 前德, 北德, 象, 彩畫, 善元, 善挌, 悅可, 尊長, 根元, 前魚, 北魚, 無容, 耳聰, 貪財, 百毒, 前賢迹, 北賢迹, 流灌, 馬師, 長息). The single phonetic star-name found is 迦提 = Middle-Indic KATTIKA for Kṛttikā, in Yang Jingfeng's 764 CE note ('in Sanskrit the Mao star is named Jiati … the [Kaṭhina season] is styled Jiati simply taking the star's name'), plus the seven Sanskrit planet-names in the trilingual list at T21.398b. WHAT THE TEXTS DO SUPPLY IS FAR BETTER: all three give, for each asterism, a STAR-COUNT, a FIGURE, a muhūrta-value, an offering, a presiding deity and a gotra — the six fields of the Sanskrit nakṣatra-vaṃśa, translated field for field, and T1300's own framing question (為有幾星？形貌何類？為復幾時與月共俱？…何神主之？有何等姓？) proves the Sanskrit Vorlage was already in this form by 230 CE. The agreements are dense and decisive: Kṛttikā six stars + razor; Rohiṇī five + cart + Prajāpati + 45 muhūrta; Mṛgaśiras three + deer's head + Soma + Mṛga clan; Ārdrā one + 'the dot on the forehead' (= tilaka) + 15 muhūrta; Puṣya three + JAR (which fixes vardhamāna as a vessel) + Bṛhaspati + Aupamanyava; Maghā five + river-bend + the Fathers + Piṅgala, with T1300 explaining the clash with the seven-star Chinese lodge as 'five are manifest and two hidden'; Hasta five + HAND; Citrā one star; Svātī one + Wind; Viśākhā TWO + horn (both early witnesses, against the later four); Anurādhā four + strung jewels + Mitra + Ālaṃba + liquor-and-flesh; Jyeṣṭhā three + 'barley, small at the edges and large in the middle' (= yavamadhya) + Indra + Kātyāyana; Mūla SEVEN + SCORPION in T1300; Pūrvāṣāḍhā four + ox-stride + Water; Uttarāṣāḍhā four + elephant-stride; Śravaṇa three + barley + Viṣṇu + bird-flesh; Dhaniṣṭhā four + FLYING BIRD + Vasu + Kauṇḍinya; Śatabhiṣaj ONE + Varuṇa + Tāṇḍya; Pūrvabhādrapadā two + Jātūkarṇa (transcribed 闍罽那 in T1300 and TRANSLATED 生耳 'born-ear' in T1301); Revatī + Pūṣan + the 'Eight-Sisters' clan; Aśvinī horse's-head + GANDHARVA (twice independently, corroborating the Śārdūlakarṇāvadāna's most surprising divergence from the Brahmanical lists); Bharaṇī three + Yama + Bhārgava + sesame, with the figure given as 三角 'a triangle' (T1299) and 鼎足 'the feet of a tripod' (T1300), confirming the database's gloss on bhaga-saṃsthāna. ABHIJIT IS THE JEWEL: T1301 reproduces every peculiarity of the Sanskrit entry — three stars, ox's-head figure, Brahmā deity and Brahmā gotra, food of WIND, and SIX MUHŪRTA singled out exactly as the Sanskrit singles it out ('that one asterism which travels six muhūrta is the Without-Compare asterism' = eko 'bhijit ṣaṇ-muhūrta-yogaḥ); T1300 makes it the only lodge needing no sacrifice and the only short one. On 27-vs-28: T1300 has 28; the Xiuyao jing keeps 28 chapter-headings but computes with 27 everywhere (its 12-palace division and its 6+12+9 conjunction rule both omit Niu), and Yang Jingfeng states the reason outright in 764 CE — 'The Tang uses twenty-eight lodges; the Western Country removes the Niu lodge, because the Lord of Heaven attends to it.' Two further datable results: T1301's name 貪財 'greedy for wealth' shows the DHANIṢṬHĀ (dhana) form, not Śraviṣṭhā, was current by c. 307 CE; and T1299's 奎三十二星 gives the 32-star Revatī in a firmly dated 759 CE text while T1300 reconciles it with the Sanskrit's single star — 'Kui has one great star, the remaining smaller ones serving it as wings'. NOT FOUND, with evidence: no phonetic Sanskrit nakshatra names anywhere in T1299/T1300/T1301/T982/T2130/T1302–1311 (checked by grep for 訖哩底迦, 阿濕嚩, 婆羅尼, 盧呬尼, 嚕呬抳, 補捺嚩素, 底沙/帝沙, 弗沙 and by reading the full lodge-lists); no Tiṣya-for-Puṣya form (弗沙 occurs in T1300 only as a brahmin's personal name at T21.403a17); no individual non-nakshatra star named in any of the three (no 老人星/Canopus, no 北斗 asterism-list, no polestar) — only the seven planets plus Rāhu and a comet; T1301 omits Anurādhā's description entirely; and the Xiuyao jing's 二十七宿十二宮圖 chart at T21.395a is reproduced in the Taishō only as two facsimile images (T21p0395_01.gif, T21p0395_02.gif), which CBETA does not transcribe and which I could not retrieve, so any Sanskrit lettering it may carry is unchecked.
+
+**Mahābhārata & Rāmāyaṇa.** The two epics are rich in nakṣatra names but poor in individually named stars. VERIFIED VERBATIM from the BORI Critical Edition e-text (GRETIL/Tokunaga-Smith, mbh1-18u.zip) and the CE Rāmāyaṇa (GRETIL sa_rAmAyaNa.txt): (1) the Abhijit-falls verse is MBh 3.219.8-11 CE = Ganguli's vulgate Vana Parva Section CCXXIX (not 230) — 'abhijit spardhamānā tu rohiṇyā kanyasī svasā / icchantī jyeṣṭhatāṃ devī tapas taptuṃ vanaṃ gatā // tatra mūḍho 'smi bhadraṃ te nakṣatraṃ gaganāc cyutam', immediately followed by the chronologically decisive 'dhaniṣṭhādis tadā kālo brahmaṇā parinirmitaḥ / rohiṇyādyo 'bhavat pūrvam' (time was fashioned beginning with Dhaniṣṭhā; formerly it began with Rohiṇī) and by Kṛttikā's promotion, described in the CE as 'śakaṭākāra' (cart-shaped) with Agni as deity — a shape-datum the vulgate replaces with 'seven-headed'. (2) The Bhīṣma Parva omen chapters (CE 6.2-6.3 = vulgate/Ganguli Bhishma II-III) are the densest star list in either epic and yield THREE names absent from the database: Bhāgya nakṣatra (= Pūrva-Phalgunī, deity Bhaga), Aindra nakṣatra (glossed in the same pāda as Jyeṣṭhā), and Brahmarāśi; plus the unambiguously celestial Arundhatī omen 'arundhatī tayāpy eṣa vasiṣṭhaḥ pṛṣṭhataḥ kṛtaḥ' (Arundhatī has put Vasiṣṭha behind her), a blazing Dhruva turning apasavya, a planet between Citrā and Svāti, Kṛttikā called 'the first asterism', and Viśākhā in the DUAL (viśākhayoḥ). (3) Udyoga 5.109.12-13 (Ganguli CXI) places the Saptarṣi, Arundhatī and Svāti in the northern sky; Udyoga 5.141.7-8 (Ganguli CXLIII) gives Prājāpatya nakṣatra and Maitra (= Anurādhā), the earliest attestation of Maitra in the database. (4) Vana 3.44.12 names the ecliptic/star-road 'Suravīthī' — a road-name not previously recorded. (5) Vana 3.188.87 has the Tiṣya-Bṛhaspati conjunction that inaugurates the new Kṛta. IN THE RĀMĀYAṆA: Yuddha 6.4.43-46 CE (Griffith Bk VI Canto IV; Dutt 1893) is the key omen passage — Brahmarāśi, the Saptarṣi circling Dhruva pradakṣiṇa, Triśaṅku shining as a star with his purohita, Viśākhe (dual) as 'the nakṣatra of us Ikṣvākus', and Nairṛta nakṣatra = Mūla, the star of the rākṣasas — the last two also recur at Yuddha 6.90.27/30, where Rohiṇī is called the Prājāpatya nakṣatra and Viśākhā 'the star of the Kosalas, whose deity is Indrāgni'. Bāla 1.59.20-31 CE has Viśvāmitra creating southern-path Saptarṣi, a second nakṣatramālā and a nakṣatravaṃśa 'outside the Vaiśvānara path', with Triśaṅku hanging head-downward among them; Ayodhyā 2.36.10 lists Triśaṅku among the grahas. Sundara 5.55.1-2 has the sky-as-lake simile naming Tiṣya and Śravaṇa (kadamba flowers), Punarvasu (the great fish) and Svātī (the swan). Rāma's birth-star Punarvasu is NOT in the Critical Edition: CE 1.17.6 has no astrology; the verse 'nakṣatre 'ditidaivatye' is a VULGATE reading (Bāla 18.9, Sanskrit Wikisource), which also gives Bharata's Puṣya and the twins' Sārpa. NEGATIVE FINDINGS, checked exhaustively: AGASTYA occurs 90× in the MBh and 47× in the Rāmāyaṇa and is NEVER the star — always the ṛṣi, or the regent of the south ('agastyaśāstāṃ diśam', 'agastyacaritām āśāṃ dakṣiṇām'); there is no 'agastyodaya', no heliacal-rising formula, and no juxtaposition with nakṣatras or grahas anywhere in either epic. LUBDHAKA occurs 34× in the MBh (0× in the Rāmāyaṇa) and always means 'hunter'; MṚGAVYĀDHA occurs 7× and is either a literal deer-hunter or the Rudra of that name in the eleven-Rudra list — never Sirius. BRAHMAHṚDAYA occurs exactly once (MBh 12.335.34) and is a vocative epithet of Viṣṇu, not Capella. The Śalya-Parva (9.47) and Anuśāsana-Parva (13.94-96) Arundhatī passages, which the brief flagged, turn out to be entirely TERRESTRIAL — the Badarapācana-tīrtha legend and the Vṛṣādarbhi famine story, with Arundhatī as Vasiṣṭha's wife on the Himālaya, not a star; 13.95.39 does however give the name-etymology 'mano 'nurundhatī bhartuḥ'. Abhijit does not occur in the Rāmāyaṇa at all.
+
+**Classical kāvya.** Thirty-three attestations were verified verbatim against e-texts fetched in this session, in most cases against TWO independent witnesses (a GRETIL IAST text plus a Sanskrit Wikisource Devanagari text). Three names are new to the database, all of them for the celestial river: VYOMAGANGA (Kalidasa, Meghaduta 1.46 and Raghuvamsa 12.85, and the Devanagari reading at Kumarasambhava 6.5 where GRETIL has akasaganga) and NABHONADI (Bharavi 7.18, Magha 17.64), plus KUMBHAYONI as an Agastya-name. On the four specific targets. (1) The SVATI-PEARL trope is NOT in Kalidasa: an exhaustive grep of all six Kalidasa works on GRETIL finds not one occurrence of svati/svati, nor of sukti in any pearl-origin context; the attribution to him that circulates online is baseless. It was found verbatim in three places - Bhartrhari's Nitisataka 67, Pancatantra 1.273 (the same floating verse, and absent from the older Tantrakhyayika), and Mahasubhasitasamgraha 5782 ('pearls would not be born without the Svati cloud-water'). Decisively negative and useful: Varahamihira, who devotes Brhat Samhita ch. 25 entirely to the Svati-yoga and ch. 80 entirely to pearls, does NOT connect them - his pearls come from elephants, snakes, conches, bamboo, whales, boars, oysters and CLOUDS (80.24, formed 'like hailstones' and falling from the seventh wind-stratum), with Pusya and Sravana as the auspicious asterisms for elephant-pearls. The trope therefore post-dates Varahamihira in the technical literature and surfaces first in the gnomic-verse tradition. (2) ROHINI AS THE MOON'S FAVOURITE is fully documented, and its earliest datable statement here is Asvaghosa, Buddhacarita 4.73 (c. 100 CE), 'somabharyam ... rohinim' - in the same verse as Agastya and Lopamudra. Kalidasa gives the classic form at Abhijnanasakuntala 7.22 (Rohini rejoining the moon at the end of an eclipse, uparagante ... yogam) and the epithet rohinipati at Kumarasambhava 8.82; Bana has Rohini trembling at the moon's approaching grahana. The jealousy of the other twenty-six is not stated in any Sanskrit verse found - it is stated in Monier Williams' 1856 note to the Visakha line of Sakuntala Act III, quoted here in full because it is the clearest public-domain articulation of the frame. (3) AGASTYA: the star-sense is standard poetic currency by Kalidasa. Raghuvamsa 4.21 is the key text - the water grew clear 'at the RISING of the mighty Kumbhayoni', inside a set-piece autumn (sarad) description: the heliacal rising of Canopus as both seasonal signal and clearer of waters, exactly as the brief predicted. Raghuvamsa 16.44 uses 'the ayana marked by Agastya' as a solstice-marker. Asvaghosa's earlier 'quarter frequented by Agastya' (9.26) is left as disputed, since at that date the south is the sage's quarter as much as the star's; the transition the database's Rgveda finding predicts is visible between the two authors. (4) MILKY WAY: besides the two new names, Kalidasa's chayapatha at Raghuvamsa 13.2 is the classic literary attestation (a band that visibly bisects a star-filled autumn sky), and Magha 3.8 is the most nearly observational passage found anywhere - the Akasaganga imagined falling 'in the sky in two separate streams', a rendering of the dark rift. STRONG NEGATIVES: ABHIJIT occurs NOWHERE in the kavya corpus (Kalidasa, Asvaghosa, Magha, Bharavi, Bana, Somadeva, Bhartrhari, Naisadhiyacarita and three subhasita anthologies all searched: zero hits; the only hits anywhere in the session's downloads were in Varahamihira). TISYA as a star likewise occurs nowhere - Asvaghosa already writes Pusya at Buddhacarita 1.9. LUBDHAKA and MRGAVYADHA occur only as common nouns ('fowler', 'deer-hunter'): Buddhacarita 6.x has a god in mrgavyadha form, Bhartrhari 1.61 has hunters and fishermen, Magha 19.120 a hunter of enemy-deer, Naisadha 22.140 Siva as hunter of the sacrifice-deer - never Sirius, which confirms and extends the database's existing Kathasaritsagara caveat. Bonus finds outside the brief: PUNARVASU as a dual star-pair 'come down from heaven' (Raghuvamsa 11.36); the technical term YOGATARA used inside a love-poem (Kumarasambhava 8.73); the DHRUVA-DARSANA wedding rite (Kumarasambhava 7.85); and Magha 11.3, which concedes that Dhruva is alpamurti, 'of small body' - faint - while the Saptarsi circle above shines more brightly, and figures the Dipper as the CART overturned by the infant Krsna.
 
 ## A finding about the Āryabhaṭīya
 
@@ -234,6 +283,39 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** TWO stars, HORSE'S-HEAD-shaped (turagaśīrṣa-saṃsthāna), deity Gandharva, gotra Maitrāyāṇīya. Two stars in a horse's head = β and γ Arietis, exactly the pair Burgess argued for against Colebrooke's α Arietis, and matching Colebrooke's own 'The head of Aries' for Amarakośa. NOTE the deity Gandharva where the Brahmanical lists have the Aśvins.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> वृद्धिकाष्ठाः(१)८।४५ … दलाब्ध्यदिश(१)१०।३०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(1) 8 45…' and '…(1) 10 30…' — the polar longitude of asterism no. 1 is 8°45' and its polar latitude 10°30', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 8°45', śara (polar latitude) 10°30' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 3 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: β Ari 6°43' / 9°05'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Meṣa (Aries) 8° (= 8°00' measured from the sidereal origin) with a śara of 10°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> मेषेऽष्ट[८]नखै[२०]रंशै-
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 1 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Meṣa (Aries) 8°, with polar latitude 10°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Meṣa (Aries) 8° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 8°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 10°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: β Ari 10°23' / 9°10'. For comparison Sāmanta (1869) gives 8°45' / 10°30' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390c03), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 婁圖。婁三星，形如馬頭，乾闥婆神也，姓河說耶尼，食烏麻雜苽。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a26: 「婁宿二星，形如馬首，一日一夜共月俱行，乳糜用祭。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0416a02: 「馬師宿者，有三要星，形類馬案，行三十須臾而侍從矣，食魚麥飯，主香神天，姓為馬師。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390c08: 「景風曰：中國天文，婁三星，主林苑，西方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Lou. Lou has three stars; its form is like a horse's head. Its deity is GANDHARVA (乾闥婆); its clan is Aśvāyani (河說耶尼); its food is sesame and mixed gourds." — Modengqie jing (T1300, c. 230 CE): "The Lou asterism has two stars, its form like a horse's head; a day and a night it travels with the moon; milk-gruel is used in its offering." — Shetoujian jing (T1301, c. 307 CE): "The asterism Horse-Master has three principal stars, its form of the horse-[saddle?] kind; it travels thirty muhūrta in attendance; fish and barley-rice are its food; the deva of Fragrance presides; its clan-name is Horse-Master."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 婁 Lou; T1301 renders the name semantically as 馬師 ('Horse-Master'). THE GANDHARVA DEITY IS INDEPENDENTLY CONFIRMED. The Śārdūlakarṇāvadāna's most surprising divergence from the Brahmanical lists is that Aśvinī's lord is gandharva-daivatam and not the Aśvins; T1299 transcribes it 乾闥婆 = GANDHARVA outright and T1301 translates it 香神天, the 'deva of Fragrance', which is the standard Chinese calque for gandharva. Two independent Chinese witnesses, four centuries apart, therefore corroborate the reading. The HORSE'S-HEAD figure is in T1299 (馬頭) and T1300 (馬首), matching turagaśīrṣa-saṃsthānam, and T1300 gives TWO stars, matching dvitāram — i.e. the pair β and γ Arietis that Burgess argued for against Colebrooke's α Arietis. T1299 and T1301 have three, which is also the Chinese count for the Lou lodge (Yang Jingfeng: 婁三星).</sub>
+
 ### भरणी (Bharaṇī) — 35 Arietis (Musca Borealis)
 
 **Modern identification:** 35 Arietis (Musca Borealis) — 35 Arietis, Aries (*disputed*)
@@ -257,6 +339,50 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** THREE stars, bhaga-shaped (the female pudendum, i.e. a triangle), deity Yama, gotra Bhārgavīya. Three stars in a triangle = 35, 39, 41 Arietis — which settles that the asterism is the whole triad and makes Burgess's agonising over which one is the yogatārā a question about the junction-star only. The bhaga figure explains the alternative name Apabharaṇī and the Yama/death associations.</sub>
+
+**Gaṇapāṭha, suṣāmādi gaṇa on Aṣṭādhyāyī 8.3.98** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी-गणपाठः)
+
+> २३७. सुषामादिः / सुषामादिषुच (८.३.९८) — … हरिषेणः। वारिषेणः। जानुषेणी। हरिसक्थम्। पृथुषेणः। विष्वक्षेनः। सर्वषेणः। रोहिणीषेणः, रोहिणीसेनः। भरणीषेणः, भरणीसेनः। शतभिषक्षेनः। इतिसुषामादिः।
+>
+> *Verbatim from the Sanskrit Wikisource Gaṇapāṭha page, gaṇa no. 237, with the gaṇa heading and its sūtra reference prefixed by me and separated by a dash; the material after the dash is continuous text from the source, with a leading ellipsis marking the omitted earlier part of the list.*
+>
+> — *Literal rendering: '… Rohiṇī-ṣeṇa (or Rohiṇī-sena); Bharaṇī-ṣeṇa (or Bharaṇī-sena); Śatabhiṣak-ṣeṇa. Thus the suṣāmādi list.' (These are personal names formed on asterism names.)*
+> <br>— Literal rendering by the compiler ([source](https://sa.wikisource.org/wiki/अष्टाध्यायी-गणपाठः))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** WEAK AND CLEARLY POST-PĀṆINIAN — recorded for completeness of the negative finding. Bharaṇī does not occur in Pāṇini's sūtras, nor in the surviving Mahābhāṣya in any astronomical sense (the two bharaṇ- hits there, at 2.1.1, are bharaṇīyaḥ 'to be maintained'). It occurs only in the gaṇapāṭha, in the suṣāmādi gaṇa on 8.3.98, as the first member of the personal names bharaṇī-ṣeṇaḥ / bharaṇī-senaḥ, alongside rohiṇī-ṣeṇaḥ and śatabhiṣak-ṣenaḥ — a cluster of asterism-based personal names that is itself interesting, but the gaṇapāṭha is transmitted separately from the sūtrapāṭha and demonstrably accreted, so nothing here can carry the Pāṇinian date. The modern_star field is copied from the standard identification and is not supported by anything in this source.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> कुबाहवः(२)२१ … ईशाः(२)११
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(2) 21 00…' and '…(2) 11 00…' — the polar longitude of asterism no. 2 is 21°00' and its polar latitude 11°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 21°00', śara (polar latitude) 11°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 3 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: 41 Ari 20°50' / 10°58'; 35 Ari 19°11' / 11°53'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Meṣa 20° (= 20°00' measured from the sidereal origin) with a śara of 12°00' north (VIII.2.5–6, direction by VIII.2.8). ★ BEARS ON THE DISPUTED CHOICE WITHIN THE TRIAD. Sāmanta's 21° / 11° N matches 41 Arietis (20°50' / 10°58') to 10' and 2' respectively, while 35 Arietis — the star Burgess adopted — is 1°49' off in longitude and 53' off in latitude. Sāmanta therefore sides with the modern lists that prefer 41 Arietis as the junction star. XII.12 counts three stars in the asterism (35, 39, 41 Arietis), and XII.21 makes the SOUTHERN one of the group the yogatārā. Vaṭeśvara's older figures point the other way (see the Vaṭeśvara entry): his śara of 12° is a better fit to 35 Arietis.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> मेषेऽष्ट[८]नखै[२०]रंशै-
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 2 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Meṣa 20°, with polar latitude 12°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Meṣa 20° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 20°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 12°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: 41 Ari 24°12' / 11°07'; 35 Ari 22°33' / 12°02'. For comparison Sāmanta (1869) gives 21°00' / 11°00' north. Vaṭeśvara's śara of 12° fits 35 Arietis (12°02' in his frame) better than 41 Arietis (11°07'), the opposite of what Sāmanta's figures indicate. The two texts disagree about which star of the triad is the junction star.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390c09), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 胃圖。胃三星，形如三角，闍摩神也，姓粟笈婆，食烏麻稻米蜜肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a27: 「胃有三星，形如鼎足，一日一夜共月而俱，胡麻為祭，屬於閻神，其姓拔伽。有此七星，在於北方。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0416a04: 「長息宿者，有五要星，其五要星其形類軻，行三十須臾而侍從矣，以麋為食，主于炎天，姓號曰佳。是為七宿，屬于北方。』」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390c14: 「景風曰：中國天文，胃三星，形如角，主兵軍，西方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Wei. Wei has three stars; its form is a triangle. Its deity is Yama (闍摩); its clan is Sugṛhva(?) (粟笈婆); its food is sesame, rice and honeyed flesh." — Modengqie jing (T1300, c. 230 CE): "Wei has three stars, its form like the feet of a tripod cauldron; a day and a night it is together with the moon; sesame is used as its offering; it belongs to the deity Yama (閻神); its clan is Bhārgava (拔伽)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Long-Breath has five principal stars, their form of the [axle?] kind; it travels thirty muhūrta in attendance; elk is its food; the deva of Flame (Yama) presides; its clan-name is 'Excellent'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 胃 Wei; T1301 renders the name semantically as 長息 ('Long Breath / Grown Offspring'). THREE stars in T1299 and T1300, YAMA in all three, SESAME food, and BHĀRGAVA as the gotra in T1300 (拔伽) — matching the Śārdūlakarṇāvadāna's tritāraṃ bhaga-saṃsthānaṃ … tila-taṇḍūlāhāraṃ yamadaivataṃ bhārgavīyaṃ gotreṇa. THE FIGURE IS THE FINDING: the database currently glosses the Sanskrit bhaga-saṃsthāna as 'the female pudendum, i.e. a triangle'. T1299 prints 形如三角 'its form is a triangle' and T1300 prints 形如鼎足 'its form is like the feet of a tripod cauldron' — two independent Chinese witnesses that read the figure as a TRIANGLE, confirming the gloss and the identification with the triad 35, 39, 41 Arietis. Chinese astronomy also gives Wei three stars.</sub>
 
 ### कृत्तिका (Kṛttikā) — Alcyone (Pleiades)
 
@@ -302,6 +428,76 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** SIX stars, razor-shaped (kṣura-saṃsthāna), deity Agni, gotra Vaiśyāyanīya. The count of six bears directly on the seven individually-named Kṛttikās already on file: the Buddhist tradition counts six visible Pleiades, matching the widespread 'lost Pleiad' motif. The verse recension of the same chapter repeats it: ṣaṭtārāṃ kṛttikāṃ vidyāt.</sub>
 
+**Patañjali, Mahābhāṣya on 2.2.34 (Kielhorn i.436.15-437.7) and on 1.2.63 (Kielhorn i.231.14); Aṣṭādhyāyī 4.2.23 indirectly (Kārttikī); gaṇapāṭha, aṃśvādi gaṇa on 6.2.193** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_2,2.34.2) ka_i,436.15-437.7 {3/24} śiśiravasantau udagayanasthau kṛttikārohiṇyaḥ .
+>
+> *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). Pāṇini's indirect witness reads ४.२.२३ विभाषा फाल्गुनीस्रवणाकार्त्तिकीचैत्रीभ्यः (Sanskrit Wikisource; GRETIL 'alt': 'vibhāṣā phālgunī-sravaṇā-kārttikī-caitrī-bhyaḥ'). The gaṇapāṭha line reads 'अंशु। जन। राजन्। उष्ट्र। खेटक। अजिर। आर्द्रा। श्रवण। कृत्तिका। अर्ध। पुर। अंश्वादिः।'*
+>
+> — *Literal rendering: 'śiśira-vasantau, "the cool and spring seasons, being in the northern course"; kṛttikā-rohiṇyaḥ, "the Kṛttikās and Rohiṇī".' Vasu, on Pāṇini 4.2.23: 'The affix optionally comes after the words Phalguni, Sravana, Kartiki and Chaitri, being the names of full moon nights, the whole word so formed being a Name denoting a division of time (a month, a fortnight or a year) in which the moon is full.'*
+> <br>— Literal rendering by the compiler; second sentence Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** IMPORTANT DISTINCTION, and the most interesting negative in this source. The name Kṛttikā does NOT occur in Pāṇini's sūtra text; his word for this asterism is Bahulā (4.3.34, see that entry). Pāṇini does however derive the full-moon name Kārttikī at 4.2.23, which presupposes a base kṛttikā, so the name existed in his language even though he never uses it directly for the asterism. Kṛttikā appears explicitly in (a) the gaṇapāṭha, aṃśvādi gaṇa on 6.2.193, and (b) Patañjali, who cites kṛttikā-rohiṇyaḥ twice (on 1.2.63 and in Kātyāyana's vārttika on 2.2.34). Patañjali's use, and Kātyāyana's before him, is the datable attestation: c. 150 BCE and c. 3rd c. BCE respectively. The vārttika on 2.2.34 puts Kṛttikā first in the pair by natural sequence, consistent with the Kṛttikā-headed nakṣatra list.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सपादेष्वग्नयः(३)३५।१५ … साङ्गव्ध्ययः(३)४।१५
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(3) 35 15…' and '…(3) 4 15…' — the polar longitude of asterism no. 3 is 35°15' and its polar latitude 4°15', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 35°15', śara (polar latitude) 4°15' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 6 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: η Tau 35°02' / 4°09'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Go (Taurus) 7½° (= 37°30' measured from the sidereal origin) with a śara of 5°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> र्गवि विदलैस्तै[७॥,१९॥]
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 3 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Go (Taurus) 7½°, with polar latitude 5°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Go (Taurus) 7½° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 37°30' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 5°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: η Tau 38°45' / 4°08'. For comparison Sāmanta (1869) gives 35°15' / 4°15' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0388c08), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 昴圖。昴六星，形如剃刀，火神也，姓某尼裴苦，食乳酪。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c10: 「昴有六星，形如散花，於十二時與月俱行，祭則用酪，火神主之，姓毘舍延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b06: 「厥名稱宿，有六要星，其形像加，晝夜周行，三十須臾而侍從矣，以酪為食，主乎火天，姓號居火。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0388c13: 「景風曰：中國天文，昴七星，主胡兵，西方之宿也。然今案經文，說星多不與中國相符，覽者遽生疑惑，今請依中國天文二圖，其星於脚下發，讀之者高明則心無所昧矣」*
+>
+> — *Xiuyao jing: "Chart of Mao. Mao has six stars; its form is like a razor. Its deity is Fire (Agni); its clan-name is ...ni-pei-ku; its food is milk-curd." — Modengqie jing (T1300, c. 230 CE): "Mao has six stars, its form like scattered flowers; for twelve double-hours it travels with the moon; curd is used in its offering; the Fire deity presides over it; its clan is Vaiśyāyana (毘舍延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Renown has six principal stars, its form like ...; it travels a whole day and night, thirty muhūrta, in attendance; curd is its food; the Fire deva presides; its clan-name is 'Dwelling-in-fire'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 昴 Mao; T1301 renders the name semantically as 名稱 ('Renown'). SIX stars and a RAZOR-figure, agreeing exactly with the Śārdūlakarṇāvadāna's ṣaṭtāraṃ kṣura-saṃsthānaṃ … agnidaivataṃ vaiśyāyanīyaṃ gotreṇa … dadhy-āhāram already in the database. All three Chinese witnesses give six, i.e. six visible Pleiades, not seven; T1300 renders the gotra phonetically as 毘舍延 = Vaiśyāyana, an exact match for vaiśyāyanīya. T1299's own Tang commentator flags the clash: 'In Chinese astronomy Mao has seven stars.' The razor-figure survives only in T1299; T1300 has 'scattered flowers'. T1299's gotra 某尼裴苦 is corrupt in the Taishō (某 marks a defective graph).</sub>
+
+**Mahābhārata 3.219.11 and 6.3.26 (Critical Edition) = vulgate Vana Parva CCXXIX and Bhīṣma Parva Section III** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> evam ukte tu śakreṇa tridivaṃ kṛttikā gatāḥ / nakṣatraṃ śakaṭākāraṃ bhāti tad vahnidaivatam // … kṛttikāsu grahas tīvro nakṣatre prathame jvalan / vapūṃṣy apaharan bhāsā dhūmaketur iva sthitaḥ //
+>
+> *CE lines 03,219.011a/011c and 06,003.026a/026c, quoted here as one composite; they are from two different parvans. The śakaṭākāra reading is the Critical Edition's; Ganguli's vulgate has a seven-headed Kṛttikā instead.*
+>
+> — *Ganguli on the first passage: 'And in accordance with Sakra's advice, Krittika was assigned a place in the heavens, and that star presided over by Agni shines as if with seven heads.' Ganguli on the second: 'Rahu of fierce deeds is also, O monarch, afflicting the constellation Kirtika.'*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m03/m03229.htm) · [mirror](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06003.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Two independent epic data. (a) At the end of the Abhijit episode the Kṛttikās go to the third heaven and 'that asterism, whose deity is Fire, shines CART-SHAPED (śakaṭākāra)'. Śakaṭa is the standard later shape-word for Rohiṇī, not for Kṛttikā, so the CE reading is an anomalous and potentially archaic datum; Ganguli's vulgate instead reads that it 'shines as if with seven heads', i.e. the ordinary seven-Pleiad description. The deity Agni is standard. (b) At Bhīṣma 6.3.26 Kṛttikā is called 'nakṣatra prathama', THE FIRST ASTERISM — the Kṛttikā-ādi list, corroborating the Taittirīya/Atharvan order rather than the Dhaniṣṭhā-ādi order named three chapters' worth of text earlier in the Vana Parva.</sub>
+
+**Raghuvaṃśa 14.22** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> sarvāsu mātṛṣv api vatsalatvāt sa nirviśeṣapratipattir āsīt / ṣaḍānanāpītapayodharāsu netā camūnām iva kṛttikāsu // Ragh_14.22
+>
+> — *Literal rendering: 'Out of tenderness he treated all his mothers without distinction, as the leader of the armies (Skanda) does the Krttikas, whose breasts the six-faced one drank.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt))
+
+<sub>**Identification notes (Classical kāvya):** The Krttikas here are the foster-mothers whose breasts Sadanana (six-faced Skanda) drank at once - the myth that makes the Pleiades six or seven women. Rama showed no partiality among his stepmothers, 'like the leader of the armies among the Krttikas'. This is the mythological personification rather than a naked star-observation, but the referent is the asterism.</sub>
+
 ### रोहिणी (Rohiṇī) — Aldebaran
 
 **Modern identification:** Aldebaran — α Tauri, Taurus (*certain*)
@@ -334,6 +530,128 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** FIVE stars, wagon-shaped (śakaṭākṛti-saṃsthāna), deity Prajāpati, gotra Bhāradvāja. The five-star wagon is the Hyades V (α, θ¹, γ, δ, ε Tauri) — strong corroboration of the cluster reading, and of the śakaṭa ('wain') that Sūrya Siddhānta 8.13 speaks of splitting. Colebrooke independently glosses Amarakośa's rauhiṇeya = Mercury with 'Budha, son of Soma (or the moon) by Rohini (or the Hyades)', the earliest public-domain equation of Rohiṇī with the cluster rather than Aldebaran alone.</sub>
+
+**Patañjali, Mahābhāṣya on 1.2.63 (Kielhorn i.231.14) and on 2.2.34 (Kielhorn i.436.15-437.7, Kātyāyana's vārttika); gaṇapāṭha, gaurādi gaṇa on 4.1.41** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_2,2.34.2) ka_i,436.15-437.7 {1/24} ṛtunakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām . {2/24} ṛtunakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām pūrvanipātaḥ vaktavyaḥ . {3/24} śiśiravasantau udagayanasthau kṛttikārohiṇyaḥ .
+>
+> *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). The first sentence is Kātyāyana's vārttika, which the GRETIL source marks in bold in its HTML original. Patañjali's parallel at 1.2.63 reads '(p_1,2.63) ka_i,231.14-232.7 {2/24} kṛttikārohiṇyaḥ .'*
+>
+> — *Literal rendering: 'Of seasons and asterisms having an equal number of syllables, [the compounding follows] their sequence. — It must be stated that of seasons and asterisms having an equal number of syllables, the placing-first [in the compound] follows their sequence. [Examples:] śiśira-vasantau, "the cool and spring seasons, being in the northern course"; kṛttikā-rohiṇyaḥ, "the Kṛttikās and Rohiṇī".'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** IMPORTANT DISTINCTION: Rohiṇī is NOT named in Pāṇini's sūtra text at all — a sandhi-tolerant search of both independent recensions returns zero. She enters only through (a) the gaṇapāṭha, where the gaurādi gaṇa on 4.1.41 lists 'रोहिणीनक्षत्रे' explicitly 'in the sense of the asterism' (and the śubhrādi gaṇa on 4.1.123 and suṣāmādi on 8.3.98 list rohiṇī / rohiṇī-ṣeṇaḥ), and (b) Patañjali, who on 1.2.63 gives kṛttikā-rohiṇyaḥ as his standard example of an asterism dvandva that does NOT fall under the tiṣya-punarvasu rule. Kātyāyana's vārttika on 2.2.34 uses the same pair — 'ṛtu-nakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām' with the example kṛttikā-rohiṇyaḥ, i.e. seasons and asterisms of equal syllable-count are compounded in their NATURAL ORDER. So the securely datable attestation here is c. 150 BCE (Patañjali) / c. 3rd c. BCE (Kātyāyana), not Pāṇini. The vārttika is significant beyond the name: it presupposes a fixed canonical sequence of nakṣatras, and its example puts Kṛttikā before Rohiṇī.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> षड्वेदाः(४)४६।३० … सहार्धेन्द्रियाणि(४)५।३०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(4) 46 30…' and '…(4) 5 30…' — the polar longitude of asterism no. 4 is 46°30' and its polar latitude 5°30', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 46°30', śara (polar latitude) 5°30' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Tau 46°38' / -5°32'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Go 19½° (= 49°30' measured from the sidereal origin) with a śara of 5°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> र्गवि विदलैस्तै[७॥,१९॥]
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 4 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Go 19½°, with polar latitude 5°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Go 19½° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 49°30' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 5°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Tau 51°08' / -5°43'. For comparison Sāmanta (1869) gives 46°30' / 5°30' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0388c15), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 畢圖。畢五宿，形如半車，鉢闍鉢底神也，姓瞿曇，食鹿肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c12: 「畢有五星，形如飛雁，於一日半與月共行，麋肉以祭，屬於梵王，姓婆羅婆。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b09: 「其長養宿，有五要星，其形如車，行四十五須臾而侍從矣，牛肉為食，主有信天，姓號俱曇。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0388c21: 「景風曰：中國天文畢八星，主邊兵，西方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Bi. Bi has five stars; its form is like half a cart. Its deity is Prajāpati (鉢闍鉢底); its clan is Gautama; its food is deer-flesh." — Modengqie jing (T1300, c. 230 CE): "Bi has five stars, its form like a flying wild-goose; for a day and a half it travels with the moon; elk-flesh is used in its offering; it belongs to the Brahmā-king; its clan is Bhāradvāja/Bhārgava (婆羅婆)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Nurturing has five principal stars, its form like a cart; it travels forty-five muhūrta in attendance; ox-flesh is its food; the deva of Faith presides; its clan-name is Gautama (俱曇)."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 畢 Bi; T1301 renders the name semantically as 長育/長養 ('Nurturing'). FIVE stars, and T1299's 半車 'half a cart' plus T1301's 形如車 'form like a cart' render the Śārdūlakarṇāvadāna's śakaṭākṛti-saṃsthānam exactly — independent confirmation that Rohiṇī is the Hyades wain and not Aldebaran alone. T1299 transcribes the deity as 鉢闍鉢底 = Prajāpati (the same transcription it uses for the tithi-deity at T21.394a18), matching prajāpati-daivatam; T1300 translates it 梵王 'Brahmā-king'. The 45-muhūrta value (一日半 / 四十五須臾) matches pañca-catvāriṃśan-muhūrta-yogam. Deer/elk-flesh = mṛgamāṃsāhāram. Chinese astronomy gives Bi eight stars (Yang Jingfeng's note).</sub>
+
+**Mahābhārata 6.2.32 (Critical Edition, Bhīṣma Parva) = vulgate/Ganguli Bhīṣma Parva Section II; cf. 3.219.8, 5.141.7** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> rohiṇīṃ pīḍayann eṣa sthito rājañ śanaiścaraḥ / vyāvṛttaṃ lakṣma somasya bhaviṣyati mahad bhayam //
+>
+> *CE lines 06,002.032a/032c. CE chapter 6.2 = vulgate Bhīṣma Parva Section II; the numbering happens to coincide here.*
+>
+> — *The planet Sani also, O king, appeareth afflicting (the constellation) Rohini. The sign of the deer in the Moon hath deviated from its usual position. A great terror is indicated.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06002.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Rohiṇī is the epic's most frequently personified asterism. Three data worth recording: (a) at MBh 3.219.8 she is Abhijit's ELDER sister and the object of Abhijit's envy, and at 3.219.10 she is named as the head of a pre-Dhaniṣṭhā list; (b) the Saturn-afflicts-Rohiṇī omen recurs twice, at Bhīṣma 6.2.32 and Udyoga 5.141.7, and is the epic's stock war-portent; (c) in the Rāmāyaṇa (Yuddha 6.90.27) she is called the PRĀJĀPATYA nakṣatra and 'the moon's beloved' (śaśinaḥ priyā) — see the separate prajapatya entry. Aldebaran's identity is not in dispute and is supplied from the siddhānta entries.</sub>
+
+**Kumārasambhava 8.82** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-kumArasaMbhava.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> tatra haṃsadhavalottaracchadaṃ jāhnavīpulinacārudarśanam / adhyaśeta śayanaṃ priyāsakhaḥ śāradābhram iva rohiṇīpatiḥ // Ks_8.82
+>
+> *IAST from GRETIL; canto 8 was not obtainable in Devanagari in this session.*
+>
+> — *Literal rendering: 'There, in his beloved's company, he lay upon a couch with a swan-white coverlet, lovely as a sandbank of the Jahnavi, as Rohini's lord (the moon) lies upon an autumn cloud.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-kumArasaMbhava.txt))
+
+<sub>**Identification notes (Classical kāvya):** Rohini named only obliquely, through the moon's stock epithet rohiṇīpati, 'the husband of Rohini' - evidence that by Kalidasa's date the marriage of the Moon and Rohini was so standard that it could serve as a bare synonym for the moon. Siva lying on his couch beside Parvati is 'like Rohini's lord upon an autumn cloud'.</sub>
+
+**Abhijñānaśākuntala 7.22** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अभिज्ञानशाकुन्तलम्/सप्तमोऽङ्कः)
+
+> स्मृतिभिन्नमोहतमसो दिष्टया प्रमुखे स्थितासि मे सुमुखी । उपरागान्ते शशिनः समुपगता रोहिणी योगम् ॥२२॥
+>
+> *Devanagari from Sanskrit Wikisource, with the wiki indentation markers ('::') and one stray dash removed; the wording is unaltered and matches GRETIL word for word (smṛtibhinnamohatamaso diṣṭyā pramukhe sthitāsi me sumukhi / uparāgānte śaśinaḥ samupagatā rohiṇī yogam).*
+>
+> — *Behold me, best and loveliest of women, / Delivered from the cloud of fatal darkness / That erst oppressed my memory. Again / Behold us brought together by the grace / Of the great lord of Heaven. So the moon / Shines forth from dim eclipse, to blend his rays / With the soft lustre of his Rohini.*
+> <br>— Monier Williams, Sakoontala, or The Lost Ring (1856), Act VII; two OCR slips corrected ('his niys' > 'his rays', 'ihv' > 'the') ([source](https://archive.org/download/akoontalorlostr00monigoog/akoontalorlostr00monigoog_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** The central kavya statement of the Rohini myth: Dusyanta, his memory restored, compares Sakuntala's return to 'Rohini come to conjunction (yoga) with the moon at the END OF AN ECLIPSE (uparāgānte)'. Both technical terms - uparaga for eclipse, yoga for conjunction - mark this as astronomy, not merely a woman's name: the moon swallowed by Rahu is reunited with his favourite wife when he emerges. Aldebaran lies close enough to the ecliptic for an eclipsed moon to be seen beside it.</sub>
+
+**Buddhacarita 4.73** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_azvaghoSa-buddhacarita.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> agastyaḥ prārthayām āsa somabhāryāṃ ca rohiṇīm / tasmāt tatsadṛśīṃ lebhe lopāmudrām iti śrutiḥ // BC_4.73
+>
+> *IAST from GRETIL, with GRETIL's inline variant apparatus '(dṛśīṃ c dṛśaṃ)' resolved to the main reading tatsadṛśīṃ; the independent GRETIL 'alt' e-text reads 'somabhāryā ca rohiṇīm / tasmāttatsadṛśī lebhe lopāmudrāmiti śrutiḥ'.*
+>
+> — *So too Agastya wooed Rohini, the wife of Soma; and therefore, as Sruti saith, a like thing befell Lopamudra.*
+> <br>— E. B. Cowell, SBE 49 (1894), Buddha-karita IV.73; the archive.org OCR prints 'Rohi;^i', '.S'ruti', 'Lopamudra' ([source](https://archive.org/download/buddhistmahy01cowe/buddhistmahy01cowe_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** The EARLIEST datable statement located in this survey that Rohini is the Moon's wife: 'somabhāryāṃ ... rohiṇīm', c. 100 CE. It stands in Udayin's catalogue of sages overcome by desire, between Indra-and-Ahalya and Brhaspati-and-Mamata, so Rohini is being treated as a mythological person - but the person IS the asterism, and the same verse couples her with Agastya, the star of the south, and with Lopamudra, from whom the database's Canopus-name Lopamudravallabha derives. Star-name and wife-myth are already fused this early.</sub>
+
+**Harṣacarita, Ucchvāsa IV (p. 146-147 of the printed text)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bANa-harSacarita.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> hastaṃ tāmarasa-pratipakṣam āsanna-grahaṇaṃ śaśinam iva rohiṇīṃ bhaya-vepamāna-mānasām avalokayantīm
+>
+> *A clause excerpted from a long prose sentence; IAST exactly as printed in the GRETIL e-text, including its hyphenation and circumflex-sandhi conventions.*
+>
+> — *Trembling she stood motionless with bashfulness, as if fearing to fall, gazing with a quiver of terror in her mind at that lotus-red hand so soon to be grasped: so might Rohini gaze at the moon when near eclipse. [Their note: 'Rohini, the red one, gazes at the white moon when near eclipse. The naksatras are the moon's wives.']*
+> <br>— E. B. Cowell and F. W. Thomas, The Harsa-carita of Bana (1897), ch. IV p. 129 and n. 1 ([source](https://archive.org/download/harsacaritaofban00banaiala/harsacaritaofban00banaiala_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Bana's prose gives the Rohini-Moon marriage its most anxious form: the bride Rajyasri gazes at the groom's hand 'as Rohini gazes, her mind trembling with fear, at the moon whose eclipse (grahaṇa) is near' - with a pun, since grahana is both 'eclipse' and 'the taking' of the bride's hand. Cowell and Thomas note ad loc.: 'The naksatras are the moon's wives.' Bana uses the pair repeatedly: elsewhere the moon is rohiṇī-ramaṇa, 'Rohini's lover', and is 'dejected with longing for Rohini, who has set first'.</sub>
+
+**Harṣacarita, Ucchvāsa VII (p. 245 of the printed text)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bANa-harSacarita.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> kupita-nṛpa-vyāghrâghrātām upasṛṣṭām iva pauruṣṭutīṃ vihāya vihāyas talam āruroha rohiṇī-ramaṇaḥ.
+>
+> *Sentence excerpted verbatim from the GRETIL prose e-text.*
+>
+> — *Abandoning Indra's quarter, as if infected by the sniff of the angered tiger-king, the lover of Rohini mounted the firmament.*
+> <br>— E. B. Cowell and F. W. Thomas, The Harsa-carita of Bana (1897), ch. VII p. 245 ([source](https://archive.org/download/harsacaritaofban00banaiala/harsacaritaofban00banaiala_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Rohini named as one term of a moon-epithet in a nightfall description that is explicitly astronomical around it - the quarters strew their constellations, Airavata's track shines dust-grey in the sky, the moon's rays go over the ten quarters. Cowell and Thomas gloss: 'Rohiniramanas, the moon'.</sub>
 
 ### मृगशीर्ष (Mṛgaśīrṣa) — Meissa
 
@@ -370,6 +688,39 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** THREE stars, deer's-head-shaped (mṛgaśīrṣa-saṃsthāna), deity Soma, gotra Mṛgāyaṇīya — i.e. exactly the group Amarakośa calls the Ilvalāḥ, λ/φ¹/φ² Orionis. The Amarakośa also records three name-forms (Mṛgaśīrṣa, Mṛgaśiras, Āgrahāyaṇī), which Colebrooke glosses simply 'Orion'.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> साद्धिखर्तवः(५)६०।१५ … साद्धानलक्षितयः(५)१३।३०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(5) 60 15…' and '…(5) 13 30…' — the polar longitude of asterism no. 5 is 60°15' and its polar latitude 13°30', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 60°15', śara (polar latitude) 13°30' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 3 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: λ Ori 60°27' / -13°25'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Jituma (Gemini) 3° (= 63°00' measured from the sidereal origin) with a śara of 10°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> स्त्रि[३]सप्त[७]भिर्जितुमे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 5 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Jituma (Gemini) 3°, with polar latitude 10°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Jituma (Gemini) 3° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 63°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 10°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: λ Ori 65°43' / -13°40'. For comparison Sāmanta (1869) gives 60°15' / 13°30' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0388c22), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 觜圖。觜三星，形如鹿頭，月神也，姓婆羅墮闍，食鹿肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c14: 「觜有三星，形如鹿首，於一日中與月共俱，以果為祭，屬於月神，即姓鹿氏。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b11: 「鹿首宿者，有三要星，形類鹿頭，行三十須臾而侍從矣，鹿肉為食，主善志天，姓號長育。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0388c28: 「中國天文，觜三星，主軍之士，西方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Zi. Zi has three stars; its form is like a deer's head. Its deity is the Moon (Soma); its clan is Bhāradvāja (婆羅墮闍); its food is deer-flesh." — Modengqie jing (T1300, c. 230 CE): "Zi has three stars, its form like a deer's head; for one day it is together with the moon; fruit is used in its offering; it belongs to the Moon deity; its clan is precisely the Deer clan." — Shetoujian jing (T1301, c. 307 CE): "The asterism Deer's Head has three principal stars, its form of the deer's-head kind; it travels thirty muhūrta in attendance; deer-flesh is its food; the deva of Good Resolve presides; its clan-name is 'Nurturing'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 觜 Zi; T1301 renders the name semantically as 鹿首 ('Deer's Head'). THREE stars, DEER'S-HEAD figure, SOMA as deity, MṚGA as clan, deer-flesh as food — all four independently matching the Śārdūlakarṇāvadāna's tritāraṃ mṛgaśīrṣa-saṃsthānaṃ … soma-daivataṃ mṛgāyaṇīyaṃ gotreṇa. T1301 even translates the name itself as 鹿首 'deer's head'. Chinese astronomy also gives Zi three stars, so here Indian and Chinese counts coincide (λ, φ¹, φ² Orionis = the Amarakośa's Ilvalāḥ already on file).</sub>
+
 ### आर्द्रा (Ārdrā) — Betelgeuse
 
 **Modern identification:** Betelgeuse — α Orionis, Orion (*disputed*)
@@ -405,6 +756,50 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** ONE star, tilaka-shaped (a forehead-mark, i.e. a single point), deity Sūrya, gotra Hārītītāyanīya. The single-star count supports Betelgeuse over any multi-star reading. NOTE the deity: Sūrya, not the Rudra of the Brahmanical lists — a genuine Buddhist divergence, and one that weakens the Rudra-based argument sometimes used to identify Ārdrā with Sirius.</sub>
 
+**Aṣṭādhyāyī 4.3.28 (also gaṇapāṭha, aṃśvādi gaṇa on 6.2.193)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.२८ पूर्वाह्णापराह्णार्द्रामूलप्रदोषावस्कराद्वुन् ।
+>
+> *Devanāgarī from Sanskrit Wikisource; GRETIL's two IAST texts give 'pūrvāhṇa-aparāhṇa-ārdrā-mūla-pradoṣa-avaskarād vun' and 'pūrvāhṇa=aparāhṇa=ārdrā=mūla-pradoṣa=avaskar-āt=vun'. All three agree. The gaṇapāṭha line reads: 'अंशु। जन। राजन्। उष्ट्र। खेटक। अजिर। आर्द्रा। श्रवण। कृत्तिका। अर्ध। पुर। अंश्वादिः।'*
+>
+> — *Literal rendering: 'The affix vun [in the sense "born therein"] comes after pūrvāhṇa (forenoon), aparāhṇa (afternoon), ārdrā, mūla, pradoṣa (nightfall) and avaskara.'*
+> <br>— Literal rendering by the compiler ([source](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Named by Pāṇini himself at 4.3.28 pūrvāhṇa-aparāhṇa-ārdrā-mūla-pradoṣa-avaskarād vun — a sūtra about the affix vun in the sense 'born therein', where Ārdrā and Mūla stand among words for divisions of time. That Pāṇini pairs an asterism with 'forenoon', 'afternoon' and 'nightfall' is itself evidence that asterism names functioned as time-words for him, which is the same principle as 4.2.3. Ārdrā also appears in the aṃśvādi gaṇa on 6.2.193 alongside Śravaṇa and Kṛttikā, but that is gaṇapāṭha and carries no independent date. No positional data, so the disputed identification is unaffected.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> शरघंट(६)६५ … चरांशोनतर्कचन्द्राः(६)१५।४०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(6) 65 00…' and '…(6) 15 40…' — the polar longitude of asterism no. 6 is 65°00' and its polar latitude 15°40', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 65°00', śara (polar latitude) 15°40' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 1 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Ori 65°05' / -16°03'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Jituma 7° (= 67°00' measured from the sidereal origin) with a śara of 11°00' south (VIII.2.5–6, direction by VIII.2.8). ★ DECISIVE FOR THE DISPUTED IDENTIFICATION. Sāmanta's 65° / 15°40' S matches BETELGEUSE (α Orionis) to 5' of longitude and 23' of latitude. The Sūrya Siddhānta's 67°20' / 9° S is what forced Burgess to complain of 'very grave errors in the definition of its position' and to note that the only star nearly matching it is the 6th-magnitude 135 Tauri. Sāmanta's re-measurement of the latitude from 9° to 15°40' is precisely the correction needed to put the asterism on Betelgeuse, and XII.12 gives Ārdrā ONE star (rūpaṃ = 1), consistent with a single bright star rather than a group.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> स्त्रि[३]सप्त[७]भिर्जितुमे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 6 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Jituma 7°, with polar latitude 11°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Jituma 7° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 67°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 11°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Ori 70°35' / -16°17'. For comparison Sāmanta (1869) gives 65°00' / 15°40' south. Vaṭeśvara's 7° of Gemini (= 67°) is close to Betelgeuse's longitude but his śara of 11° is 5° short of Betelgeuse's 16°17'. He has, however, already moved the latitude away from the Sūrya Siddhānta's 9° in the right direction.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0388c29), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 參圖。參一星，形如額上點，魯達羅神，姓盧醯底耶，食血。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c15: 「參有一星，一日及月，須酥以祭，係在日神，姓則安氏。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b13: 「生眚宿者，有一要星，其形類圓，光色則黃，行十五須臾而侍從矣，生酪為食，主音響天，姓號最取。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389a04: 「景風曰：中國天文，參十星，主將軍，西方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Shen. Shen has one star; its form is like the mark on the forehead. Its deity is Rudra (魯達羅); its clan is Rauhitya/Lohitāyana (盧醯底耶); its food is blood." — Modengqie jing (T1300, c. 230 CE): "Shen has one star; a day with the moon; ghee must be used in its offering; it is attached to the Sun deity; its clan is the An clan." — Shetoujian jing (T1301, c. 307 CE): "The asterism Producing-Blemish has one principal star, its form round and its light yellow in colour; it travels fifteen muhūrta in attendance; fresh curd is its food; the deva of Sound presides; its clan-name is 'Best-taking'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 參 Shen; T1301 renders the name semantically as 生眚 ('Producing Blemish'). ONE star in all three witnesses, and T1299's 形如額上點 'shaped like the dot on the forehead' is a word-for-word rendering of the Śārdūlakarṇāvadāna's tilaka-saṃsthānam. T1301 adds a detail the Sanskrit lacks: the single star is 形圓色黃 'round in form, yellow in colour' — a description that fits Betelgeuse. The 15-muhūrta value matches. THE DEITY IS THE INTERESTING DIVERGENCE: the Sanskrit Śārdūlakarṇāvadāna and the 3rd-century T1300 both give the SUN (日神 = sūrya-daivatam); the 8th-century Xiuyao jing has restored the Brahmanical RUDRA (魯達羅). So the Buddhist Sūrya reading is the older one and Amoghavajra's informant had re-Brahmanised it — which weakens any Rudra-based argument for identifying Ārdrā with Sirius. Chinese astronomy gives Shen ten stars.</sub>
+
 ### पुनर्वसु (Punarvasu) — Pollux
 
 **Modern identification:** Pollux — β Geminorum, Gemini (*certain*)
@@ -428,6 +823,74 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** TWO stars, foot-shaped (pada-saṃsthāna), deity Aditi, gotra Vāśiṣṭha. Two stars = Castor and Pollux, confirming both the dual name and the Aditi lordship of the Vedic lists on file.</sub>
+
+**Aṣṭādhyāyī 1.2.61 (also 1.2.63, 4.3.34)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/प्रथमः_अध्यायः)
+
+> १.२.६१ छन्दसि पुनर्वस्वोर् एकवचनम् ।
+>
+> *Devanāgarī from Sanskrit Wikisource; GRETIL's Kāśikā-derived text reads 'chandasi punarvasvorekavacanam', the 'alt' text 'chandasi punarvasvor ekavacanam'. All three agree.*
+>
+> — *61. In the Vedas, the two stars, Punarvasu, may optionally be singular, (and connote a dual). In the Vedas, the star punarvasu which is always dual in form, may be in the singular form and connote a dual meaning. … Similarly when it is not the appellation of an asterism but of a man, there is no option.*
+> <br>— Śrīśa Chandra Vasu (1891) ([source](https://archive.org/download/wg1038/WG1038-1891%20-The%20Ashtadhyayi%20Of%20Panini%20-Sanskrit%20English%20Vol%201%20Of%208_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Pāṇini gives Punarvasu three whole sūtras of his own: 1.2.61 chandasi punarvasvor ekavacanam, 1.2.62 viśākhayoś ca, 1.2.63 tiṣya-punarvasvor nakṣatra-dvandve… The grammar preserves a real astronomical fact: Punarvasu is inherently DUAL for Pāṇini (a two-star asterism), and 1.2.61 records that in the Vedic language the dual could be replaced by a singular. Vasu's gloss makes the count explicit: 'There is one star called Tishya; and there are two stars called Punarvasu.' Patañjali on 1.2.61-62 discusses the same forms and on 1.2.63 uses tiṣya-punarvasavaḥ as a personal name to contrast with the star sense. This is by a wide margin the earliest DATABLE evidence in the database that Punarvasu is a pair and Tiṣya a single star.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> साद्धिशून्याङ्काः(७)९०।१५ … साद्रसाः(७)६।३०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(7) 90 15…' and '…(7) 6 30…' — the polar longitude of asterism no. 7 is 90°15' and its polar latitude 6°30', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 90°15', śara (polar latitude) 6°30' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: β Gem 90°20' / 6°46'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Kulīra (Cancer) 3° (= 93°00' measured from the sidereal origin) with a śara of 6°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> त्र्य[३]ष्टि[१६]धृति[१८]भिः कुलीरे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 7 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Kulīra (Cancer) 3°, with polar latitude 6°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Kulīra (Cancer) 3° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 93°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 6°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: β Gem 93°50' / 6°37'. For comparison Sāmanta (1869) gives 90°15' / 6°30' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389a05), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 井圖。井二星，形如屋栿，日神也，姓婆私瑟吒，食蘇餅。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c16: 「井有二星，形如人步，唯於一日與月而俱，祭必用蜜，屬乎歲星，亦姓安氏。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b15: 「增財宿者，有三要星，其形對立，行四十五須臾而侍從矣，醍醐為食，主過去天，名為材出。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389a11: 「景風曰：中國天文，井八星，主天門，南方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Jing. Jing has two stars; its form is like a roof-beam. Its deity is the Sun (Aditi); its clan is Vāsiṣṭha (婆私瑟吒); its food is ghee-cakes." — Modengqie jing (T1300, c. 230 CE): "Jing has two stars, its form like a man's step; for one day only it is with the moon; honey must be used in its offering; it belongs to Jupiter; its clan is likewise the An clan." — Shetoujian jing (T1301, c. 307 CE): "The asterism Increase-of-Wealth has three principal stars, their form standing opposite; it travels forty-five muhūrta in attendance; clarified butter is its food; the deva of the Past presides; its name is 'Timber-issuing'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 井 Jing; T1301 renders the name semantically as 增財 ('Increase of Wealth'). TWO stars in T1299 and T1300, matching dvitāram; T1300's 形如人步 'shaped like a man's step' is an exact rendering of pada-saṃsthānam (the Sanskrit 'foot'). T1299's gotra 婆私瑟吒 = Vāsiṣṭha matches the Śārdūlakarṇāvadāna's vāśiṣṭhaṃ gotreṇa exactly. The 45-muhūrta value is confirmed by T1301 and by T1300's summary list of the six long asterisms (畢井氐翼斗壁). T1301's name 增財 'increase of wealth' shows that c. 300 CE Punarvasu was parsed punar + vasu 'wealth again' — the earliest datable gloss on the name. T1299's deity 日神 'sun-deity' is a rendering of Aditi (mother of the Ādityas), not a substitution. Chinese astronomy gives Jing eight stars.</sub>
+
+**Rāmāyaṇa 5.55.1-2 (Critical Edition, Sundara Kāṇḍa) = Dutt's Sundara Kāṇḍam Section CVII (Griffith omits the simile)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> sacandrakumudaṃ ramyaṃ sārkakāraṇḍavaṃ śubham / tiṣyaśravaṇakadambam abhraśaivalaśādvalam // punarvasu mahāmīnaṃ lohitāṅgamahāgraham / airāvatamahādvīpaṃ svātīhaṃsaviloḍitam //
+>
+> *CE references R_5,055.001 and R_5,055.002. Griffith's Sundara Kāṇḍa Canto LVI ('Mount Arishta') abridges the passage away entirely, so no Griffith rendering exists; Dutt's 1892 prose has it under Sundara Kāṇḍam Section CVII (the vulgate sarga numbering differs sharply from the CE here).*
+>
+> — *the ustiring Hanumān, began to swim on the ocean of the firmament having for its blown lotuses and lilies, snakes, Yakshas and Gandharbas; with the Moon for its comely 'Kumuda;' and with the Sun for its Kārandavas; charming to behold; having Tishya and Sravana for its swans, clouds for its mosses and grass, Punarvasu for its mighty fish, the red-bodied one for its huge aquatic animal, Airāvata for its spacious island, Swāti for its sportive swan, breezes for its billows, and moonlight for its cool waters.*
+> <br>— Manmatha Nath Dutt (1892) ([source](https://archive.org/download/dli.ministry.19595/E01454_The_Ramayana_Vol_5_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Punarvasu occurs exactly ONCE in the Critical Edition Rāmāyaṇa, and it is not where the tradition looks for it: at Sundara 5.55.2, in Hanumān's sky-as-lake simile, where 'Punarvasu is the great fish (mahāmīna)'. The figure is a systematic one — moon = white lotus, sun = duck, Tiṣya and Śravaṇa = kadamba flowers, clouds = moss, Punarvasu = the great fish, Mars = the great crocodile, Airāvata = the island, Svātī = the swan — and is the richest star-simile in either epic. It gives no position, but it does imply a large, conspicuous object, consistent with the Castor/Pollux pair. Rāma's birth under Punarvasu is a VULGATE reading only; see the aditidaivatya entry.</sub>
+
+**Raghuvaṃśa 11.36** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रघुवंशम्/एकादशः_सर्गः)
+
+> तौ विदेहनगरीनिवासिनां गां गताविव दिवः पुनर्वसू । मन्यते स्म पिबतां विलोचनैः पक्ष्मपातं अपि वञ्चनां मनः । । ११.३६ । ।
+>
+> *Devanagari from Sanskrit Wikisource; agrees word-for-word with GRETIL (tau videhanagarīnivāsināṃ gāṃ gatāv iva divaḥ punarvasū / manyate sma pibatāṃ vilocanaiḥ pakṣmapātam api vañcanāṃ manaḥ).*
+>
+> — *Looking at them as eagerly as if they were the two stars Punarvasū, descended on Earth.*
+> <br>— Gopal Raghunath Nandargikar (1897), Preface p. 38 ([source](https://archive.org/download/p3raghuvanawithc00kliduoft/p3raghuvanawithc00kliduoft_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Star-sense certain: the word is in the DUAL (punarvasū, the two stars of the asterism) and is explicitly 'divaḥ ... gāṃ gatau', 'come down from heaven to earth'. Rama and Laksmana entering Mithila are the two stars. Apart from this, Kalidasa names only three of the 27 asterisms anywhere in the Raghuvamsa: Citra (1.46), Krttika (14.22) and Pusya (18.32).</sub>
 
 ### पुष्य (Puṣya) — Asellus Australis
 
@@ -464,6 +927,85 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** THREE stars, vardhamāna-shaped (an auspicious 'growing' diagram), deity Bṛhaspati, gotra Aupamanyavīya. Three stars = δ, γ, θ Cancri; matches Colebrooke's 'Stars in Cancer' for the Amarakośa's Puṣya/Sidhya/Tiṣya trio.</sub>
 
+**Aṣṭādhyāyī 3.1.116; Patañjali, Mahābhāṣya on 2.3.45 (Kielhorn i.460.2)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/तृतीयः_अध्यायः)
+
+> ३.१.११६ पुष्यसिध्यौ नक्षत्रे ।
+>
+> *Devanāgarī from Sanskrit Wikisource, confirmed by GRETIL's independent 'alt' text 'puṣ-ya-sidh-yau nakṣatre'. GRETIL's Kāśikā-derived text prints 'puṣya-siddhyau nakṣatre' with a doubled d, which is against the other two witnesses and against the traditional reading sidhya. Patañjali's line reads: '(p_2,3.45) ka_i,460.2 {2/4} adya puṣyaḥ . {3/4} adya maghā iti .'*
+>
+> — *Literal rendering: '[The affix is added after the roots puṣ and sidh giving] puṣya and sidhya, when [the word denotes] an asterism.' Patañjali on 2.3.45: 'Today is Puṣya. Today is Maghā.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Puṣya is named by PĀṆINI HIMSELF at 3.1.116 puṣya-sidhyau nakṣatre — 'Puṣya and Sidhya, when they denote an asterism' — so the two words Tiṣya and Puṣya were both current in his language and he keeps them apart lexically. Both GRETIL recensions and the Devanāgarī Wikisource text agree on the reading sidhyau (not siddhyau) in this sūtra; the Kāśikā-derived GRETIL file alone prints siddhyau, which the other two witnesses correct. Puṣya recurs in Patañjali as a lived calendrical word: on 2.3.45 'adya puṣyaḥ' ('today is Puṣya'), and on 3.1.26 'puṣya-yogam jānāti, puṣyeṇa yojayati' ('he knows the conjunction with Puṣya; he joins [the moon] with Puṣya'). Vasu, translating the Kāśikā on 4.2.3, glosses the derived forms as 'the night in which the moon is in Pushya' and 'the month in which the moon is full in Pushya, i.e. December'. The gaṇapāṭha on 4.3.16 gives pauṣam beside taiṣam.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> कृताभा(८)१०४ … साद्धिरूप(८)१।१५
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(8) 104 00…' and '…(8) 1 15…' — the polar longitude of asterism no. 8 is 104°00' and its polar latitude 1°15', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 104°00', śara (polar latitude) 1°15' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 3 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: δ Cnc 104°43' / 0°05'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Kulīra 16° (= 106°00' measured from the sidereal origin) with a śara of 0°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> त्र्य[३]ष्टि[१६]धृति[१८]भिः कुलीरे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 8 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Kulīra 16°, with polar latitude 0°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Kulīra 16° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 106°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 0°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: δ Cnc 108°43' / 0°02'. For comparison Sāmanta (1869) gives 104°00' / 1°15' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389a13), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 鬼圖。鬼三星，形如瓶，蘖利訶馺撥底神也，姓謨闍耶那，食蜜，{#CB03022}糖，稻穀華及乳粥。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c18: 「鬼有三星，形如畫瓶，一日與月而共同遊，祭以桃花，屬乎歲星，姓烏波若。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b17: 「其熾盛宿者，有三要星，形像鉤尺，行三十須臾而侍從矣，蜜餳為食，主舍天神，姓烏和若。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389a19: 「景風曰：中國天文，鬼五星，主官寮，南方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Gui. Gui has three stars; its form is like a jar. Its deity is Bṛhaspati (蘖利訶馺撥底); its clan is Maudgalyāyana (謨闍耶那); its food is honey, sugar, rice-blossom and milk-gruel." — Modengqie jing (T1300, c. 230 CE): "Gui has three stars, its form like a painted jar; for a day it roams together with the moon; peach-blossom is its offering; it belongs to Jupiter; its clan is Aupamanyava (烏波若)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Blazing has three principal stars, its form like a hooked measuring-rule; it travels thirty muhūrta in attendance; honey and sugar are its food; the deva of the House presides; its clan is Aupamanyava (烏和若)."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 鬼 Gui; T1301 renders the name semantically as 熾盛 ('Blazing/Flourishing'). THREE stars in all three witnesses, matching tritāram; deity Bṛhaspati (transcribed 蘖利訶馺撥底 in T1299, translated 歲星 'Jupiter' in T1300), matching bṛhaspati-daivatam; gotra Aupamanyava (烏波若 / 烏和若), matching aupamanyavīyaṃ gotreṇa; food honey, matching madhu-maṇḍāhāram. The figure is the valuable point: T1299 has 瓶 'jar' and T1300 畫瓶 'painted jar', which fixes the sense of the Śārdūlakarṇāvadāna's obscure vardhamāna-saṃsthānam — vardhamāna here is the covered VESSEL, not the auspicious diagram. Chinese astronomy gives Gui five stars; the Chinese lodge is the one containing Praesepe.</sub>
+
+**Rāmāyaṇa (VULGATE) Bāla Kāṇḍa 18.15 (= CE 1.17, where the verse is absent); Mahābhārata 6.3.12 (Critical Edition) = vulgate Bhīṣma Parva Section III** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रामायणम्/बालकाण्डम्/सर्गः_१८)
+
+> पुष्ये जातस्तु भरतो मीनलग्ने प्रसन्नधीः । सार्पे जातौ तु सौमित्री कुलीरेऽभ्युदिते रवौ ॥१-१८-१५॥
+>
+> *VULGATE ONLY, from Sanskrit Wikisource Bālakāṇḍa sarga 18. The Mahābhārata parallel is CE 06,003.012c 'dhūmaketur mahāghoraḥ puṣyam ākramya tiṣṭhati'.*
+>
+> — *And Bharata of purged intelligence was born under the asterism Pushyā, when the Sun had entered Pisces; while the two sons of Sumitrā were born when the Sun arose in Cancer, under the asterism of Asleshā.*
+> <br>— Manmatha Nath Dutt (1892) ([source](https://archive.org/download/in.ernet.dli.2015.217233/2015.217233.The-Ramayana_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Puṣya is the epics' favourite auspicious asterism for setting out and for consecration. Key occurrences: Rāmāyaṇa (vulgate) Bāla 18.15, Bharata's birth-star; Rāmāyaṇa Ayodhyā, where Rāma's abhiṣeka is repeatedly timed to Puṣya; MBh 6.3.12, a comet afflicting Puṣya as a war-omen; MBh 9.33.5, Balarāma's pilgrimage chronology 'I set out under Puṣya and returned under Śravaṇa' — a rare epic use of nakṣatras to measure elapsed time; MBh 3.261.15, Rāma's coronation-Puṣya in the Rāmopākhyāna. The name itself is standard and δ Cancri is imported; recorded for the Bharata birth-star datum, which pairs with Rāma's Punarvasu and the twins' Sārpa to give a complete dynastic nakṣatra set.</sub>
+
+**Raghuvaṃśa 18.32** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रघुवंशम्/अष्टादशः_सर्गः)
+
+> तस्य प्रभानिर्जितपुष्प-रागं पौष्यं तिथौ पुष्यं असूत पत्नी । यस्मिन्नपुष्यन्नुदिते समग्रां पुष्टिं जनाः पुष्य इव द्वितीये । । १८.३२ । ।
+>
+> *Devanagari from Sanskrit Wikisource; identical with GRETIL. Nandargikar cites the verse as XVIII.31 (a one-verse offset between the recensions).*
+>
+> — *He having been born, the people obtained all prosperity, as if another Pushya constellation had risen.*
+> <br>— Gopal Raghunath Nandargikar (1897), Preface p. 38 (citing the verse as XVIII.31) ([source](https://archive.org/download/p3raghuvanawithc00kliduoft/p3raghuvanawithc00kliduoft_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** A four-fold pun (the pauṣya tithi / the son named Pusya / apuṣyan 'they throve' / puṣya the asterism) whose last member is unmistakably the star: the people throve 'at his RISING' (udite) as at a second Pusya. udaya is a star-word; a tithi does not rise. Compare Brhat Samhita, where Pusya is among the most auspicious asterisms.</sub>
+
+**Buddhacarita 1.9 (Johnston/GRETIL numbering; = I.25 in Cowell's edition and translation)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_azvaghoSa-buddhacarita.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> tataḥ prasannaś ca babhūva puṣyas tasyāś ca devyā vratasaṃskṛtāyāḥ / pārśvāt suto lokahitāya jajñe nirvedanaṃ caiva nirāmayaṃ ca // BC_1.9
+>
+> *IAST from GRETIL (Peter Schreiner's e-text). Confirmed by the independent GRETIL 'alt' e-text of the Buddhacarita, which reads identically.*
+>
+> — *At that time the constellation Pushya was auspicious, and from the side of the queen, who was purified by her vow, her son was born for the welfare of the world, without pain and without illness.*
+> <br>— E. B. Cowell, Sacred Books of the East vol. 49 (1894), Buddha-karita I.25 ([source](https://archive.org/download/buddhistmahy01cowe/buddhistmahy01cowe_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** The earliest datable kavya star-reference found in this survey, and the birth-naksatra of the Buddha. Star-sense certain: Pusya is the grammatical subject of babhūva prasannaḥ, 'became clear/propitious', a predicate used of heavenly bodies, and it fixes the moment of the birth. NOTE that Asvaghosa writes Pusya, not the older Tisya - the database's Vedic entry records Tisya at Rgveda 5.54.13 and 10.64.8 only; by c. 100 CE Pusya has replaced it in literary use, and Tisya as a star does not occur anywhere in the kavya corpus searched here.</sub>
+
 ### आश्लेषा (Āśleṣā) — Ashlesha
 
 **Modern identification:** Ashlesha — ε Hydrae, Hydra (*disputed*)
@@ -489,6 +1031,39 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** ONE star, tilaka-shaped, deity Sarpa (the Serpent), gotra Maitrāyaṇīya. The single-star count conflicts with the later five- or six-star Āśleṣā of the siddhāntas and supports taking the yogatārā (ε Hydrae) as the whole asterism in the older reckoning — which is some support for Burgess against Colebrooke's α Cancri. The Sarpa deity matches Sārpa already on file.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> वसुखेन्दवः(९)१०८ … मर्काश्च(९)१२
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(9) 108 00…' and '…(9) 12 00…' — the polar longitude of asterism no. 9 is 108°00' and its polar latitude 12°00', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 108°00', śara (polar latitude) 12°00' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: ε Hya 105°22' / -11°30'; δ Hya 103°08' / -12°47'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Kulīra 18° (= 108°00' measured from the sidereal origin) with a śara of 7°00' south (VIII.2.5–6, direction by VIII.2.8). Sāmanta's 108° / 12° S supports ε Hydrae (105°22' / 11°30' S) over δ Hydrae (103°08' / 12°47' S) on longitude, and his re-measurement of the latitude from the Sūrya Siddhānta's 7° S to 12° S is exactly the correction needed for either Hydra star — the inherited 7° fits neither.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> त्र्य[३]ष्टि[१६]धृति[१८]भिः कुलीरे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 9 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Kulīra 18°, with polar latitude 7°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Kulīra 18° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 108°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 7°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: ε Hya 110°20' / -11°22'; δ Hya 108°11' / -12°40'. For comparison Sāmanta (1869) gives 108°00' / 12°00' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389a20), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 柳圖。柳六星，形如蛇，神也，姓曼陀羅耶，食蟒蛇肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c20: 「柳宿一星，半日共月不相捨離，祭之用乳，屬於龍神，因姓龍氏。有此七宿，在於東方。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b19: 「不覲宿者，有五要星，形如曲鉤，行三十須臾而侍從矣，乾魚為食，主醍醐天，姓曰慈氏。是為七宿，屬于東方。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389a25: 「景風曰：中國天文，柳八宿，主廚饍之任，南方之宿」*
+>
+> — *Xiuyao jing: "Chart of Liu. Liu has six stars; its form is like a snake; it is a [snake] deity; its clan is Māndhālāya (曼陀羅耶); its food is python-flesh." — Modengqie jing (T1300, c. 230 CE): "The Liu asterism has one star; for half a day it does not part from the moon; milk is used in its offering; it belongs to the Dragon (Nāga) deity, and its clan is accordingly the Dragon clan. These seven asterisms are in the east." — Shetoujian jing (T1301, c. 307 CE): "The asterism Not-Beheld has five principal stars, its form like a curved hook; it travels thirty muhūrta in attendance; dried fish is its food; the deva of Clarified Butter presides; its clan-name is Maitra (慈氏)."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 柳 Liu; T1301 renders the name semantically as 不覲 ('Not Beheld'). A three-way DISAGREEMENT worth recording. The Śārdūlakarṇāvadāna gives Āśleṣā one star (eka-tāraṃ tilaka-saṃsthānam); the 3rd-century T1300 agrees exactly — 柳宿一星 — and adds half a day (15 muhūrta), matching pañca-daśa-muhūrta-yogam. But T1301 has five stars in a curved hook and the 759 CE Xiuyao jing has six in a snake-figure. The single star therefore looks original and the multi-star hook/snake secondary — which supports the DB's ε Hydrae yogatārā reading against the later five- or six-star Āśleṣā. The SARPA/Nāga deity is constant in T1300 (龍神, 龍氏) and implicit in T1299's snake-figure, matching sarpa-daivatam; T1301's clan 慈氏 = Maitra matches maitrāyaṇīyaṃ gotreṇa. Chinese astronomy gives Liu eight stars.</sub>
 
 ### मघा (Maghā) — Regulus
 
@@ -516,6 +1091,52 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** FIVE stars, shaped like a river-bend (nadī-kubja-saṃsthāna), deity Pitṛ (the Fathers), gotra Piṅgalāyanīya. Five stars in a curve = the Sickle of Leo (α, η, γ, ζ, μ Leonis). The Pitṛ deity confirms the Aghā/Maghā-of-the-Fathers association on file.</sub>
 
+**Patañjali, Mahābhāṣya on 2.3.45 (Kielhorn i.460.2); also on 3.1.26 (Kielhorn ii.34.14-36.21)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_2,3.45) ka_i,460.2 {1/4} iha kasmāt na bhavati . {2/4} adya puṣyaḥ . {3/4} adya maghā iti . {4/4} adhikaraṇe iti vartate .
+>
+> *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). The sūtra commented on is २.३.४५ नक्षत्रे च लुपि (Sanskrit Wikisource; GRETIL: 'nakṣatre ca lupi'). The 3.1.26 passage reads '(p_3,1.26.6) ka_ii,34.14-36.21 {26/80} puṣyayogam jānāti puṣyeṇa yojayati . {27/80} maghābhiḥ yojayati .'*
+>
+> — *Literal rendering: 'Why does [the rule] not apply here? — "Today is Puṣya." "Today is Maghā." — [Because] "in the sense of the locus" is carried over.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** IMPORTANT DISTINCTION: Maghā is NOT in Pāṇini. The Aṣṭādhyāyī's only magh- forms are maghavan 'bounteous/Indra' at 6.4.128 and 6.4.133, which are unrelated. The attestation is entirely PATAÑJALI's, and it is a lived-calendar one: commenting on 2.3.45 nakṣatre ca lupi he cites the two model sentences 'adya puṣyaḥ' and 'adya maghā iti' — 'today is Puṣya', 'today is Maghā' — as examples of the nominative standing for a locative when the time-affix is elided; and on 3.1.26 he gives 'maghābhiḥ yojayati' ('he joins [the moon] with the Maghās') beside 'puṣya-yogam jānāti'. Note the plural instrumental maghābhiḥ: for Patañjali Maghā is a GROUP of stars, which fits the traditional five-star Maghā (α, η, γ, ζ, μ Leonis) rather than Regulus alone. Datable c. 150 BCE.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> रसार्काः(१०)१२६ … रूपदलं निजषष्ठांशोनितं(१०)०।२५
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(10) 126 00…' and '…(10) 0 25…' — the polar longitude of asterism no. 10 is 126°00' and its polar latitude 0°25', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 126°00', śara (polar latitude) 0°25' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Leo 125°59' / 0°29'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Siṃha (Leo) 8° (= 128°00' measured from the sidereal origin) with a śara of 0°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> वसु[८]भैः[२७] सिंहे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 10 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Siṃha (Leo) 8°, with polar latitude 0°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Siṃha (Leo) 8° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 128°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 0°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Leo 130°02' / 0°26'. For comparison Sāmanta (1869) gives 126°00' / 0°25' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389a26), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 星圖。星六星，形如猛，薄伽神也，姓瞿必毘耶那，食卒日消。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c22: 「其七星者，五則顯現、二星隱沒。形如河曲，一日及月，胡麻祭之，屬於鬼神，姓賓伽羅。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b22: 「土地宿者，有五要星，其形之類，猶如曲河，行三十須臾而侍從矣，食油粳米，主于父天，姓號邊垂。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389b04: 「景風曰：中國天文，星七星，主衣服，南方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Xing. Xing has six stars; its form is like [a fierce beast?]. Its deity is Bhaga (薄伽); its clan is Gaupavīyāyana (瞿必毘耶那); its food is ..." — Modengqie jing (T1300, c. 230 CE): "As for that Xing asterism, five are manifest and two stars are hidden. Its form is like a river-bend; a day with the moon; sesame is its offering; it belongs to the ghost/ancestor deity; its clan is Piṅgala (賓伽羅)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Earth has five principal stars, the kind of their form being like a winding river; it travels thirty muhūrta in attendance; oil and rice are its food; the Father deva presides; its clan-name is 'Border-hanging'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 星 Xing; T1301 renders the name semantically as 土地 ('Earth'). The single most elegant reconciliation in the whole comparison. The Śārdūlakarṇāvadāna gives Maghā pañca-tāraṃ nadī-kubja-saṃsthānaṃ … pitṛdaivataṃ … piṅgalāyanīyaṃ gotreṇa — five stars in a river-bend, deity the Fathers, gotra Piṅgalāyana. T1301 matches all of it (五要星, 猶如曲河, 主于父天). T1300 matches it AND explains the discrepancy with the Chinese lodge, which has seven: 'five are manifest and two stars are hidden' (五則顯現、二星隱沒) — an explicit 3rd-century statement that only five of the seven are counted. The river-bend is the Sickle of Leo. T1300's 賓伽羅 = Piṅgala is an exact phonetic match for the gotra. T1299 alone gives the deity as 薄伽 Bhaga instead of the Fathers, and six stars; its figure-word 猛 is defective as printed.</sub>
+
 ### पूर्वफल्गुनी (Pūrva-Phalgunī) — Zosma
 
 **Modern identification:** Zosma — δ Leonis, Leo (*likely*)
@@ -541,6 +1162,52 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** TWO stars, padaka-shaped (like a small pendant), deity Bhava, gotra Gautamīya. Two stars = δ and θ Leonis, which supports Burgess's pair against the alternatives. NOTE the deity Bhava (a Rudra-name) where the Brahmanical lists have Bhaga.</sub>
+
+**Aṣṭādhyāyī 1.2.60; Patañjali, Mahābhāṣya on 1.2.60 (Kielhorn i.231.4-7)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_1,2.60) ka_i,231.4-7 {2/6} katham udite pūrve phalgunyau , uditāḥ pūrvāḥ phalgunyaḥ , udite pūrve proṣṭhapade , uditāḥ pūrvāḥ proṣṭhapadāḥ . {3/6} phalgunīsampīpagate candramasi phalgunīśabdaḥ vartate .
+>
+> *IAST verbatim from the GRETIL Mahābhāṣya plaintext (Kielhorn 1880–85 rev. Abhyankar; text in pausā). 'sampīpagate' is GRETIL's reading, presumably for saṃnipatite/sannipāta-gate or samīpa-gate; I have not emended it. The underlying sūtra is १.२.६० फल्गुनी-प्रोष्ठपदानां च नक्षत्रे (Sanskrit Wikisource).*
+>
+> — *Literal rendering: 'How then [do we get] udite pūrve phalgunyau, uditāḥ pūrvāḥ phalgunyaḥ, udite pūrve proṣṭhapade, uditāḥ pūrvāḥ proṣṭhapadāḥ ["the two/the several earlier Phalgunīs having risen", likewise for Proṣṭhapadā]? The word phalgunī is in force when the moon has come close to the Phalgunī.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Pāṇini uses the bare form Phalgunī, without pūrva/uttara, in three of his own sūtras: 1.2.60 phalgunī-proṣṭhapadānāṃ ca nakṣatre, 4.2.23 (the full-moon name Phālgunī), and 4.3.34 (the ten-name list). This entry is filed under purva-phalguni for convenience, but the attestation properly covers the PAIR — 1.2.60 is precisely a rule about whether Phalgunī takes dual or plural, i.e. Pāṇini knows it as a group of stars. Patañjali on 1.2.60 supplies the decisive astronomical gloss: 'phalgunī-sampīpa-gate candramasi phalgunī-śabdaḥ vartate' — 'the word phalgunī is used when the moon has come near the Phalgunī', and gives the four forms udite pūrve phalgunyau / uditāḥ pūrvāḥ phalgunyaḥ, showing the pūrva/uttara division was already standard by c. 150 BCE even though Pāṇini's own sūtras do not use it.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सार्धवह्नीन्द्रा(११)१४३।३० … अर्धेन्दवौ(११)१५
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(11) 143 30…' and '…(11) 15 00…' — the polar longitude of asterism no. 11 is 143°30' and its polar latitude 15°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 143°30', śara (polar latitude) 15°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 2 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: δ Leo 143°28' / 15°35'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Siṃha 27° (= 147°00' measured from the sidereal origin) with a śara of 12°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> वसु[८]भैः[२७] सिंहे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 11 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Siṃha 27°, with polar latitude 12°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Siṃha 27° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 147°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 12°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: δ Leo 146°51' / 15°21'. For comparison Sāmanta (1869) gives 143°30' / 15°00' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389b05), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 張圖。張二星，形如杵，婆藪神也，姓瞿那律耶，食乳粥。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c24: 「張宿二星，亦如人步，於一日中與月俱行，以果用祭，其姓善氏，即屬善神。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b24: 「前德宿者，有三要星，南北對立，行三十須臾而侍從矣，李果為食，主於善天，姓號俱曇。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389b10: 「景風曰：中國天文，張六星，南方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Zhang. Zhang has two stars; its form is like a pestle. Its deity is Vasu (婆藪); its clan is Gauṇalya (瞿那律耶); its food is milk-gruel." — Modengqie jing (T1300, c. 230 CE): "The Zhang asterism has two stars, likewise as a man's step; for one day it travels with the moon; fruit is used in its offering; its clan is the Good clan, and it belongs accordingly to the Good deity." — Shetoujian jing (T1301, c. 307 CE): "The asterism Former-Virtue has three principal stars standing opposite north and south; it travels thirty muhūrta in attendance; plum-fruit is its food; the Good deva presides; its clan-name is Gautama (俱曇)."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 張 Zhang; T1301 renders the name semantically as 前德 ('Former Virtue'). TWO stars in T1299 and T1300, matching the Śārdūlakarṇāvadāna's dvitāraṃ padaka-saṃsthānam, and T1300's 如人步 'as a man's step' again renders padaka. T1300's 善神 'the Good deity' and T1301's 主於善天 are renderings of BHAVA — corroborating the Śārdūlakarṇāvadāna's surprising bhava-devatam (a Rudra-name) where the Brahmanical lists have Bhaga. T1301's gotra 俱曇 = Gautama matches gautamīyaṃ gotreṇa exactly. T1299 alone assigns the deity 婆藪 Vasu here, which looks like a displacement. Chinese astronomy gives Zhang six stars.</sub>
 
 ### उत्तरफल्गुनी (Uttara-Phalgunī) — Denebola
 
@@ -568,6 +1235,50 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** TWO stars, padaka-shaped, deity Aryamā, gotra Kauśika. Two stars = β and 93 Leonis; the Aryamā lordship agrees with the Vedic lists.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> रामबाणहिमांशवः(१२)१५३ … विश्वे(१२)१३
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(12) 153 00…' and '…(12) 13 00…' — the polar longitude of asterism no. 12 is 153°00' and its polar latitude 13°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 153°00', śara (polar latitude) 13°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 2 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: β Leo 153°01' / 13°23'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at the 6th sign (Virgo) 4° (= 154°00' measured from the sidereal origin) with a śara of 13°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> जलधि[४]नखैः[२०] षष्ठे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 12 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at the 6th sign (Virgo) 4°, with polar latitude 13°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as the 6th sign (Virgo) 4° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 154°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 13°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: β Leo 156°55' / 13°23'. For comparison Sāmanta (1869) gives 153°00' / 13°00' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389b11), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 翼圖。翼二星，形如跏趺，利耶摩，姓遏咥黎，食栗蘇。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c25: 「翼有二星，形如人步，於一日半共月而行，鮫魚祭之，屬婆伽神，姓憍尸迦。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b26: 「北德宿者，有二要星，南北對立，行三十五須臾而侍從矣，以豆為食，主種殖天，姓號十里。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389b16: 「景風曰：中國天文，翼二十二星，主府縣事，南方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Yi. Yi has two stars; its form is like a cross-legged posture. [Its deity is] Aryamā (利耶摩); its clan is Ātreya (遏咥黎); its food is chestnut and butter." — Modengqie jing (T1300, c. 230 CE): "Yi has two stars, its form like a man's step; for a day and a half it travels with the moon; shark/fish is its offering; it belongs to the deity Bhaga; its clan is Kauśika (憍尸迦)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Northern-Virtue has two principal stars standing opposite north and south; it travels thirty-five [read forty-five] muhūrta in attendance; beans are its food; the deva of Planting presides; its clan-name is 'Ten li'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 翼 Yi; T1301 renders the name semantically as 北德 ('Northern Virtue'). TWO stars in all three, matching dvitāraṃ padaka-saṃsthānam. T1299 names the deity 利耶摩 = ARYAMĀ (one Ming witness adds 神也 'is the deity'), matching aryamā-daivatam exactly; T1300 gives the gotra 憍尸迦 = KAUŚIKA, matching kauśikaṃ gotreṇa exactly; T1300's 鮫魚 fish-offering matches godhūma-matsyāhāram. The 45-muhūrta value is confirmed by T1300's summary list (畢井氐翼斗壁) though the body of T1301 misprints 三十五 for 四十五. Chinese astronomy gives Yi twenty-two stars — the largest Indian/Chinese divergence in the series.</sub>
+
+**Kumārasambhava 7.6** — [Sanskrit e-text](https://sa.wikisource.org/wiki/कुमारसम्भवम्/सप्तमः_सर्गः)
+
+> मैत्रे मुहूर्ते शशलाञ्छनेन योगं गतासूत्तरफल्गुनीषु । तस्याः शरीरे प्रतिकर्म चक्रुर्बन्धुस्त्रियो याः पतिपुत्रवत्यः ।। ७.६ ।।
+>
+> *Devanagari from Sanskrit Wikisource; identical with GRETIL (maitre muhūrte śaśalāñchanena yogaṃ gatāsūttaraphalgunīṣu ...).*
+>
+> — *Literal rendering: 'At the Maitra muhurta, when the Uttara-Phalgunis had come into conjunction with the hare-marked moon, those of her kinswomen who had husbands and sons living performed the adorning of her body.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-kumArasaMbhava.txt))
+
+<sub>**Identification notes (Classical kāvya):** A fully technical electional statement in verse: the toilet of the bride Parvati is performed 'at the Maitra muhurta, when the hare-marked one (the moon) had come into conjunction (yoga) with the Uttara-Phalgunis'. muhurta, yoga and a named naksatra together are exactly the apparatus of the vivaha-patala literature, and Uttara-Phalguni is the standard auspicious wedding asterism. Note the plural locative uttaraphalgunīṣu.</sub>
+
 ### हस्त (Hasta) — Gienah
 
 **Modern identification:** Gienah — γ Corvi, Corvus (*disputed*)
@@ -592,6 +1303,50 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** FIVE stars, hand-shaped (hasta-saṃsthāna), deity Sūrya, gotra Kāśyapa — the clearest possible confirmation of the Corvus identification and of the name's literal sense, and it settles that the asterism is the whole five-star figure whatever the yogatārā. The Amarakośa's Nānārtha-varga separately records that hasta has exactly two senses, 'hand' and 'the asterism'.</sub>
 
+**Aṣṭādhyāyī 4.3.34** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३४ श्रविष्ठाफल्गुन्यनुराधास्वातितिष्यपुनर्वसुहस्तविशाखाऽषाढाबहुलाल्लुक् ।
+>
+> *See the bahula entry for the three-witness collation of this sūtra.*
+>
+> — *34. The affix denoting 'born therein' is elided by luk, after the words 'sravishtha', 'phalguni', 'anuradha', 'svati', 'tishya', 'punarvasu', 'hasta', 'visakha', 'ashadha' and 'bahula', all denoting asterisms.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Named by Pāṇini himself in the ten-asterism list at 4.3.34. No positional information is given, so the disputed identification is unaffected. Note that hasta also occurs many times in the Aṣṭādhyāyī and the Mahābhāṣya in its ordinary sense 'hand' (e.g. 3.3.40 hasta-ādāne); only 4.3.34 is the asterism.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> शरभूपा(१३)१६५ … रुद्राः(१३)११
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(13) 165 00…' and '…(13) 11 00…' — the polar longitude of asterism no. 13 is 165°00' and its polar latitude 11°00', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 165°00', śara (polar latitude) 11°00' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: δ Crv 164°06' / -13°17'; γ Crv 160°17' / -15°50'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at the 6th sign 20° (= 170°00' measured from the sidereal origin) with a śara of 11°00' south (VIII.2.5–6, direction by VIII.2.8). Sāmanta's 165° / 11° S is closer to δ Corvi (164°06' / 13°17' S) than to γ Corvi (160°17' / 15°50' S), which is nearly 5° away in longitude. His figure therefore favours δ Corvi over the γ Corvi of many modern lists. XII.20 makes the yogatārā the MIDDLE star of the five-star group.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> जलधि[४]नखैः[२०] षष्ठे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 13 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at the 6th sign 20°, with polar latitude 11°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as the 6th sign 20° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 170°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 11°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: δ Crv 168°12' / -13°12'; γ Crv 164°28' / -15°46'. For comparison Sāmanta (1869) gives 165°00' / 11°00' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389b17), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 軫圖。軫五星，形如手，毘婆怛利神也，姓跋蹉耶那，食乳粥。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c27: 「軫宿五星，形如人手，一日一夜共月俱行，稗穀祭之，姓奢摩延，屬咀吒神。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415b28: 「其象宿者，有五要星，其形類象，行三十須臾而侍從矣，韮子為食，主臥寐天，姓曰迦葉。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389b21: 「景風曰：中國天文，軫四星，主車乘騎，南方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Zhen. Zhen has five stars; its form is like a hand. Its deity is Vivasvat/Savitṛ (毘婆怛利); its clan is Vātsyāyana (跋蹉耶那); its food is milk-gruel." — Modengqie jing (T1300, c. 230 CE): "The Zhen asterism has five stars, its form like a man's hand; a day and a night it travels with the moon; panic-grain is its offering; its clan is Śāmāyana (奢摩延); it belongs to the deity Tvaṣṭṛ (咀吒)." — Shetoujian jing (T1301, c. 307 CE): "That Elephant asterism has five principal stars, its form of the elephant kind; it travels thirty muhūrta in attendance; leek-seed is its food; the deva of Sleep presides; its clan-name is Kāśyapa (迦葉)."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 軫 Zhen; T1301 renders the name semantically as 象 ('Elephant'). FIVE stars and a HAND-figure in both T1299 (形如手) and T1300 (形如人手), an exact match for the Śārdūlakarṇāvadāna's pañca-tāraṃ hasta-saṃsthānam and the clearest possible corroboration of the Corvus identification. T1301's gotra 迦葉 = Kāśyapa matches kāśyapaṃ gotreṇa exactly; T1299's 毘婆怛利 is a solar name (Vivasvat/Savitṛ) answering to sūrya-daivatam. THE VARIANT WORTH RECORDING is T1301, which alone calls the asterism 象 'Elephant' and gives it an elephant-figure — Dharmarakṣa read the name as hastin 'elephant' rather than hasta 'hand', c. 307 CE. Chinese astronomy gives Zhen four stars.</sub>
+
 ### चित्रा (Citrā) — Spica
 
 **Modern identification:** Spica — α Virginis, Virgo (*certain*)
@@ -615,6 +1370,76 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** ONE star, tilaka-shaped, deity Tvaṣṭṛ, gotra Kātyāyanīya. The single-star count is decisive for Spica; the Tvaṣṭṛ lordship agrees with the Vedic lists.</sub>
+
+**Patañjali, Mahābhāṣya on 1.1.62 (Kielhorn i.162.22-164.10)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_1,1.62.3) ka_i,162.22-164.10 {40/65} ṅīp : citrāyām jātā citrā .
+>
+> *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā).*
+>
+> — *Literal rendering: '[The affix] ṅīp: citrā, "a woman born under [the asterism] Citrā".' Compare Vasu, reporting the vārttika on 4.3.34: 'So also the affix is elided after the asterisms [Citrā and Revatī] when the word is feminine. Thus … a woman produced under Chitra.'*
+> <br>— Literal rendering by the compiler; second sentence Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** IMPORTANT DISTINCTION: Citrā is NOT in Pāṇini's sūtra text (the only citra- forms there are 3.1.19 namo-varivaś-citraṅaḥ kyac, 3.2.21 and 3.3.150 citrīkaraṇe, all non-astronomical). The astronomical attestation is Patañjali's, in his discussion of the feminine affix ṅīp under 1.1.62: 'ṅīp : citrāyām jātā citrā' — 'ṅīp [is added in] citrā, "a female born under Citrā"'. A vārttika reported in the Kāśikā on 4.3.34 (paraphrased by Vasu) likewise adds Citrā to that sūtra's list for the feminine. Datable c. 150 BCE.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> नवघना(१४)१७९ … सरसांशहृशौ(१४)२।१०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(14) 179 00…' and '…(14) 2 10…' — the polar longitude of asterism no. 14 is 179°00' and its polar latitude 2°10', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 179°00', śara (polar latitude) 2°10' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 1 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Vir 179°00' / -2°13'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Tulā (Libra) 3° (= 183°00' measured from the sidereal origin) with a śara of 2°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> राम[३]धृति[१८]भिस्तुलायां
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 14 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Tulā (Libra) 3°, with polar latitude 2°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Tulā (Libra) 3° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 183°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 2°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Vir 183°00' / -2°09'. For comparison Sāmanta (1869) gives 179°00' / 2°10' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389b23), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 角圖。角二星，形如長幢，瑟室利神也，姓僧伽羅耶那。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0404c29: 「角有一星，一日及月，以花為祭，屬咀吒神，姓質多延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c01: 「彩畫宿者，有一要星，形圓色黃，行三十須臾而侍從矣，主細滑天，姓伊羅所乘。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389b28: 「景風曰：中國天文，角二星，主天門，東方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Jiao. Jiao has two stars; its form is like a tall banner. Its deity is [Tvaṣṭṛ?] (瑟室利); its clan is Sāṃgharāyaṇa (僧伽羅耶那)." — Modengqie jing (T1300, c. 230 CE): "Jiao has one star; a day with the moon; flowers are used in its offering; it belongs to the deity Tvaṣṭṛ (咀吒); its clan is Caitrāyaṇa (質多延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Coloured-Painting has one principal star, round in form and yellow in colour; it travels thirty muhūrta in attendance; the deva of Fineness presides; its clan-name is 'Airā-borne'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 角 Jiao; T1301 renders the name semantically as 彩畫 ('Coloured Painting'). ONE star in the two 3rd–4th-century witnesses, matching the Śārdūlakarṇāvadāna's eka-tāraṃ tilaka-saṃsthānam and decisive for Spica; T1301 adds 形圓色黃 'round in form, yellow in colour'. The 8th-century Xiuyao jing has two, which is the CHINESE count for the Jiao lodge (Yang Jingfeng: 角二星) — a clean case of the Tang recension drifting toward the Chinese lodge. The deity in T1300 (咀吒) answers to tvaṣṭṛ-daivatam and its gotra 質多延 is built on the star-name itself. T1301's name 彩畫 'coloured painting' is a semantic gloss on citrā c. 307 CE.</sub>
+
+**Mahābhārata 6.3.11 and 6.3.16 (Critical Edition) = vulgate/Ganguli Bhīṣma Parva Section III** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> śveto grahas tathā citrāṃ samatikramya tiṣṭhati / … citrāsvātyantare caiva dhiṣṭhitaḥ paruṣo grahaḥ //
+>
+> *CE lines 06,003.011c and 06,003.016c, quoted together; they are five verses apart.*
+>
+> — *The white planet (Ketu) stayeth, having passed beyond the constellation Chitra. … The fierce planet (Rahu) hath taken up its position between the constellations Chitra and Swati.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06003.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Three omen occurrences (MBh 6.3.11, 6.3.16, 5.141.9). The one of real value is 6.3.16c, which locates a planet 'in the interval between Citrā and Svāti' — an interval statement, and therefore the closest the epic comes to a positional datum for either asterism. Nothing new in the name itself; recorded because the Citrā–Svāti pairing is the only epic evidence for the relative order of these two.</sub>
+
+**Raghuvaṃśa 1.46** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रघुवंशम्/प्रथमः_सर्गः)
+
+> काप्यभिख्या तयोरासीद्व्रजतोः शुद्धवेषयोः । हिमनिर्मुक्तयोर्योगे चित्राचन्द्रमसोरिव ॥ १.४६ ॥
+>
+> *Devanagari from Sanskrit Wikisource; verified word-for-word against the GRETIL IAST e-text (A. Scharpe, Kalidasa Lexicon, Brugge 1964), which reads 'kāpy abhikhyā tayor āsīd vrajatoḥ śuddhaveṣayoḥ / himanirmuktayor yoge citrācandramsor iva' - GRETIL's 'candramsor' is a typo for 'candramasor'.*
+>
+> — *Their appearance was as agreeable as that of the constellation Chitra and the Moon when they meet.*
+> <br>— Gopal Raghunath Nandargikar, The Raghuvamsa of Kalidasa with the commentary of Mallinatha, rev. & enl. ed. (1897), Preface pp. 37-38 ([source](https://archive.org/download/p3raghuvanawithc00kliduoft/p3raghuvanawithc00kliduoft_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Star-sense, not the common adjective citra 'bright/variegated': the word stands in a dvandva with candramas- ('Citra-and-the-moon') and is governed by yoga-, the technical term for a lunar conjunction, and by hima-nirmukta- ('released from frost'), i.e. seen clear of the winter haze. Kalidasa is describing Dilipa and Sudaksina walking together. Nandargikar's 1897 edition renders it 'the constellation Chitra and the Moon when they meet'.</sub>
 
 ### स्वाती (Svātī) — Arcturus
 
@@ -642,6 +1467,100 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** ONE star, tilaka-shaped, deity Vāyu, gotra Kātyāyanīya. Single-star count decisive for Arcturus; the Vāyu lordship agrees with the Vedic lists and with Niṣṭya already on file.</sub>
 
+**Aṣṭādhyāyī 4.3.34** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३४ श्रविष्ठाफल्गुन्यनुराधास्वातितिष्यपुनर्वसुहस्तविशाखाऽषाढाबहुलाल्लुक् ।
+>
+> *See the bahula entry for the three-witness collation of this sūtra.*
+>
+> — *34. The affix denoting 'born therein' is elided by luk, after the words 'sravishtha', 'phalguni', 'anuradha', 'svati', 'tishya', 'punarvasu', 'hasta', 'visakha', 'ashadha' and 'bahula', all denoting asterisms.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Named by Pāṇini himself in the ten-asterism list at 4.3.34, in the form svāti (short final i) rather than the later svātī. The archaic alternative Niṣṭya/Nistyā, which the database records from the Vedic lists, does NOT occur in the Aṣṭādhyāyī — so by Pāṇini's time Svāti had already displaced it, which is a useful terminus for that replacement.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> स्विनन्दसितभानवः(१५)१९३ … देवा(१५)३३
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(15) 193 00…' and '…(15) 33 00…' — the polar longitude of asterism no. 15 is 193°00' and its polar latitude 33°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 193°00', śara (polar latitude) 33°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 1 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Boo 192°31' / 32°58'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Tulā 18° (= 198°00' measured from the sidereal origin) with a śara of 37°00' south (VIII.2.5–6, direction by VIII.2.8). Sāmanta's 193° / 33° N is a large and correct downward revision of the Sūrya Siddhānta's 199° / 37° N: Arcturus stands at 192°31' / 32°58' in his frame, so his figures are right to 29' and 2'. Arcturus has the largest proper motion of any bright star in the catalogue, which makes the inherited value visibly stale by the nineteenth century.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> राम[३]धृति[१८]भिस्तुलायां
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 15 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Tulā 18°, with polar latitude 37°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Tulā 18° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 198°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 37°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Boo 198°28' / 34°15'. For comparison Sāmanta (1869) gives 193°00' / 33°00' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389b29), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 亢圖。亢一星，形如火珠，風神也，姓蘇那，食大麥、飲菉豆酥。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a01: 「亢宿一星，酥麥{#CB00595}祭之，一日及月，屬咀吒神，姓曰赤氏。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c02: 「善元宿者，有一要星，形圓色黃，行十五須臾而侍從矣，以果為食，主于風天，姓善所乘。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389c05: 「景風曰：中國天文，亢四星，主兵，東方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Kang. Kang has one star; its form is like a fire-pearl. Its deity is Wind (Vāyu); its clan is Sona (蘇那); its food is barley and a drink of mung-bean butter." — Modengqie jing (T1300, c. 230 CE): "The Kang asterism has one star; parched barley-flour is its offering; a day with the moon; it belongs to the deity Tvaṣṭṛ; its clan is the Red clan." — Shetoujian jing (T1301, c. 307 CE): "The asterism Good-Origin has one principal star, round in form and yellow in colour; it travels fifteen muhūrta in attendance; fruit is its food; the Wind deva presides; its clan-name is 'Good-borne'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 亢 Kang; T1301 renders the name semantically as 善元 ('Good Origin'). ONE star in all three witnesses and the WIND deity in T1299 (風神) and T1301 (主于風天) — matching the Śārdūlakarṇāvadāna's eka-tāraṃ tilaka-saṃsthānaṃ … vāyudaivatam and the Vedic Niṣṭya/Vāyu link already on file. T1301's 15-muhūrta value also matches. Decisive for the single bright star Arcturus, against the four-star Chinese Kang lodge (Yang Jingfeng: 亢四星). T1300 alone repeats 咀吒神 here, evidently by dittography from the two preceding entries.</sub>
+
+**Mahābhārata 6.3.16 and 5.109.12 (Critical Edition) = vulgate Bhīṣma Parva III and Udyoga Parva Section CXI; Rāmāyaṇa 5.55.2 and 6.15.22 (Critical Edition)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> atra te ṛṣayaḥ sapta devī cārundhatī tathā / atra tiṣṭhati vai svātir atrāsyā udayaḥ smṛtaḥ //
+>
+> *CE lines 05,109.012a/012c. CE Udyoga 5.109 = Ganguli's vulgate Udyoga Parva Section CXI — the chapter numbers do NOT match. The Bhīṣma parallel is 06,003.016c 'citrāsvātyantare caiva dhiṣṭhitaḥ paruṣo grahaḥ'; the Rāmāyaṇa parallel is R_5,055.002 'airāvatamahādvīpaṃ svātīhaṃsaviloḍitam'.*
+>
+> — *It is here that the seven Rishis with Arundhati may be seen. It is here that the constellation Swati is to be seen, and it is here that it first rises to the view.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m05/m05111.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Four epic occurrences, three of them useful. (a) MBh 6.3.16 'a harsh planet stationed in the interval between Citrā and Svāti' — a positional statement that treats Citrā and Svāti as neighbouring points on the ecliptic, consistent with α Vir and α Boo. (b) MBh 5.109.12, in the description of the northern quarter: 'here stands Svāti, here her rising is known' — Ganguli: 'It is here that the constellation Swati is to be seen, and it is here that it first rises to the view'; α Boötis has a markedly northern declination, so this fits. (c) Rāmāyaṇa 5.55.2, in Hanumān's sky-as-lake simile, 'stirred by Svātī the swan' (svātī-haṃsa-viloḍitam). (d) Rāmāyaṇa 6.15.22 compares Nala's causeway to 'the svātī-patha in the sky' — the sense of svātīpatha is disputed (the straight path traced by Svāti? a parting of the sky? the Milky Way?) and it is flagged here rather than relied on. The Arcturus identification is imported from the Sūrya Siddhānta entry.</sub>
+
+**Bhartṛhari, Nītiśataka 67 (= Śatakatraya 1.67)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/नीतिशतकम्)
+
+> संतप्तायसि संस्थितस्य पयसो नामाऽपि न ज्ञायते मुक्ताकारतया तदेव नलिनीपत्रस्थितं राजते। स्वात्यां सागरशुक्तिमध्यपतितं तन्मौक्तिकं जायते प्रायेणाधममध्यमोत्तमगुणः संसर्गतो जायते।।६७।।
+>
+> *Devanagari from Sanskrit Wikisource's Nitisataka. It agrees word for word with the independent GRETIL e-text of the Satakatraya, which numbers the verse bharst_1.67 and reads 'svātyāṃ sāgara-śukti-madhya-patitaṃ tan-mauktikaṃ jāyate'. The Wikisource text runs the two halves together without the danda after 'rājate'.*
+>
+> — *Water will not remain on hot iron, but standing on a lotus leaf it shines with the beauty of a pearl; and if a drop of water fall under a favourable star into the middle of an oyster in the sea, it straightway becomes a pearl. So is the disposition of men, good, tolerable, or bad, according to the society in which they live.*
+> <br>— B. Hale Wortham, The Satakas of Bhartrihari (1886), Niti Sataka 67 - he renders svātyām loosely as 'under a favourable star' ([source](https://archive.org/download/india.history.resource.107676/107676_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** THE SVATI-PEARL TROPE, located verbatim. Star-sense certain: svātyām is a locative of time ('when the moon stands in Svati'), the standard naksatra construction, and the whole point is that the SAME water is worthless, pretty or precious according to where it falls and when. Bhartrhari's Nitisataka is the earliest datable text in which this survey could verify the verse: the poet is placed c. 5th century CE, though the sataka collections are textually fluid and no critical apparatus was available in this session. SEE THE CAVEATS: the trope is NOT in Kalidasa, and it is NOT in Varahamihira.</sub>
+
+**Pañcatantra 1.273 (vulgate text, ed. Ramchandra Jha)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_viSNuzarman-paJcatantra.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> santaptāyasi saṃsthitasya payaso nāmāpi na jñāyate / mukta-kāratayā tad eva nalinī-patra-sthitaṃ rājate | svātau sāgara-śukti-kukṣi-patitaṃ taj jāyate mauktikaṃ / prāyeṇādhama-madhyamottama-guṇaḥ saṃvāsato jāyate ||panc_1.273||
+>
+> *IAST exactly as in the GRETIL e-text (ed. Ramchandra Jha, Chowkhamba Vidyabhavan, 6th ed. 1991), including its reading 'mukta-kāratayā' for the expected muktākāratayā.*
+>
+> — *Literal rendering: 'Of water standing on red-hot iron not even the name is known; the same, resting on a lotus-leaf, shines in the shape of a pearl; and fallen, during Svati, into the belly of a sea-oyster, it becomes a pearl. Generally a man's quality - lowest, middling or highest - arises from the company he keeps.'*
+> <br>— Literal rendering by the compiler (cf. B. Hale Wortham's 1886 rendering of the same verse under Bhartrhari) ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_viSNuzarman-paJcatantra.txt))
+
+<sub>**Identification notes (Classical kāvya):** The same floating subhasita embedded in the vulgate Pancatantra, with svātau for svātyāṃ, śukti-kukṣi for śukti-madhya and saṃvāsataḥ for saṃsargataḥ. IMPORTANT FOR DATING: the verse is ABSENT from the Tantrakhyayika, the oldest surviving Pancatantra recension (books 1-2 checked on GRETIL: no svati, no sukti, no mauktika anywhere in it). So it entered the Pancatantra tradition later and cannot be used to push the trope back to the lost c. 300 CE original.</sub>
+
+**Mahāsubhāṣitasaṃgraha 5782** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mahAsubhASitasaMgraha-1-9979.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> itarabhajanaghanarasataḥ phalaniṣpattirnavā bhavediti na / muktāḥ paraṃ tu loke svātighanarasaṃ vinā na jāyeran // MSS_5782
+>
+> *IAST exactly as printed in the GRETIL e-text of MSS verses 1-9979.*
+>
+> — *Literal rendering: 'It is not that no fresh yield of fruit would come from the cloud-water of some other asterism - but pearls, in this world, would simply not be born without the cloud-water of Svati.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mahAsubhASitasaMgraha-1-9979.txt))
+
+<sub>**Identification notes (Classical kāvya):** A second, independent form of the trope, and the one that names the star most directly: 'pearls in this world would simply not be born without the Svati cloud-water' (svāti-ghana-rasa). Here Svati qualifies the RAIN itself, which is how the belief is normally stated in later Sanskrit and in the modern vernaculars. Sternbach's Mahasubhasitasamgraha is an anthology of undated floating verses, so this attests the currency of the trope, not its date.</sub>
+
 ### विशाखा (Viśākhā) — ι Librae
 
 **Modern identification:** ι Librae — ι Librae, Libra (*disputed*)
@@ -666,6 +1585,74 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** TWO stars, horn-shaped (viṣāṇa-saṃsthāna), deity Indrāgni, gotra Śāṃkhāyanīya. This bears directly on the most doubtful identification in the whole series: the two-star count sides with the 'ancient authors' whom Colebrooke cites against the later four-star reckoning, and the horn figure fits the two scale-stars α and β Librae — i.e. it supports Burgess's own belief that the asterism 'was originally composed of α and β Librae' rather than the faint ι Librae his coordinates forced on him.</sub>
 
+**Aṣṭādhyāyī 1.2.62; also 4.3.34, 5.1.110** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/प्रथमः_अध्यायः)
+
+> १.२.६२ विसाखयोस् च ।
+>
+> *The Sanskrit Wikisource Devanāgarī prints विसाखयोस् च with a typographic स for श; the correct form is विशाखयोश्च. Both GRETIL texts read 'viśākhayoś ca' / 'visākhayos ca' respectively — the Kāśikā-derived one has the correct viśākhayoś. I have quoted the Devanāgarī as actually fetched and flag the error here rather than silently emending. 5.1.110 reads ५.१.११० विशाखा अषाढात् अण् मन्थदण्डयः (Wikisource, with a corrupt final; GRETIL: viśākhā-aṣāḍhād aṇ mantha-daṇḍayoḥ).*
+>
+> — *62. In the Vedas, the two stars Visakha may optionally be in the singular number. The word is in the dual number as a rule. In the Vedas, it is found sometime to have the singular form, denoting duality.*
+> <br>— Śrīśa Chandra Vasu (1891) ([source](https://archive.org/download/wg1038/WG1038-1891%20-The%20Ashtadhyayi%20Of%20Panini%20-Sanskrit%20English%20Vol%201%20Of%208_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Three sūtras of Pāṇini's own: 1.2.62 viśākhayoś ca (a Vedic singular for the dual — so Viśākhā too is a PAIR for Pāṇini, exactly as with Punarvasu), 4.3.34 (in the ten-name list), and 5.1.110 viśākhā-aṣāḍhād aṇ mantha-daṇḍayoḥ (deriving vaiśākha 'churning-stick' and āṣāḍha 'staff' — an interesting non-calendrical use). Patañjali quotes 5.1.110 verbatim twice (Kielhorn ii.362.2-11) and Vasu on 1.2.63 gives 'viśākhānurādhāḥ, the stars Viśākhā and Anurādhā' as the counter-example. The two-star reading is significant for the disputed identification: Pāṇini's Viśākhā is at minimum a dual, which fits the α/ι Librae pair better than a single star.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> नगाभ्रपक्षा(१६)२०७ … बाहू(१६)२
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(16) 207 00…' and '…(16) 2 00…' — the polar longitude of asterism no. 16 is 207°00' and its polar latitude 2°00', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 207°00', śara (polar latitude) 2°00' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: ι Lib 206°28' / -1°55'; α² Lib 201°11' / 0°22'; β Lib 207°45' / 8°50'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Alin (Scorpio) 2° (= 212°00' measured from the sidereal origin) with a śara of 2°00' south (VIII.2.5–6, direction by VIII.2.8). ★ DECISIVE FOR THE DISPUTED IDENTIFICATION. Sāmanta's independently observed 207° / 2° S lands on ι Librae to within 32' of longitude and 5' of latitude, whereas α² Librae is 5°49' away in longitude and on the WRONG SIDE of the ecliptic (+0°22' N, not south), and β Librae — although only 45' off in longitude — has a latitude of +8°50' N against the text's 2° S, an error of nearly 11°. Since the direction rule at XII.11 explicitly puts Viśākhā's śara in the SOUTH, β Librae is excluded outright. Sāmanta, working with his own naked-eye instruments in Odisha, therefore corrects the inherited Sūrya-Siddhānta figure (213°) downwards by 6° and in doing so converges exactly on the faint star ι Librae that Burgess was forced to accept and that al-Bīrūnī could not identify.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> द्वी[२]न्द्रा[१४]तिधृति[१९भि]रलिनि
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 16 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Alin (Scorpio) 2°, with polar latitude 2°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Alin (Scorpio) 2° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 212°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 2°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: ι Lib 210°24' / -1°50'; α² Lib 205°17' / 0°30'; β Lib 212°25' / 9°08'. For comparison Sāmanta (1869) gives 207°00' / 2°00' south. Vaṭeśvara's 2° of Scorpio (= 212°) with a southern śara of 2° (verse 8, which the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13, puts Viśākhā in the southern group) agrees with ι Librae's latitude (1°50' S in his frame) and excludes β Librae, whose latitude is 9°08' N. On longitude alone β Librae (212°25') would be the better fit and ι Librae (210°24') the worse, which is precisely why the identification has stayed unsettled; the latitude, however, points only one way. Verse 7 adds a correction of 40 minutes to Viśākhā's śara (khakṛtāḥ 40 kalāḥ, grouped with Vaiśva = Uttarāṣāḍhā and Āpa = Pūrvāṣāḍhā).</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389c06), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 氐圖。氐四星，形如牛角，因伽陀羅祇尼神也，姓邏怛利，食烏麻雜華。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a02: 「氐宿二星，形如羊角，於一日半共月俱行，以花用祭，屬乎火神，姓桑遮延。有此七宿，在於南方。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c04: 「善挌宿者，有二要星，形像牛角，行四十五須臾而侍從矣，油花為食，主伊羅天，姓曰已彼。是為七星，屬于南方。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389c11: 「景風曰：中國天文，氐四星，主侵害，東方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Di. Di has four stars; its form is like an ox-horn. Its deity is Indrāgni (因伽陀羅祇尼); its clan is Rātri/Lāttari (邏怛利); its food is sesame and mixed flowers." — Modengqie jing (T1300, c. 230 CE): "The Di asterism has two stars, its form like a ram's horn; for a day and a half it travels with the moon; flowers are used in its offering; it belongs to the Fire deity; its clan is Sāṃjayāyana (桑遮延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Good-Frame has two principal stars, its form like an ox-horn; it travels forty-five muhūrta in attendance; oil and flowers are its food; the deva Indra presides; its clan-name is 'Already-that'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 氐 Di; T1301 renders the name semantically as 善挌 ('Good Frame'). THE MOST CONSEQUENTIAL RESULT FOR A DOUBTFUL DB ENTRY. Viśākhā is currently ι Librae in the database (a faint star Burgess derived from Sūrya Siddhānta coordinates while himself believing the asterism was originally α and β Librae). Both early Chinese witnesses give TWO stars — 氐宿二星 (T1300, c. 230 CE) and 有二要星 (T1301, c. 307 CE) — exactly the Śārdūlakarṇāvadāna's dvitāraṃ viṣāṇa-saṃsthānam, and all three Chinese texts keep the HORN figure (牛角 / 羊角 / 牛角). The two-star horn can only be the pair of scale-stars α and β Librae. The Xiuyao jing's four is the Chinese lodge count (Yang Jingfeng: 氐四星). The deity is Indrāgni, transcribed in full in T1299 as 因伽陀羅祇尼 = Indra + Agni, matching indrāgnidaivatam; T1301 splits it to Indra, T1300 to Agni. Sesame-and-flowers (烏麻雜華 / 油花) matches tila-puṣpāhāram, and the 45-muhūrta value is confirmed twice.</sub>
+
+**Rāmāyaṇa 6.4.45 and 6.90.30 (Critical Edition, Yuddha Kāṇḍa); Mahābhārata 6.3.25 (Critical Edition) = vulgate Bhīṣma Parva Section III** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> vimale ca prakāśete viśākhe nirupadrave / nakṣatraṃ param asmākam ikṣvākūṇāṃ mahātmanām // … kosalānāṃ ca nakṣatraṃ vyaktam indrāgnidaivatam / ākramyāṅgārakas tasthau viśākhām api cāmbare //
+>
+> *Two Rāmāyaṇa verses quoted together: CE references R_6,004.045 and R_6,090.030. The Mahābhārata parallel is CE 06,003.025c 'viśākhayoḥ samīpasthau bṛhaspatiśanaiścarau'. Griffith's Book VI Canto IV covers the first; he omits the second, so Dutt is quoted for it.*
+>
+> — *Dutt on the first: 'And stainless and free from disturbances appeareth Visakhā. This is the racial star of us, the high-souled Ikshwakus.' Dutt on the second: 'And that star of the Kosalas, relating to the deities—Indra and Agni—Angaraka—stood in the sky, attacking Visākhā.' Griffith on the first: 'Undimmed the two Vis'ákhás shine, / The strength and glory of our line', with the footnote 'One of the lunar asterisms containing four or originally two stars under the regency of a dual divinity Indrágni, Indra and Agni.'*
+> <br>— Manmatha Nath Dutt (1893) and Ralph T. H. Griffith (1870-74) ([source](https://archive.org/download/dli.ministry.19598/E01470_The_Ramayana_Yuddha_Kandam_djvu.txt) · [mirror](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry403.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Three data of real value. (a) FORM: the Rāmāyaṇa uses the DUAL 'vimale ca prakāśete viśākhe' (6.4.45) and the Mahābhārata the dual genitive 'viśākhayoḥ samīpasthau' (6.3.25) — the asterism is conceived as TWO stars, which matches Griffith's footnote ('containing four or originally two stars') and supports a two-star yogatārā rather than the four-star Libra figure. (b) DEITY: Rāmāyaṇa 6.90.30 calls it 'the nakṣatra of the Kosalas, whose deity is manifestly INDRĀGNI' — the standard dual deity Indrāgnī, here made explicit. (c) LINEAGE: it is twice called 'the nakṣatra of us, the great-souled Ikṣvākus' (6.4.45) and 'the star of the Kosalas' (6.90.30) — the tutelary asterism of Rāma's dynasty, the counterpart of Mūla for the rākṣasas. The ι Librae yogatārā is imported from the Sūrya Siddhānta entry.</sub>
+
+**Abhijñānaśākuntala, Act III, prose immediately after 3.10 (Devanagari recension)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अभिज्ञानशाकुन्तलम्/तृतीयोऽङ्कः)
+
+> राजा- किमत्र चित्रम्, यदि विशाखे शशाङ्कलेखामनुवर्तेते !
+>
+> *Devanagari from Sanskrit Wikisource; agrees with the GRETIL e-text of the Devanagari recension (rājā kim atra citraṃ yadi viśākhe śaśāṅkalekhām anuvartete). This is prose, not a verse.*
+>
+> — *Why need we wonder if the beautiful constellation Visakha pines to be united with the Moon. [Monier Williams' note on the line: '... the Hindus fable these twenty-seven constellations as his wives, and personify them as the daughters of Daksha. Of these twenty-seven wives, twelve of whom give names to the twelve months, Chandra is supposed to show the greatest affection for the fourth, Rohini, but each of the others, and amongst them Visakha, is represented as jealous of this partiality, and eager to secure the Moon's favour for herself.']*
+> <br>— Monier Williams, Sakoontala, or The Lost Ring (1856), Act III and note; the note's proper names are restored from the archive.org OCR, which prints 'Hindis', 'RohinS', 'Viskkh^' ([source](https://archive.org/download/akoontalorlostr00monigoog/akoontalorlostr00monigoog_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Star-sense certain: DUAL viśākhe ('the two Visakha stars') with the verb also in the dual (anuvartete), following the śaśāṅka-lekhā, the crescent moon. Dusyanta's aside caps a chain of similes about things that naturally seek their proper partner. Monier Williams' note on this line is the clearest public-domain statement of the mythic frame behind the whole naksatra system: the 27 asterisms are the Moon's wives, Rohini is his favourite, and the rest - Visakha among them - are jealous.</sub>
+
 ### अनुराधा (Anurādhā) — Dschubba
 
 **Modern identification:** Dschubba — δ Scorpii, Scorpius (*certain*)
@@ -689,6 +1676,50 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** FOUR stars, shaped like a string of jewels (ratnāvalī-saṃsthāna), deity Mitra, gotra Ālaṃbāyanīya. The jewel-string of four fits β, δ, π, ρ Scorpii. Mitra lordship agrees with the Vedic lists and with the siddhāntic epithet Maitra.</sub>
+
+**Aṣṭādhyāyī 4.3.34** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३४ श्रविष्ठाफल्गुन्यनुराधास्वातितिष्यपुनर्वसुहस्तविशाखाऽषाढाबहुलाल्लुक् ।
+>
+> *See the bahula entry for the three-witness collation of this sūtra.*
+>
+> — *34. The affix denoting 'born therein' is elided by luk, after the words 'sravishtha', 'phalguni', 'anuradha', 'svati', 'tishya', 'punarvasu', 'hasta', 'visakha', 'ashadha' and 'bahula', all denoting asterisms.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Named by Pāṇini himself in the ten-asterism list at 4.3.34. Vasu's commentary on 1.2.63 additionally cites viśākhānurādhāḥ 'the stars Viśākhā and Anurādhā' as the standard counter-example to that rule, so the compound was traditional; but that phrase is the Kāśikā's, not Pāṇini's. The archaic Vedic alternative Rādhā does not occur in the Aṣṭādhyāyī.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> साद्धाष्टभूभुजा(१७)२१८।३० … भुजौ(१७)२
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(17) 218 30…' and '…(17) 2 00…' — the polar longitude of asterism no. 17 is 218°30' and its polar latitude 2°00', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 218°30', śara (polar latitude) 2°00' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 7 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: δ Sco 218°08' / -2°01'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Alin 14° (= 224°00' measured from the sidereal origin) with a śara of 3°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> द्वी[२]न्द्रा[१४]तिधृति[१९भि]रलिनि
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 17 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Alin 14°, with polar latitude 3°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Alin 14° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 224°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 3°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: δ Sco 222°02' / -1°55'. For comparison Sāmanta (1869) gives 218°30' / 2°00' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389c12), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 房圖。房四星，形如帳，布密多羅神也，姓多羅毘耶，食酒肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a05: 「房宿四星，形類珠貫，一日一夜與月共俱，酒肉為祭，係於親神，姓阿藍婆。」 | 舍頭諫太子二十八宿經 T21n1301: NO per-asterism entry — the name appears in the list but the description is missing from the received text. | Yang Jingfeng's interlinear note in T21n1299 at T21.0389c17: 「景風曰：中國天文，房四星，主天道，東方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Fang. Fang has four stars; its form is like a canopy. Its deity is Mitra (布密多羅); its clan is Tārāvya (多羅毘耶); its food is liquor and flesh." — Modengqie jing (T1300, c. 230 CE): "The Fang asterism has four stars, their form of the strung-pearl kind; a day and a night it is together with the moon; liquor and flesh are its offering; it is attached to the deity of Friendship (Mitra); its clan is Ālaṃba (阿藍婆)." — Shetoujian jing (T1301): entry absent.*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 房 Fang; T1301 renders the name semantically as — (entry lost). A FIVE-FOR-FIVE match with the Śārdūlakarṇāvadāna: four stars (catustāram), a STRUNG-JEWEL figure (T1300 形類珠貫 = ratnāvalī-saṃsthānam), MITRA as deity (T1299 密多羅, T1300 親神 'the deity of friendship' = mitra-daivatam), LIQUOR-AND-FLESH as food (酒肉 = surāmāṃsāhāram), and the gotra 阿藍婆 = Ālaṃba, matching ālaṃbāyanīyaṃ gotreṇa. NEGATIVE FINDING: T1301 omits Anurādhā (悅可) from its per-asterism descriptions altogether — the name stands at no. 15 in its list (十五曰悅可, T21.415a28) but the western group runs straight from Viśākhā to Jyeṣṭhā and yields only six described asterisms where the text claims seven. 悅可 'pleasing' is itself a good gloss on anu-rādh 'to propitiate'.</sub>
 
 ### ज्येष्ठा (Jyeṣṭhā) — Antares
 
@@ -716,6 +1747,39 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** THREE stars, shaped like a barleycorn's middle (yavamadhya-saṃsthāna, a lens/fusiform figure), deity Indra, gotra Dīrghakātyāyanīya. Three stars in a fusiform = σ, α, τ Scorpii, exactly Burgess's group. Indra lordship agrees with the Vedic lists and with Jyeṣṭhaghnī already on file.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अर्धोना(१८)२२५।३० … सपादक्षताः(१८)४।१५
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(18) 225 30…' and '…(18) 4 15…' — the polar longitude of asterism no. 18 is 225°30' and its polar latitude 4°15', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 225°30', śara (polar latitude) 4°15' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 3 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Sco 224°59' / -4°37'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Alin 19° (= 229°00' measured from the sidereal origin) with a śara of 4°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> द्वी[२]न्द्रा[१४]तिधृति[१९भि]रलिनि
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 18 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Alin 19°, with polar latitude 4°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Alin 19° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 229°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 4°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Sco 228°37' / -4°34'. For comparison Sāmanta (1869) gives 225°30' / 4°15' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389c18), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 心圖。心三星，形如階，因陀羅神也，姓僧訖利底耶那，食粳米蔬乳。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a06: 「心宿三星，其形如鳥，一日及月，粳米祭之，屬天地神，姓迦旃延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c07: 「尊長宿者，有三要星，其形類麥，邊小中大，行十五須臾而侍從矣，粳米為食，主因帝天，姓長所乘。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0389c24: 「景風曰：中國天文，心三星，主明堂印政，東方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Xin. Xin has three stars; its form is like a flight of steps. Its deity is Indra (因陀羅); its clan is Sāṃkṛtyāyana (僧訖利底耶那); its food is rice, vegetables and milk." — Modengqie jing (T1300, c. 230 CE): "The Xin asterism has three stars, its form like a bird; a day with the moon; rice is its offering; it belongs to the deity of heaven and earth; its clan is Kātyāyana (迦旃延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism The-Eldest has three principal stars, their form of the barley kind, small at the edges and large in the middle; it travels fifteen muhūrta in attendance; rice is its food; the deva Indra presides; its clan-name is 'Long-borne'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 心 Xin; T1301 renders the name semantically as 尊長 ('The Eldest'). THREE stars in all three witnesses; INDRA as deity in T1299 (因陀羅) and T1301; KĀTYĀYANA as gotra in T1300 (迦旃延); rice as food — all matching the Śārdūlakarṇāvadāna's tritāraṃ yavamadhya-saṃsthānaṃ … śāliyavāgubhojanam indradaivataṃ dīrghakātyāyanīyaṃ gotreṇa. T1301 is the prize: 其形類麥，邊小中大 'of the barley kind, small at the edges and large in the middle' is the best gloss anywhere on yavamadhya-saṃsthāna, and it confirms the fusiform σ–α–τ Scorpii reading. The 15-muhūrta value matches. T1301's name 尊長 'the eldest' is a semantic translation of jyeṣṭhā.</sub>
+
 ### मूल (Mūla) — Shaula
 
 **Modern identification:** Shaula — λ Scorpii, Scorpius (*likely*)
@@ -742,6 +1806,63 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** SEVEN stars, SCORPION-SHAPED (vṛścika-saṃsthāna), deity Nairṛti, gotra Kātyāyanīya. This is the strongest single confirmation in the whole chapter, because the text names the constellation-figure outright — seven stars in the Scorpion's sting-curve. It corroborates Vicṛtau and Mūlabarhaṇa already on file, and Colebrooke independently glosses Sanskrit mūla in the Nānārtha section as 'an asterism (the Scorpion's tail)'.</sub>
 
+**Aṣṭādhyāyī 4.3.28** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.२८ पूर्वाह्णापराह्णार्द्रामूलप्रदोषावस्कराद्वुन् ।
+>
+> *See the ardra entry for the three-witness collation of this sūtra.*
+>
+> — *Literal rendering: 'The affix vun [in the sense "born therein"] comes after pūrvāhṇa (forenoon), aparāhṇa (afternoon), ārdrā, mūla, pradoṣa (nightfall) and avaskara.'*
+> <br>— Literal rendering by the compiler ([source](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Named by Pāṇini himself at 4.3.28, beside Ārdrā (see that entry). The word mūla occurs many other times in the Aṣṭādhyāyī in its ordinary sense 'root' (3.4.34, 4.1.64, 4.4.91, 6.2.121 etc.) and in several gaṇas; only 4.3.28, where it stands among time-words and next to an asterism, is astronomical. The archaic Vedic alternative Mūlabarhaṇa/Vicṛtau does not occur in the Aṣṭādhyāyī.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> स्वंशहीनेन्दुसिद्धाः(१९)२४०।४० … सदलानलरजनीशाः(१९)१३।३०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(19) 240 40…' and '…(19) 13 30…' — the polar longitude of asterism no. 19 is 240°40' and its polar latitude 13°30', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 240°40', śara (polar latitude) 13°30' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 9 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: λ Sco 239°43' / -13°48'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Dhanus (Sagittarius) 1° (= 241°00' measured from the sidereal origin) with a śara of 9°00' south (VIII.2.5–6, direction by VIII.2.8). Sāmanta raises the latitude from the Sūrya Siddhānta's 9° S to 13°30' S, which is what λ Scorpii actually has (13°48' S) — one of his clearest corrections of an inherited error.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> कु[१]मनु[१४]नख[२०]भैः[२७] धनुषी
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 19 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Dhanus (Sagittarius) 1°, with polar latitude 9°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Dhanus (Sagittarius) 1° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 241°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 9°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: λ Sco 242°13' / -13°50'. For comparison Sāmanta (1869) gives 240°40' / 13°30' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0389c25), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 尾圖。尾二星，形如師子頂毛，儞律神也，姓迦底那，食乳菓花草。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a08: 「尾有七星，其形如蝎，一日一夜與月共俱，果以祭之，屬沙陀神，姓迦旃延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c09: 「根元宿者，有三要星，其形類蝎，低頭舉尾，行三十須臾而侍從矣，食于根果，主泥梨提天，姓號所乘。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390a01: 「景風曰：中國天文，尾九星，主後宮士，東方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Wei. Wei has two stars; its form is like the mane on a lion's head. Its deity is Nirṛti (儞律); its clan is Kātyāyana (迦底那); its food is milk, fruit, flowers and herbs." — Modengqie jing (T1300, c. 230 CE): "Wei has seven stars, its form like a scorpion; a day and a night it is together with the moon; fruit is its offering; it belongs to the deity Sādhya(?); its clan is Kātyāyana (迦旃延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Root-Origin has three principal stars, their form of the scorpion kind, head lowered and tail raised; it travels thirty muhūrta in attendance; roots and fruits are its food; the deva Nirṛti (泥梨提) presides; its clan-name is 'Borne'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 尾 Wei; T1301 renders the name semantically as 根元 ('Root-Origin'). T1300 reproduces the Śārdūlakarṇāvadāna's Mūla entry to the letter: SEVEN STARS and a SCORPION-FIGURE (尾有七星，其形如蝎 = saptatāraṃ vṛścika-saṃsthānam), with the Kātyāyana gotra. T1301 keeps the scorpion and sharpens it — 低頭舉尾 'head lowered and tail raised' — and names the deity 泥梨提 = NIRṚTI in transcription, matching nairṛtidaivatam, with roots-and-fruits food matching mūlaphalāhāram; but it counts only three stars. The Xiuyao jing has drifted furthest: two stars and a lion's-mane figure, though it too keeps Nirṛti (儞律) and Kātyāyana (迦底那). The seven-star scorpion sting-curve is therefore the oldest attested reading, corroborating λ Scorpii and the Vicṛtau/Mūlabarhaṇa material already on file. Chinese astronomy gives Wei nine stars.</sub>
+
+**Rāmāyaṇa 6.4.46 (Critical Edition, Yuddha Kāṇḍa) = Griffith Book VI Canto IV** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> nairṛtaṃ nairṛtānāṃ ca nakṣatram abhipīḍyate / mūlaṃ mūlavatā spṛṣṭaṃ dhūpyate dhūmaketunā //
+>
+> *CE reference R_6,004.046.*
+>
+> — *And Nairita, the radical star of the Nairitas, is sore afflicted and, touched by the rod-bearing Dhumketu is in trouble. All this is for the destruction of the Rakshasas.*
+> <br>— Manmatha Nath Dutt (1893) ([source](https://archive.org/download/dli.ministry.19598/E01470_The_Ramayana_Yuddha_Kandam_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Same verse as the Nairṛta entry; recorded separately because the epic gives Mūla a sociological identification found nowhere else in the database — it is the tutelary asterism of the RĀKṢASAS, standing in exact opposition to Viśākhā as the tutelary asterism of the Ikṣvākus/Kosalas two verses earlier. This dynastic/ethnic assignment of nakṣatras is a distinctively epic datum and is the earliest form of the later 'janma-nakṣatra of a lineage' idea.</sub>
+
 ### पूर्वाषाढा (Pūrvāṣāḍhā) — Kaus Media
 
 **Modern identification:** Kaus Media — δ Sagittarii, Sagittarius (*certain*)
@@ -766,6 +1887,50 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** FOUR stars, shaped like a cow's stride (govikrama-saṃsthāna), deity Toya ('the Waters' = Āpas), gotra Darbhakātyāyanīya. The Toya deity is the Buddhist form of the āpya lordship the Sūrya Siddhānta uses. The paired cow-stride/elephant-stride figures for the two Āṣāḍhās are a Buddhist speciality.</sub>
 
+**Aṣṭādhyāyī 4.3.34; also 5.1.110** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३४ श्रविष्ठाफल्गुन्यनुराधास्वातितिष्यपुनर्वसुहस्तविशाखाऽषाढाबहुलाल्लुक् ।
+>
+> *See the bahula entry for the three-witness collation. Patañjali's citation reads '(p_5,1.97) ka_ii,362.2-11 {8/22} viśākhāṣāḍhāt aṇ manthadaṇḍayoḥ iti .' — note that the GRETIL Mahābhāṣya's sūtra-number markers do not always match the vulgate numbering (here 5,1.97 for vulgate 5.1.110), so the Kielhorn volume/page reference is the reliable pointer.*
+>
+> — *34. The affix denoting 'born therein' is elided by luk, after the words 'sravishtha', 'phalguni', 'anuradha', 'svati', 'tishya', 'punarvasu', 'hasta', 'visakha', 'ashadha' and 'bahula', all denoting asterisms.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Pāṇini uses the bare form Aṣāḍhā, without pūrva/uttara, at 4.3.34 (ten-name list) and 5.1.110 viśākhā-aṣāḍhād aṇ mantha-daṇḍayoḥ, where āṣāḍha is a 'staff' — a wholly non-calendrical derivative that shows the word was ordinary vocabulary. Filed here under purva-ashadha but the attestation covers the pair as an undivided unit; Pāṇini nowhere distinguishes Pūrvāṣāḍhā from Uttarāṣāḍhā. The Kāśikā's vārttika on 4.3.34 adds an alternative affix after Śraviṣṭhā and Aṣāḍhā. Patañjali quotes 5.1.110 verbatim (Kielhorn ii.362.2-11).</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> खशरबाहवः(२०)२५० … साद्धांङ्गा(२०)६।३०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(20) 250 00…' and '…(20) 6 30…' — the polar longitude of asterism no. 20 is 250°00' and its polar latitude 6°30', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 250°00', śara (polar latitude) 6°30' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 4 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: δ Sgr 250°43' / -6°28'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Dhanus 14° (= 254°00' measured from the sidereal origin) with a śara of 6°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> कु[१]मनु[१४]नख[२०]भैः[२७] धनुषी
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 20 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Dhanus 14°, with polar latitude 6°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Dhanus 14° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 254°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 6°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: δ Sgr 254°02' / -6°20'. For comparison Sāmanta (1869) gives 250°00' / 6°30' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390a02), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 箕圖。箕四星，形如牛步，水神也，姓刺婆耶尼，食瞿陀甜苦味。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a10: 「箕宿四星，形如牛步，一日一夜而與月俱，尼俱陀果，以用為祭，屬於水神，姓迦旃延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c12: 「前魚宿者，有四要星，其形類象，南廣北狹，尼拘類樹皮師為食，行十五須臾而侍從矣，主於木天，姓財所乘。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390a07: 「景風曰：中國天文，箕四星，主妃后，東方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Ji. Ji has four stars; its form is like an ox's stride. Its deity is Water (Toya); its clan is Lābhāyani (刺婆耶尼); its food is godhā-flesh, sweet and bitter." — Modengqie jing (T1300, c. 230 CE): "The Ji asterism has four stars, its form like an ox's stride; a day and a night it is with the moon; nyagrodha fruit is used as its offering; it belongs to the Water deity; its clan is Kātyāyana (迦旃延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Former-Fish has four principal stars, their form of the elephant kind, broad in the south and narrow in the north; nyagrodha bark is its food; it travels fifteen muhūrta in attendance; the deva of Wood presides; its clan-name is 'Wealth-borne'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 箕 Ji; T1301 renders the name semantically as 前魚 ('Former Fish'). A THREE-POINT MATCH in T1299 and T1300 with the Śārdūlakarṇāvadāna's catustāraṃ govikrama-saṃsthānaṃ … toyadaivatam: FOUR stars, an OX'S-STRIDE figure (牛步 = govikrama, in both), and the WATER deity (水神 = toya, in both). T1300 adds the nyagrodha offering, matching nyagrodhakaṣāyāhāram, and T1301 keeps the nyagrodha too. The paired cow-stride / elephant-stride figures for the two Āṣāḍhās survive intact in the Chinese, confirming they are old and not a Sanskrit copyist's invention.</sub>
+
 ### उत्तराषाढा (Uttarāṣāḍhā) — Nunki
 
 **Modern identification:** Nunki — σ Sagittarii, Sagittarius (*likely*)
@@ -789,6 +1954,39 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** FOUR stars, shaped like an elephant's stride (gajavikrama-saṃsthāna), deity Viśva (the Viśve Devāḥ), gotra Maudgalāyanīya. The Viśvadeva lordship agrees with the Vedic lists and with the Sūrya Siddhānta's vaiśva.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अर्द्धयुक्तर्कतत्त्वानि(२१)२५६।३० … न्यंत्रिभागक्षताः(२१)३।४०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(21) 256 30…' and '…(21) 3 40…' — the polar longitude of asterism no. 21 is 256°30' and its polar latitude 3°40', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 256°30', śara (polar latitude) 3°40' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 4 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: σ Sgr 258°39' / -3°26'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Dhanus 20° (= 260°00' measured from the sidereal origin) with a śara of 6°00' south (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> कु[१]मनु[१४]नख[२०]भैः[२७] धनुषी
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 21 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Dhanus 20°, with polar latitude 6°00' south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Dhanus 20° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 260°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 6°00', south by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: σ Sgr 262°18' / -3°17'. For comparison Sāmanta (1869) gives 256°30' / 3°40' south. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390a08), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 斗圖。斗四星，形如象步，毘說神，姓毘耶羅那，食蜜{#CB03022}稻花。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a12: 「斗有四星，形如象步，於一日半與月同行，桃花祭之，屬凶惡神，姓伽羅延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c14: 「北魚宿者，有四要星，其形類象，南廣北狹，行四十五須臾而侍從矣，以蜜餳為食，主種殖天，姓向所作。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390a13: 「景風曰：中國天文，斗六星，主江湖，北方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Dou. Dou has four stars; its form is like an elephant's stride. Its deity is Viśva (毘說); its clan is Vyāghrāyaṇa (毘耶羅那); its food is honey, sugar and rice-blossom." — Modengqie jing (T1300, c. 230 CE): "Dou has four stars, its form like an elephant's stride; for a day and a half it travels with the moon; peach-blossom is its offering; it belongs to the fierce deity; its clan is Gārgāyaṇa (伽羅延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Northern-Fish has four principal stars, their form of the elephant kind, broad in the south and narrow in the north; it travels forty-five muhūrta in attendance; honey and sugar are its food; the deva of Planting presides; its clan-name is 'Toward-what-is-made'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 斗 Dou; T1301 renders the name semantically as 北魚 ('Northern Fish'). FOUR stars and an ELEPHANT'S-STRIDE figure in T1299 and T1300 (象步 = gajavikrama-saṃsthānam), with T1301 keeping the elephant; T1299's deity 毘說 = Viśva matches viśva-daivatam (the Viśve Devāḥ) and its food 蜜…稻花 matches madhu-lājāhāram. The 45-muhūrta value is confirmed by T1301 and by T1300's summary list of the six long asterisms. Chinese astronomy gives Dou six stars.</sub>
 
 ### अभिजित् (Abhijit) — Vega
 
@@ -832,6 +2030,63 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Named at SS 9.12 (13° class) and heading the SS 9.18 list of stars never obscured by the sun; also at SS 13.8 among the stars needing day-circles on the armillary sphere. Al-Bīrūnī's independent lists give al-Nasr al-Wāqiʿ (Vega) in both positions, and his nakshatra table assigns Abhijit polar longitude 265° and 62° north latitude.</sub>
 
+**Aṣṭādhyāyī 4.3.36** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३६ वत्सशालाऽभिजिद्श्वयुक्छतभिषजो वा ।
+>
+> *See the ashvayuj entry for the three-witness collation of this sūtra.*
+>
+> — *36. There is optionally luk-elision of the affix denoting 'born therein' after the words 'vatsasala', 'abhijit', 'asvayuk' and 'satabhish'.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Pāṇini names Abhijit in his own sūtra 4.3.36, grouped with Aśvayuj and Śatabhiṣaj under a rule about the affix meaning 'born under [an asterism]' — so for Pāṇini Abhijit is already a full member of the asterism system, not the anomalous 28th that later texts sometimes drop. This is a firmly datable pre-Mauryan attestation and, given the disputes about when Abhijit entered the list, an important one. Distinguish from 5.3.118 abhijid-vidabhṛt-… where abhijit is an ordinary word 'conquering' in a list of proper names; only 4.3.36 is astronomical. Abhijit does not occur in the surviving Mahābhāṣya, but that text lacks adhyāya 4 entirely, so nothing follows from its absence.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> दलोनाद्रीषुबाहवः(०)२५६।३० … द्वाषष्टि(०)६२
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(0) 256 30…' and '…(0) 62 00…' — the polar longitude of asterism no. 0 is 256°30' and its polar latitude 62°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 256°30', śara (polar latitude) 62°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 3 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Lyr 255°16' / 61°55'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Dhanus 27° (= 267°00' measured from the sidereal origin) with a śara of 64°00' north (VIII.2.5–6, direction by VIII.2.8). Sāmanta's 62° N is a correction of the inherited 60° and matches Vega's 61°53' to within 7'. Vaṭeśvara had already moved it to 64°. NOTE a probable printing problem: the dhruva figure printed for Abhijit (256°30') is identical to the one printed for Uttarāṣāḍhā, although the word-numerals differ (dalonādrīṣubāhavaḥ = 257 − ½ for Abhijit). The figures are reported here exactly as printed.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> कु[१]मनु[१४]नख[२०]भैः[२७] धनुषी
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 22 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Dhanus 27°, with polar latitude 64°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Dhanus 27° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 267°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 64°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Lyr 265°15' / 61°47'. For comparison Sāmanta (1869) gives 256°30' / 62°00' north. Vaṭeśvara's 64° is an increase on the Sūrya Siddhānta's 60° and is 2° over Vega's true 61°55'; Sāmanta's later 62° is exact.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390a14), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 牛圖。牛宿吉，甚吉祥。其宿三星，形如牛頭，風梵摩神也，姓奢拏耶那，食乳粥香花藥。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a13: 「牛宿三星，形如牛首，一時與月而共同行，不須祭祀，屬於梵天，姓於梵氏。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c17: 「無容宿者，有三要星，其形所類如牛頭步，行六須臾而侍從矣，以風為食，主于梵天，姓梵所乘。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390a16: 「景風曰：案天竺以牛宿為吉祥之宿，每日牛時直事，故天竺以牛時為吉祥之時也。瞿曇氏以歷經者，牛宿吉祥女圖術是也。今說牛星，又與中國亦別。案中國天文，牛宿六星，主開渠河，北方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Niu. The Niu asterism is auspicious, exceedingly auspicious. That asterism has three stars; its form is like an ox's head. Its deity is [Wind-]Brahmā (風梵摩); its clan is Śāṇāyana (奢拏耶那); its food is milk-gruel, fragrant flowers and herbs. One born under this asterism is by rule endowed with merit and obtains what he does not seek." — Modengqie jing (T1300, c. 230 CE): "The Niu asterism has three stars, its form like an ox's head; for one watch only it travels together with the moon; it requires no offering; it belongs to Brahmā; its clan is accordingly the Brahmā clan. … Only the Niu asterism has half a day with the moon." — Shetoujian jing (T1301, c. 307 CE): "The asterism Without-Compare has three principal stars, the kind of its form like an ox's head; it travels SIX MUHŪRTA in attendance; wind is its food; the deva Brahmā presides; its clan-name is 'Brahmā-borne'. … That one asterism which travels six muhūrta in attendance is the Without-Compare asterism."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 牛 Niu; T1301 renders the name semantically as 無容 ('Without Compare'). THE ANSWER TO THE 27-VS-28 QUESTION, AND THE BEST SINGLE CORROBORATION IN THIS SOURCE. T1301 reproduces the Śārdūlakarṇāvadāna's Abhijit entry point for point: three stars (tritāram), an OX'S-HEAD figure (牛頭 = gośīrṣa-saṃsthānam), BRAHMĀ as deity and Brahmā as gotra (brahma-daivataṃ brahmāvatīyaṃ gotreṇa), WIND as food (以風為食 = vāyu-āhāram — a bizarre datum that no translator would invent), and above all SIX MUHŪRTA (行六須臾), repeated in its summary exactly as the Sanskrit repeats it: 'that one asterism which travels six muhūrta is Abhijit' = eko 'bhijit ṣaṇ-muhūrta-yogaḥ. T1300 likewise singles it out as the only short one and the only one needing no offering. THE XIUYAO JING KEEPS THE ENTRY BUT DEMOTES IT: its Niu chapter is a stub with no day-quality section, and its zodiacal, conjunction and calendar chapters all count 二十七宿, twenty-seven, listing 6+12+9 lodges with Niu absent (T21.388b28–33). Yang Jingfeng's note at T21.394c17 states the reason outright: 唐用二十八宿，西國除牛宿，以其天主事之故 — 'The Tang uses twenty-eight lodges; the Western Country removes the Niu lodge, because the Lord of Heaven attends to it.' That is a dated 764 CE statement that India had already dropped Abhijit, with the reason given as its being reserved to the god. Chinese astronomy gives Niu six stars. One further detail: T1299 prints the deity as 風梵摩神也, with an unexplained 風 'wind' standing before 梵摩 Brahmā — very likely a survival of the same vāyu-āhāra ('food of wind') that T1301 preserves as a separate field, the two data having collapsed into one phrase in the Tang recension.</sub>
+
+**Mahābhārata 3.219.8-9 (Critical Edition, Vana Parva, Mārkaṇḍeyasamāsyā) = vulgate/Ganguli Vana Parva Section CCXXIX** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> abhijit spardhamānā tu rohiṇyā kanyasī svasā / icchantī jyeṣṭhatāṃ devī tapas taptuṃ vanaṃ gatā // tatra mūḍho 'smi bhadraṃ te nakṣatraṃ gaganāc cyutam / kālaṃ tv imaṃ paraṃ skanda brahmaṇā saha cintaya //
+>
+> *Verbatim from the BORI Critical Edition e-text, lines 03,219.008a–009c. GRETIL supplies this text only in IAST, not Devanagari. CE-vs-vulgate: the CE chapter is 3.219; Ganguli, translating the vulgate, prints it in Vana Parva Section CCXXIX. The commonly cited 'Vana 230.8-10' does not match either numbering exactly — Ganguli's Section CCXXX contains the Svāhā episode instead.*
+>
+> — *Then Sakra having expressed a wish to say something to Skanda, the latter enquired, 'What is it?' Being told by Skanda to speak it out, Vasava said, The lady Abhijit, the younger sister of Rohini, being jealous of her seniority, has repaired to the woods to perform austerities. And I am at a loss to find out a substitute for the fallen star. May good luck attend on thee, do thou consult with Brahma (for the purpose of filling up the room) of this great asterism.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m03/m03229.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** THE classic witness to Abhijit's expulsion from the nakṣatra list, and the earliest one. Abhijit is personified as Rohiṇī's YOUNGER SISTER (kanyasī svasā) who, envying her, desires jyeṣṭhatā ('seniority' — with an obvious pun on the nakṣatra Jyeṣṭhā) and goes to the forest for tapas; Indra then reports to Skanda that 'the asterism has fallen from the sky' (nakṣatraṃ gaganāc cyutam) and that he is at a loss about the reckoning of time. The verse says nothing about identity or position, so the Vega identification is imported from the Sūrya Siddhānta / Śārdūlakarṇāvadāna tradition already in the database; what the epic supplies is the mythic charter for a 27-member list. Note that the epic does NOT say Abhijit was dropped to keep the number at 27 — it says the reckoning had to be reconsidered and Kṛttikā was installed. CE 3.219 = Ganguli's Vana Parva Section CCXXIX; the passage is NOT in Ganguli's Section CCXXX, which the standard citation 'Vana 230.8-10' points to.</sub>
+
 ### श्रवण (Śravaṇa) — Altair
 
 **Modern identification:** Altair — α Aquilae, Aquila (*certain*)
@@ -858,6 +2113,63 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** THREE stars, barleycorn-middle-shaped (yavamadhya-saṃsthāna), deity Viṣṇu, gotra Kātyāyanīya. Three stars in a fusiform = β, α, γ Aquilae, exactly Burgess's group. Viṣṇu lordship agrees with the Vedic lists and with the siddhāntic epithet Vaiṣṇava.</sub>
 
+**Aṣṭādhyāyī 4.2.5; also 4.2.23** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.२.५ संज्ञायां श्रवणाश्वत्थाभ्याम् ।
+>
+> *Devanāgarī from Sanskrit Wikisource; GRETIL's two IAST texts give 'sañjñāyāṃ śravaṇa-aśvatthābhyām' and 'saṃjñā-yām śravaṇa-aśvatthā-bhyām'. 4.2.23 reads ४.२.२३ विभाषा फाल्गुनीस्रवणाकार्त्तिकीचैत्रीभ्यः (Wikisource prints स्रवणा for श्रवणा; GRETIL Kāśikā-derived: 'vibhāṣā phālgunī-śravaṇā-kārtikī-caitrībhyaḥ', 'alt': 'kārttikī').*
+>
+> — *5. The affix above ordained is elided by lup, after the words Sravana and Asvatha, when the whole word so formed is an appellation, and there is specification of time. Thus [śravaṇā] 'the night called Sravana'; [aśvatthaḥ] 'the Muhurta called Asvattha'.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Two sūtras of Pāṇini's own: 4.2.5 saṃjñāyāṃ śravaṇa-aśvatthābhyām and 4.2.23 vibhāṣā phālgunī-śravaṇā-kārttikī-caitrībhyaḥ (the full-moon/month names). 4.2.5 is remarkable for the database because it puts Śravaṇā and Aśvattha side by side as the two words after which the time-affix is elided when the result is a NAME: Vasu, on the Kāśikā, glosses the two products as 'the night called Śravaṇā' and 'the muhūrta called Aśvattha' — which is direct evidence for the Śravaṇa–Aśvattha association the database already records from the Kāṭhaka Saṃhitā, now in a datable text. Note that śravaṇa occurs elsewhere in the Aṣṭādhyāyī and constantly in the Mahābhāṣya in its ordinary sense 'hearing/audibility'; only 4.2.5 and 4.2.23 are astronomical. Śravaṇa also appears in the aṃśvādi gaṇa on 6.2.193 and the śivādi gaṇa on 4.1.112, but those are gaṇapāṭha.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> त्रिभानि(२२)२७३ … रन्ध्ररामाः(२२)३०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(22) 273 00…' and '…(22) 30 00…' — the polar longitude of asterism no. 22 is 273°00' and its polar latitude 30°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 273°00', śara (polar latitude) 30°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α Aql 272°01' / 29°49'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Makara (Capricorn) 8° (= 278°00' measured from the sidereal origin) with a śara of 30°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> भ[८]नखै[२०]मंकरे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 23 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Makara (Capricorn) 8°, with polar latitude 30°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Makara (Capricorn) 8° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 278°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 30°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α Aql 278°25' / 29°30'. For comparison Sāmanta (1869) gives 273°00' / 30°00' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390a19), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 女圖。女三星，形如梨格，毘藪幻神也，姓目揭連耶那，食新生酥及鳥肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a15: 「女有三星，形如穬麥，一日一夜共月而行，鳥肉用祀，屬毘紐神，姓迦旃延。有斯七宿，在於西方。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c19: 「沙栴宿者，一曰耳聰，有三要星，其形類麥，邊小中大，行三十須臾而侍從矣，鳥肉為食，主種殖天。是為七宿，屬于西方。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390a25: 「景風曰：中國天文，女四星，主藏府土，北方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Nü. Nü has three stars; its form is like a pear-frame. Its deity is Viṣṇu (毘藪紐); its clan is Maudgalyāyana (目揭連耶那); its food is fresh butter and bird-flesh." — Modengqie jing (T1300, c. 230 CE): "Nü has three stars, its form like a barley grain; a day and a night it travels with the moon; bird-flesh is used in its sacrifice; it belongs to the deity Viṣṇu (毘紐); its clan is Kātyāyana (迦旃延)." — Shetoujian jing (T1301, c. 307 CE): "The Shazhan asterism, also called Keen-of-Hearing, has three principal stars, their form of the barley kind, small at the edges and large in the middle; it travels thirty muhūrta in attendance; bird-flesh is its food; the deva of Planting presides."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 女 Nü; T1301 renders the name semantically as 耳聰 ('Keen of Hearing'), also called 沙栴. THREE stars, VIṢṆU, BIRD-FLESH and the BARLEY-GRAIN figure — four independent matches with the Śārdūlakarṇāvadāna's tritāraṃ yavamadhya-saṃsthānaṃ … pakṣimāṃsāhāraṃ viṣṇudaivataṃ kātyāyanīyaṃ gotreṇa. T1300's 穬麥 'barley grain' and T1301's 類麥，邊小中大 again nail yavamadhya, confirming the fusiform β–α–γ Aquilae group. T1300 gives the Kātyāyana gotra exactly. T1301's name 耳聰 'keen of hearing' is a semantic gloss on śravaṇa c. 307 CE. NOTE the unexplained alternative name 沙栴 that T1301 puts first (沙栴宿者，一曰耳聰); it is not Śravaṇa phonetically and I do not reconstruct a Sanskrit for it. Chinese astronomy gives Nü four stars.</sub>
+
+**Rāmāyaṇa 5.55.1 (Critical Edition, Sundara Kāṇḍa); Mahābhārata 6.3.13 (Critical Edition)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> sacandrakumudaṃ ramyaṃ sārkakāraṇḍavaṃ śubham / tiṣyaśravaṇakadambam abhraśaivalaśādvalam //
+>
+> *CE reference R_5,055.001. The MBh parallel is CE 06,003.013c 'maghāsv aṅgārako vakraḥ śravaṇe ca bṛhaspatiḥ'.*
+>
+> — *having Tishya and Sravana for its swans, clouds for its mosses and grass, Punarvasu for its mighty fish*
+> <br>— Manmatha Nath Dutt (1892) ([source](https://archive.org/download/dli.ministry.19595/E01454_The_Ramayana_Vol_5_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Recorded for the Rāmāyaṇa's sky-as-lake simile (5.55.1), where Tiṣya and Śravaṇa are the kadamba flowers of the celestial lake — a pairing of two asterisms as matching objects, which suggests they were felt to be comparable in brightness and form. Also in the Mahābhārata omen list twice (6.3.13 Jupiter in Śravaṇa, 6.3.17 Mars retrograde there) and in Balarāma's pilgrimage chronology (9.33.5). The name and the α Aquilae identification are standard and imported.</sub>
+
 ### श्रविष्ठा (Śraviṣṭhā (Dhaniṣṭhā)) — Rotanev
 
 **Modern identification:** Rotanev — β Delphini, Delphinus (*certain*)
@@ -881,6 +2193,52 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** FOUR stars, BIRD-shaped (śakuna-saṃsthāna), deity Vasu, gotra Kauṇḍinyāyanīya. Four stars in a bird-figure = the Delphinus quadrilateral (α, β, γ, δ Del), agreeing exactly with Colebrooke's 'The Dolphin' for Śraviṣṭhā. Vasu lordship agrees with the Vedic lists and the siddhāntic epithet Vāsava.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सार्धपञ्चाष्टपक्षा(२३)२८५।३० … षट्त्रिंश(२३)३६
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(23) 285 30…' and '…(23) 36 00…' — the polar longitude of asterism no. 23 is 285°30' and its polar latitude 36°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 285°30', śara (polar latitude) 36°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 5 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: β Del 283°18' / 33°03'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Makara 20° (= 290°00' measured from the sidereal origin) with a śara of 36°00' north (VIII.2.5–6, direction by VIII.2.8). </sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> भ[८]नखै[२०]मंकरे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 24 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Makara 20°, with polar latitude 36°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Makara 20° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 290°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 36°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: β Del 289°51' / 32°38'. For comparison Sāmanta (1869) gives 285°30' / 36°00' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390a26), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 虛圖。虛四星，形如訶梨勒，娑婆神也，姓婆私迦耶，食於大豆喻沙。利上云：和水煮如乳狀，為喻沙相也。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a17: 「虛有四星，形如飛鳥，一日一夜共月而俱，豆糜為祭，屬婆藪神，姓憍陳如。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c21: 「貪財宿者，有四要星，其形像調脫之珠，行三十須臾而侍從矣，食卑豆羹，主居寐天，姓曰造眼。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390b05: 「景風曰：中國天文，虛二星，主宰相位，北方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Xu. Xu has four stars; its form is like a myrobalan fruit. Its deity is Vasu (娑婆); its clan is Vāsikāya (婆私迦耶); its food is large beans in gruel." — Modengqie jing (T1300, c. 230 CE): "Xu has four stars, its form like a flying bird; a day and a night it is together with the moon; bean-gruel is its offering; it belongs to the deity Vasu (婆藪); its clan is Kauṇḍinya (憍陳如)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Greedy-for-Wealth has four principal stars, its form like a strung ornament of pearls; it travels thirty muhūrta in attendance; a soup of small beans is its food; the deva of Repose presides; its clan-name is 'Eye-making'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 虛 Xu; T1301 renders the name semantically as 貪財 ('Greedy for Wealth'). T1300 matches the Śārdūlakarṇāvadāna on every point: FOUR stars, a FLYING-BIRD figure (形如飛鳥 = śakuna-saṃsthānam), VASU as deity (婆藪 = vasudaivatam), BEAN-GRUEL as food (豆糜 = kulatthapūpāhāram) and KAUṆḌINYA as gotra (憍陳如 = kauṇḍinyāyanīyaṃ gotreṇa). The four-star bird is the Delphinus quadrilateral, so this is direct 3rd-century support for the DB's β Delphini. T1301 keeps four stars and thirty muhūrta but has a strung-pearl figure; T1299 keeps four stars and Vasu but has a myrobalan-fruit figure. NAME-FORM FINDING: T1301 translates the name 貪財 'greedy for wealth', i.e. it read DHANIṢṬHĀ (dhana 'wealth') and not Śraviṣṭhā — pushing the Dhaniṣṭhā form back to c. 307 CE, which bears on the DB's open Śraviṣṭhā/Dhaniṣṭhā question. Chinese astronomy gives Xu two stars.</sub>
+
+**Mahābhārata 3.219.10 (Critical Edition) = vulgate/Ganguli Vana Parva Section CCXXIX** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> dhaniṣṭhādis tadā kālo brahmaṇā parinirmitaḥ / rohiṇyādyo 'bhavat pūrvam evaṃ saṃkhyā samābhavat //
+>
+> *CE lines 03,219.010a and 010c. Ganguli's vulgate is looser here and reverses the sense of the second pāda.*
+>
+> — *Ganguli (vulgate): 'Dhanishtha and other asterisms were created by Brahma, and Rohini used to serve the purpose of one such; and consequently their number was full.' Literal rendering of the Critical Edition text by the compiler: 'Then time was fashioned throughout by Brahmā beginning with Dhaniṣṭhā; formerly it had begun with Rohiṇī — thus the reckoning came about.'*
+> <br>— Kisari Mohan Ganguli (1883-96), with a literal rendering of the CE text by the compiler ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m03/m03229.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The half-verse immediately after the Abhijit verse is the single most important chronological statement about the nakṣatra series in the epic: 'time was then fashioned by Brahmā beginning with Dhaniṣṭhā; formerly it began with Rohiṇī; thus the reckoning came about'. It records BOTH the Vedāṅga-Jyotiṣa Dhaniṣṭhā-ādi list (which the database already documents from the Vedāṅga Jyotiṣa) and, as a still older stratum, a Rohiṇī-ādi list — a list-head otherwise attested only obliquely. No identification data is given here; β Delphini comes from the Sūrya Siddhānta entry. Note that this is the form Dhaniṣṭhā, not the older Śraviṣṭhā, which is the form the Vedic corpus uses.</sub>
 
 ### शतभिषज् (Śatabhiṣaj) — Hydor
 
@@ -915,9 +2273,53 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** AL-BĪRŪNĪ COULD NOT IDENTIFY IT — independent evidence that the disputed status on file is not a modern artefact. His table leaves the note 'Unknown. Most likely identical with the upper part of the hip-joint of Aquarius', a guess that does not obviously land on λ Aquarii. He is equally defeated by Viśākhā, Pūrvabhādrapadā, Ārdrā, Āśleṣā and Dhaniṣṭhā, while being confident and correct wherever the Arabic manzil tradition gave him an anchor (Kṛttikā = al-Thurayyā, Rohiṇī = Aldabarān, Maghā = al-Jabha, Citrā = al-Simāk al-Aʿzal, Jyeṣṭhā = the Heart of Scorpio, Mūla = al-Shaula, and so on). Śatabhiṣaj sits precisely in the gap between the two systems, which is why it defeated him.</sub>
 
+**Aṣṭādhyāyī 4.3.36 (also gaṇapāṭha, suṣāmādi gaṇa on 8.3.98)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३६ वत्सशालाऽभिजिद्श्वयुक्छतभिषजो वा ।
+>
+> *See the ashvayuj entry for the three-witness collation. The gaṇapāṭha line reads: '… रोहिणीषेणः, रोहिणीसेनः। भरणीषेणः, भरणीसेनः। शतभिषक्षेनः। इतिसुषामादिः।'*
+>
+> — *36. There is optionally luk-elision of the affix denoting 'born therein' after the words 'vatsasala', 'abhijit', 'asvayuk' and 'satabhish'.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Named by Pāṇini in his own sūtra 4.3.36, in the archaic -bhiṣaj form (not the later Śatabhiṣā / Śatatārakā). The gaṇapāṭha on 8.3.98 (suṣāmādi) independently records the personal name śatabhiṣak-ṣenaḥ, showing the asterism name in onomastic use — but that is gaṇapāṭha, not sūtra, and cannot carry the Pāṇinian date. Pāṇini gives no positional information, so the star identification is unaffected and remains as in the database.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> व्यङ्गाष्टभूगुणाः(२४)३१७।४५ … शीतदीधितेस्त्र्यंशः(२४)०।२०
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(24) 317 45…' and '…(24) 0 20…' — the polar longitude of asterism no. 24 is 317°45' and its polar latitude 0°20', south.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 317°45', śara (polar latitude) 0°20' south. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 100 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: λ Aqr 317°43' / -0°25'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Ghaṭa (Aquarius) 20° (= 320°00' measured from the sidereal origin) with a śara of 0°00' north (VIII.2.5–6, direction by VIII.2.8). ★ DECISIVE FOR THE DISPUTED IDENTIFICATION. Sāmanta's 317°45' / 0°20' S matches λ Aquarii to within 2 ARCMINUTES of longitude and 5 arcminutes of latitude — the closest agreement anywhere in his whole catalogue. He lowers the inherited Sūrya-Siddhānta value (320°) by 2°15', and the correction moves the figure onto λ Aquarii, not away from it. Al-Bīrūnī left this station 'unknown'; Sāmanta's re-observation removes the doubt. Note also that XII.13 still reckons the asterism at 100 stars (khābhrabhuvaḥ = 100), i.e. the 'hundred physicians' of the name, while the yogatārā is the single star measured here.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> विंशति[२०]त्रिघनै[२७]र्घंटे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 25 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Ghaṭa (Aquarius) 20°, with polar latitude 0°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Ghaṭa (Aquarius) 20° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 320°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 0°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: λ Aqr 321°42' / -0°23'. For comparison Sāmanta (1869) gives 317°45' / 0°20' south. Vaṭeśvara's 20° of Aquarius (= 320°) with śara 0° agrees with λ Aquarii's latitude exactly (0°23' S in his frame) though his longitude is 1°42' short of it. Together with Sāmanta's far more precise 317°45' / 0°20' S this makes λ Aquarii secure.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390b06), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 危圖。危一星，形如花穗，婆魯拏神也，姓丹茶耶，食羝羊肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a19: 「危宿一星，一日及月粳米為祭，屬于水神，姓單茶延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c24: 「百毒宿者，有一要星，形圓色黃，行十五須臾而侍從矣，以粥為食，主養育天，姓乘魅。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390b11: 「景風曰：中國天文，危三星，主墳墓，北方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Wei. Wei has one star; its form is like an ear of blossom. Its deity is Varuṇa (婆魯拏); its clan is Tāṇḍya (丹茶耶); its food is ram's flesh." — Modengqie jing (T1300, c. 230 CE): "The Wei asterism has one star; a day with the moon; rice is used as its offering; it belongs to the Water deity; its clan is Tāṇḍāyana (單茶延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Hundred-Poisons has one principal star, round in form and yellow in colour; it travels fifteen muhūrta in attendance; gruel is its food; the deva of Nurture presides; its clan-name is 'Demon-borne'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 危 Wei; T1301 renders the name semantically as 百毒 ('Hundred Poisons'). ONE star in all three witnesses — a striking agreement given the name's 'hundred physicians/stars', and an exact match for the Śārdūlakarṇāvadāna's eka-tāraṃ tilaka-saṃsthānam; T1301 adds the 15-muhūrta value and 'round in form, yellow in colour'. T1299 transcribes the deity 婆魯拏 = VARUṆA and the gotra 丹茶耶 = TĀṆḌYA, both matching varuṇadaivataṃ tāṇḍyāyanīyaṃ gotreṇa; T1300 has 水神 'Water deity' for Varuṇa and 單茶延 Tāṇḍāyana. T1301's name 百毒 'hundred poisons' shows bhiṣaj was construed through the poison/antidote sense c. 307 CE. Chinese astronomy gives Wei three stars.</sub>
+
 ### पूर्वभाद्रपदा (Pūrva-Bhādrapadā) — Markab
 
-**Modern identification:** Markab — α Pegasi, Pegasus (*certain*)
+**Modern identification:** Markab — α Pegasi, Pegasus (*disputed*)
 
 **Sūrya Siddhānta 8.16** — [Sanskrit e-text](https://sa.wikisource.org/wiki/सूर्यसिद्धान्त_भग्रहयुत्यधिकारः)
 
@@ -938,6 +2340,39 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** TWO stars, padaka-shaped, deity Ahirbudhnya, gotra Jātūkarṇya. Two stars = α and β Pegasi; the Ahirbudhnya lordship agrees with the Vedic lists.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> दृग्दन्ता(२५)३२२ … दन्ता(२५)३२
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(25) 322 00…' and '…(25) 32 00…' — the polar longitude of asterism no. 25 is 322°00' and its polar latitude 32°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 322°00', śara (polar latitude) 32°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 2 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: β Peg 320°50' / 34°03'; α Peg 321°04' / 21°05'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Ghaṭa 27° (= 327°00' measured from the sidereal origin) with a śara of 24°00' north (VIII.2.5–6, direction by VIII.2.8). ★ SĀMANTA DISAGREES WITH THE STANDARD IDENTIFICATION. His 322° / 32° N matches β Pegasi (Scheat: 320°50' / 34°03') and NOT α Pegasi (Markab: 321°04' / 21°05'), whose latitude is 11° too small. The two candidates are almost identical in longitude, so the latitude decides, and Sāmanta's 32° decides for β Pegasi. He is consistent with his own rule at XII.19, which makes the NORTHERN star of the pair the yogatārā — β Pegasi is the northern one. The Sūrya Siddhānta's 24° N sits between the two and is what allows the usual α Pegasi identification; Vaṭeśvara repeats that 24°.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> विंशति[२०]त्रिघनै[२७]र्घंटे
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 26 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Ghaṭa 27°, with polar latitude 24°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Ghaṭa 27° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 327°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 24°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: β Peg 326°05' / 33°35'; α Peg 325°49' / 20°51'. For comparison Sāmanta (1869) gives 322°00' / 32°00' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390b12), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 室圖。室二星，形如車轅，阿醯多陀難神，姓闍耶尼，食一切肉。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a20: 「室有二星，形如人步，一日一夜與月共行，血肉祠祀，其宿屬在富單那神，姓闍罽那。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c26: 「前賢迹宿者，有二要星，相遠對立，行三十須臾而侍從矣，餅肉為食，主人是天，姓生耳。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390b17: 「景風曰：中國天文，室二星，主宗廟，北方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Shi. Shi has two stars; its form is like a carriage-shaft. Its deity is Ahirbudhnya (阿醯多陀難); its clan is Jayani (闍耶尼); its food is flesh of every kind." — Modengqie jing (T1300, c. 230 CE): "Shi has two stars, its form like a man's step; a day and a night it travels with the moon; blood and flesh are its sacrifice; that asterism belongs to the Pūtana deity; its clan is Jātūkarṇa (闍罽那)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Former-Worthy's-Footprint has two principal stars standing far apart and opposite; it travels thirty muhūrta in attendance; cake and flesh are its food; the deva of Men presides; its clan-name is 'Born-Ear'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 室 Shi; T1301 renders the name semantically as 前賢迹 ('Former Worthy's Footprint'). TWO stars in all three witnesses, matching dvitāraṃ padaka-saṃsthānam, with T1300's 形如人步 again rendering padaka and T1301's 相遠對立 'standing far apart and opposite' describing the wide pair α–β Pegasi. T1300's blood-and-flesh offering matches māṃsa-rudhirāhāram. THE GOTRA IS DECISIVE AND DOUBLY ATTESTED: T1300 transcribes it 闍罽那 = Jātūkarṇa and T1301 TRANSLATES it 生耳 'Born-Ear' — jātū-karṇa literally — matching jātūkarṇyaṃ gotreṇa. T1299's deity 阿醯多陀難 answers to Ahirbudhnya, agreeing with the Śārdūlakarṇāvadāna and the Vedic lists.</sub>
 
 ### उत्तरभाद्रपदा (Uttara-Bhādrapadā) — Algenib / Alpheratz
 
@@ -962,6 +2397,39 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** TWO stars, padaka-shaped, deity Aryamā, gotra Dhyānadrāhyāyaṇīya. The two-star count supports the pair γ Pegasi + α Andromedae that Burgess said the text confuses — evidence the confusion is his sources', not the tradition's. NOTE the deity Aryamā where the Brahmanical lists have Ahirbudhnya, duplicating Uttaraphalgunī's deity.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> दन्तिगीर्वाणाः(२६)३३८ … गजभुजसङ्ख्या(२६)२८
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(26) 338 00…' and '…(26) 28 00…' — the polar longitude of asterism no. 26 is 338°00' and its polar latitude 28°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 338°00', śara (polar latitude) 28°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 2 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: α And 338°16' / 28°11'; γ Peg 339°35' / 13°45'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Mīna (Pisces) 7° (= 337°00' measured from the sidereal origin) with a śara of 26°00' north (VIII.2.5–6, direction by VIII.2.8). ★ DECISIVE FOR THE DISPUTED IDENTIFICATION. Sāmanta's 338° / 28° N matches α Andromedae (Alpheratz: 338°16' / 28°11') to 16' and 11'. γ Pegasi, the other candidate, has a polar latitude of only 13°45' — more than 14° away from the stated value. Vaṭeśvara's older 337° / 26° N points the same way. The junction star of Uttara-Bhādrapadā in both texts is therefore α Andromedae, not γ Pegasi.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> नग[७]त्रिंशैः[३०] … मीनेऽश्विन्यादीनि द्युचरैर्योगं व्रजन्ति
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 27 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Mīna (Pisces) 7°, with polar latitude 26°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Mīna (Pisces) 7° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 337°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 26°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: α And 342°32' / 28°07'; γ Peg 343°43' / 13°42'. For comparison Sāmanta (1869) gives 338°00' / 28°00' north. Vaṭeśvara's list is essentially the inherited Sūrya-Siddhānta/Brahmagupta set: it is a fourth independent witness to those values rather than a fresh observation.</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390b18), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 璧圖。壁二星，形如立竿，尼陀羅神也，姓瞿摩多羅，食大麥飯酥乳。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a22: 「壁宿二星，形如人步，一日一夜及月而行，以肉祭之，屬於善神，姓陀闍延。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0415c28: 「北賢迹宿，有二要星，相遠對立，行三十五須臾而侍從矣，以牛肉為食，主於米天，姓不。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390b23: 「景風曰：中國天文，壁二星，主圖書祕法，北方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Bi. Bi has two stars; its form is like an upright pole. Its deity is Nidrā/Indra(?) (尼陀羅); its clan is Gomātra (瞿摩多羅); its food is barley-rice, butter and milk." — Modengqie jing (T1300, c. 230 CE): "The Bi asterism has two stars, its form like a man's step; a day and a night it travels with the moon; flesh is used in its offering; it belongs to the Good deity; its clan is Dhvajāyana (陀闍延)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Northern-Worthy's-Footprint has two principal stars standing far apart and opposite; it travels thirty-five [read forty-five] muhūrta in attendance; ox-flesh is its food; the deva of Rice presides; its clan-name is [defective]."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 壁 Bi; T1301 renders the name semantically as 北賢迹 ('Northern Worthy's Footprint'). TWO stars in all three witnesses, matching dvitāraṃ padaka-saṃsthānam and supporting the pair γ Pegasi + α Andromedae that Burgess thought the Sūrya Siddhānta confused. T1301's 相遠對立 again describes a widely separated pair. The 45-muhūrta value is confirmed by T1300's summary list of the six long asterisms (畢井氐翼斗壁) although T1301's body misprints 三十五. The deity is unstable across all witnesses — T1299 尼陀羅, T1300 善神, T1301 主於米天 — matching the instability in the Sanskrit tradition itself, where the Śārdūlakarṇāvadāna gives Aryamā against the Brahmanical Ahirbudhnya.</sub>
 
 ### रेवती (Revatī) — Revati
 
@@ -996,13 +2464,57 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** ONE star, tilaka-shaped, deity Pūṣa, gotra Aṣṭabhaginīya ('of the eight sisters'). The single-star count matches the siddhāntic use of Revatī's yogatārā as the zero-point of the sphere; Pūṣan lordship agrees with the Vedic lists.</sub>
 
+**Aṣṭādhyāyī 4.1.146 and 4.4.122; gaṇapāṭha, gaurādi gaṇa on 4.1.41** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी-गणपाठः)
+
+> ४.१.१४६ रेवती आदिभ्यः ठक् । … गौरादिः: … सौधर्म। रोहिणीनक्षत्रे। रेवतीनक्षत्रे। विकल। निष्फल। पुष्कल। … इतिगौरादिः।
+>
+> *Two separate texts joined by an ellipsis and labelled: the first stretch is sūtra 4.1.146 from the Sanskrit Wikisource Aṣṭādhyāyī (GRETIL: 'revaty-ādibhyaṣ ṭhak'); the second is a verbatim excerpt from the gaurādi gaṇa in the separate Sanskrit Wikisource Gaṇapāṭha page (गणपाठ no. 46, on षिद्गौरादिभ्यश्च ४.१.४१). They are NOT continuous text. 4.4.122 reads ४.४.१२२ रेवतीजगतीहविष्याभ्यः प्रशस्ये ।*
+>
+> — *Literal rendering of the gaṇa entries: 'rohiṇī, in the sense of the asterism; revatī, in the sense of the asterism.'*
+> <br>— Literal rendering by the compiler ([source](https://sa.wikisource.org/wiki/अष्टाध्यायी-गणपाठः))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Revatī heads the revatyādi gaṇa named in Pāṇini's own sūtra 4.1.146 revaty-ādibhyaṣ ṭhak — the gaṇa NAME is Pāṇini's, though the membership list is gaṇapāṭha. She is also named at 4.4.122 revatī-jagatī-haviṣyābhyaḥ praśasye. Neither sūtra says nakṣatra outright, so on the sūtra evidence alone this could be the ordinary adjective 'rich, abundant'. Two things settle it in favour of the asterism: (i) the gaurādi gaṇa on 4.1.41 lists 'रोहिणीनक्षत्रे। रेवतीनक्षत्रे।' — Rohiṇī and Revatī explicitly marked 'in the sense of an asterism'; and (ii) the vārttika reported by Vasu on 4.3.34 says the feminine affix elided after Revatī and Rohiṇī by 1.2.49 is reordained because those words belong to the gaurādi class — a discussion that only makes sense if they are asterism names. Both of those are POST-Pāṇinian evidence (gaṇapāṭha and vārttika), so I rate the Pāṇinian attestation itself as likely rather than certain.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 2–13** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> शून्यं(२७)० … शरा(२७)५
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE of the Ray edition (Calcutta 1899), scan leaf n216 = printed p. 114–115: https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . The archive.org OCR of this volume is unusable for Devanagari, so no verse here is taken from the OCR text; every figure was re-read at full scan resolution and cross-checked against a second independent scan of the same edition (https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/page/n217.jpg). Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star and the figure following it is the edition's decoding of the bhūtasaṅkhyā word-numeral that precedes it. These are the two printed segments of the dhruva list (vv. 2–6) and the śara list (vv. 7–10) that carry this asterism's own figures; the complete verses are given under db_id 'yogatara-catalog'.*
+>
+> — *'…(27) 0 00…' and '…(27) 5 00…' — the polar longitude of asterism no. 27 is 0°00' and its polar latitude 5°00', north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SIDDHĀNTA DARPAṆA XII (Sāmanta, 1869): dhruva (polar longitude) 0°00', śara (polar latitude) 5°00' north. The direction comes from XII.11, which makes the śara southern for the asterisms numbered 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for all the rest; XII.12–13 give the asterism 32 star(s). TRUE VALUES for 1870 CE, reduced to Sāmanta's OWN sidereal zero (his Citrā = 179°, i.e. Spica; implied ayanāṃśa 22°12'), as polar longitude / polar latitude: ζ Psc 355°58' / -0°14'. VAṬEŚVARA-SIDDHĀNTA VIII.2.1–2 (904 CE) puts the same junction star at Mīna 30° (= 0°00' measured from the sidereal origin) with a śara of 0°00' north (VIII.2.5–6, direction by VIII.2.8). ANOMALY, RECORDED AS FOUND. Sāmanta keeps Revatī's dhruva at 0°, i.e. he uses it as the origin of his sidereal frame rather than as an observed value, but his śara of 5° NORTH cannot be reconciled with ζ Piscium, whose polar latitude is 0°14' S. Vaṭeśvara's 30° of Pisces / 0° latitude matches ζ Piscium exactly (0°00' / 0°17' S in his own frame). Either Sāmanta measured a different star or the printed śara is corrupt; the figure is reported here exactly as printed and is not emended.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–2 (dhruvakas) and 4–8 (kṣepas)** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> नग[७]त्रिंशैः[३०] … मीनेऽश्विन्यादीनि द्युचरैर्योगं व्रजन्ति
+>
+> *This is the printed segment of the continuous dhruvaka list (VIII.2.1–2) that carries this star's own figure; the star's kṣepa is item no. 28 of the unbroken numeral run of VIII.2.5–6, which cannot be split, so the whole passage is also given verbatim under db_id 'yogatara-catalog'. Devanagari transcribed by the compiler from the page FACSIMILE of K. S. Shukla's INSA edition of the Sanskrit text, scan leaf n317 = printed p. 293: https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . The archive.org OCR is unusable for Devanagari. The SQUARE brackets and the figures inside them are the EDITION'S own decoding of the bhūtasaṅkhyā word-numerals, reproduced here so that no numeral is silently converted. Shukla's English translation and notes are in copyright: they are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses. *
+>
+> — *Vaṭeśvara names no asterism individually in these verses: he gives, sign by sign, the degrees at which the junction stars stand. This star falls at Mīna 30°, with polar latitude 0°00' north.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA-SIDDHĀNTA VIII.2 (904 CE) gives the junction star's dhruvaka (polar longitude) as Mīna 30° — Vaṭeśvara states the dhruvakas as degrees WITHIN each zodiacal sign, not as absolute longitudes, so this is 0°00' from the sidereal origin — and its kṣepa (polar latitude, VIII.2.5–6) as 0°00', north by the rule of VIII.2.8 (a verse the edition notes is identical with Brahmagupta's Khaṇḍakhādyaka I.9.13). TRUE VALUES for 904 CE reduced to Vaṭeśvara's own sidereal zero (his Citrā = 3° of Libra = 183°), as polar longitude / polar latitude: ζ Psc 0°00' / -0°17'. For comparison Sāmanta (1869) gives 0°00' / 5°00' north. Vaṭeśvara's 30° of Pisces (= 360°/0°) with śara 0° matches ζ Piscium exactly in his own frame (0°00' / 0°17' S).</sub>
+
+**Taishō T21n1299 fasc. 1 (T21.0390b24), with T21n1300 fasc. 1 and T21n1301** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 奎圖。奎三十二星，形如小艇，甫涉神也，姓曼茶鼻耶，食肉及飲{#CB03022}。
+>
+> *Verbatim parallels from the two earlier Chinese versions of the same Śārdūlakarṇāvadāna material, and the Tang commentator's note on the Chinese star-count: 摩登伽經 (Mātaṅga-sūtra) T21n1300, T21.0405a24: 「奎一大星，自餘小者為之輔翼，形如半珪，一日一夜共月而行，酪飯以祭，屬富沙神，姓八姝氏。」 | 舍頭諫太子二十八宿經 T21n1301, T21.0416a01: 「流灌宿，有一要星，形圓色黃，行三十須臾而侍從矣，鹿麋為食，主富沙天，姓曰妙華。」 | Yang Jingfeng's interlinear note in T21n1299 at T21.0390c02: 「景風曰：中國天文，奎十六星，主武庫，西方之宿也」*
+>
+> — *Xiuyao jing: "Chart of Kui. Kui has thirty-two stars; its form is like a small boat. Its deity is Pūṣan (甫涉); its clan is Māṇḍavya (曼茶鼻耶); its food is flesh and a drink of sugar." — Modengqie jing (T1300, c. 230 CE): "Kui has one great star, the remaining smaller ones serving it as wings; its form is like a half gui-tablet; a day and a night it travels with the moon; curd-rice is used in its offering; it belongs to the deity Pūṣan (富沙); its clan is the Eight-Sisters clan (八姝氏)." — Shetoujian jing (T1301, c. 307 CE): "The asterism Flowing-and-Irrigating has one principal star, round in form and yellow in colour; it travels thirty muhūrta in attendance; venison is its food; the deva Pūṣan (富沙) presides; its clan-name is 'Fine Flower'."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror 1](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror 2](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** Chinese lunar lodge (xiu) 奎 Kui; T1301 renders the name semantically as 流灌 ('Flowing and Irrigating'). THE SINGLE BEST RECONCILIATION THE CHINESE WITNESSES SUPPLY. The Śārdūlakarṇāvadāna gives Revatī one star (eka-tāraṃ tilaka-saṃsthānam), the later Indian tradition gives it thirty-two, and the Xiuyao jing here prints 奎三十二星 — thirty-two — where every other entry gives a small number, so the 32-star Revatī is attested in a firmly dated 759 CE text. T1300 explains how both are true: 奎一大星，自餘小者為之輔翼 'Kui has ONE GREAT STAR, the remaining smaller ones serving it as wings' — i.e. one junction-star with a train of faint attendants, which is exactly the relation of ζ Piscium to the rest of the Revatī group. PŪṢAN is the deity in all three (甫涉 / 富沙 = pūṣadaivatam), and T1300's clan 八姝氏 'the Eight-Sisters clan' is a literal rendering of the Śārdūlakarṇāvadāna's odd aṣṭabhaginīyaṃ gotreṇa, with curd-rice matching dadhy-āhāram. Chinese astronomy gives Kui sixteen stars.</sub>
+
 ## Individually named stars
 
 Stars outside the nakshatra series that the texts name in their own right.
 
 ### अगस्त्य (Agastya) — Canopus
 
-**Modern identification:** Canopus — α Carinae, Carina (*certain*)
+**Modern identification:** Canopus — α Carinae, Carina (*disputed*)
 
 **Sūrya Siddhānta 8.10** — [Sanskrit e-text](https://sa.wikisource.org/wiki/सूर्यसिद्धान्त_भग्रहयुत्यधिकारः)
 
@@ -1059,9 +2571,95 @@ Stars outside the nakshatra series that the texts name in their own right.
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Listed among the stars needing only 13 kālāṃśas of distance from the sun to be visible — i.e. the brightest class. Burgess notes this class 'is, indeed, almost wholly composed of stars of the first magnitude'. Independently corroborated by al-Bīrūnī, who gives 13° for Suhail (Canopus) heading the identical list. THREE FURTHER WITNESSES with coordinates: Brahmagupta (Bhagrahayutyadhikāra 35–37) gives dhruva 27° Gemini = 87°, śara 77° S, arc 12° — far better than SS 8.11's 90°/80° S (true c. 85°04'/75°50' S); Varāhamihira's Pañcasiddhāntikā XIV.39–41 implies 75°30' S, which Thibaut reverse-engineered from the rule and which is the best ancient figure of all; and the Graha-Lāghava (1520) has 80°/76° S, correct in latitude but as wrong in longitude as the Sūrya Siddhānta, in the opposite direction. Burgess: 'The Siddhanta-Çiromani and (according to Colebrooke) the Brahma-Siddhanta give Agastya 87° of polar longitude, and 77° of latitude, which is a fair approximation to the truth.'</sub>
 
+**Utpala, Vivṛti on Bṛhat Saṃhitā 12.14 and 12.21, quoting the Samāsa-saṃhitā and Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> [१२.१४ टीका] तथा च समाससंहितायाम्— सप्तभिरंशैः कन्यामप्राप्ते रोमके तु दिवसकरे। दृश्योऽगस्त्योऽवन्त्यां तत्समपूर्वापरेऽप्येवम्॥ इति॥ [१२.२१ टीका] यद्यप्यत्र गणितसाम्यं न भवति, तथाप्याचार्येण पूर्वशास्त्रदृष्टत्वात् कृतम्। … तथा च पराशरः— हस्तस्थे सवितर्युदेति रोहिणीसंस्थे प्रविशति।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *Samāsa-saṃhitā: 'When the sun in the Romaka [reckoning] has not reached Virgo by seven degrees, Agastya is visible at Avantī (Ujjayinī); and likewise at places equally to the east or west of it.' Utpala on 12.21: 'Although the computation does not agree here, the teacher has nonetheless said it, because it was seen so in the earlier śāstra. … And so Parāśara: it rises when the Sun stands in Hasta, and it enters (disappears) when the Sun stands in Rohiṇī.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** Utpala's ch. 12 adds no new NAME for Canopus — the epithets Kumbhasambhava, Maitrāvaruṇi, Muni and Lopāmudrāvallabha already in the database do not occur there, and his one epithet-gloss is on Varāhamihira's own 'varuṇāṅgaruh' (BS 12.13), which he explains simply as 'the son of Varuṇa'. What he does add is two independent VISIBILITY data-points that corroborate the Canopus identification. (1) PARĀŚARA, quoted at the end of the chapter: 'hasta-sthe savitary udeti rohiṇī-saṃsthe praviśati' — Agastya rises when the Sun is in Hasta and disappears when the Sun is in Rohiṇī. (2) The SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, quoted on 12.14: Agastya becomes visible at Ujjayinī when the true Sun is seven degrees short of Virgo. Both fit a very bright star far to the south, and Utpala himself concedes at 12.21 that 'the computation does not agree' with the rule Varāhamihira took over from earlier śāstra — a rare admission that the traditional date had drifted, which is exactly what precession does to a star at Canopus's declination. Utpala also preserves Parāśara's colour-omens for the star (red-rough, tawny, smoky, madder, blue), evidence that it was observed low and reddened near the horizon.</sub>
+
+**Aṣṭādhyāyī 6.4.149** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/षष्टः_अध्यायः)
+
+> ६.४.१४९ सूर्यतिष्यागस्त्यमत्स्याणां यः उपधायाः ।
+>
+> *Devanāgarī from Sanskrit Wikisource, which prints मत्स्याणां for मत्स्यानाम् (a typo) and de-sandhis the ending. Both GRETIL texts read 'sūrya-tiṣya-agastya-matsyānāṃ ya upadhāyāḥ' / 'sūrya-tiṣya-agastya-matsyā-n-āṃ y-aḥ upa-dhā-y-āḥ'. I quote the Devanāgarī as fetched and flag the error rather than emending.*
+>
+> — *Literal rendering: 'Of sūrya, tiṣya, agastya and matsya, the y that is penultimate [is elided before a taddhita affix].' Vasu's report of the vārttikas restricting this sūtra includes: 'Of [tiṣya] and [puṣya] when referring to asterisms' — i.e. the tradition read the asterism sense into tiṣya and puṣya here, but not into agastya.*
+> <br>— Literal rendering by the compiler; quoted phrase Śrīśa Chandra Vasu (1897) ([source](https://archive.org/download/wg1043/WG1043-1897%20-The%20Ashtadhyayi%20Of%20Panini%20-Sanskrit%20English%20Vol%206%20Of%208_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** READ THIS CAREFULLY — the dating claim here is weaker than it looks. Agastya occurs exactly ONCE in the Aṣṭādhyāyī, at 6.4.149 sūrya-tiṣya-agastya-matsyānāṃ ya upadhāyāḥ, a purely phonological rule eliding the penultimate y of sūrya, tiṣya, agastya and matsya before certain affixes (giving saura, taiṣa, āgasta, mātsa). The grouping with Sūrya and Tiṣya is suggestive — two of the four words in the list are unambiguously celestial — but the sūtra says nothing about a star, and both Kātyāyana's vārttikas on it (as reported by Vasu) and the Kāśikā treat tiṣya/puṣya as the asterism pair while treating agastya as an ordinary stem, with agastya listed elsewhere in the gargādi gaṇa on 4.1.105 as a gotra/ṛṣi name. So this attests the WORD Agastya at c. 500–350 BCE; it does not attest Agastya as a star name, and it must not be cited as if it did. The star sense is well attested from the Sūrya Siddhānta and elsewhere as the database already records.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 35–40; Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 3 and 9** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> ध्रुवोऽगस्त्यस्य पञ्चाष्ट८५भागाः पञ्चाद्रयः७५ शरः५ ।
+> दक्षिणस्तद्ध्रुवो वामं चलांशैः संस्कृतः स्फुटः ॥ ३५ ॥
+> धृतयो१८ विकलास्तस्य सूक्ष्ममण्डलविस्तृतिः ।
+> यमस्यैवं द्विपक्षां२२शा ध्रुवोऽङ्काङ्कानि६६ मार्गणः ॥ ३६ ॥
+> याम्योऽष्टौ विकला बिम्बोऽगस्त्यवद्ध्रुवसंस्कृतिः ।
+> राशित्रयमगस्त्यस्य ध्रुवः सौरोदितः पुरा ॥ ३७ ॥
+> सप्तनगां८७शकः प्रोक्तः सत्सिद्धान्तशिरोमणौ ।
+> भूशराचिक्रता४२५१ब्देषु कलेर्भास्करधीमता ॥ ३८ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(35) 'The dhruva of Agastya is eighty-five degrees, [its] arrow seventy-five, southern; that dhruva, corrected to the west by the degrees of motion (the ayanāṃśa), is the true one. (36) The extent of its small disc is eighteen vikalās. Yama's likewise: twenty-two degrees, dhruva sixty-six … (37) southern; its disc eight vikalās; the dhruva-correction as for Agastya. Formerly the Saura stated Agastya's dhruva as three signs. (38) It is stated as eighty-seven degrees in the excellent Siddhānta Śiromaṇi, by the wise Bhāskara, in the Kali year 4251.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ THE BEST CANOPUS LATITUDE IN THE WHOLE SANSKRIT SERIES, AND AN EXPLICIT DISCUSSION OF WHY THE INHERITED FIGURES NO LONGER FIT. Sāmanta (XII.35) gives Agastya a dhruva of 85° and a śara of 75° SOUTH, with an apparent disc of 18 vikalās (XII.36), and adds that the dhruva must be corrected westward by the ayanāṃśa to be true. Canopus's real polar latitude in 1870 is 75°59' S: Sāmanta's 75° beats the Sūrya Siddhānta's 80°, Varāhamihira's implied c. 75°30' being the only comparable figure, and equals or betters Brahmagupta's, Bhāskara's and Vaṭeśvara's 77°. Vaṭeśvara (VIII.2.3, 9) gives dhruvaka 27° of Gemini = 87° with śara 77° south, i.e. exactly Brahmagupta's pair; the true polar longitude for 904 CE in Vaṭeśvara's own frame is 85°13', so his 87° is 1°47' high where the Sūrya Siddhānta's 90° is 4°47' high. Sāmanta's longitude is the weak point — the true polar longitude of Canopus in HIS frame in 1870 is only 72°38', 12° below his 85° — and he evidently knew there was a problem: XII.37–40 sets out the discrepancy explicitly. He notes that the Saura (Sūrya Siddhānta) formerly gave Agastya's dhruva as THREE SIGNS (90°), that the Siddhānta Śiromaṇi gives 87°, stated 'by the wise Bhāskara in the Kali year 4251' (= 1150 CE, the correct date of the Siddhānta Śiromaṇi), and that 718 years later a difference of 7°30' is now SEEN, with 11°30' arising from the ayanāṃśa. The observation is real: because the polar longitude of a far-southern star drifts against the sidereal frame as the equator precesses, Canopus's polar longitude actually fell by about 7°24' between 1150 and 1869 — almost exactly the 7°30' Sāmanta reports as observed. This is a nineteenth-century Indian astronomer catching, quantifying and dating a real secular change in an inherited coordinate.</sub>
+
+**Nīlakaṇṭha Somayāji, Āryabhaṭīyabhāṣya on Āryabhaṭīya, Golapāda 4.46 (TSS 185, ed. Suranad Kunjan Pillai, 1957, p. 197)** — [Sanskrit e-text](https://archive.org/download/aryabhatiyabhashyaofgargyakeralanilakanthasuranandkunjanpillaivol3universityoftravancore185_204_/Aryabhatiya%20Bhashya%20of%20Gargyakerala%20Nilakantha%20Suranand%20Kunjan%20Pillai%20Vol%203%20University%20of%20Travancore%20185_djvu.txt)
+
+> ताराणां छायाच्ानयने उदयास्तमयकाकानयने च सायनांशेभ्यः खयोगमागेभ्य एवापक्रमानयनपायनदशेनसस्कारधेष्यते । ... तेषां सर्वेषामपि योगमागाः खखविक्षेपाश्च ` क्ितिरवियोगाद्‌ ' इति वक््यमाणप्रकारणेवानेयाः । तेषापादिलयासन्नानाघ्चुदयास्तपयभागाशर परीक्ष्यैव ज्ञेयाः । तत्रादिवन्यादीनां भरसिद्धानापगस्त्यादीनां च योगभागविेपोदयास्तमयभागाश्च पठिताः । तथा च सुयंसिद्धान्ते ॥ ४६ ॥
+>
+> *THIS IS RAW OCR, QUOTED VERBATIM AND NOT SILENTLY EMENDED. The only machine-readable text of this volume is the Internet Archive's OCR of the 1957 Trivandrum Sanskrit Series scan, and it is corrupt at roughly one word in eight; the ellipsis marks c. 400 characters of intervening OCR omitted for length. The normalised reading, supplied editorially by the compiler and NOT verbatim from any e-text, is: 'ताराणां छायानयने उदयास्तमयकालानयने च सायनांशेभ्यः स्वयोगभागेभ्य एवापक्रमानयनम् अयनदर्शनसंस्कारो वेष्यते ... तेषां सर्वेषामपि योगभागाः स्वस्वविक्षेपाश्च ‘क्षितिरवियोगाद्’ इति वक्ष्यमाणप्रकारेणैवानेयाः । तेषाम् आदित्यासन्नानां चोदयास्तमयभागाश्च परीक्ष्यैव ज्ञेयाः । तत्राश्विन्यादीनां प्रसिद्धानाम् अगस्त्यादीनां च योगभागविक्षेपोदयास्तमयभागाश्च पठिताः । तथा च सूर्यसिद्धान्ते ॥ ४६ ॥'. On the critical word: the OCR string contains the sequence गस्त्य inside भरसिद्धानापगस्त्यादीनां, which reads प्रसिद्धानाम् अगस्त्यादीनाम् — the initial अ of अगस्त्य is absorbed into the preceding °नाम् by sandhi and is not separately visible, so the full form अगस्त्य is here an expansion of गस्त्य rather than a clean OCR hit. The reading is nonetheless secure, because the SAME volume prints अगस्त्य in full and uncorrupted twice in the passage under Golapāda 4.48 (see the following entry), and no other Sanskrit word ending °गस्त्यादीनाम् is plausible in this context. The verse being commented on is confirmed as Āryabhaṭīya 4.46 because the volume prints it in full ('प्रग्रहणान्ते धूम्रः, खण्डग्रहणे शशी भवति कृष्णः...॥४६॥') and follows this passage with 4.47 ('सूर्येन्दुपरिधियोगेऽर्कांशभागो भवत्यनादेश्यः...॥४७॥'), both matching the GRETIL mūla exactly. Nīlakaṇṭha's commentary on 4.46 runs to c. 33,000 characters; this star material sits at its very end.*
+>
+> — *In computing the shadow of the stars, and in computing the times of their rising and setting, the declination is to be derived from their own polar longitudes reckoned with the precession... For all of them the polar longitudes and their respective latitudes are to be derived by the very method about to be stated in [the verse beginning] 'kṣitiraviyogāt'. And for those among them that are near the sun, the degrees of [heliacal] rising and setting are to be known only by observation. Therein, for [the junction-stars] beginning with Aśvinī, and for the well-known [stars] beginning with Agastya, the polar longitudes, the latitudes, and the degrees of rising and setting have been recited; and so too in the Sūrya Siddhānta.*
+> <br>— Literal rendering by the compiler from the normalised reading given in shloka_note; no public-domain translation of Nīlakaṇṭha's Āryabhaṭīyabhāṣya exists, and K. V. Sarma's and K. Ramasubramanian's renderings are copyrighted and were not consulted ([source](https://archive.org/download/aryabhatiyabhashyaofgargyakeralanilakanthasuranandkunjanpillaivol3universityoftravancore185_204_/Aryabhatiya%20Bhashya%20of%20Gargyakerala%20Nilakantha%20Suranand%20Kunjan%20Pillai%20Vol%203%20University%20of%20Travancore%20185_djvu.txt))
+
+<sub>**Identification notes (Āryabhaṭīya commentaries):** Nīlakaṇṭha names Agastya in a technical context that fixes it as an extra-zodiacal star treated exactly like the 27 yogatārās: he is explaining how to compute the SHADOW (chāyā) and the times of heliacal RISING AND SETTING (udayāstamaya-kāla) of the tārās, and he groups 'the well-known [stars] beginning with Agastya' (prasiddhānām agastyādīnām) alongside 'those beginning with Aśvinī' (aśvinyādīnām, i.e. the nakṣatra junction-stars) as bodies for which polar longitude (yogabhāga), latitude (vikṣepa) and rising-setting degrees 'have been recited', citing the Sūrya Siddhānta. He supplies no coordinates himself, so this is an attestation of the NAME and of its status as a catalogued star, not an independent identification. That he says the rising and setting degrees of stars near the sun must be settled by observation (parīkṣyaiva jñeyāḥ) is notable, since Agastya is precisely such a star. Identification as Canopus is certain and follows the Sūrya Siddhānta tradition he is citing, not anything new in this passage.</sub>
+
+**Nīlakaṇṭha Somayāji, Āryabhaṭīyabhāṣya on Āryabhaṭīya, Golapāda 4.48 (TSS 185, ed. Suranad Kunjan Pillai, 1957, pp. 130 [misprinted], 160–161)** — [Sanskrit e-text](https://archive.org/download/aryabhatiyabhashyaofgargyakeralanilakanthasuranandkunjanpillaivol3universityoftravancore185_204_/Aryabhatiya%20Bhashya%20of%20Gargyakerala%20Nilakantha%20Suranand%20Kunjan%20Pillai%20Vol%203%20University%20of%20Travancore%20185_djvu.txt)
+
+> तस्मात्‌ प्रसिद्धा एव अचिन्यादयस्तारा अगस्त्यादयः सपष्योदयश्च । अस्तु वा वानिभादीनां वाजिष्वुखाचाङतिस्मरणाद्‌ ऽ्योतिश्शाद्ोक्तरक्षगेनेव तन्निणेयः । स्मयन्त च ब्रह्मगगेमयादिमिः खपरणीतेषु ज्योतिसे सपविंशतिनप्षत्रारूढ। ज्योतिशक्रपरदेश्नविश्चेषाः, अगस्त्याचारूढाश्च । तेन गोजयुक्स्य भिन्नानां तत्तद्िेपयो गकलाद्रारेण शङ इयष्टिधुशक्रा दिभियेन्त्रः प्रतयक्षपरीक्षणेनेव तन्निणेयः स्यात्‌ ।
+>
+> *RAW OCR, QUOTED VERBATIM AND NOT SILENTLY EMENDED, from the same Internet Archive scan as the previous entry. The normalised reading, supplied editorially by the compiler and NOT verbatim from any e-text, is: 'तस्मात् प्रसिद्धा एव अश्विन्यादयस्तारा अगस्त्यादयः सप्तर्ष्युदयश्च । अस्तु वा अश्विन्यादीनां वाजिमुखाद्याकृतिस्मरणाद् ज्योतिःशास्त्रोक्तलक्षणेनैव तन्निर्णयः । स्मर्यन्ते च ब्रह्मगर्गमयादिभिः स्वप्रणीतेषु ज्योतिषे सप्तविंशतिनक्षत्रारूढा ज्योतिश्चक्रप्रदेशविशेषाः, अगस्त्याद्यारूढाश्च । तेन ... तत्तद्विक्षेपयोगकलाद्वारेण शङ्कुयष्टिधनुश्चक्रादिभिर्यन्त्रैः प्रत्यक्षपरीक्षणेनैव तन्निर्णयः स्यात् ।'. IMPORTANT: अगस्त्य is clean in the OCR at both occurrences and is NOT reconstructed. By contrast सपष्योदय is corrupt; the compiler reads it as सप्तर्ष्युदय ('the rising of the Saptarṣi'), which is near-certain on sense and idiom but IS an emendation — a direct search for सप्तर्षि in this volume returns zero, so the Saptarṣi attestation should be treated as probable rather than verified. अचिन्यादय / वानिभादीनां are certainly अश्विन्यादयः / अश्विन्यादीनाम्. The passage's location under Golapāda 4.48 was fixed by verse-marker positions: it lies between the printed verse 'क्षितिरवियोगाद् दिनकृद् रवीन्दुयोगाद् प्रसाधितश्चेन्दुः । शशितारग्रहयोगाच् तथैव ताराग्रहाः सर्वे ॥ ४८ ॥' and the closing ॥४८॥ of its commentary. Page numbering in the OCR is unreliable.*
+>
+> — *Therefore the stars beginning with Aśvinī, and those beginning with Agastya, and the rising of the Seven Sages, are simply well known. Or else let their determination be made by the very characteristics stated in the science of the luminaries, since the shapes of [the asterisms] beginning with Aśvinī — a horse's face and so on — are handed down. And in the jyotiṣa works composed by Brahmā, Garga, Maya and others, particular regions of the star-circle are recorded as fixed upon the twenty-seven nakṣatras, and [others] as fixed upon Agastya and the rest. Hence their determination would be made by direct observation with instruments such as the gnomon, the staff and the bow-instrument, by way of their respective latitudes and longitudes in minutes.*
+> <br>— Literal rendering by the compiler from the normalised reading given in shloka_note; no public-domain translation of Nīlakaṇṭha's Āryabhaṭīyabhāṣya exists, and K. V. Sarma's and K. Ramasubramanian's renderings are copyrighted and were not consulted ([source](https://archive.org/download/aryabhatiyabhashyaofgargyakeralanilakanthasuranandkunjanpillaivol3universityoftravancore185_204_/Aryabhatiya%20Bhashya%20of%20Gargyakerala%20Nilakantha%20Suranand%20Kunjan%20Pillai%20Vol%203%20University%20of%20Travancore%20185_djvu.txt))
+
+<sub>**Identification notes (Āryabhaṭīya commentaries):** A second, quite different attestation in the same work: here Agastya appears not in a computational rule but in an epistemological digression on HOW a star's name comes to denote that star. Commenting on Āryabhaṭīya 4.48 — the verse directing that the sun be determined from its conjunction with the earth, the moon from the sun, and the star-planets from the moon — Nīlakaṇṭha asks how the name–object relation (saṃjñā-saṃjñi-sambandha) for asterisms is known. An objector holds that it comes from Vedic sentences alone, citing 'ṣaṭ kṛttikā nakṣatram' (the Kṛttikās are six) and 'amī ye subhage divi vicṛtau nāma tārake' (those two stars in the sky, O fair one, named Vicṛtau). Nīlakaṇṭha replies that śruti cannot point with a finger, so the relation is learned from ordinary usage as with any common object, and concludes that the stars beginning with Aśvinī, those beginning with Agastya, and the rising of the Saptarṣi are simply prasiddha — well known. He then notes that Brahmā, Garga, Maya and others record particular regions of the star-circle as fixed upon the 27 nakṣatras 'and upon Agastya etc.', and that the identification is finally settled by direct observation with the gnomon (śaṅku), staff (yaṣṭi) and bow-instrument (dhanur-yantra) via each body's latitude and longitude in minutes. This passage is the single strongest evidence that the Āryabhaṭa tradition in Kerala knew and used extra-zodiacal star names; note nonetheless that Agastya is invoked as a stock example of a well-known star, and no coordinate for it is given anywhere in the work.</sub>
+
+**Raghuvaṃśa 16.44** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रघुवंशम्/षोडशः_सर्गः)
+
+> अगस्त्यचिह्नादयनात्समीपं दिगुत्तरा भास्वति संनिवृत्ते । आनन्दशीतं इव भाष्पवृष्टिं हिमस्रुतिं हैमवतीं ससर्ज । । १६.४४ । ।
+>
+> *Devanagari from Sanskrit Wikisource; word-for-word identical with GRETIL.*
+>
+> — *The Sun approaching from the quarter presided over by Agastya, the North seemed to send forth a cool stream of tears in the shape of the oozings of the Himalaya.*
+> <br>— Gopal Raghunath Nandargikar (1897), Preface p. 38 ([source](https://archive.org/download/p3raghuvanawithc00kliduoft/p3raghuvanawithc00kliduoft_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Agastya here is a fixed point of the sky used to name a solstice: 'agastya-cihnād ayanāt', 'from the ayana (solar half-year / solstitial turning-point) MARKED BY Agastya'. Nandargikar glosses it 'from that side of the equator which is marked by Agastya, i.e. the South', and states elsewhere that 'Agastya, e.g., is identified with the principal star in the southern constellation of Canopus'. The passage describes the onset of summer heat as the sun turns north. This bears on the database's Vedic finding that the Rgvedic Agastya is always the SAGE: by Kalidasa the star-sense is standard poetic currency, and it is the sense he uses whenever the word does seasonal or directional work (also 4.44, 'the quarter traversed by Agastya' = the south), while in the Rama cantos (6.61, 13.36, 15.54, 16.72) the sage is meant.</sub>
+
+**Buddhacarita 9.26** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_azvaghoSa-buddhacarita.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> saṃvardhayitrīṃ samavehi devīm agastyajuṣṭāṃ diśam aprayātām / pranaṣṭavatsām iva vatsalāṃ gām ajasram ārtāṃ karuṇaṃ rudantīm // BC_9.26
+>
+> *IAST from GRETIL with the inline variant '(samavehi c ca samehi)' resolved to samavehi; the GRETIL 'alt' e-text reads 'saṃvardhayitrī samavehi devīmagastyajuṣṭāṃ diśamaprayātām'.*
+>
+> — *...who has not yet gone to the region inhabited by Agastya - wilt thou not take some heed of her, who ceaselessly grieves like a fond cow that has lost her calf?*
+> <br>— E. B. Cowell, SBE 49 (1894), Buddha-karita IX.26 ([source](https://archive.org/download/buddhistmahy01cowe/buddhistmahy01cowe_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** 'the quarter frequented by Agastya' (agastyajuṣṭāṃ diśam) = the south = the realm of death; the queen has not gone there, i.e. is not yet dead. Recorded as DISPUTED because at this date the southern quarter is Agastya's on account of the SAGE's legendary journey south as much as on account of the star, and Asvaghosa supplies no observational marker - no rising, no season, no light. Contrast Raghuvamsa 4.21 and 16.44, where udayāt and ayanāt force the star-sense. This is the transitional usage the database's Rgveda finding predicts.</sub>
+
 ### मृगव्याध (Mṛgavyādha) — Sirius
 
-**Modern identification:** Sirius — α Canis Majoris, Canis Major (*likely*)
+**Modern identification:** Sirius — α Canis Majoris, Canis Major (*disputed*)
 
 *See also:* `lubdhaka`
 
@@ -1091,6 +2689,20 @@ Stars outside the nakshatra series that the texts name in their own right.
 > <br>— Paraphrase by the compiler; Sanskrit normalised from the OCR of Ram Swarup Sharma's edition ([source](https://archive.org/download/Brahmasphutasiddhanta/Brahmasphutasiddhanta_djvu.txt))
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Same 13° visibility class as Agastya at SS 9.12. Brahmagupta (Bhagrahayutyadhikāra 40) gives dhruva 26° Gemini = 86°, śara 40° S, arc 13°; his commentary notes the latitude matches the Sūrya Siddhānta's but the longitude differs (SS: 80°) 'and that difference is directly visible to the eye' — i.e. Brahmagupta corrected it by observation. Burgess agrees: 'while all authorities agree with the correct determination of the latitude of Sirius presented by our text, the Siddhanta-Çiromani etc. greatly reduce its error of longitude, by giving the star 86°, instead of 80°.' Al-Bīrūnī's quotation of Brahmagupta's Uttara-Khaṇḍakhādyaka matches exactly: '26° Orion, its southern latitude 40 parts... 13' for the heliacal-rising arc.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 27 (with 25–26, 33)** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> केचिदाहुर्मृगव्याधनामा मुनिः
+> सोमभाद्(५)याम्यगस्तद्ध्रुवोऽङ्केषवः५६ ।
+> याम्यबाणो रदाः३२ खापमादंशका
+> दिग्(१०)विलिप्ताश्च तन्मण्डलस्यायतिः ॥ २७ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(27) 'Some say the Muni is named Mṛgavyādha, [and is] the one gone south of Soma's asterism (5); its dhruva is fifty-six; its southern arrow [latitude] is thirty-two degrees from the ecliptic; and the extent of its disc is ten vikalās.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ AN EXPLICIT DISAGREEMENT ABOUT IDENTIFICATION, RECORDED BY SĀMANTA HIMSELF. XII.27: 'Some say the Muni is named Mṛgavyādha [and is] the one lying south of Soma's asterism (no. 5, Mṛgaśiras)', and he gives that star's coordinates: dhruva 56°, śara 32° south of the ecliptic, disc 10 vikalās. In Sāmanta's own sidereal frame that is RIGEL (β Orionis: 55°55' / 31°17' S) to within 5' of longitude and 43' of latitude — not Sirius. Sāmanta does not accept this: at XII.25–26 he identifies Lubdhaka/Muni with the brightest star of all, south of Punarvasu (Sirius, 77°/40° S), and at XII.33 he assigns the star south of Mṛgaśiras to PRAJĀPATI instead. So the nineteenth-century Odia tradition preserved a live dispute over whether Mṛgavyādha was Sirius or the bright star at Orion's foot, and Sāmanta comes down on the side of Sirius. Compare Brahmagupta, who gave Mṛgavyādha 86°/40° S and whose commentary says the Sūrya Siddhānta's longitude is wrong 'and that difference is directly visible to the eye'.</sub>
 
 ### लुब्धक (Lubdhaka) — Sirius
 
@@ -1137,6 +2749,24 @@ Stars outside the nakshatra series that the texts name in their own right.
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Lubdhaka and Mṛgavyādha are strictly synonymous in Brahmagupta's tradition: the heading of the verse in this edition reads 'idānīṃ lubdhakasya dhruvaśarāṃśān āha' — 'now he states the polar longitude and latitude degrees OF LUBDHAKA' — introducing the verse whose subject-word is mṛgavyādhaḥ. Pṛthūdaka's gloss on the chapter-scope verse likewise lists 'the risings and settings of the asterisms, of a planet, of Lubdhaka, and of the sage Agastya'. Śrīpati's Siddhāntaśekhara also uses Lubdhaka. This is the astronomical attestation the Amarakośa conspicuously lacks.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 25–26** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> देवमातुः(७) पुनर्याम्यगा तारका
+> सर्व्वताराधिका तद्विलिप्ता नखाः२० ।
+> तद्ध्रुवः सप्तसप्तां७७शका मार्गणः
+> खार्णवां४०शा निजापक्रमाद्दक्षिणः ॥ २५ ॥
+> सूर्य्यसिद्धान्तवाक्यादियं तारका
+> लुब्धकाख्यो मुनिश्चेति निश्चीयते ।
+> चेददित्यास्तदा याम्यगान्वा लघु-
+> स्तारका तत्समीपेऽपि निर्णीयताम् ॥ २६ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n219 = printed p. 117) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n219.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(25) 'Again, [there is] a star gone to the south of Devamātṛ's [asterism] (7), exceeding all stars [in brightness]; its [disc in] vikalās is twenty; its dhruva is seventy-seven degrees, and it is forty degrees south from its own declination[-circle]. (26) From the statement of the Sūrya Siddhānta this star is determined to be the one called Lubdhaka, and [also] Muni. But if [the text means] Āditya's [asterism], then a faint star to the south, near it, is to be determined [instead].'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA SETTLES THE LUBDHAKA/MṚGAVYĀDHA QUESTION BY OBSERVATION. XII.25 describes, south of Devamātṛ's asterism (no. 7, Punarvasu, whose deity is Aditi the mother of the gods), 'a star exceeding all stars' (sarva-tārādhikā) with an apparent disc of 20 vikalās, dhruva 77°, and śara 40° south of the ecliptic. XII.26 then says that by the Sūrya Siddhānta's wording this star is determined to be the one called Lubdhaka and also Muni. Reduced to Sāmanta's own sidereal zero the true 1870 values for SIRIUS are polar longitude 76°51' and polar latitude 39°41' S — his figures are right to 9' and 19'. This is the best coordinate ever given for Sirius in a Sanskrit siddhānta: the Sūrya Siddhānta has 80°/40° S, Brahmagupta and Bhāskara II have 86°/40° S, and Vaṭeśvara has 80°/40° S. The 20-vikalā disc is also the largest he assigns to any star, matching its being the brightest. NOTE that Sāmanta uses 'Muni' — Brahmagupta's absolute name for Canopus — as an alternative name for Sirius here, which is a real divergence from the Brahmagupta–Bhāskara usage recorded elsewhere in this database.</sub>
+
 ### अग्नि (हुतभुज्) (Agni (Hutabhuj)) — Elnath
 
 **Modern identification:** Elnath — β Tauri, Taurus (*certain*)
@@ -1149,6 +2779,26 @@ Stars outside the nakshatra series that the texts name in their own right.
 > <br>— E. Burgess (1860) ([source](https://archive.org/download/jstor-592174/592174_djvu.txt))
 
 <sub>**Identification notes (Sūrya Siddhānta):** Burgess: 'The star named after the god of fire, Agni, and called in the text by one of his frequent epithets, hutabhuj, "devourer of the sacrifice," is the one which is situated at the extremity of the northern horn of the Bull, or β Tauri'; he notes 'the very gross error in the determination of the longitude of this star'.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 29, 31–32** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> हुतभुग्ब्रह्महृदययोः पञ्चाशां५२शा ध्रुवश्च सौरोक्ताः ।
+> प्रथमस्याष्टौ८ त्रिंश३० द्वितीयभस्योत्तरं ष्वंशाः ॥ २९ ॥
+> ब्रह्महृदयपूर्व्वस्यां पञ्चभिरंशैः प्रजापतिर्वसति ।
+> तस्योत्तरविक्षेपः कुञ्जररामां३८शकोऽप्युदितः ॥ ३० ॥
+> आधुनिकैरभियुक्तैर्निश्चित्योक्तं पृथक् च संस्थानम् ।
+> हुतभुग्ब्रह्महृदययोः प्रजापतेस्तत्पुनर्वच्मि ॥ ३१ ॥
+> हुतभुग्ध्रुवः सपादाष्टार्थीं५८।१५शाः साद्धिपञ्च५।१५ सौम्यशरः ।
+> षड्विकलास्तन्मानं ध्रुवः पुनर्ब्रह्महृदयस्य ॥ ३२ ॥
+> अङ्कार्धाः५६ सौम्यशरस्त्रिभुज२३लवा नृपा१६स्तनूविकलाः ।
+> सोमभ(५)याम्यगतो यो लुब्धक एतत्प्रजापतिभम् ॥ ३३ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *See the translation given under Brahmahṛdaya for the same block of verses (29–33).*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA'S CORRECTION IS DECISIVE. Burgess complained of 'the very gross error in the determination of the longitude of this star' in the Sūrya Siddhānta, which puts Agni at 52° with latitude 8° north; Sāmanta reports that same inherited value at XII.29 and then, at XII.31–32, gives the modern observers' figures: dhruva 58°15', northern śara 5°15', disc 6 vikalās. β Tauri (Elnath) stands at 58°10' / 5°23' N in his frame — his corrected values are right to 5' and 8'. The identification Agni = β Tauri, previously resting on Burgess's judgement against a badly wrong coordinate, is now supported by a coordinate that is essentially exact.</sub>
 
 ### ब्रह्महृदय (Brahmahṛdaya) — Capella
 
@@ -1172,9 +2822,29 @@ Stars outside the nakshatra series that the texts name in their own right.
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Named twice in SS ch. 9: at 9.12 among the 13°-visibility stars, and at 9.18 among the six never extinguished by the sun's rays 'owing to their northern situation'. Burgess adds that Prajāpati (δ Aurigae) is not counted here 'since it is 8° north of Brahmahrdaya, and consequently can not become invisible where the latter does not'. DECISIVE INDEPENDENT CONFIRMATION: al-Bīrūnī reproduces both lists in Arabic star names, and al-Ayyūq is unambiguously Capella in Arabic astronomy — so the identification is settled without relying on the Hindu coordinate data at all. The same passage settles Svātī = Arcturus (al-Simāk al-Rāmiḥ) the same way.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 29, 31–33** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> हुतभुग्ब्रह्महृदययोः पञ्चाशां५२शा ध्रुवश्च सौरोक्ताः ।
+> प्रथमस्याष्टौ८ त्रिंश३० द्वितीयभस्योत्तरं ष्वंशाः ॥ २९ ॥
+> ब्रह्महृदयपूर्व्वस्यां पञ्चभिरंशैः प्रजापतिर्वसति ।
+> तस्योत्तरविक्षेपः कुञ्जररामां३८शकोऽप्युदितः ॥ ३० ॥
+> आधुनिकैरभियुक्तैर्निश्चित्योक्तं पृथक् च संस्थानम् ।
+> हुतभुग्ब्रह्महृदययोः प्रजापतेस्तत्पुनर्वच्मि ॥ ३१ ॥
+> हुतभुग्ध्रुवः सपादाष्टार्थीं५८।१५शाः साद्धिपञ्च५।१५ सौम्यशरः ।
+> षड्विकलास्तन्मानं ध्रुवः पुनर्ब्रह्महृदयस्य ॥ ३२ ॥
+> अङ्कार्धाः५६ सौम्यशरस्त्रिभुज२३लवा नृपा१६स्तनूविकलाः ।
+> सोमभ(५)याम्यगतो यो लुब्धक एतत्प्रजापतिभम् ॥ ३३ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(29) 'Of Hutabhuj and Brahmahṛdaya the dhruvas stated by the Saura are fifty-two degrees; the first's [latitude is] eight, the second asterism's thirty, northern degrees. (30) Five degrees east of Brahmahṛdaya dwells Prajāpati; its northern deflection is also stated as thirty-eight degrees. (31) But a different position, having been determined, has been stated by modern experts for Hutabhuj, Brahmahṛdaya and Prajāpati; I state that again. (32) Hutabhuj's dhruva is fifty-eight degrees fifteen [minutes]; its northern arrow five degrees fifteen; its measure six vikalās. Again, the dhruva of Brahmahṛdaya: (33) fifty-six; its northern arrow twenty-three degrees; its body sixteen vikalās. That Lubdhaka which lies south of Soma's asterism (5) — this is the asterism of Prajāpati.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ ONE OF THE THREE STARS SĀMANTA EXPLICITLY RE-DETERMINES AGAINST THE TRADITION. XII.29 first reports the inherited (Saura) figures: Hutabhuj and Brahmahṛdaya both at dhruva 52°, with latitudes 8° and 30° north respectively. XII.31 then says: 'A different position, determined [by observation], has been stated by modern experts (āghunikair abhiyuktaiḥ) for Hutabhuj, Brahmahṛdaya and Prajāpati; I state that [now].' XII.33 gives Brahmahṛdaya's corrected dhruva as 56° with a northern śara of 23° and a disc of 16 vikalās. Capella's true 1870 values in Sāmanta's frame are 55°38' / 22°58' N — his correction is right to 22' and 2', and it removes a 7° latitude error in the inherited value. The identification with Capella (already secure from al-Bīrūnī's al-Ayyūq) is thereby confirmed from a completely independent Indian observation.</sub>
+
 ### प्रजापति (Prajāpati) — Prijipati
 
-**Modern identification:** Prijipati — δ Aurigae, Auriga (*likely*)
+**Modern identification:** Prijipati — δ Aurigae, Auriga (*disputed*)
 
 *See also:* `prajapati-circumpolar`
 
@@ -1186,6 +2856,26 @@ Stars outside the nakshatra series that the texts name in their own right.
 > <br>— E. Burgess (1860) ([source](https://archive.org/download/jstor-592174/592174_djvu.txt))
 
 <sub>**Identification notes (Sūrya Siddhānta):** Burgess: 'The star referred to can hardly be any other than that in the head of the Wagoner, or δ Aurigae (4)', wondering 'why so faint and inconspicuous a star' was singled out. He also doubts the authenticity of vv. 20-21 and notes the two definitions of its longitude (v. 11 + v. 20 vs 'end of Taurus') do not quite agree.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 27, 30–33** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> हुतभुग्ब्रह्महृदययोः पञ्चाशां५२शा ध्रुवश्च सौरोक्ताः ।
+> प्रथमस्याष्टौ८ त्रिंश३० द्वितीयभस्योत्तरं ष्वंशाः ॥ २९ ॥
+> ब्रह्महृदयपूर्व्वस्यां पञ्चभिरंशैः प्रजापतिर्वसति ।
+> तस्योत्तरविक्षेपः कुञ्जररामां३८शकोऽप्युदितः ॥ ३० ॥
+> आधुनिकैरभियुक्तैर्निश्चित्योक्तं पृथक् च संस्थानम् ।
+> हुतभुग्ब्रह्महृदययोः प्रजापतेस्तत्पुनर्वच्मि ॥ ३१ ॥
+> हुतभुग्ध्रुवः सपादाष्टार्थीं५८।१५शाः साद्धिपञ्च५।१५ सौम्यशरः ।
+> षड्विकलास्तन्मानं ध्रुवः पुनर्ब्रह्महृदयस्य ॥ ३२ ॥
+> अङ्कार्धाः५६ सौम्यशरस्त्रिभुज२३लवा नृपा१६स्तनूविकलाः ।
+> सोमभ(५)याम्यगतो यो लुब्धक एतत्प्रजापतिभम् ॥ ३३ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *See the translation given under Brahmahṛdaya for the same block of verses (29–33), and under Mṛgavyādha for verse 27.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★★ THE MOST RADICAL OF SĀMANTA'S RE-IDENTIFICATIONS. The Sūrya Siddhānta (8.20) puts Prajāpati five degrees east of Brahmahṛdaya, 38° NORTH — the position that made Burgess settle, reluctantly, on the faint δ Aurigae. Sāmanta reports that tradition at XII.30 and then overturns it: after announcing at XII.31 that modern observers have determined a different position for Hutabhuj, Brahmahṛdaya AND Prajāpati, he ends XII.33 with 'that Lubdhaka which lies south of Soma's asterism (Mṛgaśiras) — this is the asterism of Prajāpati'. That star was specified at XII.27 as dhruva 56°, śara 32° SOUTH, disc 10 vikalās, which in his frame is RIGEL (β Orionis: 55°55' / 31°17' S) to within 5' and 43'. Sāmanta therefore moves Prajāpati from 38° north of the ecliptic to 32° south of it — from Auriga to the foot of Orion — and does so with coordinates that land squarely on a first-magnitude star, whereas the traditional position lands on a fourth-magnitude one. Recorded here as disputed: it is one text against the rest of the tradition, but the one text is the only observationally grounded member of it.</sub>
 
 ### अपांवत्स (Apāṃvatsa) — θ Virginis
 
@@ -1200,9 +2890,21 @@ Stars outside the nakshatra series that the texts name in their own right.
 
 <sub>**Identification notes (Sūrya Siddhānta):** Colebrooke gave 'the nebulous stars marked b 1, 2, 3 in Virgo', which Burgess could find in no map or catalogue; Burgess: 'There is, on the other hand, a star, θ Virginis (4), situated directly between Spica and δ, and at such a distance from each as shows almost beyond question that it is the star intended' (so also his index: 'Apamvatsa, name of star (θ Virginis)').</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 34** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> त्वाष्ट्र(१४)स्यापांवत्सः पञ्चलवान्ते वसत्युदग्भागी ।
+> आप्यवसुस्तत्सौम्ये स्थूलः किञ्चित्ततोऽङ्कां६शैः ॥ ३४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(34) 'Āpāṃvatsa dwells at the end of five degrees north of Tvāṣṭra's [asterism] (14), having a northern share; Āpya-vasu is to the north of it, somewhat brighter, by six degrees from it.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** Sāmanta XII.34 reproduces the Sūrya Siddhānta's relative placement unchanged: Āpāṃvatsa dwells at the end of five degrees north of Tvāṣṭra (no. 14, Citrā = Spica), and Āpya-vasu is north of it, somewhat brighter, at a further six degrees. He gives no absolute dhruva or śara for either, so this is a witness to the tradition rather than a new measurement. In 1870 θ Virginis stands 4°05' north of Spica in polar latitude, so the traditional 5° is about right.</sub>
+
 ### आपस् (आपः) (Āpas) — Minelauva (Auva)
 
-**Modern identification:** Minelauva (Auva) — δ Virginis, Virgo (*certain*)
+**Modern identification:** Minelauva (Auva) — δ Virginis, Virgo (*likely*)
 
 **Sūrya Siddhānta 8.21** — [Sanskrit e-text](https://sa.wikisource.org/wiki/सूर्यसिद्धान्त_भग्रहयुत्यधिकारः)
 
@@ -1212,6 +2914,18 @@ Stars outside the nakshatra series that the texts name in their own right.
 > <br>— E. Burgess (1860) ([source](https://archive.org/download/jstor-592174/592174_djvu.txt))
 
 <sub>**Identification notes (Sūrya Siddhānta):** Burgess: 'Apas, "Waters"... is put 6° north of Apamvatsa, or in lat. 9° N. It is identified by Colebrooke with δ Virginis (3), and doubtless correctly'. Noticed in the Sūrya-Siddhānta alone among his authorities.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 34** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> त्वाष्ट्र(१४)स्यापांवत्सः पञ्चलवान्ते वसत्युदग्भागी ।
+> आप्यवसुस्तत्सौम्ये स्थूलः किञ्चित्ततोऽङ्कां६शैः ॥ ३४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *See the Āpāṃvatsa entry for the translation of verse 34.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** A NAME-FORM NOT PREVIOUSLY IN THE DATABASE. Where the Sūrya Siddhānta calls this star simply Āpas ('the Waters'), Sāmanta XII.34 calls it Āpya-vasu, 'the watery Vasu' or 'the bright one belonging to the Waters', and describes it as 'somewhat brighter' (sthūlaḥ kiñcit) than Āpāṃvatsa — which is correct, δ Virginis being magnitude 3.4 against θ Virginis's 4.4. The placement (six degrees north of Āpāṃvatsa) is the Sūrya Siddhānta's.</sub>
 
 ### ध्रुवः (Dhruva) — Polaris (the pole star)
 
@@ -1246,6 +2960,52 @@ Stars outside the nakshatra series that the texts name in their own right.
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Amarakośa gives Dhruva one synonym, the patronymic Auttānapādi. Colebrooke's gloss is 'The pole', and his footnote is explicit that it may mean 'the north pole itself', distinguishing the mythological Dhruva son of Uttānapāda from the astronomical usage in which 'Uttānapāda is Ursa minor' — which is direct support for the caveat already on file that Dhruva may name the pole rather than a star. Separately, the Nānārtha-varga (3.3.792) records a second technical sense: dhruva also denotes a class of asterism (bha-bheda), the dhruva/sthira group used in muhūrta.</sub>
 
+**Mahābhārata 6.3.16 (Critical Edition) = vulgate Bhīṣma Parva Section III; Rāmāyaṇa 6.4.43 (Critical Edition)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> dhruvaḥ prajvalito ghoram apasavyaṃ pravartate / citrāsvātyantare caiva dhiṣṭhitaḥ paruṣo grahaḥ //
+>
+> *CE lines 06,003.016a/016c. The Rāmāyaṇa parallel is R_6,004.043 (quoted under brahmarashi).*
+>
+> — *The constellation Dhruva, blazing fiercely, wheeleth towards the right. Both the Moon and the Sun are afflicting Rohini. The fierce planet (Rahu) hath taken up its position between the constellations Chitra and Swati.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06003.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** SAGE/ADJECTIVE-VS-STAR DISCRIMINATION: 'dhruva' occurs 458× in the Mahābhārata and 48× in the Rāmāyaṇa, and the overwhelming majority are the adverb/adjective 'certainly, fixed' or the boy-king Dhruva. Three occurrences are unambiguously the pole star. (a) MBh 6.3.16, in the omen list, where 'Dhruva, blazing, turns terribly anticlockwise' — the whole surrounding list is planet-on-nakṣatra portents and Ganguli renders 'the constellation Dhruva'. (b) MBh 12.126.25, a simile: the munis 'sat down placing him in front, as the seven ṛṣis do Dhruva' — which presupposes the Saptarṣi circling the pole. (c) Rāmāyaṇa 6.4.43, where the paramarṣis 'all shine circling Dhruva to the right (pradakṣiṇa)' — the clearest statement of circumpolar rotation in either epic; Dutt renders 'all the rishis, pure and furnished with lustre, go round Dhruba'. CAUTION on a passage that looks stellar but is not: MBh 5.109.13 'atra yajñaṃ samāruhya dhruvaṃ sthātā pitāmahaḥ' is read by Ganguli adverbially ('the Grandsire dwelleth in the vicinity of Yajna'), not as the pole star, and should not be counted. The α UMi identification is anachronistic for the epic period and is carried over from the Purāṇa/lexicon entries.</sub>
+
+**Raghuvaṃśa 17.35** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रघुवंशम्/सप्तदशः_सर्गः)
+
+> तं प्रीतिविशदैर्नेत्रैरन्वयुः पौरयोषितः । शरत्प्रसन्नैर्ज्योतिर्भिर्विभावर्य इव ध्रुवं । । १७.३५ । ।
+>
+> *Devanagari from Sanskrit Wikisource; identical with GRETIL (taṃ prītiviśadair netrair anvayuḥ paurayoṣitaḥ / śaratprasannair jyotirbhir vibhāvarya iva dhruvam).*
+>
+> — *Him the ladies of the citizens followed with their eyes full of affection, as the star-eyed nights see the polar star in the S'arad season.*
+> <br>— Gopal Raghunath Nandargikar (1897), Preface p. 38 ([source](https://archive.org/download/p3raghuvanawithc00kliduoft/p3raghuvanawithc00kliduoft_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Not the adverb dhruvam 'certainly' (which Kalidasa also uses freely): here dhruvam is the object of the nights' gaze, and the nights are personified as looking with 'autumn-clear luminaries' (śarat-prasannair jyotirbhiḥ) for eyes - i.e. the whole starry sky turned toward the one fixed star. Nandargikar translates 'the polar star'. The image is astronomically exact: every star in the sky circles Dhruva.</sub>
+
+**Kumārasambhava 7.85** — [Sanskrit e-text](https://sa.wikisource.org/wiki/कुमारसम्भवम्/सप्तमः_सर्गः)
+
+> ध्रुवेण भर्त्रा ध्रुवदर्शनाय प्रयुज्यमाना प्रियदर्शनेन । सा दृष्ट इत्याननमुन्नमय्य ह्रीसन्नकण्ठी कथमप्युवाच ।। ७.८५ ।।
+>
+> *Devanagari from Sanskrit Wikisource; identical with GRETIL.*
+>
+> — *'Look, gentle Uma,' cried her Lord, 'afar / Seest thou the brightness of yon polar star? / Like that unchanging ray thy faith must shine.' / Sobbing, she whispered, 'Yes, for ever thine.'*
+> <br>— Ralph T. H. Griffith, The Birth of the War-God (1879), Canto VII - a free verse rendering ([source](https://archive.org/download/birthwargodapoe00grifgoog/birthwargodapoe00grifgoog_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** The dhruva-darsana, the wedding rite in which the groom shows the bride the Pole Star as an emblem of constancy - here rendered as a triple pun on dhruva ('by her CONSTANT husband, for the sight of DHRUVA'). This is the ritual context that keeps Dhruva alive as a named star in classical India, and it is the one place in Kalidasa where a star is not a simile but an object physically looked at by a character.</sub>
+
+**Śiśupālavadha 11.3** — [Sanskrit e-text](https://sa.wikisource.org/wiki/शिशुपालवधम्/एकादशः_सर्गः)
+
+> स्फुटतरमुपरिष्टादल्पमूर्तेर्ध्रुवस्य स्फुरति सुरमुनीनां मण्डलं व्यस्तमेथ् । शकटमिव महीयः शैशवे शार्ङ्गपाणेश्चपलचरणकाब्जप्रेरणोत्तुङ्गिताग्रं ।। ११.२ ।।
+>
+> *Devanagari from Sanskrit Wikisource; word-for-word identical with the GRETIL (Sansknet) IAST e-text. BOTH witnesses misprint the verse number as 11.2, duplicating the preceding stanza - the verse is in fact 11.3. Both also carry the corrupt 'व्यस्तमेथ्' / 'vyastamet' at the end of the first line.*
+>
+> — *Literal rendering: 'More brightly than the small-bodied Dhruva above him shines the outspread circle of the divine sages - like that huge cart in the infancy of the bow-bearer (Krsna), its end tilted up by the thrust of his restless little lotus-foot.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mAgha-zizupAlavadha.txt))
+
+<sub>**Identification notes (Classical kāvya):** A genuine naked-eye observation, and the most astronomically interesting line in Magha: the circle of the divine sages (the Big Dipper) shines MORE BRIGHTLY (sphuṭataram) than Dhruva, who is alpamūrti - 'of small body', i.e. FAINT. Sanskrit poets almost never concede that the pole star is dim; Magha does. He then likens the Dipper to the great CART (śakaṭa) whose end was tipped up by the infant Krsna's kicking foot - a wagon-figure for Ursa Major arrived at independently of the Greek and Latin plaustrum.</sub>
+
 ### कुम्भसम्भवः (Kumbhasambhava) — Canopus
 
 **Modern identification:** Canopus — α Carinae, Carina (*certain*)
@@ -1278,7 +3038,7 @@ Stars outside the nakshatra series that the texts name in their own right.
 
 ### मुनि (Muni) — Canopus
 
-**Modern identification:** Canopus — α Carinae, Carina (*certain*)
+**Modern identification:** Canopus — α Carinae, Carina (*disputed*)
 
 *See also:* `agastya`, `lopamudravallabha`
 
@@ -1290,6 +3050,17 @@ Stars outside the nakshatra series that the texts name in their own right.
 > <br>— Paraphrase by the compiler ([source](https://archive.org/download/Brahmasphutasiddhanta/Brahmasphutasiddhanta_djvu.txt))
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** 'The Sage' used absolutely as a name for Canopus. At Bhagrahayutyadhikāra 13–14 Brahmagupta writes of the dṛkkarma 'of the asterisms, the Sage, and the Deer-hunter' (bha-muni-mṛgavyādhānām), and the commentary glosses the compound word for word as nakṣatra-agastya-lubdhakānām. Bhāskara II inherits the usage — 'bhānāṃ muner mṛgaripor udayāstalagne'. The verses are also notable for naming the predecessors whose dṛkkarma Brahmagupta rejects: Śrīṣeṇa, Āryabhaṭa and Viṣṇucandra.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 9; Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 26–27** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> याम्ये क्षिप्तो व्याधः खकृतै[४०]रंशैः नगाचले[७७]श्च मुनिः ।
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n318 = printed p. 294) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n318.jpg . Every numeral was re-read at full scan resolution. The SQUARE brackets and the figures inside them are the EDITION'S (K. S. Shukla, INSA) own decoding of the bhūtasaṅkhyā word-numerals, reproduced so that no numeral is silently converted. '॥' after 7 and 19 in verse 1 renders the edition's fraction sign for ½. Shukla's English translation and notes are in copyright and are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses.*
+>
+> — *'Vyādha is deflected to the south by forty degrees, and Muni by seventy-seven.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** A DIVERGENT USE OF THE NAME. In Brahmagupta and Bhāskara II 'Muni' used absolutely means Canopus (Agastya). Vaṭeśvara agrees with them: at VIII.2.9 he writes 'Vyādha is deflected south by forty degrees, and Muni by seventy-seven' — 77° south is Canopus (true 75°58' in his frame), 40° south is Sirius. Sāmanta, however, uses Muni at XII.26 and XII.27 as an alternative name for the star he identifies as Lubdhaka, i.e. Sirius, and gives Agastya its own separate treatment at XII.35–40. The name is therefore not stable across the tradition.</sub>
 
 ### मृगहर्तृ (Mṛgahartṛ) — Sirius
 
@@ -1349,13 +3120,54 @@ Stars outside the nakshatra series that the texts name in their own right.
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** A star otherwise unrecorded in the Sanskrit tradition, preserved only because al-Bīrūnī heard of it from Śrīpāla, a scholar of Multan contemporary with him. Data: red; seen in summer; a little BELOW the meridian of Canopus; considered unlucky; standing in the south when the moon is in Pūrvabhādrapadā, on which account Hindus avoided southward travel then. Sachau translates the name as 'the beam of crucifixion', pointing to Sanskrit śūla ('stake, impaling-post') — but the Devanagari above is a reconstruction from Sachau's transliteration of an Arabic-script word and is NOT attested in any Sanskrit source; Sachau himself declines to identify the star. The identification is genuinely open: nothing prominent, red and south of Canopus is visible from Multan (30°12'N), so either the report is garbled, or 'below the meridian of Canopus' means something other than 'further south', or the object was transient.</sub>
 
+### कुम्भयोनि (Kumbhayoni) — Canopus
+
+**Modern identification:** Canopus — α Carinae, Carina (*certain*)
+
+*See also:* `agastya`, `kumbhasambhava`, `maitravaruni`, `muni`
+
+**Raghuvaṃśa 4.21** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रघुवंशम्/चतुर्थः_सर्गः)
+
+> प्रससादोदयादम्भः कुम्भयोनेर्महौजसः । रघोरभिभवाशङ्कि चुक्षुभे द्विषतां मनः । । ४.२१ । ।
+>
+> *Devanagari from Sanskrit Wikisource; identical word-for-word with the GRETIL IAST e-text (prasasādodayād ambhaḥ kumbhayoner mahaujasaḥ / raghor abhibhavāśaṅki cukṣubhe dviṣatāṃ manaḥ).*
+>
+> — *Literal rendering: 'The waters grew clear at the rising of the mighty Jar-born (Agastya = Canopus); the minds of Raghu's enemies grew troubled, fearing defeat.'*
+> <br>— Literal rendering by the compiler (no public-domain published translation of this verse was located) ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt))
+
+<sub>**Identification notes (Classical kāvya):** 'Jar-born' - a synonym of Agastya, distinct in form from the Amarakosa's Kumbhasambhava already in the database. The star-sense here is decisive and this is the single best kavya witness to Agastya as the autumn marker and clearer of waters: the verse turns on udayāt, 'from the RISING' (i.e. the heliacal rising of Canopus), the effect is that the water grew clear (prasasāda ambhaḥ), and the surrounding stanzas 4.17-4.24 are a set-piece description of śarad (autumn), closing with 'śarat urged him to the march'. A sage does not rise; a star does. Kalidasa elsewhere uses kumbhayoni / kumbhajanman purely of the SAGE Agastya in the Rama cantos (13.36, 15.55, 16.72), so the same word carries both senses within this one poem - the discriminator is 'udayāt' plus the water-clearing.</sub>
+
+### यम (Yama) — unidentified — a southern star given coordinates by Sāmanta
+
+**Modern identification:** unidentified — a southern star given coordinates by Sāmanta — —, southern sky (*unidentified*)
+
+*See also:* `agastya`, `shula`
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 36–37** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> ध्रुवोऽगस्त्यस्य पञ्चाष्ट८५भागाः पञ्चाद्रयः७५ शरः५ ।
+> दक्षिणस्तद्ध्रुवो वामं चलांशैः संस्कृतः स्फुटः ॥ ३५ ॥
+> धृतयो१८ विकलास्तस्य सूक्ष्ममण्डलविस्तृतिः ।
+> यमस्यैवं द्विपक्षां२२शा ध्रुवोऽङ्काङ्कानि६६ मार्गणः ॥ ३६ ॥
+> याम्योऽष्टौ विकला बिम्बोऽगस्त्यवद्ध्रुवसंस्कृतिः ।
+> राशित्रयमगस्त्यस्य ध्रुवः सौरोदितः पुरा ॥ ३७ ॥
+> सप्तनगां८७शकः प्रोक्तः सत्सिद्धान्तशिरोमणौ ।
+> भूशराचिक्रता४२५१ब्देषु कलेर्भास्करधीमता ॥ ३८ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(36) '… Yama's likewise: twenty-two degrees; [its] dhruva sixty-six … (37) southern; the disc eight vikalās; the dhruva-correction as for Agastya.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** A NEW NAMED STAR WITH COORDINATES, AND AN HONEST FAILURE TO IDENTIFY IT. Immediately after Agastya, Sāmanta XII.36–37 gives a star of Yama: '22 degrees', dhruva 66, southern, disc 8 vikalās, with the same dhruva-correction as Agastya (which implies he classes it with the far-southern stars whose dhruva drifts). Reading the printed figures at face value as dhruva 66° and śara 22° south, no bright star in Sāmanta's frame occupies that position: the region works out to about RA 5h52m, Dec +1° for 1870, which is empty of anything conspicuous, and the far-southern correction he prescribes does not fit a star so near the ecliptic. Either the syntax of the verse assigns the two figures differently from the obvious reading, or a numeral is corrupt in this worn print. Recorded as found and NOT emended. This Yama is distinct from the Yama of the Bhāgavata Śiśumāra already in the database (a body-position on the porpoise's lower jaw) and from Yama as the deity of Bharaṇī.</sub>
+
 ## The Saptarṣi (Ursa Major) and Arundhatī
 
 Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and places Arundhatī beside Vasiṣṭha; the star-by-star mapping below follows from that order once Vasiṣṭha is anchored to Mizar by Arundhatī = Alcor. Only the Mizar/Alcor pair is fixed by the text itself.
 
 ### सप्तर्षयः / ऋक्षाः (Saptarṣayaḥ / Ṛkṣāḥ) — the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid)
 
-**Modern identification:** the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid) — α, β, γ, δ, ε, ζ, η Ursae Majoris, Ursa Major (*certain*)
+**Modern identification:** the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid) — α, β, γ, δ, ε, ζ, η Ursae Majoris, Ursa Major (*disputed*)
 
 *See also:* `marichi`, `vasishtha`, `angiras`, `atri`, `pulastya`, `pulaha`, `kratu`, `arundhati`, `rksha`
 
@@ -1413,6 +3225,85 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** SS 13.8–9 (the armillary-sphere chapter) directs that day-circles be fixed for the asterisms of both hemispheres, for Abhijit, for the Seven Sages, for Agastya, and for 'Brahmā etc.' — confirming that the treatise treats the Saptarṣayaḥ as observable stars with definite declinations, not merely as myth. Burgess computes this would burden the instrument with forty-two extra circles and remarks that 'such impracticable directions... cannot but inspire the suspicion that the instrument may never have been constructed except upon paper.' Al-Bīrūnī separately gives Ptolemaic Ursa Major catalogue numbers for the seven rishis (Marīci 27th, Vasiṣṭha 26th, Aṅgiras 25th, Atri 18th, Kratu 16th, Pulaha 17th, Pulastya 19th), broadly consistent with the east-to-west mapping on file, and demolishes the Saptarṣi-cycle chronology: 'The words of Garga are without any foundation.'</sub>
 
+**Utpala, Vivṛti on Bṛhat Saṃhitā 13.2 and 13.4, quoting Bhaṭṭa-Brahmagupta, Vṛddha-Garga and Kāśyapa** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> यस्मात् सकलज्योतिश्चक्रस्य ध्रुव एव भ्रामकः। तथा च भट्टब्रह्मगुप्तः— ध्रुवयोर्बद्धं सव्यगममराणां क्षितिजसंस्थमृक्षचक्रम्। अपसव्यगमसुराणां भ्रमति प्रवहानिलक्षिप्तम्॥ इति। तेषां मुनीनां चारमहं वृद्धगर्गमतात् कथयिष्ये। वृद्धगर्गो नाम महामुनिस्तन्मतात्तत्कृताच्छास्त्रादिति। … तथा च वृद्धगर्गः— कलिद्वापरसन्धौ तु स्थितास्ते पितृदैवतम्। मुनयो धर्मनिरताः प्रजानां पालने रताः॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *'Because it is Dhruva alone that whirls the entire circle of lights. And so Bhaṭṭa-Brahmagupta: "The circle of asterisms, bound to the two poles and resting upon the horizon, revolves leftward for the gods and rightward for the demons, flung round by the Pravaha wind." I shall declare the course of those sages according to the opinion of Vṛddha-Garga — Vṛddha-Garga being a great sage, from his opinion, that is from the śāstra composed by him. … And so Vṛddha-Garga: "At the junction of Kali and Dvāpara they stood in the asterism whose deity is the Fathers (Maghā), those sages devoted to dharma and intent on the protection of creatures."'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** Utpala names his sources for the Saptarṣi doctrine where Varāhamihira names only VṚDDHA-GARGA: he glosses 'vṛddhagargo nāma mahāmuniḥ tanmatāt tatkṛtāc chāstrāt' (from the śāstra composed by him) and quotes Vṛddha-Garga directly on the Kali/Dvāpara junction, and Kāśyapa on the hundred-year residence. No new star-name and no change to the rishi-to-star mapping, which Utpala does not give any more than Varāhamihira does. He does add one cosmological gloss with a named quotation: on BS 13.2 he explains 'dhruva-nāyakopadeśāt' by 'the whirler of the whole circle of lights is Dhruva alone', and quotes BHAṬṬA-BRAHMAGUPTA — 'the circle of asterisms, fixed to the two poles and resting on the horizon, moves leftward for the gods and rightward for the demons, driven by the Pravaha wind.' This is an additional, dated (628 CE) attestation for the database's 'dhruva' and 'pravaha' entries and for the generic 'ṛkṣa-cakra'.</sub>
+
+**Patañjali, Mahābhāṣya on 2.1.52 (Kielhorn i.396.13-23)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_2,1.52) ka_i,396.13-23 {13/25} iha tarhi saptarṣayaḥ igante dvigau iti eṣaḥ svaraḥ prāpnoti . … {21/25} katham saptarṣayaḥ . {22/25} antodāttaprakaraṇe tricakrādīnām chandasi iti evam etat siddham .
+>
+> *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā); the ellipsis marks omitted intervening sentences of the same passage.*
+>
+> — *Literal rendering: 'But here, in saptarṣayaḥ, the accent [ordained by] "in a dvigu ending in ik" would apply. … How then [is the accent of] saptarṣayaḥ [derived]? — In the section on final-acute [accent], by "of tricakra etc. in the Chandas", this is established.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** NEGATIVE-LEANING FINDING, recorded because the brief asked. Saptarṣi does NOT occur anywhere in Pāṇini's sūtra text (sandhi-tolerant search of both recensions: zero). It occurs in Patañjali only as a citation-word in an ACCENT discussion under 2.1.52: he asks how the accent of saptarṣayaḥ is derived and answers that it follows the tricakrādi rule for the Chandas. Nothing in the passage identifies it as the constellation as opposed to the seven sages, and the accompanying examples (ekāpūpī, pañca-hotāraḥ, daśa-hotāraḥ) are all ritual/numerical compounds. There is also a Vedic quotation at 8.2.15 containing saptarṣimantam. So: the WORD is attested in Patañjali c. 150 BCE; the STAR sense is not established by this source. Similarly Arundhatī does not occur in either text, and Dhruva occurs in the Aṣṭādhyāyī only in its ordinary sense 'fixed' (1.4.24 dhruvam apāye 'pādānam, 3.4.54, 6.2.177) — never as the pole star.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *See the Kratu entry for the translation of verses 41–44 and 53–54.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** Sāmanta's collective name for the group is surarṣi-maṇḍala, 'the circle of the divine sages', and he describes it (XII.42) as 'the seven stars standing in the north, cart-shaped, with the front to the east, manifest, saluted by all'. The cart (śakaṭa) figure is the same one the Ṛgveda's ṛkṣāḥ tradition carries. His refusal at XII.41 to take the ancients' silence as final — they omitted the Ṛṣis' dhruva 'because of the possibility of their motion', but he determines it 'from observation' — is a compact statement of his whole method.</sub>
+
+**Mahābhārata 6.3.24 (Critical Edition) = vulgate Bhīṣma Parva Section III; cf. Rāmāyaṇa 6.4.43** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> grahau tāmrāruṇaśikhau prajvalantāv iva sthitau / saptarṣīṇām udārāṇāṃ samavacchādya vai prabhām //
+>
+> *CE lines 06,003.024a/024c.*
+>
+> — *The effulgence of the constellation known by the name of the seven high-souled Rishis, hath been dimmed.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06003.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Celestial (as opposed to narrative) Saptarṣi occurrences that meet the discrimination test: MBh 6.3.24 'two planets with coppery-red crests, blazing as it were, stood covering the radiance of the noble Saptarṣi' — a portent in a purely astronomical list; MBh 3.26.13 and 14.26.3 'saptarṣayaḥ ... divi prabhānti' (they shine in heaven); MBh 12.126.25 the simile of the ṛṣis around Dhruva; MBh 5.109.12, the seven ṛṣis with Arundhatī located in the northern quarter; and Rāmāyaṇa 6.4.43, where they circle Dhruva clockwise. The seven-star identification is not stated in the epics; it is carried over from the Bṛhat Saṃhitā entry. Griffith's footnote to Yuddha IV states it explicitly: 'The seven rishis or saints who form the constellation of the Great Bear.'</sub>
+
+**Kumārasambhava 1.16** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-kumArasaMbhava.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> saptarṣihastāvacitāvaśeṣāṇy adho vivasvān parivartamānaḥ / padmāni yasyāgrasaroruhāṇi prabodhayaty ūrdhvamukhair mayūkhaiḥ // Ks_1.16
+>
+> *Given in IAST from GRETIL (Utz Podzeit's e-text); the Sanskrit Wikisource Devanagari of this stanza is OCR-damaged, reading 'सत्पर्षिहस्तावचिता वशेषाण्यधो'.*
+>
+> — *Literal rendering: 'Below whose topmost lake-lotuses - those left over from the plucking by the hands of the Seven Sages - the sun revolves, waking them with his upturned rays.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-kumArasaMbhava.txt))
+
+<sub>**Identification notes (Classical kāvya):** An astronomical statement dressed as hyperbole: the sun revolves BELOW (adhaḥ ... parivartamānaḥ) the lotuses left over after the Seven Sages have plucked them on Himalaya's lakes, and wakes them with UPWARD-turned rays. This presupposes that the Saptarsi are north of and above the sun's path - which is exactly true of Ursa Major relative to the ecliptic.</sub>
+
+**Śiśupālavadha 11.3** — [Sanskrit e-text](https://sa.wikisource.org/wiki/शिशुपालवधम्/एकादशः_सर्गः)
+
+> स्फुटतरमुपरिष्टादल्पमूर्तेर्ध्रुवस्य स्फुरति सुरमुनीनां मण्डलं व्यस्तमेथ् । शकटमिव महीयः शैशवे शार्ङ्गपाणेश्चपलचरणकाब्जप्रेरणोत्तुङ्गिताग्रं ।। ११.२ ।।
+>
+> *See the note on the Dhruva entry for the same verse: both e-texts misnumber it 11.2 and both carry the corruption 'vyastamet'.*
+>
+> — *Literal rendering: 'More brightly than the small-bodied Dhruva above him shines the outspread circle of the divine sages - like that huge cart in the infancy of the bow-bearer (Krsna), its end tilted up by the thrust of his restless little lotus-foot.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mAgha-zizupAlavadha.txt))
+
+<sub>**Identification notes (Classical kāvya):** Same verse as the Dhruva entry above, recorded separately because it gives the Saptarsi group two things the database does not yet have from any source: a relative-brightness comparison with the pole star, and a CART figure (śakaṭa) for the asterism. Magha does not say the Dipper IS called a cart, only that it looks like one - but the simile presupposes the familiar shape.</sub>
+
 ### मरीचि (Marīci) — Alkaid (Benetnash)
 
 **Modern identification:** Alkaid (Benetnash) — η Ursae Majoris, Ursa Major (*likely*)
@@ -1427,9 +3318,31 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 
 <sub>**Identification notes (Bṛhat Saṃhitā):** BS 13.5 makes Marīci the easternmost of the seven (pūrve bhāge bhagavān marīciḥ). The BS itself gives only this east-to-west ORDER, not star-by-star identifications; reading the order onto the Big Dipper (Alkaid is the easternmost star, and the next, Vasiṣṭha, is anchored to Mizar by Arundhatī = Alcor) yields Marīci = Alkaid. The Bayer assignment is thus conventional but consistent with the classical order.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+> क्रान्त्यन्ताः सौम्यबाणांशा लिख्यन्तेऽङ्गशराः५६ क्रतोः ।
+> पुलहस्यैकपञ्चाशत्५१ पुलस्त्यस्याग्निसायकाः५३ ॥ ५३ ॥
+> अङ्गपक्षिण५८ एवात्रेः षष्टि६०रङ्गिरसो मता ।
+> द्वाषष्ट्यंशा वसिष्ठस्य६२ मरीचेः षष्टि६०रीक्षिता ॥ ५४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(41) 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of [their] motion; nevertheless, from observation their arrangement is now determined. (42) The seven stars standing in the north, cart-shaped, [with the front] to the east — that is called the circle of the divine sages, manifest, saluted by all. (43) At its eastern raised line is Marīci; west of that, Vasiṣṭha together with Arundhatī; behind that stands Aṅgiras. (44) Behind that, of the quadrilateral … Pulastya is to the south, and west of him stands Pulaha. … (53) The northern arrow-degrees measured from the ecliptic are written down: fifty-six for Kratu, fifty-one for Pulaha, fifty-three for Pulastya; (54) fifty-eight for Atri, sixty is held for Aṅgiras, sixty-two degrees for Vasiṣṭha, and sixty observed for Marīci.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA MEASURES THE SEVEN SAGES, WHICH NO EARLIER SIDDHĀNTA WOULD DO. XII.41: 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of their moving; nevertheless, from observation, their arrangement is now determined.' XII.53–54 then give northern polar-latitude degrees measured from the ecliptic: Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60. This star's figure is 60°, against a true 1870 polar latitude of 60.58° — a difference of 0.58°. Taken together the seven figures reproduce the true sequence α 55.60, β 50.05, γ 53.01, δ 58.73, ε 61.85, ζ 63.92, η 60.58 in the right order and to within 2° throughout, which CONFIRMS INDEPENDENTLY the standard assignment Kratu = α, Pulaha = β, Pulastya = γ, Atri = δ, Aṅgiras = ε, Vasiṣṭha = ζ, Marīci = η. The topological description at XII.42–44 agrees: the seven form a cart (śakaṭa) standing in the north with its front to the east; Marīci is at the eastern end, west of him Vasiṣṭha together with Arundhatī, behind that Aṅgiras, then the quadrilateral with Pulastya to the south, Pulaha west of him and Kratu north of that — i.e. handle-tip to bowl, exactly the Big Dipper.</sub>
+
 ### वसिष्ठ (Vasiṣṭha) — Mizar
 
-**Modern identification:** Mizar — ζ Ursae Majoris, Ursa Major (*certain*)
+**Modern identification:** Mizar — ζ Ursae Majoris, Ursa Major (*likely*)
 
 *See also:* `arundhati`
 
@@ -1445,6 +3358,41 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 
 <sub>**Identification notes (Bṛhat Saṃhitā):** Anchored by the text itself: BS 13.6 places the faithful Arundhatī right beside Vasiṣṭha, matching the naked-eye pair Mizar–Alcor; BS 13.5 places Vasiṣṭha second from the east, matching Mizar's position next to Alkaid. The Mizar/Alcor = Vasiṣṭha/Arundhatī pairing is the standard identification in Indian astronomy.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+> क्रान्त्यन्ताः सौम्यबाणांशा लिख्यन्तेऽङ्गशराः५६ क्रतोः ।
+> पुलहस्यैकपञ्चाशत्५१ पुलस्त्यस्याग्निसायकाः५३ ॥ ५३ ॥
+> अङ्गपक्षिण५८ एवात्रेः षष्टि६०रङ्गिरसो मता ।
+> द्वाषष्ट्यंशा वसिष्ठस्य६२ मरीचेः षष्टि६०रीक्षिता ॥ ५४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(41) 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of [their] motion; nevertheless, from observation their arrangement is now determined. (42) The seven stars standing in the north, cart-shaped, [with the front] to the east — that is called the circle of the divine sages, manifest, saluted by all. (43) At its eastern raised line is Marīci; west of that, Vasiṣṭha together with Arundhatī; behind that stands Aṅgiras. (44) Behind that, of the quadrilateral … Pulastya is to the south, and west of him stands Pulaha. … (53) The northern arrow-degrees measured from the ecliptic are written down: fifty-six for Kratu, fifty-one for Pulaha, fifty-three for Pulastya; (54) fifty-eight for Atri, sixty is held for Aṅgiras, sixty-two degrees for Vasiṣṭha, and sixty observed for Marīci.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA MEASURES THE SEVEN SAGES, WHICH NO EARLIER SIDDHĀNTA WOULD DO. XII.41: 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of their moving; nevertheless, from observation, their arrangement is now determined.' XII.53–54 then give northern polar-latitude degrees measured from the ecliptic: Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60. This star's figure is 62°, against a true 1870 polar latitude of 63.92° — a difference of 1.92°. Taken together the seven figures reproduce the true sequence α 55.60, β 50.05, γ 53.01, δ 58.73, ε 61.85, ζ 63.92, η 60.58 in the right order and to within 2° throughout, which CONFIRMS INDEPENDENTLY the standard assignment Kratu = α, Pulaha = β, Pulastya = γ, Atri = δ, Aṅgiras = ε, Vasiṣṭha = ζ, Marīci = η. The topological description at XII.42–44 agrees: the seven form a cart (śakaṭa) standing in the north with its front to the east; Marīci is at the eastern end, west of him Vasiṣṭha together with Arundhatī, behind that Aṅgiras, then the quadrilateral with Pulastya to the south, Pulaha west of him and Kratu north of that — i.e. handle-tip to bowl, exactly the Big Dipper.</sub>
+
+**Mahābhārata 6.2.31 (Critical Edition) = vulgate/Ganguli Bhīṣma Parva Section II** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> yā caiṣā viśrutā rājaṃs trailokye sādhusaṃmatā / arundhatī tayāpy eṣa vasiṣṭhaḥ pṛṣṭhataḥ kṛtaḥ //
+>
+> *Same verse as the Arundhatī entry; CE 06,002.031.*
+>
+> — *She, O king, who is celebrated over the three worlds and is applauded by the righteous, even that (constellation) Arundhati keepeth (her lord) Vasistha on her back.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06002.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The same omen verse is also the epic's only unambiguously stellar Vasiṣṭha: he appears not as the ṛṣi acting in a narrative but as the fixed companion whose position relative to Arundhatī has been reversed. The pairing Arundhatī–Vasiṣṭha as a physically adjacent couple in the sky is exactly the Alcor–Mizar pair of the Bṛhat Saṃhitā entry, and the ζ UMa identification is carried over from there; the epic itself names no position in the Saptarṣi. Elsewhere in both epics Vasiṣṭha is the sage (Rāmāyaṇa: Daśaratha's purohita; MBh: the Viśvāmitra cycle) and must not be counted as a star-attestation.</sub>
+
 ### अङ्गिरस् (Aṅgiras) — Alioth
 
 **Modern identification:** Alioth — ε Ursae Majoris, Ursa Major (*likely*)
@@ -1458,6 +3406,28 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 > <br>— N. Chidambaram Iyer (1884), ch. XIII v. 5, p. 81 ([source](https://archive.org/details/bihatsahitvarah00iyergoog))
 
 <sub>**Identification notes (Bṛhat Saṃhitā):** Third from the east in the order given by BS 13.5 (after Marīci and Vasiṣṭha); reading that order onto the Dipper with Mizar anchored by Arundhatī gives Alioth. Conventional assignment consistent with, but not explicitly stated in, the classical text.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+> क्रान्त्यन्ताः सौम्यबाणांशा लिख्यन्तेऽङ्गशराः५६ क्रतोः ।
+> पुलहस्यैकपञ्चाशत्५१ पुलस्त्यस्याग्निसायकाः५३ ॥ ५३ ॥
+> अङ्गपक्षिण५८ एवात्रेः षष्टि६०रङ्गिरसो मता ।
+> द्वाषष्ट्यंशा वसिष्ठस्य६२ मरीचेः षष्टि६०रीक्षिता ॥ ५४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(41) 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of [their] motion; nevertheless, from observation their arrangement is now determined. (42) The seven stars standing in the north, cart-shaped, [with the front] to the east — that is called the circle of the divine sages, manifest, saluted by all. (43) At its eastern raised line is Marīci; west of that, Vasiṣṭha together with Arundhatī; behind that stands Aṅgiras. (44) Behind that, of the quadrilateral … Pulastya is to the south, and west of him stands Pulaha. … (53) The northern arrow-degrees measured from the ecliptic are written down: fifty-six for Kratu, fifty-one for Pulaha, fifty-three for Pulastya; (54) fifty-eight for Atri, sixty is held for Aṅgiras, sixty-two degrees for Vasiṣṭha, and sixty observed for Marīci.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA MEASURES THE SEVEN SAGES, WHICH NO EARLIER SIDDHĀNTA WOULD DO. XII.41: 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of their moving; nevertheless, from observation, their arrangement is now determined.' XII.53–54 then give northern polar-latitude degrees measured from the ecliptic: Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60. This star's figure is 60°, against a true 1870 polar latitude of 61.85° — a difference of 1.85°. Taken together the seven figures reproduce the true sequence α 55.60, β 50.05, γ 53.01, δ 58.73, ε 61.85, ζ 63.92, η 60.58 in the right order and to within 2° throughout, which CONFIRMS INDEPENDENTLY the standard assignment Kratu = α, Pulaha = β, Pulastya = γ, Atri = δ, Aṅgiras = ε, Vasiṣṭha = ζ, Marīci = η. The topological description at XII.42–44 agrees: the seven form a cart (śakaṭa) standing in the north with its front to the east; Marīci is at the eastern end, west of him Vasiṣṭha together with Arundhatī, behind that Aṅgiras, then the quadrilateral with Pulastya to the south, Pulaha west of him and Kratu north of that — i.e. handle-tip to bowl, exactly the Big Dipper.</sub>
 
 ### अत्रि (Atri) — Megrez
 
@@ -1473,6 +3443,28 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 
 <sub>**Identification notes (Bṛhat Saṃhitā):** Fourth from the east in the BS 13.5 order; conventional mapping onto the Dipper gives Megrez. Same caveat as the other rishis: BS gives the order, not the star-by-star assignment.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+> क्रान्त्यन्ताः सौम्यबाणांशा लिख्यन्तेऽङ्गशराः५६ क्रतोः ।
+> पुलहस्यैकपञ्चाशत्५१ पुलस्त्यस्याग्निसायकाः५३ ॥ ५३ ॥
+> अङ्गपक्षिण५८ एवात्रेः षष्टि६०रङ्गिरसो मता ।
+> द्वाषष्ट्यंशा वसिष्ठस्य६२ मरीचेः षष्टि६०रीक्षिता ॥ ५४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(41) 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of [their] motion; nevertheless, from observation their arrangement is now determined. (42) The seven stars standing in the north, cart-shaped, [with the front] to the east — that is called the circle of the divine sages, manifest, saluted by all. (43) At its eastern raised line is Marīci; west of that, Vasiṣṭha together with Arundhatī; behind that stands Aṅgiras. (44) Behind that, of the quadrilateral … Pulastya is to the south, and west of him stands Pulaha. … (53) The northern arrow-degrees measured from the ecliptic are written down: fifty-six for Kratu, fifty-one for Pulaha, fifty-three for Pulastya; (54) fifty-eight for Atri, sixty is held for Aṅgiras, sixty-two degrees for Vasiṣṭha, and sixty observed for Marīci.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA MEASURES THE SEVEN SAGES, WHICH NO EARLIER SIDDHĀNTA WOULD DO. XII.41: 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of their moving; nevertheless, from observation, their arrangement is now determined.' XII.53–54 then give northern polar-latitude degrees measured from the ecliptic: Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60. This star's figure is 58°, against a true 1870 polar latitude of 58.73° — a difference of 0.73°. Taken together the seven figures reproduce the true sequence α 55.60, β 50.05, γ 53.01, δ 58.73, ε 61.85, ζ 63.92, η 60.58 in the right order and to within 2° throughout, which CONFIRMS INDEPENDENTLY the standard assignment Kratu = α, Pulaha = β, Pulastya = γ, Atri = δ, Aṅgiras = ε, Vasiṣṭha = ζ, Marīci = η. The topological description at XII.42–44 agrees: the seven form a cart (śakaṭa) standing in the north with its front to the east; Marīci is at the eastern end, west of him Vasiṣṭha together with Arundhatī, behind that Aṅgiras, then the quadrilateral with Pulastya to the south, Pulaha west of him and Kratu north of that — i.e. handle-tip to bowl, exactly the Big Dipper.</sub>
+
 ### पुलस्त्य (Pulastya) — Phecda
 
 **Modern identification:** Phecda — γ Ursae Majoris, Ursa Major (*likely*)
@@ -1486,6 +3478,28 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 > <br>— N. Chidambaram Iyer (1884), ch. XIII v. 5, p. 81 ([source](https://archive.org/details/bihatsahitvarah00iyergoog))
 
 <sub>**Identification notes (Bṛhat Saṃhitā):** Fifth from the east in the BS 13.5 order; conventional mapping gives Phecda. BS gives the order only.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+> क्रान्त्यन्ताः सौम्यबाणांशा लिख्यन्तेऽङ्गशराः५६ क्रतोः ।
+> पुलहस्यैकपञ्चाशत्५१ पुलस्त्यस्याग्निसायकाः५३ ॥ ५३ ॥
+> अङ्गपक्षिण५८ एवात्रेः षष्टि६०रङ्गिरसो मता ।
+> द्वाषष्ट्यंशा वसिष्ठस्य६२ मरीचेः षष्टि६०रीक्षिता ॥ ५४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(41) 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of [their] motion; nevertheless, from observation their arrangement is now determined. (42) The seven stars standing in the north, cart-shaped, [with the front] to the east — that is called the circle of the divine sages, manifest, saluted by all. (43) At its eastern raised line is Marīci; west of that, Vasiṣṭha together with Arundhatī; behind that stands Aṅgiras. (44) Behind that, of the quadrilateral … Pulastya is to the south, and west of him stands Pulaha. … (53) The northern arrow-degrees measured from the ecliptic are written down: fifty-six for Kratu, fifty-one for Pulaha, fifty-three for Pulastya; (54) fifty-eight for Atri, sixty is held for Aṅgiras, sixty-two degrees for Vasiṣṭha, and sixty observed for Marīci.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA MEASURES THE SEVEN SAGES, WHICH NO EARLIER SIDDHĀNTA WOULD DO. XII.41: 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of their moving; nevertheless, from observation, their arrangement is now determined.' XII.53–54 then give northern polar-latitude degrees measured from the ecliptic: Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60. This star's figure is 53°, against a true 1870 polar latitude of 53.01° — a difference of 0.01°. Taken together the seven figures reproduce the true sequence α 55.60, β 50.05, γ 53.01, δ 58.73, ε 61.85, ζ 63.92, η 60.58 in the right order and to within 2° throughout, which CONFIRMS INDEPENDENTLY the standard assignment Kratu = α, Pulaha = β, Pulastya = γ, Atri = δ, Aṅgiras = ε, Vasiṣṭha = ζ, Marīci = η. The topological description at XII.42–44 agrees: the seven form a cart (śakaṭa) standing in the north with its front to the east; Marīci is at the eastern end, west of him Vasiṣṭha together with Arundhatī, behind that Aṅgiras, then the quadrilateral with Pulastya to the south, Pulaha west of him and Kratu north of that — i.e. handle-tip to bowl, exactly the Big Dipper.</sub>
 
 ### पुलह (Pulaha) — Merak
 
@@ -1501,6 +3515,28 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 
 <sub>**Identification notes (Bṛhat Saṃhitā):** Sixth from the east in the BS 13.5–6 order; conventional mapping gives Merak. BS gives the order only.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+> क्रान्त्यन्ताः सौम्यबाणांशा लिख्यन्तेऽङ्गशराः५६ क्रतोः ।
+> पुलहस्यैकपञ्चाशत्५१ पुलस्त्यस्याग्निसायकाः५३ ॥ ५३ ॥
+> अङ्गपक्षिण५८ एवात्रेः षष्टि६०रङ्गिरसो मता ।
+> द्वाषष्ट्यंशा वसिष्ठस्य६२ मरीचेः षष्टि६०रीक्षिता ॥ ५४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(41) 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of [their] motion; nevertheless, from observation their arrangement is now determined. (42) The seven stars standing in the north, cart-shaped, [with the front] to the east — that is called the circle of the divine sages, manifest, saluted by all. (43) At its eastern raised line is Marīci; west of that, Vasiṣṭha together with Arundhatī; behind that stands Aṅgiras. (44) Behind that, of the quadrilateral … Pulastya is to the south, and west of him stands Pulaha. … (53) The northern arrow-degrees measured from the ecliptic are written down: fifty-six for Kratu, fifty-one for Pulaha, fifty-three for Pulastya; (54) fifty-eight for Atri, sixty is held for Aṅgiras, sixty-two degrees for Vasiṣṭha, and sixty observed for Marīci.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA MEASURES THE SEVEN SAGES, WHICH NO EARLIER SIDDHĀNTA WOULD DO. XII.41: 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of their moving; nevertheless, from observation, their arrangement is now determined.' XII.53–54 then give northern polar-latitude degrees measured from the ecliptic: Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60. This star's figure is 51°, against a true 1870 polar latitude of 50.05° — a difference of 0.95°. Taken together the seven figures reproduce the true sequence α 55.60, β 50.05, γ 53.01, δ 58.73, ε 61.85, ζ 63.92, η 60.58 in the right order and to within 2° throughout, which CONFIRMS INDEPENDENTLY the standard assignment Kratu = α, Pulaha = β, Pulastya = γ, Atri = δ, Aṅgiras = ε, Vasiṣṭha = ζ, Marīci = η. The topological description at XII.42–44 agrees: the seven form a cart (śakaṭa) standing in the north with its front to the east; Marīci is at the eastern end, west of him Vasiṣṭha together with Arundhatī, behind that Aṅgiras, then the quadrilateral with Pulastya to the south, Pulaha west of him and Kratu north of that — i.e. handle-tip to bowl, exactly the Big Dipper.</sub>
+
 ### क्रतु (Kratu) — Dubhe
 
 **Modern identification:** Dubhe — α Ursae Majoris, Ursa Major (*likely*)
@@ -1515,9 +3551,31 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 
 <sub>**Identification notes (Bṛhat Saṃhitā):** Last (westernmost) in the BS 13.5–6 east-to-west order; conventional mapping gives Dubhe, the western 'pointer'. BS gives the order only.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 41–45, 53–54** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> सप्तर्षीणां ध्रुवं प्राग्भिर्नोक्तः सञ्चारसम्भवात् ।
+> तथाप्यनुभवात्तेषां व्यवस्था क्रियतेऽधुना ॥ ४१ ॥
+> पूर्व्वायं शकटाकारमुदक्स्थमुडुसप्तकम् ।
+> सुरर्षिमण्डलं प्रोक्तं व्यक्तं विश्वनमस्कृतम् ॥ ४२ ॥
+> तत्पूर्व्वोन्नतरेखायै मरीचिः पश्चिमे ततः ।
+> वसिष्ठोऽरुन्धतीयुक्तस्तत्पश्चादङ्गिराः स्थितः ॥ ४३ ॥
+> तत्पश्चाच्चतुरस्रस्य शम्भुदिश्यत्रिरस्य च ।
+> पुलस्त्यो दक्षिणे तस्य पश्चिमे पुलहः स्थितः ॥ ४४ ॥
+> क्रान्त्यन्ताः सौम्यबाणांशा लिख्यन्तेऽङ्गशराः५६ क्रतोः ।
+> पुलहस्यैकपञ्चाशत्५१ पुलस्त्यस्याग्निसायकाः५३ ॥ ५३ ॥
+> अङ्गपक्षिण५८ एवात्रेः षष्टि६०रङ्गिरसो मता ।
+> द्वाषष्ट्यंशा वसिष्ठस्य६२ मरीचेः षष्टि६०रीक्षिता ॥ ५४ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n221 = printed p. 119) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n221.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(41) 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of [their] motion; nevertheless, from observation their arrangement is now determined. (42) The seven stars standing in the north, cart-shaped, [with the front] to the east — that is called the circle of the divine sages, manifest, saluted by all. (43) At its eastern raised line is Marīci; west of that, Vasiṣṭha together with Arundhatī; behind that stands Aṅgiras. (44) Behind that, of the quadrilateral … Pulastya is to the south, and west of him stands Pulaha. … (53) The northern arrow-degrees measured from the ecliptic are written down: fifty-six for Kratu, fifty-one for Pulaha, fifty-three for Pulastya; (54) fifty-eight for Atri, sixty is held for Aṅgiras, sixty-two degrees for Vasiṣṭha, and sixty observed for Marīci.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ SĀMANTA MEASURES THE SEVEN SAGES, WHICH NO EARLIER SIDDHĀNTA WOULD DO. XII.41: 'The ancients did not state the dhruva of the Seven Ṛṣis, because of the possibility of their moving; nevertheless, from observation, their arrangement is now determined.' XII.53–54 then give northern polar-latitude degrees measured from the ecliptic: Kratu 56, Pulaha 51, Pulastya 53, Atri 58, Aṅgiras 60, Vasiṣṭha 62, Marīci 60. This star's figure is 56°, against a true 1870 polar latitude of 55.60° — a difference of 0.40°. Taken together the seven figures reproduce the true sequence α 55.60, β 50.05, γ 53.01, δ 58.73, ε 61.85, ζ 63.92, η 60.58 in the right order and to within 2° throughout, which CONFIRMS INDEPENDENTLY the standard assignment Kratu = α, Pulaha = β, Pulastya = γ, Atri = δ, Aṅgiras = ε, Vasiṣṭha = ζ, Marīci = η. The topological description at XII.42–44 agrees: the seven form a cart (śakaṭa) standing in the north with its front to the east; Marīci is at the eastern end, west of him Vasiṣṭha together with Arundhatī, behind that Aṅgiras, then the quadrilateral with Pulastya to the south, Pulaha west of him and Kratu north of that — i.e. handle-tip to bowl, exactly the Big Dipper.</sub>
+
 ### अरुन्धती (Arundhatī) — Alcor, the faint companion of Mizar in the Big Dipper's handle
 
-**Modern identification:** Alcor, the faint companion of Mizar in the Big Dipper's handle — 80 Ursae Majoris, Ursa Major (*certain*)
+**Modern identification:** Alcor, the faint companion of Mizar in the Big Dipper's handle — 80 Ursae Majoris, Ursa Major (*disputed*)
 
 *See also:* `vasishtha`
 
@@ -1548,6 +3606,66 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 > <br>— E. Sachau (1910) ([source](https://archive.org/download/alberunisindiaac01biru/alberunisindiaac01biru_djvu.txt))
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** A DECISIVE INDEPENDENT CROSS-CHECK. Al-Bīrūnī equates Arundhatī with al-Suhā and pins it by Ptolemaic catalogue number: 'a pious woman, Al-suhā (Ursa Major, star 80 by [Ptolemy])'. Al-Suhā is the standard Arabic name for Alcor and 80 UMa is Alcor's designation — so an eleventh-century Central Asian observer independently arrives at the identification on file, without recourse to the Indian coordinate tradition.</sub>
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 13.4, quoting Kāśyapa** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> तथा च कश्यपः— शतं शतं तु वर्षाणामेकैकस्मिन् महर्षयः। नक्षत्रे निवसन्त्येते ससाध्वीका महातपाः॥ … केचित् प्रागुत्तरतश्चैते सदोदयन्ते ससाध्वीका इति पठन्ति। ते च प्रागुत्तरतश्चैशान्यां दिशि सदा सर्वकालं ससाध्वीकाः सारुन्धतिका उदयन्ते।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. Both scans print कश्यपः (not काश्यपः) at this point.*
+>
+> — *'And so Kāśyapa: "These great sages of great austerity, together with their virtuous wife, dwell a hundred years in each single asterism." … Some read instead: "and these rise always in the north-east together with their virtuous wife." And they rise in the north-east, that is in the Īśāna quarter, always and at every season, together with their virtuous wife — that is, accompanied by Arundhatī.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** Utpala's ch. 13 carries Arundhatī back behind Varāhamihira to KĀŚYAPA, whose verse he quotes on BS 13.4: the Seven Ṛṣis dwell a hundred years in each asterism 'sasādhvīkāḥ' — 'together with their virtuous wife'. Utpala's own gloss makes the referent explicit: 'sasādhvīkāḥ sārundhatikāḥ'. He also preserves a VARIANT READING of BS 13.4 itself — 'prāg-uttarataś caite sadodayante sasādhvīkāḥ', 'and these rise always in the north-east together with their virtuous wife' — which he says 'some read' (kecit … paṭhanti) in place of the transmitted text; he glosses prāg-uttarataḥ as aiśānyāṃ diśi, the north-east. The variant is not in the GRETIL text of the mūla and is worth recording as an early alternative. The identification (Alcor beside Mizar = Vasiṣṭha) is unchanged and rests on BS 13.6, already in the database. Note also the caveat already recorded there from Iyer's footnote citing Utpala: the śāstras hold the visible companion is not the 'real' Arundhatī, which is a sūkṣma-tārā.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 43, 48** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अरुन्धती स्थिता प्राच्यां स्वामिनोऽद्रि७कलान्तरे ।
+> या वसिष्ठातिनेदिष्ठा यन्त्रद्रष्टाणुरितत: ॥ ४८ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n222 = printed p. 120) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n222.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(48) 'Arundhatī stands to the east, at an interval of seven minutes from her lord [Vasiṣṭha]; she who is extremely close to Vasiṣṭha … [final pāda illegible in this print].'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ A MEASURED SEPARATION FOR ARUNDHATĪ — apparently the only one in Sanskrit. XII.43 places her with Vasiṣṭha (ζ Ursae Majoris = Mizar), and XII.48 says she stands to the EAST of her lord at an interval of SEVEN MINUTES of arc, being extremely close to Vasiṣṭha. The true Mizar–Alcor separation is 11.8', with Alcor to the east-north-east, so Sāmanta's 7' is of the right order and the right direction for a naked-eye estimate with the wooden instruments he built himself. This is an observational confirmation of Arundhatī = Alcor, independent of al-Bīrūnī's identification by Ptolemaic catalogue number already in this database. The last pāda of the verse, which appears to refer to seeing her with an instrument, is not fully legible in this print and is left untranslated.</sub>
+
+**Mahābhārata 6.2.31 (Critical Edition, Bhīṣma Parva) = vulgate/Ganguli Bhīṣma Parva Section II** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> yā caiṣā viśrutā rājaṃs trailokye sādhusaṃmatā / arundhatī tayāpy eṣa vasiṣṭhaḥ pṛṣṭhataḥ kṛtaḥ //
+>
+> *CE lines 06,002.031a/031c. This verse is the epic's only unambiguous star-Arundhatī. The Udyoga parallel is 05,109.012a: 'atra te ṛṣayaḥ sapta devī cārundhatī tathā'.*
+>
+> — *She, O king, who is celebrated over the three worlds and is applauded by the righteous, even that (constellation) Arundhati keepeth (her lord) Vasistha on her back.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06002.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** SAGE-VS-STAR DISCRIMINATION: Arundhatī occurs 40× in the Mahābhārata and 3× in the Rāmāyaṇa, and in almost every case she is Vasiṣṭha's wife, a person. Exactly ONE occurrence is unambiguously celestial, and it is the Bhīṣma-Parva omen at 6.2.31: she is 'famed in the three worlds', she is paired with Vasiṣṭha, and the marvel reported is a change in their RELATIVE POSITION — she has put Vasiṣṭha behind her (pṛṣṭhataḥ kṛtaḥ) — which is only meaningful of the Alcor/Mizar pair, and stands in a list of purely astronomical portents (Saturn on Rohiṇī, the moon's mark displaced) with no narrative context. Ganguli reads it the same way and glosses '(constellation) Arundhati'. A second, weaker celestial context is Udyoga 5.109.12, where 'the seven ṛṣis and the goddess Arundhatī' are located in the northern quarter alongside Svāti and the revolving luminaries. IMPORTANT NEGATIVES: the Śalya-Parva passage (9.47.28-49) that the research brief flagged is the Badarapācana-tīrtha legend — Arundhatī stays behind on the Himālaya during a twelve-year drought and is rewarded by Śiva; it is wholly terrestrial and gives no position. Likewise Anuśāsana 13.94-96 (the Vṛṣādarbhi/famine story) is terrestrial, though 13.95.39 supplies the standing folk-etymology of the name: 'know me as Arundhatī because I follow (anurundhatī) my husband's mind'. The 80 UMa identification comes from the Bṛhat Saṃhitā entry, not from the epic.</sub>
+
+**Kumārasambhava 6.3-6.5** — [Sanskrit e-text](https://sa.wikisource.org/wiki/कुमारसम्भवम्/षष्ठः_सर्गः)
+
+> स तथेति प्रतिज्ञाय विसृज्य कथमप्युमाम् । ऋषीञ्ज्योतिर्मयान्सप्त सस्मार स्मरशासनः ।। ६.३ ।। ते प्रभामण्डलैर्व्योम द्योतयन्तस्तपोधनाः । सारुन्धतीकाः सपदि प्रादुरासन्पुरः प्रभोः ।। ६.४ ।। आप्लुतास्तीरमन्दारकुसुमोत्किरवीचिषु । व्योमगङ्गाप्रवाहेषु दिङ्नागमदगन्धिषु ।। ६.५ ।।
+>
+> *Devanagari from the Nirnayasagara text on Sanskrit Wikisource. NOTE a substantive variant in 6.5: this witness reads व्योमगङ्गाप्रवाहेषु (vyomagaṅgā-pravāheṣu) where the GRETIL e-text reads ākāśagaṅgāsrotassu - two different Milky-Way names in the same slot.*
+>
+> — *Literal rendering: 'Having promised so be it and released Uma with difficulty, the chastiser of Love called to mind the seven sages made of light. Those ascetics, lighting up the sky with their orbs of radiance, appeared at once before the Lord together with Arundhati - bathed in the streams of the Sky-Ganga, whose waves scatter the mandara blossoms of the bank and which smell of the ichor of the elephants of the quarters.'*
+> <br>— Literal rendering by the compiler (R. T. H. Griffith's 1879 verse rendering glosses Arundhati only as 'The Heavenly Dame ... wife of one of the Seven Saints') ([source](https://archive.org/download/birthwargodapoe00grifgoog/birthwargodapoe00grifgoog_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** The discrimination the brief asks for. In Kumarasambhava 6.11, 6.13 and 6.91 Arundhati acts as a PERSON: she sits among the sages, she is addressed, she takes Parvati on her lap. But at 6.3-6.4, where she first appears, the frame is explicitly stellar: Siva 'called to mind the seven rsis MADE OF LIGHT' (ṛṣīñ jyotirmayān sapta) and they appear 'LIGHTING UP THE SKY WITH THEIR HALOES OF RADIANCE' (prabhāmaṇḍalair vyoma dyotayantaḥ), 'together with Arundhati' (sārundhatīkāḥ), having bathed in the streams of the sky-Ganga. So Kalidasa's Seven Sages here are the seven stars and Arundhati is the star that accompanies them - the same relation Alcor has to Mizar. Marked 'likely' because Kalidasa names no individual sage-star and says nothing of her faintness.</sub>
+
+**Harṣacarita, Ucchvāsa III (p. 122 of the printed text)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bANa-harSacarita.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> divā-niśam a-mukta-pārśva-sthitir arundhatîva mahā-mune
+>
+> *Clause excerpted verbatim from the GRETIL prose e-text.*
+>
+> — *Literal rendering: '... like Arundhati of the great sage, her station at his side unrelinquished by day or by night.'*
+> <br>— Literal rendering by the compiler (Cowell and Thomas render this simile-chain freely) ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bANa-harSacarita.txt))
+
+<sub>**Identification notes (Classical kāvya):** In a chain of similes for a virtuous queen: 'like Arundhati of the great sage, whose station at his side is unrelinquished DAY AND NIGHT' (divā-niśam a-mukta-pārśva-sthitiḥ). 'Day and night' is the phrase that makes this worth recording - it is the language one uses of a circumpolar star that never sets, and Alcor never leaves Mizar's side. But Bana is describing wifely fidelity and the simile works equally well of the woman, so the star-sense is not demonstrable; marked DISPUTED. Bana's other Arundhati, 'the bark of its trees had been washed by Arundhati' in the Ganga description of ch. I, is the sage's wife bathing.</sub>
 
 ## Vedic asterisms and archaic names
 
@@ -1631,6 +3749,20 @@ Older names from the Saṃhitā/Brāhmaṇa layer: the individually named Kṛtt
 > <br>— A.B. Keith, Rigveda Brahmanas, HOS 25 (1920); Julius Eggeling, SBE 12 (1882) ([source](https://archive.org/details/rigvedabrahmana00keitgoog) · [mirror 1](https://archive.org/download/rigvedabrahmana00keitgoog/rigvedabrahmana00keitgoog_djvu.txt) · [mirror 2](https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm) · [mirror 3](https://web.archive.org/web/20210506123309/https://www.sacred-texts.com/hin/sbr/sbe12/sbe1241.htm))
 
 <sub>**Identification notes (Vedic corpus):** The 'three-parted arrow' shot at Prajapati; the three aligned Belt stars piercing the deer's body. The same arrow appears in ŚB 2.1.2.9 ('iṣuṇā trikāṇḍena' - Eggeling: 'the three-knotted arrow') as the reason Prajapati abandoned the body that is Mṛgaśīrṣa's vicinity. Standard astronomical reading (Weber, Tilak); the text does not name the stars.</sub>
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 28** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> तस्य चेशानभस्यादपि मध्यस्थिता-
+> स्तारकास्तिस्र ईष्वाभका इल्वलाः ।
+> एकषष्टि६१ध्रुवः स्थूलभस्याद्युग्-
+> वह्निपक्षाः२३ शरो याम्य आसां मतः ॥ २८ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *See the Ilvalāḥ entry for the translation of verse 28.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** Sāmanta's phrase for the three Belt stars, tārakās tisra iṣvābhakāḥ, 'three stars, arrow-like', is an independent nineteenth-century echo of the Vedic name Iṣus trikāṇḍā for the same asterism, and it comes with coordinates for the first time: dhruva 61°, śara 23° south (XII.28), against true values in his frame of 59°51'–61°53' and 23°37'–25°20' south. See the Ilvalāḥ entry for the same verse.</sub>
 
 ### विचृतौ (Vicṛtau) — Shaula and Lesath (the Scorpion's sting)
 
@@ -1745,6 +3877,17 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Already on file from the Vedāṅga Jyotiṣa; this is a siddhāntic re-attestation, used in place of Āśleṣā at SS 9.14 (the nakshatra's divinities being the Sarpas). Al-Bīrūnī could not identify this asterism: his table notes 'Unknown, Most likely identical with two stars of Cancer and four stars outside of it' — independent evidence that the disputed status recorded here is not a modern artefact.</sub>
 
+**Rāmāyaṇa (VULGATE) Bāla Kāṇḍa 18.15; absent from the Critical Edition (CE 1.17)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रामायणम्/बालकाण्डम्/सर्गः_१८)
+
+> पुष्ये जातस्तु भरतो मीनलग्ने प्रसन्नधीः । सार्पे जातौ तु सौमित्री कुलीरेऽभ्युदिते रवौ ॥१-१८-१५॥
+>
+> *VULGATE ONLY, from Sanskrit Wikisource Bālakāṇḍa sarga 18. Confirmed absent from the GRETIL Critical Edition text by direct search.*
+>
+> — *And Bharata of purged intelligence was born under the asterism Pushyā, when the Sun had entered Pisces; while the two sons of Sumitrā were born when the Sun arose in Cancer, under the asterism of Asleshā.*
+> <br>— Manmatha Nath Dutt (1892) ([source](https://archive.org/download/in.ernet.dli.2015.217233/2015.217233.The-Ramayana_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The birth-star of Lakṣmaṇa and Śatrughna in the vulgate Bāla Kāṇḍa: 'the two sons of Sumitrā were born in SĀRPA, the sun having risen in Kulīra (Cancer)'. Sārpa is the deity-derived alias of Āśleṣā (devatā Sarpāḥ), already in the database from the Vedic corpus and the later siddhāntas; this is its epic attestation, and it is notable that the epic uses the alias rather than the ordinary name Āśleṣā — Dutt silently normalises it to 'Asleshā'. VULGATE ONLY, like the whole birth-horoscope passage.</sub>
+
 ### ज्येष्ठघ्नी (Jyeṣṭhaghnī) — Antares (Cor Scorpionis)
 
 **Modern identification:** Antares (Cor Scorpionis) — α Scorpii, Scorpius (*certain*)
@@ -1818,6 +3961,20 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** One of the most valuable lexicon finds: Amarakośa defines Ilvalāḥ by a relative clause — 'the stars which dwell in the head-region of that [Deer]' — so the anatomy is stated by the lexicon itself, not inferred. Colebrooke glosses 'Stars in his head', following directly on 'Orion'. Cognate/variant of Invakā already on file (the Vedic Invakā/Ilvalā alternation); this is the classical form with an explicit definition attached, and the Śārdūlakarṇāvadāna's 'three stars, deer's-head-shaped' independently confirms the group.</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 28** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> तस्य चेशानभस्यादपि मध्यस्थिता-
+> स्तारकास्तिस्र ईष्वाभका इल्वलाः ।
+> एकषष्टि६१ध्रुवः स्थूलभस्याद्युग्-
+> वह्निपक्षाः२३ शरो याम्य आसां मतः ॥ २८ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n220 = printed p. 118) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n220.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *(28) 'And to its north-east, three stars standing in the middle, arrow-like, are the Ilvalas. [Their] dhruva is sixty-one … twenty-three; their arrow [latitude] is held to be southern.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** ★ A COORDINATE FOR THE ILVALAS — THE FIRST ANYWHERE IN THIS DATABASE, AND IT DOES NOT AGREE WITH THE AMARAKOŚA GLOSS. XII.28 places 'three stars standing in the middle, arrow-like (iṣvābhakāḥ)' to the north-east of the star of XII.27 (Rigel), and gives them a dhruva of 61° and a southern śara of 23°. In Sāmanta's frame the three Belt stars stand at 59°51' / 23°37' S (δ), 60°50' / 24°34' S (ε) and 61°53' / 25°20' S (ζ) — his single pair of figures is the mean of the three to about 1°. So Sāmanta's Ilvalāḥ are ORION'S BELT, and his word for them, iṣvābhakāḥ ('arrow-like'), identifies them with the Vedic Iṣus trikāṇḍā, the three-jointed arrow, already in this database as δ, ε, ζ Orionis. This conflicts with the Amarakośa's definition of the Ilvalas as the stars 'that dwell in the head-region' of the Deer (λ, φ¹, φ² Orionis), which are 10° further north and 10° less in southern latitude. Either the name migrated within Orion, or the two traditions never meant the same three stars.</sub>
+
 ### तिष्यः (Tiṣya) — the later Puṣya: the Asellus stars and Praesepe region
 
 **Modern identification:** the later Puṣya: the Asellus stars and Praesepe region — γ, δ, θ Cancri (δ Cancri = Asellus Australis nearest the ecliptic), with the Praesepe cluster M44, Cancer (*disputed*)
@@ -1871,6 +4028,32 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Already on file from the Ṛgveda and the Amarakośa; SS 9.15 shows the archaic name surviving in a siddhānta, placed in the faintest class (21°) 'owing to their faintness' (saukṣmyāt). Al-Bīrūnī's parallel list likewise puts Alnathra (the Praesepe region of Cancer) in his faintest 20° class.</sub>
 
+**Aṣṭādhyāyī 1.2.63; Patañjali, Mahābhāṣya on 1.2.63 (Kielhorn i.231.14–232.7)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_1,2.63) ka_i,231.14-232.7 {6/24} ayam tiṣyapunarvasuśabdaḥ asti eva jyotiṣi vartate . … {11/24} tiṣyapuṣyayoḥ nakṣatrāṇi yalopaḥ vaktavyaḥ … {12/24} tiṣyapunarvasuparyāyavācinām api yathā syāt : puṣyapunarvasū sidhyapunarvasū .
+>
+> *IAST verbatim from the GRETIL plaintext of the Mahābhāṣya (Kielhorn 1880–85, rev. Abhyankar, e-text by George Cardona), which prints the text in pausā (segmented, sandhi resolved). The GRETIL reference markers ka_i,231.14-232.7 are Kielhorn volume,page.line. Ellipses mark omitted intervening sentences of the same passage; nothing inside the quoted stretches has been altered. The underlying sūtra reads १.२.६३ तिष्य-पुनर्वस्वोर् नक्षत्र-द्वंद्वे बहुवचनस्य द्विवचनम् नित्यम् (Sanskrit Wikisource; GRETIL IAST: tiṣya-punarvasvor nakṣatra-dvandve bahuvacanasya dvivacanaṃ nityam).*
+>
+> — *Literal rendering: 'This word tiṣya-punarvasu does indeed occur in the sense of a luminary. … It must be stated that the y is elided in tiṣya and puṣya when they are asterisms. … [The word nakṣatra is repeated] so that the rule may apply also to words synonymous with tiṣya and punarvasu: puṣya-punarvasū, sidhya-punarvasū.' Compare Vasu on the sūtra: 'Why is the word star repeated in the sutra…? The repetition is for the sake of including the synonyms of Tishya and Punarvasu.'*
+> <br>— Literal rendering by the compiler; comparative quotation from Śrīśa Chandra Vasu (1891) ([source](https://archive.org/download/wg1038/WG1038-1891%20-The%20Ashtadhyayi%20Of%20Panini%20-Sanskrit%20English%20Vol%201%20Of%208_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Pāṇini's default name for this asterism, used in three of his own sūtras: 1.2.63 tiṣya-punarvasvor nakṣatra-dvandve… (expressly nakṣatra), 4.3.34 (in the ten-name list), and 6.4.149 sūrya-tiṣya-agastya-matsyānāṃ ya upadhāyāḥ (the rule giving taiṣa from tiṣya). CRUCIALLY, Patañjali's discussion of 1.2.63 gives the explicit synonymy with Puṣya, in the Bhāṣya's own words: 'tiṣya-puṣyayoḥ nakṣatrāṇi yalopaḥ vaktavyaḥ' and 'tiṣya-punarvasu-paryāya-vācinām api yathā syāt: puṣya-punarvasū sidhya-punarvasū' — i.e. the rule must be extended to words SYNONYMOUS with tiṣya and punarvasu, namely puṣya and sidhya. Patañjali also states flatly 'ayam tiṣya-punarvasu-śabdaḥ asti eva jyotiṣi vartate' — 'this word tiṣya-punarvasu does indeed refer to a luminary' — distinguishing the star-sense from the personal-name sense (tiṣyaḥ ca māṇavakaḥ, 'and Tiṣya a boy'). This is the strongest single confirmation in the database that Tiṣya = Puṣya, and it is datable to c. 150 BCE, with the sūtra behind it c. 500–350 BCE. The gaṇapāṭha on 4.3.16 (sāndhyādi) further gives 'nakṣatrebhyaḥ: taiṣam, pauṣam' — the two derived forms side by side.</sub>
+
+**Mahābhārata 3.188.87 (Critical Edition, Vana Parva) = vulgate/Ganguli Vana Parva Section CLXXXIX; Rāmāyaṇa 5.55.1 (Critical Edition)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> yadā candraś ca sūryaś ca tathā tiṣyabṛhaspatī / ekarāśau sameṣyanti prapatsyati tadā kṛtam //
+>
+> *CE lines 03,188.087a/087c. CE Vana 3.188 = Ganguli's vulgate Vana Parva Section CLXXXIX. The Rāmāyaṇa parallel is R_5,055.001 'tiṣyaśravaṇakadambam abhraśaivalaśādvalam'.*
+>
+> — *And then when the Sun, the Moon, and Vrihaspati will, with the constellation Pushya, enter the same sign, the Krita age will begin again.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m03/m03189.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Two epic uses. (a) Mahābhārata 3.188.87, the famous yuga-turn verse: 'when the moon and the sun and Tiṣya and Bṛhaspati come together in ONE RĀŚI, then the Kṛta age will begin' — the earliest Sanskrit epic use of rāśi in a positional sense and a key witness for the archaic form Tiṣya still being current alongside Puṣya (which the same text uses elsewhere). Ganguli, translating the vulgate, renders it 'the constellation Pushya', confirming the equivalence. (b) Rāmāyaṇa 5.55.1, in Hanumān's sky-as-lake simile, 'having Tiṣya and Śravaṇa for its kadamba flowers'. NOTE a third, non-stellar use: at MBh 12.327.76, 12.337.42 and Rāmāyaṇa 6.26.13, Tiṣya is the name of the KALI YUGA, and the Bhīṣma Parva's yuga-list (6.11.3) even reads 'kṛtaṃ tretā dvāparaṃ ca puṣyaṃ ca' — Puṣya as the fourth age. Those are age-names, not star-names, and are recorded here only as context. δ Cancri comes from the Sūrya Siddhānta entry.</sub>
+
 ### सिध्यः (Sidhya) — Asellus Australis
 
 **Modern identification:** Asellus Australis — δ Cancri, Cancer (*certain*)
@@ -1885,6 +4068,17 @@ Every one of these is a real attested name for an asterism that also appears abo
 > <br>— H.T. Colebrooke (1808) ([source](https://archive.org/download/AmaraKosha/amara_english_colebrook_djvu.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Third name of Puṣya alongside Tiṣya, 'the auspicious/successful one'. Colebrooke glosses the trio 'Stars in Cancer'. The Śārdūlakarṇāvadāna gives Puṣya three stars in a vardhamāna (auspicious-mark) figure, matching δ, γ and θ Cancri.</sub>
+
+**Aṣṭādhyāyī 3.1.116** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/तृतीयः_अध्यायः)
+
+> ३.१.११६ पुष्यसिध्यौ नक्षत्रे ।
+>
+> *See the pushya entry for the three-witness collation of sidhyau vs siddhyau.*
+>
+> — *Literal rendering: '[The words] puṣya and sidhya [are formed with the affix kyap], when [they denote] an asterism.'*
+> <br>— Literal rendering by the compiler ([source](https://sa.wikisource.org/wiki/अष्टाध्यायी/तृतीयः_अध्यायः))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** A significant upgrade for this entry: the database currently has Sidhya only from the Amarakośa (c. 5th c. CE), but it is PĀṆINI'S OWN WORD at 3.1.116 puṣya-sidhyau nakṣatre, where the sūtra itself carries the qualifier nakṣatre — Pāṇini forms sidhya specifically as an asterism name and for no other purpose. That pushes the attestation back roughly a millennium and makes it firmly datable. Patañjali on 1.2.63 confirms it is in living use as a synonym in the compound sidhya-punarvasū (see the tishya entry). Reading verified across three witnesses: Wikisource Devanāgarī पुष्यसिध्यौ, GRETIL 'alt' puṣ-ya-sidh-yau; only the Kāśikā-derived GRETIL file has the aberrant siddhyau. Note the semantic pairing — puṣ 'to thrive' and sidh 'to succeed' — which is why the two are given in one sūtra; whether Pāṇini regarded Sidhya as a synonym of Puṣya or as the name of a neighbouring asterism he does not say, but Patañjali clearly takes it as a synonym.</sub>
 
 ### बाहू (रुद्रस्य) (Bāhū (Rudrasya)) — 'the two Arms' of the deer/Orion: usually taken as Betelgeuse and Bellatrix
 
@@ -1931,6 +4125,17 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Alternative name of Aśvinī, 'the horse-yoker'. Colebrooke glosses the pair as 'The head of Aries'. The form survives in the Arthaśāstra's month-name Āśvayuja and in the Pali Assayuja — a genuinely pan-Indic variant.</sub>
 
+**Aṣṭādhyāyī 4.3.36; also 4.3.45** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३६ वत्सशालाऽभिजिद्श्वयुक्छतभिषजो वा ।
+>
+> *Devanāgarī from Sanskrit Wikisource; the printed sandhi ऽभिजिद्श्वयुक्छतभिषजो resolves to abhijit + aśvayuj + śatabhiṣajaḥ. GRETIL's Kāśikā-derived IAST gives 'vatsaśālā-abhijid-aśvayuk-chatabhiṣajo vā'; the independent 'alt' text gives 'vatsa-śālā=abhijit=aśva-yuj=śata-hiṣaj-aḥ=vā' (with an obvious typo hiṣaj for bhiṣaj). 4.3.45 reads ४.३.४५ आश्वयुज्या वुञ् ।*
+>
+> — *36. There is optionally luk-elision of the affix denoting 'born therein' after the words 'vatsasala', 'abhijit', 'asvayuk' and 'satabhish'.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Another substantial upgrade: the database currently dates Aśvayuj from the Amarakośa, but Pāṇini names it himself at 4.3.36 vatsaśālā-abhijid-aśvayuk-chatabhiṣajo vā, in a sūtra whose whole subject is asterism-derived formations, and again at 4.3.45 āśvayujyā vuñ (the full-moon night Āśvayujī). This is the ARCHAIC form: Aśvinī occurs NOWHERE in the Aṣṭādhyāyī (sandhi-tolerant search over both recensions returns zero for aśvin- and āśvin-). Vasu, translating the Kāśikā on 4.3.45, glosses Āśvayujī as 'the name of the full-moon in the Asterism of Aśvinī', which is the tradition equating the two; but the equation is the commentator's, not Pāṇini's — Pāṇini only ever says Aśvayuj. Also note 4.4.126 aśvimān aṇ, which concerns the Aśvins as deities, not the asterism.</sub>
+
 ### राधा (Rādhā) — Zubenelgenubi
 
 **Modern identification:** Zubenelgenubi — α Librae, Libra (*certain*)
@@ -1971,6 +4176,17 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** The older name of Dhaniṣṭhā, expressly equated with it by the lexicon ('Dhaniṣṭhāḥ are the same as Śraviṣṭhā'). Colebrooke's gloss 'The Dolphin' is decisive for Delphinus, and the Śārdūlakarṇāvadāna's four stars in a śakuna (bird) figure agrees with the Delphinus quadrilateral. This is the name the Vedāṅga Jyotiṣa uses for the asterism that begins its year — Dhaniṣṭhā never appears in that text at all.</sub>
 
+**Aṣṭādhyāyī 4.3.34 (also gaṇapāṭha, aśvādi gaṇa on 4.1.110)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३४ श्रविष्ठाफल्गुन्यनुराधास्वातितिष्यपुनर्वसुहस्तविशाखाऽषाढाबहुलाल्लुक् ।
+>
+> *Same sūtra as the Bahulā entry; see that entry's note for the two GRETIL cross-checks.*
+>
+> — *34. The affix denoting 'born therein' is elided by luk, after the words 'sravishtha', 'phalguni', 'anuradha', 'svati', 'tishya', 'punarvasu', 'hasta', 'visakha', 'ashadha' and 'bahula', all denoting asterisms. ... Thus [śrāviṣṭhaḥ] = 'produced under Sravishtha'.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Pāṇini's own word, first item in the ten-asterism list at 4.3.34; also treated at 4.3.34 by the Kāśikā's vārttika which adds an alternative affix after Śraviṣṭhā and Aṣāḍhā. This is the ARCHAIC form: the later name Dhaniṣṭhā occurs nowhere in the Aṣṭādhyāyī (sandhi-tolerant search of both recensions returns zero). Śraviṣṭhā also appears in the aśvādi gaṇa on 4.1.110 (as a base for the patronymic phañ), but that is gaṇapāṭha, not sūtra, and carries no independent date. Because 4.3.34 is Pāṇini's own sūtra, this is a firmly datable pre-Mauryan attestation of Śraviṣṭhā, older than the Vedāṅga Jyotiṣa attestation already in the database and far better dated.</sub>
+
 ### प्रोष्ठपदा (Proṣṭhapadā) — Markab / Algenib
 
 **Modern identification:** Markab / Algenib — α and γ Pegasi, Pegasus (*certain*)
@@ -1985,6 +4201,41 @@ Every one of these is a real attested name for an asterism that also appears abo
 > <br>— H.T. Colebrooke (1808); the Arthaśāstra line rendered literally by the compiler ([source](https://archive.org/download/AmaraKosha/amara_english_colebrook_djvu.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Older feminine form of Bhādrapadā, expressly equated with it. Colebrooke's gloss 'The wing of Pegasus' fixes the asterism on the Pegasus square. The archaic form underlies Kauṭilya's month-name Prauṣṭhapada (Arthaśāstra 2.20.55), confirming it was still standard when the Arthaśāstra's calendar was compiled; the Atharvaveda Nakṣatra Kalpa also uses Proṣṭhapadā rather than Bhādrapadā.</sub>
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.4, quoting Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See the full rendering under db_id 'varuna-shatabhishaj'.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'The earlier Proṣṭhapadā' = PŪRVA-BHĀDRAPADĀ, in the archaic Proṣṭhapadā form the database already records from the Amarakośa. Here it is carried by a pre-Varāhamihira authority: Parāśara's vīthī scheme quoted by Utpala on BS 9.4, 'govīthī prākproṣṭhapadādīni catvāri' — the Go-vīthī is the four beginning with Prākproṣṭhapadā. That is the same four-asterism Go-vīthī (Pūrva-Bhādrapadā, Uttara-Bhādrapadā, Revatī, Aśvinī) that Varāhamihira gives at BS 9.2 and the Samāsa-saṃhitā counts 'from Ekapāda', which cross-confirms both name-equations.</sub>
+
+**Aṣṭādhyāyī 1.2.60; also 4.2.35, 7.3.18** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/प्रथमः_अध्यायः)
+
+> १.२.६० फल्गुनी-प्रोष्ठपदानां च नक्षत्रे ।
+>
+> *Devanāgarī from Sanskrit Wikisource, which prints the sūtra with an analytic hyphen. GRETIL's two IAST texts give 'phalgunī-proṣṭhapadānāṃ ca nakṣatre'. The related sūtras read: 4.2.35 महाराजप्रोष्ठपदात् ठञ् (GRETIL: mahārāja-proṣṭhapadāṭ ṭhañ) and 7.3.18 जे प्रोष्ठपदाणां (a Wikisource typo for प्रोष्ठपदानाम्; GRETIL correctly: je proṣṭhapadānām).*
+>
+> — *Of the stars phalguni and proshthapada, the forms may be either dual or plural. ... There are two pairs of stars of the name of phalguni and proshthapada, both being of feminine gender, and their logical number being dual. The present sutra ordains plural optionally. If phalguni and proshthapada are not names of asterisms they must have their proper number.*
+> <br>— Śrīśa Chandra Vasu (1891) ([source](https://archive.org/download/wg1038/WG1038-1891%20-The%20Ashtadhyayi%20Of%20Panini%20-Sanskrit%20English%20Vol%201%20Of%208_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** The archaic name of the Bhādrapadā pair, and Pāṇini's only name for it — Bhādrapadā occurs nowhere in the Aṣṭādhyāyī. Pāṇini names Proṣṭhapadā in three separate sūtras of his own: 1.2.60 (paired with Phalgunī, and expressly marked nakṣatre, 'when it denotes an asterism'), 4.2.35 mahārāja-proṣṭhapadāṭ ṭhañ (deriving the month-name), and 7.3.18 je proṣṭhapadānām. It also appears at 5.4.120 in a list of bahuvrīhi finals, but there proṣṭhapada is probably the ordinary 'having feet like a bench/carp' from which the asterism name derives, so I do not count it. Patañjali comments on 1.2.60 with the forms 'udite pūrve proṣṭhapade, uditāḥ pūrvāḥ proṣṭhapadāḥ' ('the earlier two Proṣṭhapadās having risen' / 'the earlier Proṣṭhapadās having risen') — showing the asterism was already understood as a PAIR (pūrva/uttara) in the 2nd c. BCE — and on 7.3.10 (his numbering; = 7.3.18) with 'proṣṭhapadāsu jātaḥ proṣṭhapādaḥ brāhmaṇaḥ', 'a brahmin born under the Proṣṭhapadās'. That 1.2.60 is a rule about DUAL versus PLURAL for Phalgunī and Proṣṭhapadā is itself an astronomical datum: Pāṇini knew each as a group of stars that could be counted either way.</sub>
+
+**Rāmāyaṇa 1.17.10 (Critical Edition, Bāla Kāṇḍa) = Griffith Book I Canto XIX; Mahābhārata 6.3.14 (Critical Edition)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> rājñaḥ putrā mahātmānaś catvāro jajñire pṛthak / guṇavanto 'nurūpāś ca rucyā proṣṭhapadopamāḥ //
+>
+> *CE reference R_1,017.010 = vulgate Bāla Kāṇḍa 18.16. Unlike the birth-horoscope verse two ślokas earlier, this one IS in the Critical Edition.*
+>
+> — *The high-souled monarch's consorts bore / At different times those glorious four, / Like to himself and virtuous, bright / As Proshthapadá's four-fold light.*
+> <br>— Ralph T. H. Griffith (1870-74) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry021.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Two useful data. (a) Rāmāyaṇa 1.17.10 (Critical Edition — this one IS in the CE) compares Daśaratha's four sons to Proṣṭhapadā: 'handsome and worthy, in radiance LIKE THE PROṢṬHAPADĀS'. The point of the simile is number: four princes, four stars. Griffith footnotes 'One of the constellations, containing stars in the wing of Pegasus.' This four-star reading of the combined Pūrva- plus Uttara-Proṣṭhapadā (α, β, γ Pegasi + α Andromedae) is exactly the Pegasus square and is an early independent witness to it. (b) MBh 6.3.14 uses the pair form 'proṣṭhapade pūrve' / 'uttare' for Venus's transit, showing the eastern/western split already fixed. The database carries Proṣṭhapadā from the lexicons; these are earlier.</sub>
 
 ### आग्रहायणी (Āgrahāyaṇī) — Meissa
 
@@ -2001,6 +4252,17 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Third name of Mṛgaśiras, 'she who begins the year' — a fossil of the era when the year opened at the Mṛgaśiras full moon, and so a chronological datum in its own right. Amarakośa's tasminn eva ('in that very asterism') makes the equation explicit. Source of the month-name Mārgaśīrṣa/Agrahāyaṇa.</sub>
 
+**Aṣṭādhyāyī 4.2.22; Patañjali, Mahābhāṣya on 2.3.28 (Kielhorn i.455.4-456.5)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.२.२२ आग्रहायणी अश्वत्थात् ठक् ।
+>
+> *Devanāgarī from Sanskrit Wikisource; GRETIL: 'āgrahāyaṇy-aśvatthāṭ ṭhak'. Patañjali's lines read '(p_2,3.28) ka_i,455.4-456. 5 {15/44} kārtikyāḥ āgrahāyaṇī māse .' and '{37/44} kārttikyāḥ prabhṛti āgrahāyaṇī māsa iti .'*
+>
+> — *22. The affix [ṭhak] comes in the sense of the locative case after the words 'agrahayani' and 'asvattha' … being the name of a full-moon night. … Thus [āgrahāyaṇikaḥ] 'the month called Agrahayanika, i.e. in which the moon is full in the asterism of Agrahayana.'*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Another entry pushed back from the Amarakośa to Pāṇini. Three sūtras of Pāṇini's own: 4.2.22 āgrahāyaṇy-aśvatthāṭ ṭhak (expressly under the heading 'name of a full-moon night', 4.2.21), 4.3.50 saṃvatsara-āgrahāyaṇībhyāṃ ṭhañ ca, and 5.4.110 nadī-paurṇamāsy-āgrahāyaṇībhyaḥ. Patañjali uses it repeatedly as a live calendar term — on 2.3.28 'kārtikyāḥ āgrahāyaṇī māse' ('Āgrahāyaṇī is a month away from Kārttikī'), which fixes the interval between the two full moons and thus indirectly the position of the asterism; and on 1.1.23 he quotes the 5.4.110 phrase. Āgrahāyaṇī also appears in the gaurādi gaṇa on 4.1.41. Note that the underlying asterism, Mṛgaśīrṣa, is NEVER named in the Aṣṭādhyāyī — Pāṇini has only the derived full-moon name.</sub>
+
 ### अश्वत्थ (Aśvattha) — Altair (Śravaṇa/Śroṇā)
 
 **Modern identification:** Altair (Śravaṇa/Śroṇā) — α Aquilae, Aquila (*disputed*)
@@ -2015,6 +4277,17 @@ Every one of these is a real attested name for an asterism that also appears abo
 > <br>— A.A. Macdonell & A.B. Keith, Vedic Index of Names and Subjects (1912), i.413 ([source](https://archive.org/stream/vedicindexofname01macduoft/vedicindexofname01macduoft_djvu.txt))
 
 <sub>**Identification notes (Ṛgveda & Vedāṅga Jyotiṣa):** A name unique to the Kāṭhaka Saṃhitā, standing in slot 21 where the Taittirīya and Maitrāyaṇī lists both read Śroṇā. Attested in Macdonell & Keith's comparative table of the three Yajurveda lists, Vedic Index (1912) i.413: '21. Srona .. Srona. .. Asvattha' for TS | MS | KS. The word otherwise means the pipal tree (Ficus religiosa). NOT verified against a primary Kāṭhaka e-text — GRETIL does not host it and the TITUS URL returned only a frame stub — so confidence is marked disputed on that ground alone, not because the scholarly attestation is weak.</sub>
+
+**Aṣṭādhyāyī 4.2.5 and 4.2.22** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.२.२२ आग्रहायणी अश्वत्थात् ठक् ।
+>
+> *Devanāgarī from Sanskrit Wikisource, which de-sandhis the compound; GRETIL's texts give 'āgrahāyaṇy-aśvatthāṭ ṭhak' and 'āgrahāyaṇī=aśvatth-āt=ṭhak'. See also 4.2.5 quoted in the shravana entry.*
+>
+> — *22. The affix [ṭhak] comes in the sense of the locative case after the words 'agrahayani' and 'asvattha' ending in the first case-affix in construction and being the name of a full-moon night.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** A useful strengthening of a thin entry. Pāṇini names Aśvattha three times: 4.2.5 saṃjñāyāṃ śravaṇa-aśvatthābhyām (paired directly with Śravaṇā, under the rule for asterism-derived TIME names), 4.2.22 āgrahāyaṇy-aśvatthāṭ ṭhak (paired with Āgrahāyaṇī, deriving a month-name from a full-moon night), and 4.3.48 kalāpy-aśvattha-yavabusād vun. The first two put Aśvattha squarely in the calendrical/asterism series, which supports — without proving — the database's identification of it as a name for the Śravaṇa region; Vasu's Kāśikā gloss calls the product 'the Muhūrta called Aśvattha', i.e. a unit of time, and 4.2.22 treats it exactly as it treats Āgrahāyaṇī, a genuine full-moon name. Pāṇini himself never says which asterism it is, so this stays disputed. Confounder: aśvattha is also the ordinary word for the pipal tree, and 4.3.48 (with kalāpin, yava, busa) is probably botanical.</sub>
 
 ### ब्राह्मण (Brāhmaṇa) — unidentified
 
@@ -2106,6 +4379,19 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Deity-epithet name for Anurādhā, whose divinity is Mitra. Used at SS 9.14 and also by Brahmagupta at Bhagrahayutyadhikāra 9 (maitrasya) in the yogatārā table, so the usage is standard across the siddhāntas rather than peculiar to one text. The Buddhist Śārdūlakarṇāvadāna independently gives Anurādhā the deity Mitra.</sub>
 
+**Mahābhārata 5.141.8 (Critical Edition, Udyoga Parva) = vulgate/Ganguli Udyoga Parva Section CXLIII** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> kṛtvā cāṅgārako vakraṃ jyeṣṭhāyāṃ madhusūdana / anurādhāṃ prārthayate maitraṃ saṃśamayann iva //
+>
+> *CE lines 05,141.008a/008c. CE Udyoga 5.141 = Ganguli's vulgate Udyoga Parva Section CXLIII — the numbers differ.*
+>
+> — *The planet Angaraka (Mars), wheeling, O slayer of Madhu, towards the constellation Jeshthya, approacheth towards Anuradhas, indicating a great slaughter of friends.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m05/m05143.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The database currently carries Maitra only from the later siddhāntas and al-Bīrūnī; this pushes the attestation back by many centuries. As with Aindra, the epic makes the identification internally: 'Mars, having gone retrograde in Jyeṣṭhā, presses towards ANURĀDHĀ, as if pacifying the MAITRA' — anurādhāṃ and maitraṃ are in apposition in the same half-verse. Mitra is Anurādhā's presiding deity in every nakṣatra-devatā list. δ Sco is imported from the Sūrya Siddhānta entry. A late appendix passage in the Anuśāsana Parva (13,111.021d appendix 012A, a nakṣatra-puruṣa scheme assigning each asterism to a limb) also uses the simple form 'mitra' as an asterism name, but it is an interpolated passage and is noted rather than relied on.</sub>
+
 ### रौद्रर्क्ष (Raudrarkṣa) — Betelgeuse
 
 **Modern identification:** Betelgeuse — α Orionis, Orion (*disputed*)
@@ -2166,6 +4452,459 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** 'That of Agni' — Brahmagupta's name for KṚTTIKĀ, whose divinity is Agni, in the yogatārā table; its polar latitude is reduced by 29 minutes. Cited together with Aindra (Jyeṣṭhā, reduced by 30') and Maitra (Anurādhā, by 76'). NAME-COLLISION WARNING: Āgneya here is Kṛttikā = η Tauri, NOT the separate fixed star Agni/Hutabhuj = β Tauri of Sūrya Siddhānta 8.20 already on file.</sub>
 
+### बहुला (Bahulā) — Alcyone (the Pleiades)
+
+**Modern identification:** Alcyone (the Pleiades) — η Tauri, Taurus (*certain*)
+
+*See also:* `krittika`, `anala-krittika`, `kattika-karttika`, `krittika-seven`
+
+**Aṣṭādhyāyī 4.3.34** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.३.३४ श्रविष्ठाफल्गुन्यनुराधास्वातितिष्यपुनर्वसुहस्तविशाखाऽषाढाबहुलाल्लुक् ।
+>
+> *Devanāgarī from Sanskrit Wikisource. Cross-checked against two independent GRETIL IAST e-texts, which give 'śraviṣṭhā-phalguny-anurādhā-svāti-tiṣya-punarvasu-hasta-viśākhā-aṣāḍhā-bahulāl luk' (Kāśikā-derived, sa_pANini-aSTAdhyAyI.txt) and 'śraviṣṭhā-phalgunī=anurādhā=svāti-tiṣya-punarvasu-hasta-viśākhā=aṣāḍhā-bahul-āt=luk' (independent 'alt' text, sa_pANini-aSTAdhyAyI-alt.txt). All three agree on the ten names and their order.*
+>
+> — *34. The affix denoting 'born therein' is elided by luk, after the words 'sravishtha', 'phalguni', 'anuradha', 'svati', 'tishya', 'punarvasu', 'hasta', 'visakha', 'ashadha' and 'bahula', all denoting asterisms. ... The 'Bahula' is another Name of the asterism [Kṛttikā].*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** THE HEADLINE FIND. Bahulā is Pāṇini's own name for the asterism the later tradition calls Kṛttikā, and it is not otherwise present in this database (the database has krittika and krittika-seven but no bahula). Pāṇini names it in the sūtra text itself, as the last item of the ten-asterism list at 4.3.34, so it is not a commentator's supplement. The identification Bahulā = Kṛttikā is the unanimous reading of the tradition: Vasu, translating the Kāśikā on this very sūtra, glosses 'The Bahula is another Name of the asterism [Kṛttikā]' (his Devanāgarī gloss is lost in the archive.org OCR but the English is intact). The name is transparently the plural-ish 'the abundant/manifold ones', matching a star-cluster, and Kṛttikā is likewise a plural in the Vedic lists. Pāṇini does elsewhere derive the full-moon name Kārttikī (4.2.23), which presupposes a base Kṛttikā, so both names were current for him; Kṛttikā itself never appears in his sūtras. Verified identical in both independent recensions (Kāśikā-derived and 'alt') and in the Devanāgarī Wikisource witness. Note that 'bahula' also occurs ~39 times in the Aṣṭādhyāyī as the ordinary metalinguistic term bahulam 'diversely'; only the 4.3.34 occurrence is the asterism.</sub>
+
+### कार्त्तिक (Kārttika (Middle-Indic Kattika)) — Alcyone (Pleiades) — the star that names the month
+
+**Modern identification:** Alcyone (Pleiades) — the star that names the month — η Tauri, Taurus (*certain*)
+
+*See also:* `krittika`, `bahula`
+
+**Taishō T21n1299 fasc. 2, interlinear note of Yang Jingfeng (楊景風) at T21.394c24–25** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml)
+
+> 梵語昴星名迦提。西國五月十五日雨安居，至八月十五日滿已，後五月十五日滿已，後至九月十五日已來自恣，故號為迦提，但取星名而已。今中國迦提，即是事而妄者別為訓釋，蓋大謬焉
+>
+> *An interlinear commentator's note, not the translated sūtra text; it is attached to the words 九月為昴月 'the ninth month is the Mao month'.*
+>
+> — *"In Sanskrit the Mao star is named Jiati (Kattika). In the Western Country the rains-retreat [begins] on the fifteenth of the fifth month and is fulfilled on the fifteenth of the eighth; … thereafter up to the fifteenth of the ninth month is the pavāraṇā; hence it is styled Jiati, simply taking the star's name and nothing more. The Jiati now [spoken of] in China — those who take it as a matter of fact and glose it otherwise are greatly in error."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** THE ONLY PHONETIC TRANSCRIPTION OF AN INDIAN STAR-NAME I COULD FIND IN THIS TEXT. Yang Jingfeng's 764 CE note on the ninth month (昴月, the Mao/Kṛttikā month) states 「梵語昴星名迦提」 'in Sanskrit the Mao star is named Jiati (迦提)', and then explains that the Buddhist Kaṭhina season is called 迦提 for no reason other than that it takes the star's name (但取星名而已), rebuking Chinese writers who had invented other etymologies. The transcription 迦提 (Middle Chinese roughly ka-dei) renders the MIDDLE-INDIC form Kattika / Kattiya, not the Sanskrit Kārttika — a Prakrit or Pali name-form reaching Tang China through the same Indian informant who supplied the Xiuyao jing, and matching Pali Kattikā. The Sanskrit Kārttika/Kṛttikā is of course abundantly attested elsewhere; what is new here is the datable Middle-Indic form and the explicit statement that the month-name is simply the star-name. Set beside the database's Kṛttikā entry, it also confirms that in 8th-century Indian usage the month was still reckoned from the Kṛttikā full moon.</sub>
+
+### पैतामह (Paitāmaha) — Aldebaran
+
+**Modern identification:** Aldebaran — α Tauri, Taurus (*certain*)
+
+*See also:* `rohini`, `svayambhuva`, `prajapatya`, `prajesha`, `prajapati`, `rohini-shakata`
+
+**Bṛhat Saṃhitā 9.2 with Utpala's Vivṛti** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> पवनः स्वातिः। याम्यं भरणी। अनलः कृत्तिकाः। एतानि नक्षत्राणि नागवीथी। पैतामहात्त्रिभास्तिस्रः। पैतामहं रोहिणी तत आरभ्य त्रिभास्त्रिभिस्त्रिभिर्भनक्षत्रैस्तिस्रो वीथयो भवन्ति। तद्यथा—रोहिणीमृगशिरआर्द्रा गजवीथी। पुनर्वसुतिष्याश्लेषा ऐरावती। मघा पूर्वफल्गुनी उत्तरफल्गुनी चेति वृषभा। गोवीथ्यामिति। अश्विन्यः पौष्णं रेवती द्वे भद्रपदे पूर्वभद्रपदोत्तरभद्रपदे। एतानि चत्वारि नक्षत्राणि गोवीथी।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *'Pavana is Svātī. Yāmya is Bharaṇī. Anala is Kṛttikā. These asterisms are the Nāga-vīthī. "Three triads from Paitāmaha": Paitāmaha is Rohiṇī; beginning from it, three vīthīs of three asterisms each are formed, namely: Rohiṇī, Mṛgaśiras, Ārdrā — the Gaja-vīthī; Punarvasu, Tiṣya, Āśleṣā — the Airāvatī; Maghā, Pūrva-Phalgunī, Uttara-Phalgunī — the Vṛṣabhā. "In the Go-vīthī": Aśvinī, Pauṣṇa (which is Revatī), and the two Bhadrapadās, Pūrva-Bhādrapadā and Uttara-Bhādrapadā — these four asterisms are the Go-vīthī.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Pitāmaha (Brahmā/Prajāpati)' = ROHIṆĪ. Varāhamihira's own word at BS 9.2 ('paitāmahāt tribhās tisraḥ'), glossed flatly by Utpala: 'paitāmahaṃ rohiṇī' — 'Paitāmaha is Rohiṇī'. Confirmed structurally: counting three triads from Rohiṇī yields exactly Gaja, Airāvatī and Vṛṣabhā as Utpala then spells out. NAME-COLLISION, THIRD MEMBER OF A KNOWN FAMILY: the database already flags Prājeśa (= Rohiṇī, Brahmagupta) against the separate star Prajāpati (δ Aurigae, Sūrya-siddhānta 8) and against the circumpolar Prajāpati on the Śiśumāra's tail. Paitāmaha, Prājāpatya (BS 9.25, of Rohiṇī's cart) and Svāyambhuva (Samāsa-saṃhitā, below) are three further Prajāpati-derived epithets that all denote ROHIṆĪ = Aldebaran, not δ Aurigae.</sub>
+
+### स्वायम्भुव (Svāyambhuva) — Aldebaran
+
+**Modern identification:** Aldebaran — α Tauri, Taurus (*certain*)
+
+*See also:* `rohini`, `paitamaha`, `prajapati`
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.4, quoting the Samāsa-saṃhitā** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> वीथी नागा नाम्नी स्वातिर्भरणी च कृत्तिका चैव। स्वायम्भुवत्रिभाः स्युर्गजवीथ्यैरावती वृषभा॥ एकपदादिचतुष्कं गौः स्याज्जारद्गवी त्रिभा श्रवणात्। मैत्रात्त्रिभं मृगाऽजा हस्तश्चित्रा विशाखा च॥ द्वे चाषाढे दहना तिस्र उदग्वीथयः क्रमाच्छुभदाः। मध्या मध्यास्तिस्रो याम्याः पापा मृगाद्यास्ताः॥ इति॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See the full rendering under db_id 'ekapada'.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Svayambhū (Brahmā)' = ROHIṆĪ. From the Samāsa-saṃhitā quoted by Utpala on BS 9.4: 'svāyambhuva-tribhāḥ syur gaja-vīthy airāvatī vṛṣabhā' — the triads beginning with Svāyambhuva are the Gaja-vīthī, Airāvatī and Vṛṣabhā. That is verbatim the structure Utpala spells out for Varāhamihira's 'paitāmahāt tribhās tisraḥ' at BS 9.2, where he glosses Paitāmaha as Rohiṇī — so Svāyambhuva = Paitāmaha = Rohiṇī. Same name-collision family as Prājeśa/Paitāmaha/Prājāpatya: these all denote Rohiṇī = Aldebaran, NOT the star Prajāpati (δ Aurigae) of Sūrya-siddhānta 8.</sub>
+
+### प्राजापत्य (Prājāpatya (prājāpatyaṃ nakṣatram)) — Aldebaran
+
+**Modern identification:** Aldebaran — α Tauri, Taurus (*certain*)
+
+*See also:* `rohini`, `paitamaha`, `prajapati`, `prajesha`
+
+**Rāmāyaṇa 6.90.27 (Critical Edition, Yuddha Kāṇḍa) = Dutt's Yuddha Kāṇḍam; Mahābhārata 5.141.7 (Critical Edition) = vulgate Udyoga Parva Section CXLIII** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt) · [mirror](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> prājāpatyaṃ ca nakṣatraṃ rohiṇīṃ śaśinaḥ priyām / samākramya budhas tasthau prajānām aśubhāvahaḥ // [MBh:] prājāpatyaṃ hi nakṣatraṃ grahas tīkṣṇo mahādyutiḥ / śanaiścaraḥ pīḍayati pīḍayan prāṇino 'dhikam //
+>
+> *Two verses from two works. Rāmāyaṇa CE R_6,090.027 (GRETIL sa_rAmAyaNa.txt); Mahābhārata CE 05,141.007a/007c (GRETIL mbh1-18u.zip). Griffith omits the Rāmāyaṇa omen passage entirely — his Book VI jumps from Canto LXXV to XCIII — so the translation quoted is Dutt's.*
+>
+> — *Dutt on the Rāmāyaṇa verse: 'that bringer of evil unto creatures—Budha—stood, assailing the Prajapatya star—Rohini—beloved of the Moon.' Ganguli on the Mahābhārata verse: 'That fierce planet of great effulgence, Sanaischara (Saturn), is afflicting the constellation called Rohini, in order to afflict greatly the creatures of the earth.'*
+> <br>— Manmatha Nath Dutt (1893) and Kisari Mohan Ganguli (1883-96) ([source](https://archive.org/download/dli.ministry.19598/E01470_The_Ramayana_Yuddha_Kandam_djvu.txt) · [mirror](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m05/m05143.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** A deity-derived alias for Rohiṇī (Prajāpati is Rohiṇī's presiding deity), attested INDEPENDENTLY in both epics and, in the Rāmāyaṇa, with the identification made inside the verse: 'Mercury, mounting the Prājāpatya asterism, ROHIṆĪ, the moon's beloved, stood there, bringing ill to creatures.' The Mahābhārata occurrence (Udyoga 5.141.7, Karṇa's omen speech) uses Prājāpatya alone; Ganguli, translating the vulgate, silently substitutes 'the constellation called Rohini', which either reflects a vulgate reading rohiṇīṃ or is his gloss — either way it confirms the equivalence. The database already carries the closely related 'Prājeśa' from the later siddhāntas; Prājāpatya is a distinct form and is not yet recorded. Cross-reference: prajesha, rohini.</sub>
+
+### अनल (Anala) — Alcyone (Pleiades)
+
+**Modern identification:** Alcyone (Pleiades) — η Tauri, Taurus (*certain*)
+
+*See also:* `krittika`, `agni`, `bahula`
+
+**Bṛhat Saṃhitā 9.2 with Utpala's Vivṛti (and Utpala on 9.4 quoting Parāśara)** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> पवनः स्वातिः। याम्यं भरणी। अनलः कृत्तिकाः। एतानि नक्षत्राणि नागवीथी। पैतामहात्त्रिभास्तिस्रः। पैतामहं रोहिणी तत आरभ्य त्रिभास्त्रिभिस्त्रिभिर्भनक्षत्रैस्तिस्रो वीथयो भवन्ति। तद्यथा—रोहिणीमृगशिरआर्द्रा गजवीथी। पुनर्वसुतिष्याश्लेषा ऐरावती। मघा पूर्वफल्गुनी उत्तरफल्गुनी चेति वृषभा। गोवीथ्यामिति। अश्विन्यः पौष्णं रेवती द्वे भद्रपदे पूर्वभद्रपदोत्तरभद्रपदे। एतानि चत्वारि नक्षत्राणि गोवीथी।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *'Pavana is Svātī. Yāmya is Bharaṇī. Anala is Kṛttikā. These asterisms are the Nāga-vīthī. "Three triads from Paitāmaha": Paitāmaha is Rohiṇī; beginning from it, three vīthīs of three asterisms each are formed, namely: Rohiṇī, Mṛgaśiras, Ārdrā — the Gaja-vīthī; Punarvasu, Tiṣya, Āśleṣā — the Airāvatī; Maghā, Pūrva-Phalgunī, Uttara-Phalgunī — the Vṛṣabhā. "In the Go-vīthī": Aśvinī, Pauṣṇa (which is Revatī), and the two Bhadrapadās, Pūrva-Bhādrapadā and Uttara-Bhādrapadā — these four asterisms are the Go-vīthī.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'Fire' = KṚTTIKĀ, whose regent is Agni. Varāhamihira's word at BS 9.2, glossed by Utpala 'analaḥ kṛttikāḥ'. The synonym Āgneya for the same asterism is used a few lines later in his Parāśara quotation. NAME-COLLISION: Anala/Āgneya = Kṛttikā = the Pleiades, and must not be confused with the database's separate star Agni (Hutabhuj) = Elnath, β Tauri, of Sūrya-siddhānta 8 — the same collision the database already flags for Āgneya.</sub>
+
+### याम्य (Yāmya) — 35 Arietis (Musca Borealis)
+
+**Modern identification:** 35 Arietis (Musca Borealis) — 35 Arietis, Aries (*certain*)
+
+**Bṛhat Saṃhitā 9.2 and 9.6 with Utpala's Vivṛti** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> पवनः स्वातिः। याम्यं भरणी। अनलः कृत्तिकाः। एतानि नक्षत्राणि नागवीथी। पैतामहात्त्रिभास्तिस्रः। पैतामहं रोहिणी तत आरभ्य त्रिभास्त्रिभिस्त्रिभिर्भनक्षत्रैस्तिस्रो वीथयो भवन्ति। तद्यथा—रोहिणीमृगशिरआर्द्रा गजवीथी। पुनर्वसुतिष्याश्लेषा ऐरावती। मघा पूर्वफल्गुनी उत्तरफल्गुनी चेति वृषभा। गोवीथ्यामिति। अश्विन्यः पौष्णं रेवती द्वे भद्रपदे पूर्वभद्रपदोत्तरभद्रपदे। एतानि चत्वारि नक्षत्राणि गोवीथी। … [९.६ टीका] याम्या भरणी तदादिको नवनक्षत्रान्त उत्तरो मार्गो निगदित उक्तः।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *'Pavana is Svātī. Yāmya is Bharaṇī. Anala is Kṛttikā. These asterisms are the Nāga-vīthī. "Three triads from Paitāmaha": Paitāmaha is Rohiṇī; beginning from it, three vīthīs of three asterisms each are formed, namely: Rohiṇī, Mṛgaśiras, Ārdrā — the Gaja-vīthī; Punarvasu, Tiṣya, Āśleṣā — the Airāvatī; Maghā, Pūrva-Phalgunī, Uttara-Phalgunī — the Vṛṣabhā. "In the Go-vīthī": Aśvinī, Pauṣṇa (which is Revatī), and the two Bhadrapadās, Pūrva-Bhādrapadā and Uttara-Bhādrapadā — these four asterisms are the Go-vīthī.' On 9.6: 'Yāmyā is Bharaṇī; the northern mārga is declared to be the nine asterisms beginning with it.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Yama' = BHARAṆĪ, whose regent is Yama. Twice in ch. 9: Utpala's gloss on BS 9.2 'yāmyaṃ bharaṇī', and his gloss on BS 9.6 'yāmyā bharaṇī tad-ādiko nava-nakṣatrānta uttaro mārgo nigaditaḥ' — the northern mārga is the nine asterisms from Bharaṇī. Parāśara's Nāga-vīthī list uses it too. Modern star follows the database's 'bharani' entry. CAUTION: yāmya elsewhere in the same chapter is simply the adjective 'southern' (yāmya-mārga); only the two glosses cited here use it as an asterism-name.</sub>
+
+### पौष्ण (Pauṣṇa) — Revati
+
+**Modern identification:** Revati — ζ Piscium, Pisces (*certain*)
+
+**Bṛhat Saṃhitā 9.2 with Utpala's Vivṛti** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> पवनः स्वातिः। याम्यं भरणी। अनलः कृत्तिकाः। एतानि नक्षत्राणि नागवीथी। पैतामहात्त्रिभास्तिस्रः। पैतामहं रोहिणी तत आरभ्य त्रिभास्त्रिभिस्त्रिभिर्भनक्षत्रैस्तिस्रो वीथयो भवन्ति। तद्यथा—रोहिणीमृगशिरआर्द्रा गजवीथी। पुनर्वसुतिष्याश्लेषा ऐरावती। मघा पूर्वफल्गुनी उत्तरफल्गुनी चेति वृषभा। गोवीथ्यामिति। अश्विन्यः पौष्णं रेवती द्वे भद्रपदे पूर्वभद्रपदोत्तरभद्रपदे। एतानि चत्वारि नक्षत्राणि गोवीथी।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *'Pavana is Svātī. Yāmya is Bharaṇī. Anala is Kṛttikā. These asterisms are the Nāga-vīthī. "Three triads from Paitāmaha": Paitāmaha is Rohiṇī; beginning from it, three vīthīs of three asterisms each are formed, namely: Rohiṇī, Mṛgaśiras, Ārdrā — the Gaja-vīthī; Punarvasu, Tiṣya, Āśleṣā — the Airāvatī; Maghā, Pūrva-Phalgunī, Uttara-Phalgunī — the Vṛṣabhā. "In the Go-vīthī": Aśvinī, Pauṣṇa (which is Revatī), and the two Bhadrapadās, Pūrva-Bhādrapadā and Uttara-Bhādrapadā — these four asterisms are the Go-vīthī.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Pūṣan' = REVATĪ, whose regent is Pūṣan. Varāhamihira's word at BS 9.2; Utpala glosses 'pauṣṇaṃ revatī'. Independently confirmed by his gloss on the deity list at BS 97.5, 'pūṣā revatyāḥ'. Same asterism as the database's 'revati' entry; the modern star follows that entry.</sub>
+
+### भाग्य (Bhāgya) — Zosma
+
+**Modern identification:** Zosma — δ Leonis, Leo (*likely*)
+
+**Bṛhat Saṃhitā 9.6 with Utpala's Vivṛti, quoting Garga** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> उत्तरमार्गो याम्यादि निगदितो मध्यमस्तु भाग्याद्यः। दक्षिणमार्गोऽषाढादि कैश्चिदेवं कृता मार्गाः॥९.६॥ [टीका] कैश्चिदाचार्यैरेवमनेन प्रकारेण मार्गाः कृताः। ते च गर्गादयः। याम्या भरणी तदादिको नवनक्षत्रान्त उत्तरो मार्गो निगदित उक्तः। … मध्यमस्तु भाग्याद्यः। भाग्यं पूर्वफल्गुनी तदादिको नवनक्षत्रान्तो मध्यमो मार्गः। … तथा च गर्गः— अश्वयुग्भोगपर्यन्तेऽषाढादौ नवके गणे। वर्तमानः सदा क्रूरो दक्षिणे पथि वर्तते॥ शुक्रो निऋतिपर्यन्ते भाग्यादौ नवके गणे। वर्तमानश्च मध्यस्थो मध्यमे पथि वर्तते॥ भरण्यादौ मघान्ते च तृतीये नवके गणे। वर्तमानः शुभो ज्ञेय उत्तरे पथि वर्तते॥ इति॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. Garga's three couplets follow Achyuta Nand Jha's scan, which reads नवके गणे (locative) where Krishna Chandra Dvivedi's reads नवकं गणे, and निऋतिपर्यन्ते where his reads नि ऋतिपर्यन्तं; मघान्ते is from Krishna Chandra Dvivedi's scan (Jha's OCR has मधान्ते, a घ/ध confusion). None of these affects the sense or the names.*
+>
+> — *Mūla 9.6 (Iyer 1884, ch. IX v. 6, verbatim): 'According to others the nine constellations from Bharani form the northern Veedhi or path, the nine from Poorvaphalguni form the central path and the nine from Poorvashadha form the Southern path.' Commentary (compiler): 'By certain teachers the mārgas were made in this way — and they are Garga and the rest. Yāmyā is Bharaṇī; the northern mārga is declared to be the nine asterisms beginning with it… The middle one begins with Bhāgya: Bhāgya is Pūrva-Phalgunī, and the middle mārga is the nine asterisms beginning with it… And so Garga: "Reckon the nine beginning with Āṣāḍhā and ending with the enjoyment of Aśvayuj: moving there Venus is always cruel, and moves on the southern path. Reckon the nine beginning with Bhāgya and ending with Nirṛti: moving there Venus stands in the middle, and moves on the middle path. Reckon the third nine, beginning with Bharaṇī and ending with Maghā: moving there Venus is to be known as auspicious, and moves on the northern path."'*
+> <br>— N. Chidambaram Iyer (1884) for the mūla verse; commentary and Garga quotation rendered by the compiler ([source](https://archive.org/download/bihatsahitvarah00iyergoog/bihatsahitvarah00iyergoog_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Bhaga' = PŪRVA-PHALGUNĪ, whose regent is Bhaga. Varāhamihira's word at BS 9.6 ('madhyamas tu bhāgyādyaḥ'), glossed by Utpala 'bhāgyaṃ pūrva-phalgunī', who then enumerates the middle mārga's nine asterisms from Pūrva-Phalgunī to Mūla, confirming the equation arithmetically. Utpala independently glosses the deity at BS 97.4: 'yonir bhagaḥ pūrva-phalgunyāḥ'. Modern star follows the database's 'purva-phalguni' entry. This is also the scheme Utpala attributes to 'Garga and others' — he names them ('te ca gargādayaḥ') where Varāhamihira says only 'kaiścit'.</sub>
+
+**Mahābhārata 6.3.14 (Critical Edition, Bhīṣma Parva) = vulgate/Ganguli Bhīṣma Parva Section III** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> bhāgyaṃ nakṣatram ākramya sūryaputreṇa pīḍyate / śukraḥ proṣṭhapade pūrve samāruhya viśāṃ pate //
+>
+> *CE lines 06,003.014a/014c. CE 6.3 = vulgate Bhīṣma Parva Section III; the numbering coincides.*
+>
+> — *The Sun's offspring (Sani) approaching towards the constellation Bhaga, afflicteth it. The planet Sukra, ascending towards Purva Bhadra, shineth brilliantly, and wheeling towards the Uttara Bhadra, looketh towards it, having effected a junction (with a smaller planet).*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06003.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** 'Bhāgya nakṣatra' = the asterism of Bhaga = Pūrva-Phalgunī, whose presiding deity is Bhaga throughout the nakṣatra-devatā lists (Taittirīya Saṃhitā 4.4.10, Śārdūlakarṇāvadāna, Sūrya Siddhānta tradition). It stands in a list of omens where every other item is a planet-on-nakṣatra statement, so a nakṣatra is certainly meant, and Ganguli renders it 'the constellation Bhaga'. This is a deity-derived alias of the same family as Maitra, Āgneya, Prājeśa and Raudra already in the database, but Bhāgya itself is not yet recorded. The δ Leonis identification is the Sūrya-Siddhānta yogatārā of Pūrva-Phalgunī and is imported, not epic; the epic gives no position. NOTE the ambiguity: a minority reading takes bhāgya generically as 'the natal asterism', but the parallel construction of the surrounding verses (maghāsu, śravaṇe, proṣṭhapade, jyeṣṭhām) makes the proper-name sense far more likely.</sub>
+
+### पवन / अनिल / वायव्य (Pavana / Anila / Vāyavya) — Arcturus
+
+**Modern identification:** Arcturus — α Boötis, Boötes (*certain*)
+
+**Bṛhat Saṃhitā 9.2 with Utpala's Vivṛti; Utpala on BS 9.4 quoting Parāśara; on 9.22 quoting the Samāsa-saṃhitā** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> पवनः स्वातिः। याम्यं भरणी। अनलः कृत्तिकाः। एतानि नक्षत्राणि नागवीथी। पैतामहात्त्रिभास्तिस्रः। पैतामहं रोहिणी तत आरभ्य त्रिभास्त्रिभिस्त्रिभिर्भनक्षत्रैस्तिस्रो वीथयो भवन्ति। तद्यथा—रोहिणीमृगशिरआर्द्रा गजवीथी। पुनर्वसुतिष्याश्लेषा ऐरावती। मघा पूर्वफल्गुनी उत्तरफल्गुनी चेति वृषभा। गोवीथ्यामिति। अश्विन्यः पौष्णं रेवती द्वे भद्रपदे पूर्वभद्रपदोत्तरभद्रपदे। एतानि चत्वारि नक्षत्राणि गोवीथी। … [पराशरः] तासां नागाऽऽग्नेययाम्यवायव्यानि। … [समाससंहिता] भरणीरौद्रमघाऽनिलशक्रधनिष्ठादिसम्प्रवृत्तेषु।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. The Samāsa-saṃhitā line भरणीरौद्रमघाऽनिलशक्रधनिष्ठादिसम्प्रवृत्तेषु is a COMPOSITE of two damaged scans and is not verbatim from any single one: Krishna Chandra Dvivedi's reads भरणीरोद्रमघाऽनिटशक्रधनिप्ठादिसम्प्रवृत्तेषु, Achyuta Nand Jha's भरणीरीद्रमघाऽनिलशक्रधनिष्ठादिसम्मवृत्तेषु; each supplies exactly what the other loses. Flagged as a reconstruction. Also, the words ज्येष्ठाद्ये द्वे पञ्चनक्षत्रे in the Parāśara maṇḍala passage follow A.V. Tripathi's scan (ज्येष्ठादये दे); Achyuta Nand Jha's reads ज्येष्ठाय द्वे and Krishna Chandra Dvivedi's ज्येष्ठा द्वे.*
+>
+> — *'Pavana is Svātī. Yāmya is Bharaṇī. Anala is Kṛttikā. These asterisms are the Nāga-vīthī. "Three triads from Paitāmaha": Paitāmaha is Rohiṇī; beginning from it, three vīthīs of three asterisms each are formed, namely: Rohiṇī, Mṛgaśiras, Ārdrā — the Gaja-vīthī; Punarvasu, Tiṣya, Āśleṣā — the Airāvatī; Maghā, Pūrva-Phalgunī, Uttara-Phalgunī — the Vṛṣabhā. "In the Go-vīthī": Aśvinī, Pauṣṇa (which is Revatī), and the two Bhadrapadās, Pūrva-Bhādrapadā and Uttara-Bhādrapadā — these four asterisms are the Go-vīthī.' Parāśara: 'Of these, the Nāgā consists of Āgneya (Kṛttikā), Yāmya (Bharaṇī) and Vāyavya (Svātī).' Samāsa-saṃhitā: '…the maṇḍalas beginning with Bharaṇī, Raudra, Maghā, Anila, Śakra and Dhaniṣṭhā…'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** Three wind-god epithets for SVĀTĪ, whose regent is Vāyu, all attested in Utpala's ch. 9. (1) 'Pavana' is Varāhamihira's word at BS 9.2, glossed by Utpala 'pavanaḥ svātiḥ'. (2) 'Vāyavya' is Parāśara's, in the quoted list of the Nāga-vīthī: 'tāsāṃ nāgā āgneya-yāmya-vāyavyāni' = Kṛttikā, Bharaṇī, Svātī. (3) 'Anila' is the Samāsa-saṃhitā's, in the list of the six maṇḍalas: 'bharaṇī-raudra-maghā-anila-śakra-dhaniṣṭhādi'. The database already has Svātī = Arcturus and the Vedic alias Niṣṭya; these three are the deity-epithet family, hitherto unrecorded.</sub>
+
+### त्वाष्ट्र (Tvāṣṭra) — Spica
+
+**Modern identification:** Spica — α Virginis, Virgo (*certain*)
+
+**Bṛhat Saṃhitā 9.3 with Utpala's Vivṛti; Utpala on 9.4 quoting Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> जारद्गव्यामिति। श्रवणात्प्रभृति त्रिभं नक्षत्रत्रयं श्रवणा धनिष्ठा शतभिषगिति जारद्गव्याम्। मृगाख्या त्रिभं तु मैत्राद्यम्। मैत्रमनुराधा तदाद्यं त्रिभं नक्षत्रत्रितयम्। अनुराधा ज्येष्ठा मूलमिति मृगाख्या। तुशब्दः पादपूरणे। हस्तो विशाखा त्वष्ट चित्रा। एतानि नक्षत्राण्यजा अजवीथी। अषाढाद्वयं पूर्वाषाढोत्तराषाढा चेति दहनवीथी।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. All three scans print त्वष्ट here where the mūla has त्वाष्ट्राणि; the missing -ra- is an OCR/typesetting artifact, and the sense (Citrā) is stated outright in the same clause.*
+>
+> — *'"In the Jāradgavī": the triad of asterisms beginning from Śravaṇa — Śravaṇā, Dhaniṣṭhā, Śatabhiṣaj — are in the Jāradgavī. "The Mṛga-named, a triad beginning with Maitra": Maitra is Anurādhā, and the triad of asterisms beginning with it — Anurādhā, Jyeṣṭhā, Mūla — is the Mṛgākhyā. The word tu is a metrical filler. Hasta, Viśākhā, Tvāṣṭra (Citrā): these asterisms are the Ajā, the Aja-vīthī. The two Āṣāḍhās, Pūrvāṣāḍhā and Uttarāṣāḍhā, are the Dahana-vīthī.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Tvaṣṭṛ' = CITRĀ, whose regent is Tvaṣṭṛ. Varāhamihira's word at BS 9.3 ('hasta-viśākhā-tvāṣṭrāṇy ajā'), glossed by Utpala 'hasto viśākhā tvaṣṭ[ra] citrā — etāni nakṣatrāṇy ajā ajavīthī'. Parāśara's quoted scheme uses it too ('mṛgavīthī tvāṣṭra-hastam'). Utpala confirms the deity at BS 97.4: 'tvaṣṭā citrāyāḥ'. The word is old — Maitrāyaṇī Saṃhitā 2.13.20, already in the database under 'nishtya', gives 'citrā nakṣatraṃ tvaṣṭā devatā'. Modern star follows the database's 'chitra' entry.</sub>
+
+### वारुण (Vāruṇa) — Hydor
+
+**Modern identification:** Hydor — λ Aquarii, Aquarius (*certain*)
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.4, quoting Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *'Now there are three mārgas, northern, middle and southern; and again, each singly threefold, they declare nine vīthīs. Of these, in the north are Nāgā, Gajā and Airāvatī; in the middle, Vṛṣabhā, Go and Jāradgavī; in the south, Mṛgā, Ajā and Dahanā. Of these, the Nāgā consists of Āgneya (Kṛttikā), Yāmya (Bharaṇī) and Vāyavya (Svātī). The Gaja-vīthī is the three beginning with Rohiṇī. Beyond that, four make the Airāvatī. The Vṛṣabhā is the two Phalgunīs. The Go-vīthī is the four beginning with Prākproṣṭhapadā. Śravaṇa, Dhaniṣṭhā and Vāruṇa (Śatabhiṣaj) are the Jāradgavī. The Mṛga-vīthī is Tvāṣṭra (Citrā) and Hasta. The Ājī is Maitra (Anurādhā), the one whose lords are Indra and Agni (Viśākhā), and Maindra (Jyeṣṭhā). And Mūla with the two Āṣāḍhās they hold to be the Vaiśvānarī.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Varuṇa' = ŚATABHIṢAJ, whose regent is Varuṇa. From Parāśara's vīthī scheme quoted by Utpala on BS 9.4: 'śravaṇa-dhaniṣṭhā-vāruṇāni jāradgavī' — Śravaṇa, Dhaniṣṭhā and Vāruṇa form the Jāradgavī. Position in the triad fixes it: the asterism after Dhaniṣṭhā is Śatabhiṣaj. Utpala confirms the deity at BS 97.5: 'varuṇo ’pāṃ-patiḥ śatabhiṣajaḥ'. SCAN VARIANT: the Krishna Chandra Dvivedi scan reads वारुणानि (grammatically the expected vṛddhi form), the Achyuta Nand Jha scan वरुणानि; the difference is orthographic only. Modern star follows the database's 'shatabhishaj' entry.</sub>
+
+### प्रचेतस् (Pracetas) — Śatabhiṣaj (λ Aquarii)
+
+**Modern identification:** Śatabhiṣaj (λ Aquarii) — λ Aquarii, Aquarius (*certain*)
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 19–22** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अश्वि(१)चन्द्र(५)भगी(११)न्द्राग्नि(१६)-
+> तोय(२०)विश्वा(२१)जपादजाः(२५) ।
+> अहिर्बुध्न्यो(२६)त्तरस्था योगतारा ध्रुवांशगाः ॥ १९ ॥
+> इन्द्र(१८)गोविन्द(२२)मित्रा(१७)ग्नि(३)जीवानां(८) मध्यगा मताः ।
+> अदित्या(७)दित्य(१२)दैत्याना(१८)मीशानदिगवस्थिताः ॥ २० ॥
+> वित्त(२३)स्याभिजितः(०) पश्चात् पूर्व्वस्यां ब्रह्म(४)सर्पयोः(९) ।
+> याम्या स्थूला पितुः(१०) पूष(२७)-
+> यमा(२)र्यम्णाञ्च(१२) दक्षिणाः ॥ २१ ॥
+> कपीटयोनिकाष्ठायां योगतारा प्रचेतसः(२४) ।
+> शङ्करत्वष्टृवातानां(९)(१४)(१५) स्वरूपाण्येकभावतः ॥ २२ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n219 = printed p. 117) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n219.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Several deity-numbers in this compressed list are hard to read in this print (notably the second serial number in v. 20 and the first word of v. 22) and are given as read, not emended.*
+>
+> — *(19) 'Of Aśvi (1), Candra (5), Bhaga (11), Indrāgni (16), Toya (20), Viśva (21), Ajapāda (25) and Ahirbudhnya (26) the junction star, [which carries] the dhruva-degrees, is the northern one. (20) Of Indra (18), Govinda (22), Mitra (17), Agni (3) and Jīva (8) it is held to be the middle one; of Aditi (7), Āditya (12) and … it is the one placed to the north-east. (21) Of Vitta (23) and of Abhijit (0) it is behind [i.e. western]; of Brahmā (4) and Sarpa (9) it is in the east; of Pitṛ (10) it is the bright southern one; of Pūṣan (27), Yama (2) and Aryaman (12) they are southern. (22) The junction star of Pracetas (24) is in the … quarter. Of Śaṅkara, Tvaṣṭṛ and Vāta the forms are single.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** Pracetas, an epithet of Varuṇa, deity of Śatabhiṣaj, used for the asterism at XII.22 in specifying where its junction star lies within the group. Sāmanta's verses XII.19–22, which say for each asterism WHICH member star is the yogatārā (northern, middle, eastern, western, southern or north-eastern), refer to the asterisms almost entirely by their presiding deities, and so preserve a compact list of deity-epithet star names.</sub>
+
+### मैन्द्र (Maindra) — Antares
+
+**Modern identification:** Antares — α Scorpii, Scorpius (*likely*)
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.4, quoting Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See the full rendering under db_id 'varuna-shatabhishaj': '…The Ājī is Maitra (Anurādhā), the one whose lords are Indra and Agni (Viśākhā), and Maindra (Jyeṣṭhā).'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Mahendra/Indra' = JYEṢṬHĀ, whose regent is Indra. From Parāśara's vīthī list quoted by Utpala on BS 9.4: 'ājī maitram aindrāgnyadhipam maindram' — the Ājī consists of Maitra (Anurādhā), the asterism whose lords are Indrāgnī (Viśākhā), and Maindra (Jyeṣṭhā). Order within the triad fixes the referent. Utpala confirms the deity at BS 97.5: 'śakra indro jyeṣṭhāyāḥ'. Related to the Aindra that Brahmagupta uses for Jyeṣṭhā (already noted in the database's 'agneya' entry) but a distinct vṛddhi form. Confidence 'likely' rather than 'certain' because the scans differ slightly on the compound: Krishna Chandra Dvivedi मैत्रमिन्द्रागन्यधिपमैन्द्रम्, Achyuta Nand Jha मैत्रमैन्द्रागन्यधिपमैन्द्रम् — both end in -maindram, but the internal division is not perfectly secure in an OCR text.</sub>
+
+### ऐन्द्र नक्षत्र (Aindra nakṣatra) — Antares
+
+**Modern identification:** Antares — α Scorpii, Scorpius (*certain*)
+
+**Mahābhārata 6.3.15 (Critical Edition, Bhīṣma Parva) = vulgate/Ganguli Bhīṣma Parva Section III** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> śyāmo grahaḥ prajvalitaḥ sadhūmaḥ sahapāvakaḥ / aindraṃ tejasvi nakṣatraṃ jyeṣṭhām ākramya tiṣṭhati //
+>
+> *CE lines 06,003.015a/015c.*
+>
+> — *The white planet (Ketu), blazing up like fire mixed with smoke, stayeth, having attacked the bright constellation Jeshtha that is sacred to Indra.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06003.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The identification is made inside the verse itself, which is why this is 'certain' rather than inferred: 'the brilliant AINDRA asterism, Jyeṣṭhā' (aindraṃ tejasvi nakṣatraṃ jyeṣṭhām ākramya tiṣṭhati) — Aindra and Jyeṣṭhā are in apposition. Indra is Jyeṣṭhā's presiding deity in every nakṣatra-devatā list, and Jyeṣṭhā's yogatārā is Antares (α Sco) per the Sūrya Siddhānta entry already in the database. The database records 'rohini-indra' (a second Rohiṇī = Jyeṣṭhā, Vedic) and 'indra-mahendra' (a Śiśumāra position) but not Aindra as a nakṣatra name. Ganguli glosses it 'the bright constellation Jeshtha that is sacred to Indra'.</sub>
+
+### एकपाद / अजा (Ekapāda / Ajā) — Markab
+
+**Modern identification:** Markab — α Pegasi, Pegasus (*certain*)
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.4 quoting the Samāsa-saṃhitā, and on 9.1 quoting Kāśyapa; cf. Utpala on 97.5** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> वीथी नागा नाम्नी स्वातिर्भरणी च कृत्तिका चैव। स्वायम्भुवत्रिभाः स्युर्गजवीथ्यैरावती वृषभा॥ एकपदादिचतुष्कं गौः स्याज्जारद्गवी त्रिभा श्रवणात्। मैत्रात्त्रिभं मृगाऽजा हस्तश्चित्रा विशाखा च॥ द्वे चाषाढे दहना तिस्र उदग्वीथयः क्रमाच्छुभदाः। मध्या मध्यास्तिस्रो याम्याः पापा मृगाद्यास्ताः॥ इति॥ … [काश्यपः] अजवीथी विष्णुभाद्याऽजाद्या तु दहना स्मृता॥ … [९७.५ टीका] अजपादोऽजैकपात् पूर्वभद्रपदायाः।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. The final clause, Utpala's gloss on BS 97.5, is NOT in vol. 1 — it is quoted from A.V. Tripathi's part II, archive.org item zund-brihat-samhita-part-2-vivriti-bhattotpala-by-varah, whose scan reads अजपादोऽजेकपात् पूर्वभद्रपदाथाः (जे for जै, थाः for याः).*
+>
+> — *Samāsa-saṃhitā: 'The vīthī named Nāgā is Svātī, Bharaṇī and Kṛttikā; the triads from Svāyambhuva (Rohiṇī) are the Gaja-vīthī, the Airāvatī and the Vṛṣabhā. The four beginning with Ekapāda are the Gauḥ; the triad from Śravaṇa is the Jāradgavī; the triad from Maitra is the Mṛgā; the Ajā is Hasta, Citrā and Viśākhā; the two Āṣāḍhās are the Dahanā. The first three are the northern vīthīs and are in order auspicious; the middle three are middling; the southern three, those beginning with Mṛgā, are evil.' Kāśyapa: 'The Aja-vīthī begins with Viṣṇubha (Śravaṇa), and the Dahanā, beginning with Ajā, is so remembered.' Utpala on 97.5: 'Ajapāda, that is Aja-ekapād, is the regent of Pūrva-Bhādrapadā.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** Two short forms of AJA EKAPĀD, the one-footed goat-deity who is the regent of PŪRVA-BHĀDRAPADĀ, used as the asterism's own name in two texts quoted by Utpala and nowhere else in the database. (1) Samāsa-saṃhitā (Varāhamihira's lost epitome): 'ekapadādi-catuṣkaṃ gauḥ' — the Go-vīthī is the four beginning with Ekapāda; since Varāhamihira's own Go-vīthī at BS 9.2 is Pūrva-Bhādrapadā, Uttara-Bhādrapadā, Revatī, Aśvinī, Ekapāda = Pūrva-Bhādrapadā. (2) Kāśyapa: 'ajavīthī viṣṇubhādyā ajādyā tu dahanā smṛtā' — Dahanā begins with Ajā; counting Kāśyapa's triads from Aśvinī, the twenty-fifth asterism is Pūrva-Bhādrapadā. Utpala clinches it in his gloss on the deity list, BS 97.5: 'ajapādo ’jaikapāt pūrva-bhadrapadāyāḥ'. Modern star follows the database's 'purva-bhadrapada' entry.</sub>
+
+### आदित्य (Āditya) — Pollux
+
+**Modern identification:** Pollux — β Geminorum, Gemini (*certain*)
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.1, quoting Kāśyapa** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> त्रिष्वश्विन्यादिषु यदा चरति भृगुनन्दनः। नागवीथीति सा ज्ञेया प्रथमान्या निबोधत॥ रोहिण्यादिगजा ज्ञेयाऽदित्याद्यैरावती स्मृता। मघाद्या वृषभा ज्ञेया हस्ताद्या गौः प्रकीर्तिता॥ जारद्गवी विशाखाद्या मूलाद्या मृगवीथिका। अजवीथी विष्णुभाद्याऽजाद्या तु दहना स्मृता॥ इति॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *'When Bhṛgu's delight (Venus) moves in the three beginning with Aśvinī, that is to be known as the Nāga-vīthī, the first; learn the others. The Gajā is to be known as beginning with Rohiṇī; the Airāvatī is remembered as beginning with Āditya (Punarvasu). The Vṛṣabhā is to be known as beginning with Maghā; the Gauḥ is proclaimed as beginning with Hasta. The Jāradgavī begins with Viśākhā, the Mṛga-vīthikā with Mūla. The Aja-vīthī begins with Viṣṇubha (Śravaṇa), and the Dahanā, beginning with Ajā (Pūrva-Bhādrapadā), is so remembered.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'That of Aditi' = PUNARVASU, whose regent is Aditi. From Kāśyapa's vīthī verses quoted by Utpala on BS 9.1: 'rohiṇyādi gajā jñeyā ādityādyairāvatī smṛtā' — the Gajā begins with Rohiṇī, the Airāvatī with Āditya. In Kāśyapa's scheme (triads from Aśvinī) the seventh asterism is Punarvasu, so Āditya = Punarvasu. Utpala's gloss on Varāhamihira's own parallel at BS 9.2 makes the same triad explicit: 'punarvasu-tiṣyāśleṣā airāvatī'. The usage is corroborated outside Utpala: Burgess renders Sūrya-siddhānta 8.19's 'āditya' as Punarvasu. Modern star follows the database's 'punarvasu' entry.</sub>
+
+### नक्षत्रेऽदितिदैवत्ये (Aditidaivatya nakṣatra) — Pollux
+
+**Modern identification:** Pollux — β Geminorum, Gemini (*certain*)
+
+**Rāmāyaṇa (VULGATE) Bāla Kāṇḍa 18.9; absent from the Critical Edition, whose parallel is 1.17.6** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रामायणम्/बालकाण्डम्/सर्गः_१८)
+
+> नक्षत्रेऽदितिदैवत्ये स्वोच्चसंस्थेषु पञ्चसु । ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह ॥१-१८-९॥
+>
+> *VULGATE ONLY. Verbatim from Sanskrit Wikisource, Rāmāyaṇam / Bālakāṇḍam / Sargaḥ 18, verse 9 (fetched via action=raw). The Critical Edition sarga 1.17 does not contain it. Vulgate sarga 18 = CE sarga 17.*
+>
+> — *Griffith: 'The moon within that mansion shone / Which Aditi looks kindly on. / Raised to their apex in the sky / Five brilliant planets beamed on high. / Shone with the moon, in Cancer's sign, / Vrihaspati with light divine.' Dutt: 'in the twelfth month, on the ninth lunar day, under the influence of the Punarvasu asterism, when the Sun, the Moon, Saturn, Jupiter, and Venus were at Aries, Capricorn, Libra, Cancer, and Pisces,—and when Jupiter had arisen with the Moon at Cancer, Kausalyā gave birth to that lord of the universe.'*
+> <br>— Ralph T. H. Griffith (1870-74) and Manmatha Nath Dutt (1892) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry021.htm) · [mirror](https://archive.org/download/in.ernet.dli.2015.217233/2015.217233.The-Ramayana_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** Rāma's birth-star, named periphrastically by its presiding deity: 'in the asterism whose deity is ADITI' = Punarvasu, whose devatā is Aditi in every nakṣatra-devatā list. Griffith's note is explicit: 'Aditi, the mother of the Gods, is lady of the seventh lunar mansion which is called Punarvasu.' CRITICAL TEXTUAL POINT, and the reason this is recorded separately: THE VERSE IS NOT IN THE CRITICAL EDITION. The GRETIL Critical Edition text at R_1,017.006 reads simply 'kausalyājanayad rāmaṃ divyalakṣaṇasaṃyutam' with no date, no lagna and no nakṣatra, and a search of the whole CE file for 'aditidaivat' returns zero hits. The astrological frame — Caitra, the ninth tithi, the Aditi-asterism, five planets exalted, Cancer rising, Jupiter with the moon — belongs to the vulgate (Bāla Kāṇḍa 18.8-10), quoted here from Sanskrit Wikisource. The same vulgate passage gives Bharata's Puṣya and the twins' Sārpa (18.15). Anyone citing 'Rāmāyaṇa Bāla 18' for Rāma's birth-star must say they are citing the vulgate.</sub>
+
+### देवमातृ (Devamātṛ) — Punarvasu (β Geminorum)
+
+**Modern identification:** Punarvasu (β Geminorum) — β Geminorum, Gemini (*certain*)
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 19–22** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अश्वि(१)चन्द्र(५)भगी(११)न्द्राग्नि(१६)-
+> तोय(२०)विश्वा(२१)जपादजाः(२५) ।
+> अहिर्बुध्न्यो(२६)त्तरस्था योगतारा ध्रुवांशगाः ॥ १९ ॥
+> इन्द्र(१८)गोविन्द(२२)मित्रा(१७)ग्नि(३)जीवानां(८) मध्यगा मताः ।
+> अदित्या(७)दित्य(१२)दैत्याना(१८)मीशानदिगवस्थिताः ॥ २० ॥
+> वित्त(२३)स्याभिजितः(०) पश्चात् पूर्व्वस्यां ब्रह्म(४)सर्पयोः(९) ।
+> याम्या स्थूला पितुः(१०) पूष(२७)-
+> यमा(२)र्यम्णाञ्च(१२) दक्षिणाः ॥ २१ ॥
+> कपीटयोनिकाष्ठायां योगतारा प्रचेतसः(२४) ।
+> शङ्करत्वष्टृवातानां(९)(१४)(१५) स्वरूपाण्येकभावतः ॥ २२ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n219 = printed p. 117) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n219.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Several deity-numbers in this compressed list are hard to read in this print (notably the second serial number in v. 20 and the first word of v. 22) and are given as read, not emended.*
+>
+> — *(19) 'Of Aśvi (1), Candra (5), Bhaga (11), Indrāgni (16), Toya (20), Viśva (21), Ajapāda (25) and Ahirbudhnya (26) the junction star, [which carries] the dhruva-degrees, is the northern one. (20) Of Indra (18), Govinda (22), Mitra (17), Agni (3) and Jīva (8) it is held to be the middle one; of Aditi (7), Āditya (12) and … it is the one placed to the north-east. (21) Of Vitta (23) and of Abhijit (0) it is behind [i.e. western]; of Brahmā (4) and Sarpa (9) it is in the east; of Pitṛ (10) it is the bright southern one; of Pūṣan (27), Yama (2) and Aryaman (12) they are southern. (22) The junction star of Pracetas (24) is in the … quarter. Of Śaṅkara, Tvaṣṭṛ and Vāta the forms are single.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** 'Mother of the gods' = Aditi, the presiding deity of Punarvasu, used at XII.25 as the name of the asterism itself ('the star gone south of Devamātṛ's asterism (7)'). The database already has several such deity-epithet names for nakṣatras; this form is not yet among them. Sāmanta's verses XII.19–22, which say for each asterism WHICH member star is the yogatārā (northern, middle, eastern, western, southern or north-eastern), refer to the asterisms almost entirely by their presiding deities, and so preserve a compact list of deity-epithet star names.</sub>
+
+### विष्णुभ (Viṣṇubha) — Altair
+
+**Modern identification:** Altair — α Aquilae, Aquila (*certain*)
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.1, quoting Kāśyapa** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> त्रिष्वश्विन्यादिषु यदा चरति भृगुनन्दनः। नागवीथीति सा ज्ञेया प्रथमान्या निबोधत॥ रोहिण्यादिगजा ज्ञेयाऽदित्याद्यैरावती स्मृता। मघाद्या वृषभा ज्ञेया हस्ताद्या गौः प्रकीर्तिता॥ जारद्गवी विशाखाद्या मूलाद्या मृगवीथिका। अजवीथी विष्णुभाद्याऽजाद्या तु दहना स्मृता॥ इति॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See the full rendering under db_id 'aditya-punarvasu'.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'Viṣṇu's asterism' = ŚRAVAṆA, whose regent is Viṣṇu. From Kāśyapa's vīthī verses quoted by Utpala on BS 9.1: 'ajavīthī viṣṇubhādyā' — the Aja-vīthī begins with Viṣṇubha; the twenty-second asterism counting from Aśvinī in triads is Śravaṇa. Utpala confirms the deity at BS 97.5: 'harir viṣṇuḥ śravaṇasya'. Distinct word-form from, but same sense as, the database's existing 'vaishnava' (Vaiṣṇava, Sūrya-siddhānta 9.18); see_also that entry. Modern star follows the database's 'shravana'/'vaishnava' identification of Śravaṇa with Altair.</sub>
+
+### गोविन्द (Govinda) — Śravaṇa (α Aquilae)
+
+**Modern identification:** Śravaṇa (α Aquilae) — α Aquilae, Aquila (*certain*)
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 19–22** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अश्वि(१)चन्द्र(५)भगी(११)न्द्राग्नि(१६)-
+> तोय(२०)विश्वा(२१)जपादजाः(२५) ।
+> अहिर्बुध्न्यो(२६)त्तरस्था योगतारा ध्रुवांशगाः ॥ १९ ॥
+> इन्द्र(१८)गोविन्द(२२)मित्रा(१७)ग्नि(३)जीवानां(८) मध्यगा मताः ।
+> अदित्या(७)दित्य(१२)दैत्याना(१८)मीशानदिगवस्थिताः ॥ २० ॥
+> वित्त(२३)स्याभिजितः(०) पश्चात् पूर्व्वस्यां ब्रह्म(४)सर्पयोः(९) ।
+> याम्या स्थूला पितुः(१०) पूष(२७)-
+> यमा(२)र्यम्णाञ्च(१२) दक्षिणाः ॥ २१ ॥
+> कपीटयोनिकाष्ठायां योगतारा प्रचेतसः(२४) ।
+> शङ्करत्वष्टृवातानां(९)(१४)(१५) स्वरूपाण्येकभावतः ॥ २२ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n219 = printed p. 117) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n219.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Several deity-numbers in this compressed list are hard to read in this print (notably the second serial number in v. 20 and the first word of v. 22) and are given as read, not emended.*
+>
+> — *(19) 'Of Aśvi (1), Candra (5), Bhaga (11), Indrāgni (16), Toya (20), Viśva (21), Ajapāda (25) and Ahirbudhnya (26) the junction star, [which carries] the dhruva-degrees, is the northern one. (20) Of Indra (18), Govinda (22), Mitra (17), Agni (3) and Jīva (8) it is held to be the middle one; of Aditi (7), Āditya (12) and … it is the one placed to the north-east. (21) Of Vitta (23) and of Abhijit (0) it is behind [i.e. western]; of Brahmā (4) and Sarpa (9) it is in the east; of Pitṛ (10) it is the bright southern one; of Pūṣan (27), Yama (2) and Aryaman (12) they are southern. (22) The junction star of Pracetas (24) is in the … quarter. Of Śaṅkara, Tvaṣṭṛ and Vāta the forms are single.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** Govinda, i.e. Viṣṇu, deity of Śravaṇa, used for the asterism at XII.20. The database already has Vaiṣṇava for the same asterism; Govinda is a further form. Sāmanta's verses XII.19–22, which say for each asterism WHICH member star is the yogatārā (northern, middle, eastern, western, southern or north-eastern), refer to the asterisms almost entirely by their presiding deities, and so preserve a compact list of deity-epithet star names.</sub>
+
+### ब्रह्मनक्षत्रम् (Brahma-nakṣatra) — Vega
+
+**Modern identification:** Vega — α Lyrae, Lyra (*certain*)
+
+*See also:* `abhijit`, `brahmana-nakshatra`, `brahmarashi`
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 11.33–36, quoting Parāśara; cf. mūla BS 11.34 and Utpala on BS 97.5** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> तथा च पराशरः— अथ पैतामहश्चलकेतुः पञ्चदशवर्षशतं प्रोष्योदितः पश्चिमेनाङ्गुलिपर्वमात्रां शिखां दक्षिणाभिगतां कृत्वा जलकेतोश्चारान्ते नभसस्त्रिभागमनुचरन् यथा यथा चोत्तरेण व्रजति तथा तथा शूलाग्राकारां शिखां दर्शयन् ब्रह्मनक्षत्रमुपसृत्य मनाग् ध्रुवं ब्रह्मराशिं सप्तर्षीन् स्पृशन् नभसोऽर्धमात्रं दक्षिणमनुक्रम्यास्तं व्रजति।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. The corresponding mūla is BS 11.34, GRETIL: 'saptamunīn saṃspṛśya dhruvam abhijitam eva ca pratinivṛttaḥ / nabhaso +ardhamātram itvā yāmyena^astam samupayāti' (https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_varAhamihira-bRhatsaMhitA.txt).*
+>
+> — *Mūla BS 11.34 (Iyer 1884, ch. XI v. 34, verbatim, OCR typos corrected): 'After touching the Ursa Major or the Pole star, or the constellation of Abhijit, it turns back and after travelling one half of the sky disappears in the South.' Utpala's Parāśara quotation (rendered by the compiler): 'And so Parāśara: Now the Paitāmaha Cala-ketu, having lain hidden fifteen hundred years, rises in the west with a tail a finger-joint long turned southward; at the end of the Jala-ketu's course it traverses a third of the sky, and the further north it goes the more it shows a spear-pointed tail; approaching the Brahma-nakṣatra and just grazing Dhruva, the Brahmarāśi and the Seven Ṛṣis, it crosses half the sky southward and sets.'*
+> <br>— N. Chidambaram Iyer (1884) for the mūla; Parāśara quotation rendered by the compiler ([source](https://archive.org/download/bihatsahitvarah00iyergoog/bihatsahitvarah00iyergoog_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'The asterism of Brahmā' = ABHIJIT. Identification is secure by direct textual substitution: Varāhamihira's mūla at BS 11.34 says the Cala-ketu comet touches 'sapta-munīn, dhruvam, abhijitam eva ca'; the Parāśara passage Utpala quotes on the same verses says it approaches 'brahma-nakṣatram', then grazes 'dhruvaṃ brahmarāśiṃ saptarṣīn'. Brahma-nakṣatra therefore stands exactly where Varāhamihira has Abhijit. Utpala confirms the equation independently in his gloss on the nakṣatra-deity list at BS 97.5: 'brahmā abhijitaḥ' — Brahmā is Abhijit's regent. Abhijit = Vega is fixed elsewhere in the database. Bears on the database's unidentified 'Brāhmaṇa' nakṣatra of Maitrāyaṇī Saṃhitā 2.13.20: that one has SOMA as its deity, not Brahmā, so the two are probably NOT the same name and Brahma-nakṣatra does not resolve it.</sub>
+
+### नैर्ऋत (Nairṛta (nairṛtaṃ nakṣatram)) — Shaula
+
+**Modern identification:** Shaula — λ Scorpii, Scorpius (*certain*)
+
+**Rāmāyaṇa 6.4.46 (Critical Edition, Yuddha Kāṇḍa) = Griffith Book VI Canto IV** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> nairṛtaṃ nairṛtānāṃ ca nakṣatram abhipīḍyate / mūlaṃ mūlavatā spṛṣṭaṃ dhūpyate dhūmaketunā //
+>
+> *CE reference R_6,004.046. Griffith and Dutt both place the passage in Yuddha Kāṇḍa chapter 4, so CE and vulgate numbering agree here.*
+>
+> — *Griffith: 'And Nairrit's influence that aids / Our Rákshas foemen faints and fades', with the footnote 'The lunar asterism Múla, belonging to the Rákshases.' Dutt: 'And Nairita, the radical star of the Nairitas, is sore afflicted and, touched by the rod-bearing Dhumketu is in trouble. All this is for the destruction of the Rakshasas.'*
+> <br>— Ralph T. H. Griffith (1870-74) and Manmatha Nath Dutt (1893) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry403.htm) · [mirror](https://archive.org/download/dli.ministry.19598/E01470_The_Ramayana_Yuddha_Kandam_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** A deity-derived alias for Mūla (Nirṛti is Mūla's presiding deity), identified inside the verse by juxtaposition: 'the Nairṛta asterism OF THE NAIRṚTAS is afflicted; MŪLA, touched by the mūlavat, is smoked by a comet.' The play on nairṛta (the asterism / the rākṣasas, who are Nirṛti's people) and on mūla ('root, base' / the asterism) is the point of the verse — the rākṣasas' own star is being struck. Griffith's footnote makes the identification explicit: 'The lunar asterism Múla, belonging to the Rákshases.' Dutt renders 'Nairita, the radical star of the Nairitas'. λ Sco comes from the Sūrya Siddhānta entry. Not previously in the database.</sub>
+
+### जीव (Jīva) — Puṣya (δ Cancri)
+
+**Modern identification:** Puṣya (δ Cancri) — δ Cancri, Cancer (*certain*)
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 19–22** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अश्वि(१)चन्द्र(५)भगी(११)न्द्राग्नि(१६)-
+> तोय(२०)विश्वा(२१)जपादजाः(२५) ।
+> अहिर्बुध्न्यो(२६)त्तरस्था योगतारा ध्रुवांशगाः ॥ १९ ॥
+> इन्द्र(१८)गोविन्द(२२)मित्रा(१७)ग्नि(३)जीवानां(८) मध्यगा मताः ।
+> अदित्या(७)दित्य(१२)दैत्याना(१८)मीशानदिगवस्थिताः ॥ २० ॥
+> वित्त(२३)स्याभिजितः(०) पश्चात् पूर्व्वस्यां ब्रह्म(४)सर्पयोः(९) ।
+> याम्या स्थूला पितुः(१०) पूष(२७)-
+> यमा(२)र्यम्णाञ्च(१२) दक्षिणाः ॥ २१ ॥
+> कपीटयोनिकाष्ठायां योगतारा प्रचेतसः(२४) ।
+> शङ्करत्वष्टृवातानां(९)(१४)(१५) स्वरूपाण्येकभावतः ॥ २२ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n219 = printed p. 117) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n219.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Several deity-numbers in this compressed list are hard to read in this print (notably the second serial number in v. 20 and the first word of v. 22) and are given as read, not emended.*
+>
+> — *(19) 'Of Aśvi (1), Candra (5), Bhaga (11), Indrāgni (16), Toya (20), Viśva (21), Ajapāda (25) and Ahirbudhnya (26) the junction star, [which carries] the dhruva-degrees, is the northern one. (20) Of Indra (18), Govinda (22), Mitra (17), Agni (3) and Jīva (8) it is held to be the middle one; of Aditi (7), Āditya (12) and … it is the one placed to the north-east. (21) Of Vitta (23) and of Abhijit (0) it is behind [i.e. western]; of Brahmā (4) and Sarpa (9) it is in the east; of Pitṛ (10) it is the bright southern one; of Pūṣan (27), Yama (2) and Aryaman (12) they are southern. (22) The junction star of Pracetas (24) is in the … quarter. Of Śaṅkara, Tvaṣṭṛ and Vāta the forms are single.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** 'The living one' = Bṛhaspati/Jupiter, deity of Puṣya, used for the asterism at XII.20 in the list of which star of each group is the junction star ('of Jyeṣṭhā, Śravaṇa, Anurādhā, Agni's and Jīva's [asterisms] the middle one is held [to be the yogatārā]'). Sāmanta's verses XII.19–22, which say for each asterism WHICH member star is the yogatārā (northern, middle, eastern, western, southern or north-eastern), refer to the asterisms almost entirely by their presiding deities, and so preserve a compact list of deity-epithet star names.</sub>
+
+### वित्त (Vitta) — Dhaniṣṭhā (β Delphini)
+
+**Modern identification:** Dhaniṣṭhā (β Delphini) — β Delphini, Delphinus (*certain*)
+
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 19–22** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अश्वि(१)चन्द्र(५)भगी(११)न्द्राग्नि(१६)-
+> तोय(२०)विश्वा(२१)जपादजाः(२५) ।
+> अहिर्बुध्न्यो(२६)त्तरस्था योगतारा ध्रुवांशगाः ॥ १९ ॥
+> इन्द्र(१८)गोविन्द(२२)मित्रा(१७)ग्नि(३)जीवानां(८) मध्यगा मताः ।
+> अदित्या(७)दित्य(१२)दैत्याना(१८)मीशानदिगवस्थिताः ॥ २० ॥
+> वित्त(२३)स्याभिजितः(०) पश्चात् पूर्व्वस्यां ब्रह्म(४)सर्पयोः(९) ।
+> याम्या स्थूला पितुः(१०) पूष(२७)-
+> यमा(२)र्यम्णाञ्च(१२) दक्षिणाः ॥ २१ ॥
+> कपीटयोनिकाष्ठायां योगतारा प्रचेतसः(२४) ।
+> शङ्करत्वष्टृवातानां(९)(१४)(१५) स्वरूपाण्येकभावतः ॥ २२ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n219 = printed p. 117) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n219.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans. Several deity-numbers in this compressed list are hard to read in this print (notably the second serial number in v. 20 and the first word of v. 22) and are given as read, not emended.*
+>
+> — *(19) 'Of Aśvi (1), Candra (5), Bhaga (11), Indrāgni (16), Toya (20), Viśva (21), Ajapāda (25) and Ahirbudhnya (26) the junction star, [which carries] the dhruva-degrees, is the northern one. (20) Of Indra (18), Govinda (22), Mitra (17), Agni (3) and Jīva (8) it is held to be the middle one; of Aditi (7), Āditya (12) and … it is the one placed to the north-east. (21) Of Vitta (23) and of Abhijit (0) it is behind [i.e. western]; of Brahmā (4) and Sarpa (9) it is in the east; of Pitṛ (10) it is the bright southern one; of Pūṣan (27), Yama (2) and Aryaman (12) they are southern. (22) The junction star of Pracetas (24) is in the … quarter. Of Śaṅkara, Tvaṣṭṛ and Vāta the forms are single.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** 'Wealth', i.e. the Vasus/Kubera, deity of Dhaniṣṭhā, used for the asterism at XII.21 ('of Vitta (23) and of Abhijit (0), [the junction star is] the western one'). The database already has Vāsava for the same asterism. Sāmanta's verses XII.19–22, which say for each asterism WHICH member star is the yogatārā (northern, middle, eastern, western, southern or north-eastern), refer to the asterisms almost entirely by their presiding deities, and so preserve a compact list of deity-epithet star names.</sub>
+
 ## The vocabulary of 'star' itself
 
 Not names of stars but the words for them, with the oldest Indian etymologies. Yāska derives ṛkṣa from height and stṛ from scattering; the Amarakośa treats nakṣatra, ṛkṣa, bha, tārā, tārakā and uḍu as interchangeable. *tārā* is the element in *yoga-tārā*, 'junction star', on which every identification in this database depends.
@@ -2184,6 +4923,17 @@ Not names of stars but the words for them, with the oldest Indian etymologies. Y
 > <br>— H.T. Colebrooke (1808); Lakshman Sarup (1921) for the Nirukta ([source](https://archive.org/download/nighantuniruktao00yaskuoft/nighantuniruktao00yaskuoft_djvu.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Head-word of the six-fold synonym set for 'star'. The lexicon treats nakṣatra, ṛkṣa, bha, tārā, tārakā and uḍu as fully interchangeable — which is why the separate entries for Ṛkṣāḥ and the rest form one lexical family. Yāska's Nirukta 3.20 supplies the oldest etymology: from the root nakṣ 'to go', with the alternative Brāhmaṇa pun na imāni kṣatrāṇi.</sub>
+
+**Aṣṭādhyāyī 4.2.3 (also 1.2.60, 1.2.63, 2.3.45, 3.1.116, 4.3.16, 4.3.37, 4.4.141)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/चतुर्थः_अध्यायः)
+
+> ४.२.३ नक्षत्रेण युक्तः कालः ।
+>
+> *Devanāgarī from Sanskrit Wikisource. IMPORTANT COLLATION: GRETIL's Kāśikā-derived text prints 'nakṣatreṇa yuktaṃ kālaḥ', with a neuter yuktaṃ that does not agree with the masculine kālaḥ; GRETIL's independent 'alt' text and the Wikisource Devanāgarī both read yuktaḥ, which is the standard and grammatically correct form. I have quoted the correct reading and flag the Kāśikā-file variant here.*
+>
+> — *3. The affix already ordained (IV.1.83) comes after a word in the instrumental case in construction, which is the name of a lunar mansion, to signify a time connected with the asterism. — A time is said to be connected with an asterism when the moon is in conjunction with any one of such asterism. … when the moon is in any one of these asterisms, then the affix is added to the name of such asterism in order to denote time of such conjunction.*
+> <br>— Śrīśa Chandra Vasu (1896) ([source](https://archive.org/download/in.ernet.dli.2015.195971/2015.195971.The-Ashtadhyayi-Of-Panini--Vol-4_djvu.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** The key structural finding for the whole source. Nakṣatra is a FORMAL GRAMMATICAL CATEGORY in the Aṣṭādhyāyī, invoked as a condition in nine of Pāṇini's own sūtras: 1.2.60 (…ca nakṣatre), 1.2.63 (nakṣatra-dvandve), 2.3.45 nakṣatre ca lupi, 3.1.116 (…nakṣatre), 4.2.3 nakṣatreṇa yuktaḥ kālaḥ, 4.3.16 (…ṛtu-nakṣatrebhyo 'ṇ), 4.3.37 nakṣatrebhyo bahulam, 4.4.141 nakṣatrād ghaḥ, and 6.3.75 (in a phonological list). 4.2.3 is the head-sūtra of the whole nakṣatra section and is explicitly ASTRONOMICAL in its content: it derives a time-word from an asterism name when the time is 'joined with' that asterism — which the tradition, from the Kāśikā onwards, glosses as the moon's conjunction with it. The database currently dates nakṣatra as a term from the Amarakośa and Nirukta; this is earlier and better dated. Also relevant: Kātyāyana's vārttika on 2.2.34 speaks of ṛtu-nakṣatrāṇām 'of seasons and asterisms' as a single class with a canonical order, and Patañjali on 1.2.63 asks nakṣatra iti kimartham 'what is the purpose of [the word] nakṣatra?' — treating it as a technical restriction distinguishing star-senses from homonymous personal names.</sub>
 
 ### भम् (Bha) — star / asterism (generic)
 
@@ -2229,6 +4979,19 @@ Not names of stars but the words for them, with the oldest Indian etymologies. Y
 > <br>— H.T. Colebrooke (1808); the Arthaśāstra line rendered literally by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kauTilya-arthazAstra.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Diminutive of tārā, and the word the Atharvaveda uses of Vicṛtau (tārake, 'the two stars') and Amarakośa of the Ilvalāḥ. Kauṭilya uses it in the sharpest ancient Indian statement against astral determinism, Arthaśāstra 9.4.26: 'wealth is the asterism of wealth — what will the stars do?' (kiṃ kariṣyanti tārakāḥ).</sub>
+
+**Patañjali, Mahābhāṣya on 7.3.45, Kātyāyana's vārttika (Kielhorn iii.325.2-326.9); Aṣṭādhyāyī 5.2.36 (tārakādi gaṇa) less securely** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> (p_7,3.45.) ka_iii,325.2-326.9 {24/48} tārakā jyotiṣi . {25/48} tārakā jyotiṣi upasaṅkhyānam kartavyam . {26/48} tārakā . {27/48} jyotiṣi iti kimartham . {28/48} tārikā dāsī .
+>
+> *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). The first sentence is Kātyāyana's vārttika (bold in the GRETIL HTML original), the rest Patañjali's exposition. Note that the GRETIL sūtra-number marker 7,3.45 does not necessarily match the vulgate numbering; the Kielhorn volume/page reference iii.325.2-326.9 is the reliable pointer. The Aṣṭādhyāyī sūtra reads ५.२.३६ तद् अस्य संजातंतारका आदिभ्यः इतच् (Wikisource, de-sandhied; GRETIL: 'tad asya sañjātaṃ tārakā-ādibhya itac').*
+>
+> — *Literal rendering: 'tārakā, when [it means] a heavenly body. — It must be added that tārakā [keeps this form] when it means a heavenly body. [Example:] tārakā. — Why "when it means a heavenly body"? [Because otherwise one gets] tārikā, "a maidservant".'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_pataJjali-vyAkaraNamahAbhASya.txt))
+
+<sub>**Identification notes (Pāṇini & Patañjali):** Two layers. (i) Pāṇini names tārakā as the head of the tārakādi gaṇa at 5.2.36 tad asya sañjātaṃ tārakā-ādibhya itac — but the sūtra is about the affix itac in the sense 'has arisen for him', and the gaṇa's other members (puṣpa, mukula, kaṇṭaka, pipāsā, sukha, duḥkha…) suggest a bodily/experiential sense, so Pāṇini's tārakā here may be 'pupil of the eye' rather than 'star'; I do not claim it. (ii) The unambiguous attestation is Kātyāyana's vārttika preserved in the Mahābhāṣya on 7.3.45: 'tārakā jyotiṣi' — 'tārakā, when it means a heavenly body' — with the explicit contrast 'tārikā dāsī', 'tārikā [is] a maidservant'. The vārttika exists precisely to keep the -ā form for the star sense against the -ikā form. That is a datable attestation of tārakā = 'star' at c. 3rd century BCE (Kātyāyana), quoted by Patañjali c. 150 BCE, well before the Amarakośa reference currently in the database.</sub>
 
 ### उडु (Uḍu) — star / lunar mansion (generic)
 
@@ -2311,7 +5074,7 @@ Whole figures drawn in the stars, rather than single points.
 
 ### त्रिशङ्कु (Triśaṅku) — Triśaṅku — a king fixed head-downward in the southern sky
 
-**Modern identification:** Triśaṅku — a king fixed head-downward in the southern sky — —, Crux (the Southern Cross) on the usual modern gloss (*disputed*)
+**Modern identification:** Triśaṅku — a king fixed head-downward in the southern sky — —, Crux (the Southern Cross) on the usual modern gloss (*unidentified*)
 
 **Bhāgavata Purāṇa 9.7.5-6** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/3_purana/bhagp/bhp_09u.htm)
 
@@ -2321,6 +5084,30 @@ Whole figures drawn in the stars, rather than single points.
 > <br>— J.M. Sanyal (Srimad-Bhagabatam vol. III; public domain). OCR lightly cleaned; sense unaffected. ([source](https://archive.org/details/in.ernet.dli.2015.186141))
 
 <sub>**Identification notes (Purāṇas):** A Purāṇic sky-figure. The Bhāgavata makes an explicit observational claim: adyāpi divi dṛśyate, 'even today he is seen in the sky', hanging avākśirāḥ, head-downward — the very phrase used of the Śiśumāra at 5.23.5. The Crux/Southern Cross identification comes from later lexicography (Kittel's Kannada-English dictionary: 'a small southern constellation near the celestial pole containing Coalsack; the Southern Cross') and is not stated in any Purāṇa; treat as disputed. Other Purāṇic loci: Brahmāṇḍa 3.63.108, Vāyu 88.108-113, Viṣṇu Purāṇa 4.3.21.</sub>
+
+**Taishō T21n1300 fasc. 1 (T21.401b22, 403b28); T21n1301 (T21.415a17ff.)** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml)
+
+> 園中有王，名帝勝伽，是栴陀羅 … 爾時帝勝伽王語蓮華實：『仁者善聽！我當為…
+>
+> *Two separate passages of T21n1300, joined here with an ellipsis; the first at T21.401b22, the second at T21.403b28. The astronomical chapter that follows is spoken by this king.*
+>
+> — *"In that park there was a king named Triśaṅku, who was a caṇḍāla … Then king Triśaṅku said to Puṣkarasārin: 'Listen well, sir; I shall now for your sake …'"*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** CORROBORATES A NEGATIVE ALREADY ON FILE. The database records that in the Śārdūlakarṇāvadāna Triśaṅku is the mātaṅga (outcaste) king who recites the astronomy to the brahmin Puṣkarasārin — a person, not the star of the same name — and that no star-sense of Triśaṅku occurs in that text. The Chinese versions confirm it independently and phonetically: T1300 transcribes the king's name 帝勝伽 (Ti-sheng-qie = Triśaṅku) and renders the brahmin's name semantically as 蓮華實 'Lotus-fruit' (Puṣkarasārin); T1301 transcribes the brahmin's name 弗袈裟 and calls the king simply 摩登王, 'the Mātaṅga king'. Neither Chinese version gives Triśaṅku any celestial sense anywhere in the astronomical chapters, so the star-name Triśaṅku is not attested in this branch of the tradition at all.</sub>
+
+**Rāmāyaṇa 1.59.30-31 (Critical Edition, Bāla Kāṇḍa) = Griffith Book I Canto LX; cf. 6.4.44 and 2.36.10** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> evaṃ bhavatu bhadraṃ te tiṣṭhantv etāni sarvaśaḥ / gagane tāny anekāni vaiśvānarapathād bahiḥ // nakṣatrāṇi muniśreṣṭha teṣu jyotiḥṣu jājvalan / avākśirās triśaṅkuś ca tiṣṭhatv amarasaṃnibhaḥ //
+>
+> *CE references R_1,059.030 and R_1,059.031. Griffith and Dutt both number the chapter Bāla Kāṇḍa 60 (vulgate), one ahead of the Critical Edition's 59.*
+>
+> — *Griffith: 'Beyond the sun's diurnal way / Thy countless stars in heaven shall stay: / And 'mid them hung, as one divine, / Head downward shall Tris'anku shine; / And all thy stars shall ever fling / Their rays attendant on the king.' Dutt: 'All these innumerable stars, O foremost of anchorets, shall remain in the firmament outside the path of Vaiśwānara and shining in their splendour, Trisanku shall dwell with bended head, like unto an immortal.'*
+> <br>— Ralph T. H. Griffith (1870-74) and Manmatha Nath Dutt (1892) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry060.htm) · [mirror](https://archive.org/download/in.ernet.dli.2015.217233/2015.217233.The-Ramayana_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The Rāmāyaṇa is the primary source for Triśaṅku as a sky-figure — the database currently records him only from the Purāṇas. THREE distinct celestial data. (a) Bāla 1.59.20-31: after Indra throws him out of heaven, Viśvāmitra fixes him head-downward (avākśirāḥ) 'among those lights', and the gods concede that his stars shall stand in the sky 'OUTSIDE THE VAIŚVĀNARA PATH' (vaiśvānarapathād bahiḥ) — i.e. outside the middle/solar road, in the far south. (b) Yuddha 6.4.44: in Lakṣmaṇa's omen list, between Brahmarāśi and Viśākhā, 'Triśaṅku the rājarṣi, our Ikṣvāku forefather, shines spotless WITH HIS PUROHITA' — a two-object configuration (king + priest), which is the closest thing to a shape description anywhere in the epic. (c) Ayodhyā 2.36.10: at Rāma's exile 'Triśaṅku, Lohitāṅga (Mars), Bṛhaspati and Budha — all the grahas, cruel, having approached the Moon, stood still', i.e. Triśaṅku is listed AMONG THE GRAHAS, not among the nakṣatras — an anomalous classification worth flagging. Griffith's footnote to Yuddha IV: 'Tris'anku was raised to the skies to form a constellation in the southern hemisphere.' No identification is possible from the text; Gorresio's note (quoted by Griffith at Bāla LX) is the standard historical conjecture.</sub>
 
 ## Positions on the Śiśumāra
 
@@ -2480,6 +5267,17 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 
 <sub>**Identification notes (Purāṇas):** Matsya 124.54 states its three asterisms: Aśvinī, Kṛttikā, and yāmyā (= Bharaṇī, whose deity is Yama). Wilson's note 23 to VP 2.8 gives the same: 'The stars of the Nágavíthi are those of Aries and Taurus.' In Viṣṇu P. 2.8.90 it is a latitude marker: the Devayāna lies north of Nāgavīthī and south of the Saptarṣis. Homonym caution: Nāgavīthī is also a woman in the genealogies (daughter of Yāmī) at VP 1.15.107 — the star-road personified.</sub>
 
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.1–9.4, quoting Devala, Kāśyapa, Parāśara, Garga and the Samāsa-saṃhitā** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अश्विन्यादित्रिभाः सर्वा नागाद्या दहनान्तिकाः। वीथयो भृगुपुत्रस्य नव प्रोक्ताः पुरातनैः॥ … तथा च काश्यपः— त्रिष्वश्विन्यादिषु यदा चरति भृगुनन्दनः। नागवीथीति सा ज्ञेया प्रथमान्या निबोधत॥ रोहिण्यादिगजा ज्ञेयाऽदित्याद्यैरावती स्मृता। मघाद्या वृषभा ज्ञेया हस्ताद्या गौः प्रकीर्तिता॥ जारद्गवी विशाखाद्या मूलाद्या मृगवीथिका। अजवीथी विष्णुभाद्याऽजाद्या तु दहना स्मृता॥ इति॥ … [९.२ टीका] पवनः स्वातिः। याम्यं भरणी। अनलः कृत्तिकाः। एतानि नक्षत्राणि नागवीथी। पैतामहात्त्रिभास्तिस्रः। पैतामहं रोहिणी तत आरभ्य त्रिभास्त्रिभिस्त्रिभिर्भनक्षत्रैस्तिस्रो वीथयो भवन्ति। तद्यथा—रोहिणीमृगशिरआर्द्रा गजवीथी। पुनर्वसुतिष्याश्लेषा ऐरावती। मघा पूर्वफल्गुनी उत्तरफल्गुनी चेति वृषभा। गोवीथ्यामिति। अश्विन्यः पौष्णं रेवती द्वे भद्रपदे पूर्वभद्रपदोत्तरभद्रपदे। एतानि चत्वारि नक्षत्राणि गोवीथी। … तथा च गर्गः— कृत्तिका भरणी स्वाती नागवीथी प्रकीर्तिता। रोहिण्याद्यास्त्रिभास्तिस्रो गजैरावतवार्षभाः॥ अहिबुध्न्याश्विपौष्णं च गोवीथीति प्रकीर्तिता। श्रवणत्रितयं ज्ञेया वीथी जारद्गवीति सा॥ मैत्रत्रिभा मृगाख्या स्याद्धस्तचित्राविशाखिका। अजवीथी तु दहनाषाढायुग्ममिति स्मृता॥ पूर्वोत्तरा नागवीथी गजवीथी तदुत्तरा। ऐरावती ततो याम्या एतास्तूत्तरतः स्मृताः॥ आर्षभी तु चतुर्थी स्याद् गोवीथी पञ्चमी स्मृता। षष्ठी जारद्गवी ज्ञेया तिस्रस्ता मध्यमाश्रिताः॥ सप्तमी मृगवीथी स्यादजवीथी तथाष्टमी। दहना नवमी ज्ञेया दक्षिणं मार्गमाश्रिताः॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *Devala: 'All the triads from Aśvinī, from Nāgā to Dahanā — the nine vīthīs of Bhṛgu's son (Venus) were declared by the ancients.' Kāśyapa and Varāhamihira's own scheme and Garga's follow; for their renderings see db_ids 'aditya-punarvasu', 'paitamaha' and 'arshabhi'. Garga: 'Kṛttikā, Bharaṇī and Svātī are proclaimed the Nāga-vīthī…'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. For the NĀGA-VĪTHĪ specifically the split is sharp: Devala and Kāśyapa make it Aśvinī, Bharaṇī, Kṛttikā; Varāhamihira, Garga, Parāśara and the Samāsa-saṃhitā all replace Aśvinī with the far-off SVĀTĪ (Parāśara phrasing it by deity: 'āgneya-yāmya-vāyavyāni'). Utpala also supplies the variant name VYĀḌA ('serpent') for the same road, in his chapter opening.</sub>
+
 ### गजवीथी (Gajavīthī) — the Elephant-road
 
 **Modern identification:** the Elephant-road — —, Taurus/Orion (Rohiṇī, Ārdrā, Mṛgaśiras) (*likely*)
@@ -2494,6 +5292,17 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 > <br>— H.H. Wilson (1840; public domain), note 21 to VP 2.8 ([source](https://www.sacred-texts.com/hin/vp/vp066.htm))
 
 <sub>**Identification notes (Purāṇas):** The second vīthī of the northern (Airāvata) mārga. TEXTUAL PROBLEM: Matsya 124.55 as transmitted reads nāgavīthī for this road, repeating the previous name — certainly corrupt for Gajavīthī. Both witnesses checked (GRETIL's Chaukhamba text and sa.wikisource) share the error, so it is old; the 1916 translator flags it, noting the text Wilson quoted should read Gajavīthī. Wilson's own note 21 to VP 2.8 lists Gajavíthi among the nine.</sub>
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.1–9.4** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> त्रिष्वश्विन्यादिषु यदा चरति भृगुनन्दनः। नागवीथीति सा ज्ञेया प्रथमान्या निबोधत॥ रोहिण्यादिगजा ज्ञेयाऽदित्याद्यैरावती स्मृता। मघाद्या वृषभा ज्ञेया हस्ताद्या गौः प्रकीर्तिता॥ जारद्गवी विशाखाद्या मूलाद्या मृगवीथिका। अजवीथी विष्णुभाद्याऽजाद्या तु दहना स्मृता॥ इति॥ … [९.२ टीका] पवनः स्वातिः। याम्यं भरणी। अनलः कृत्तिकाः। एतानि नक्षत्राणि नागवीथी। पैतामहात्त्रिभास्तिस्रः। पैतामहं रोहिणी तत आरभ्य त्रिभास्त्रिभिस्त्रिभिर्भनक्षत्रैस्तिस्रो वीथयो भवन्ति। तद्यथा—रोहिणीमृगशिरआर्द्रा गजवीथी। पुनर्वसुतिष्याश्लेषा ऐरावती। मघा पूर्वफल्गुनी उत्तरफल्गुनी चेति वृषभा। गोवीथ्यामिति। अश्विन्यः पौष्णं रेवती द्वे भद्रपदे पूर्वभद्रपदोत्तरभद्रपदे। एतानि चत्वारि नक्षत्राणि गोवीथी।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See db_ids 'aditya-punarvasu' and 'paitamaha' for the renderings.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. The Gaja-vīthī is the ONE vīthī on which every authority Utpala quotes agrees: Rohiṇī, Mṛgaśiras, Ārdrā. The database's entry for it rests on a conjectural emendation of Matsya 124.55; Utpala's five witnesses put the content beyond doubt.</sub>
 
 ### ऐरावती (Airāvatī) — the road of Airāvata
 
@@ -2510,6 +5319,17 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 
 <sub>**Identification notes (Purāṇas):** Third vīthī of the northern mārga. Matsya 124.55 states the three asterisms explicitly. Homonym caution: Airāvatī is also a river name in Matsya 114.21 and 115.19, and Airāvata elsewhere is Indra's elephant.</sub>
 
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.4, quoting Parāśara (with Devala, Kāśyapa and Garga ad 9.1–9.4)** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See db_id 'varuna-shatabhishaj' for the rendering.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. For the Airāvatī: Devala, Kāśyapa, Varāhamihira, Garga and the Samāsa-saṃhitā all make it Punarvasu, Puṣya, Āśleṣā; PARĀŚARA alone gives it FOUR asterisms ('catvāri param airāvatī'), taking Maghā in as well and leaving the Vṛṣabhā with only the two Phalgunīs. Note that in the Purāṇic system Airāvata is the name of a whole MĀRGA; in all of Utpala's witnesses it is only a vīthī, and the mārga-names he gives are Vāta, Vyāḍa and Vaiśvānara.</sub>
+
 ### आर्षभी (Ārṣabhī) — the Bull-road
 
 **Modern identification:** the Bull-road — —, Leo (Pūrva- and Uttara-phalgunī, Maghā) (*likely*)
@@ -2525,6 +5345,17 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 
 <sub>**Identification notes (Purāṇas):** First vīthī of the middle (Jaradgava) mārga, per Matsya 124.56.</sub>
 
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.4, quoting Garga** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> कृत्तिका भरणी स्वाती नागवीथी प्रकीर्तिता। रोहिण्याद्यास्त्रिभास्तिस्रो गजैरावतवार्षभाः॥ अहिबुध्न्याश्विपौष्णं च गोवीथीति प्रकीर्तिता। श्रवणत्रितयं ज्ञेया वीथी जारद्गवीति सा॥ मैत्रत्रिभा मृगाख्या स्याद्धस्तचित्राविशाखिका। अजवीथी तु दहनाषाढायुग्ममिति स्मृता॥ पूर्वोत्तरा नागवीथी गजवीथी तदुत्तरा। ऐरावती ततो याम्या एतास्तूत्तरतः स्मृताः॥ आर्षभी तु चतुर्थी स्याद् गोवीथी पञ्चमी स्मृता। षष्ठी जारद्गवी ज्ञेया तिस्रस्ता मध्यमाश्रिताः॥ सप्तमी मृगवीथी स्यादजवीथी तथाष्टमी। दहना नवमी ज्ञेया दक्षिणं मार्गमाश्रिताः॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *Garga: 'Kṛttikā, Bharaṇī and Svātī are proclaimed the Nāga-vīthī; the three triads beginning with Rohiṇī are the Gaja, Airāvata and Vārṣabha. Ahirbudhnya, Aśvi and Pauṣṇa are proclaimed the Go-vīthī; the triad from Śravaṇa is to be known as the vīthī called Jāradgavī. The triad from Maitra is the Mṛga-named; Hasta, Citrā and Viśākhā, the Aja-vīthī; and the Dahanā is remembered as the pair of Āṣāḍhās. The Nāga-vīthī is the north-eastern; the Gaja-vīthī north of that; then the Airāvatī is southern — these are remembered as northern. The Ārṣabhī is the fourth; the Go-vīthī is remembered as the fifth; the Jāradgavī is to be known as the sixth — those three belong to the middle. The seventh is the Mṛga-vīthī and the eighth the Aja-vīthī; the Dahanā is to be known as the ninth — these keep to the southern mārga.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. THREE NAME-FORMS for this road are now attested where the database had one: Vṛṣabhā (Varāhamihira BS 9.1 and Utpala's prose), Vārṣabhī/Vārṣabhā (Garga, in the compound 'gajairāvatavārṣabhāḥ' — Krishna Chandra Dvivedi's editor notes the form 'vārṣabhā' as an ārṣa usage), and Ārṣabhī (Garga again, 'ārṣabhī tu caturthī syāt'), which is the form the database has from Matsya 124.56. Content confirmed as Maghā + the two Phalgunīs by Devala, Kāśyapa, Varāhamihira, Garga and the Samāsa-saṃhitā, exactly matching the Matsya reading; PARĀŚARA alone reduces it to the two Phalgunīs.</sub>
+
 ### गोवीथी (Govīthī) — the Cow-road
 
 **Modern identification:** the Cow-road — —, Pegasus/Pisces (Pūrva- and Uttara-proṣṭhapadā, Revatī) (*disputed*)
@@ -2538,7 +5369,18 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 > — *Pūrva- and Uttara-proṣṭhapadā and Revatī are remembered as Govīthī.*
 > <br>— Literal rendering by the compiler ([source](https://archive.org/details/in.ernet.dli.2015.274264))
 
-<sub>**Identification notes (Purāṇas):** Matsya 124.57 assigns it Pūrva/Uttara-proṣṭhapadā and Revatī. But Varāhamihira's Bṛhat Saṃhitā 9 makes Govīthī = Hasta, Citrā, Svāti — a substantive Purāṇa-vs-Siddhānta divergence, not a scribal one. Both readings recorded.</sub>
+<sub>**Identification notes (Purāṇas):** Matsya 124.57 assigns it Pūrva/Uttara-proṣṭhapadā and Revatī. Bṛhat Saṃhitā 9.2cd (GRETIL, Yano/Sugita e-text) reads govīthyām aśvinyaḥ pauṣṇaṃ dve ca api bhadrapade — Govīthī = Aśvinī, Revatī (pauṣṇa, Pūṣan's asterism) and the two Bhādrapadās, i.e. FOUR members. That substantially AGREES with the Matsya, adding only Aśvinī. The often-repeated claim that Varāhamihira makes Govīthī = Hasta/Citrā/Svāti comes from BS 9.1, a different, purely sequential scheme that he explicitly attributes to others (kaiś cit) before giving his own.</sub>
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.1–9.4, quoting Kāśyapa, Parāśara, Garga and the Samāsa-saṃhitā** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> त्रिष्वश्विन्यादिषु यदा चरति भृगुनन्दनः। नागवीथीति सा ज्ञेया प्रथमान्या निबोधत॥ रोहिण्यादिगजा ज्ञेयाऽदित्याद्यैरावती स्मृता। मघाद्या वृषभा ज्ञेया हस्ताद्या गौः प्रकीर्तिता॥ जारद्गवी विशाखाद्या मूलाद्या मृगवीथिका। अजवीथी विष्णुभाद्याऽजाद्या तु दहना स्मृता॥ इति॥ … अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति। … वीथी नागा नाम्नी स्वातिर्भरणी च कृत्तिका चैव। स्वायम्भुवत्रिभाः स्युर्गजवीथ्यैरावती वृषभा॥ एकपदादिचतुष्कं गौः स्याज्जारद्गवी त्रिभा श्रवणात्। मैत्रात्त्रिभं मृगाऽजा हस्तश्चित्रा विशाखा च॥ द्वे चाषाढे दहना तिस्र उदग्वीथयः क्रमाच्छुभदाः। मध्या मध्यास्तिस्रो याम्याः पापा मृगाद्यास्ताः॥ इति॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See db_ids 'aditya-punarvasu', 'varuna-shatabhishaj' and 'ekapada' for the three renderings.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. The Go-vīthī is the WORST-attested of the nine and the split is total. Devala and Kāśyapa put it at Hasta, Citrā, Svātī ('hastādyā gauḥ prakīrtitā'); Varāhamihira, Parāśara, Garga and the Samāsa-saṃhitā move it to the opposite side of the sky — the four asterisms Pūrva-Bhādrapadā, Uttara-Bhādrapadā, Revatī, Aśvinī (Parāśara: 'the four beginning with Prākproṣṭhapadā'; Samāsa-saṃhitā: 'the four beginning with Ekapāda'). VARIANT NAME-FORM: the bare GAUḤ, in both Kāśyapa and the Samāsa-saṃhitā. Garga's line for it appears to have lost one asterism-name in transmission — 'ahibudhnyāśvipauṣṇaṃ ca' names only three where four are needed, and the two scans differ (Krishna Chandra Dvivedi अहिवृध्न्याद्विपौष्णं, Achyuta Nand Jha अहिबुध्न्याश्विपौष्णं); flagged rather than emended.</sub>
 
 ### जरद्गव / जारद्गवी (Jaradgava / Jāradgavī) — the Old-Ox road
 
@@ -2553,7 +5395,18 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 > — *Śravaṇa and Dhaniṣṭhā and Vāruṇa — that is Jaradgava.*
 > <br>— Literal rendering by the compiler ([source](https://archive.org/details/in.ernet.dli.2015.274264))
 
-<sub>**Identification notes (Purāṇas):** The name does double duty: Jaradgava is both the MIDDLE of the three great mārgas and the third vīthī within it (Matsya 124.57). Bṛhat Saṃhitā 9 instead makes Jāradgavī = Viśākhā, Anurādhā, Jyeṣṭhā. Note vāruṇa here is the asterism whose deity is Varuṇa, i.e. Śatabhiṣaj.</sub>
+<sub>**Identification notes (Purāṇas):** The name does double duty: Jaradgava is both the MIDDLE of the three great mārgas and the third vīthī within it (Matsya 124.57). Bṛhat Saṃhitā 9.3ab, jāradgavyāṃ śravaṇāt tribhaṃ, gives the triad beginning at Śravaṇa — Śravaṇa, Dhaniṣṭhā, Śatabhiṣaj — an EXACT match with the Matsya. (BS 9.1's sequential list, which Varāhamihira attributes to others, would instead put Viśākhā/Anurādhā/Jyeṣṭhā here.) Note vāruṇa here is the asterism whose deity is Varuṇa, i.e. Śatabhiṣaj.</sub>
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.1–9.4, quoting Kāśyapa and Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति। … [काश्यपः] जारद्गवी विशाखाद्या मूलाद्या मृगवीथिका।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See db_id 'varuna-shatabhishaj'. Kāśyapa: 'The Jāradgavī begins with Viśākhā, the Mṛga-vīthikā with Mūla.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. Varāhamihira, Parāśara, Garga and the Samāsa-saṃhitā all make the Jāradgavī the triad from ŚRAVAṆA (Śravaṇa, Dhaniṣṭhā, Śatabhiṣaj); Devala and Kāśyapa make it the triad from VIŚĀKHĀ. As with the mārga-names, note that in the Purāṇas Jaradgava is the middle MĀRGA, whereas in every authority Utpala cites it is only one vīthī and the middle mārga has no separate name (Utpala's mārga-trio is Vāta, Vyāḍa, Vaiśvānara).</sub>
 
 ### अजवीथी (Ajavīthī) — the Goat-road — a three-nakṣatra segment of the ecliptic belt
 
@@ -2568,7 +5421,18 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 > — *On the north of Agastya, and south of the line of the Goat, exterior to the Vaiswánara path, lies the road of the Pitris.*
 > <br>— H.H. Wilson (1840; public domain) ([source](https://www.sacred-texts.com/hin/vp/vp066.htm))
 
-<sub>**Identification notes (Purāṇas):** A star-road, not a star. Brahmāṇḍa 2.21.76 & 159, Matsya 124.53 and Viṣṇu P. 2.8.85 make it Mūla, Pūrvāṣāḍhā, Uttarāṣāḍhā — part of the Pitṛyāṇa. But Matsya 124.58, in the SAME chapter, makes it Hasta, Citrā, Svāti and reassigns Mūla + Aṣāḍhās to Vaiśvānarī. The 1916 translator flags 124.53/58 as corrupt and his rendering as 'tentative only'. Varāhamihira's Bṛhat Saṃhitā 9 gives yet another arrangement — a genuine Purāṇa-vs-Siddhānta divergence, not a copying slip. In Bhāgavata 5.23.5 it is placed on the back (pṛṣṭha) of the Śiśumāra.</sub>
+<sub>**Identification notes (Purāṇas):** A star-road, not a star. Brahmāṇḍa 2.21.76 & 159, Matsya 124.53 and Viṣṇu P. 2.8.85 make it Mūla, Pūrvāṣāḍhā, Uttarāṣāḍhā — part of the Pitṛyāṇa. But Matsya 124.58, in the SAME chapter, makes it Hasta, Citrā, Svāti and reassigns Mūla + Aṣāḍhās to Vaiśvānarī. The 1916 translator flags 124.53/58 as corrupt and his rendering as 'tentative only'. Bṛhat Saṃhitā 9.3cd, hasta-viśākhā-tvāṣṭrāṇy aja iti, gives Ajā = Hasta, Viśākhā, Citrā (tvāṣṭra = Tvaṣṭṛ's asterism, Citrā). That independently corroborates Matsya 124.58 (Hasta, Citrā, Svāti) against Matsya 124.53, agreeing on Hasta and Citrā and differing only in the third member. In Bhāgavata 5.23.5 it is placed on the back (pṛṣṭha) of the Śiśumāra.</sub>
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.3–9.4, quoting Parāśara (with Kāśyapa, Garga and the Samāsa-saṃhitā ad 9.1–9.4)** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति। … [९.३ टीका] हस्तो विशाखा त्वष्ट चित्रा। एतानि नक्षत्राण्यजा अजवीथी।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See db_ids 'varuna-shatabhishaj' and 'tvashtra' for the renderings.*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. NEW NAME-FORM: ĀJĪ, in Parāśara ('ājī maitram aindrāgnyadhipam maindram'); the short form AJĀ is Varāhamihira's own (BS 9.3 'ajā') and Utpala's. Content is disputed FOUR ways: Varāhamihira, Garga and the Samāsa-saṃhitā give Hasta, Citrā, Viśākhā; Devala and Kāśyapa give the triad from Śravaṇa; Parāśara gives Anurādhā, Viśākhā, Jyeṣṭhā; the Purāṇas (Matsya 124.53, already in the database) give Mūla and the two Āṣāḍhās. Parāśara's testimony bears directly on the self-contradiction the database flags in the Matsya: since Parāśara assigns Mūla + the two Āṣāḍhās to the VAIŚVĀNARĪ, Matsya 124.59 (Vaiśvānarī = Mūla + the Āṣāḍhās) is the sound verse and Matsya 124.53 the corrupt one. The identification is therefore left 'disputed', but the Purāṇic Ajavīthī content is now the odd one out among all six witnesses.</sub>
 
 ### मृगवीथी (Mṛgavīthī) — the Deer-road
 
@@ -2585,6 +5449,17 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 
 <sub>**Identification notes (Purāṇas):** Second vīthī of the southern (Vaiśvānara) mārga, Matsya 124.59. maitra = the asterism of Mitra, i.e. Anurādhā.</sub>
 
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.3–9.4, quoting Kāśyapa and Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> जारद्गव्यामिति। श्रवणात्प्रभृति त्रिभं नक्षत्रत्रयं श्रवणा धनिष्ठा शतभिषगिति जारद्गव्याम्। मृगाख्या त्रिभं तु मैत्राद्यम्। मैत्रमनुराधा तदाद्यं त्रिभं नक्षत्रत्रितयम्। अनुराधा ज्येष्ठा मूलमिति मृगाख्या। तुशब्दः पादपूरणे। हस्तो विशाखा त्वष्ट चित्रा। एतानि नक्षत्राण्यजा अजवीथी। अषाढाद्वयं पूर्वाषाढोत्तराषाढा चेति दहनवीथी। … [काश्यपः] मूलाद्या मृगवीथिका। … [पराशरः] मृगवीथी त्वाष्ट्रहस्तम्।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *See db_id 'tvashtra' for the rendering of the gloss. Kāśyapa: 'the Mṛga-vīthikā begins with Mūla.' Parāśara: 'the Mṛga-vīthī is Tvāṣṭra (Citrā) and Hasta.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** FIVE INDEPENDENT SCHEMES, four of them pre-Varāhamihira, are set side by side by Utpala in ch. 9 — this is the single densest surviving witness to the vīthī system, and the database's vīthī entries hitherto rest on the Purāṇas alone. (a) DEVALA and others: nine triads straight from Aśvinī, Nāgā to Dahanā. (b) KĀŚYAPA: the same triads, given asterism by asterism. (c) VARĀHAMIHIRA'S OWN (BS 9.2–3), which starts the Nāgā with Svātī instead of Aśvinī and gives the Go-vīthī four asterisms and the Dahanā two. (d) PARĀŚARA, differing again (Airāvatī four, Vṛṣabhā two, Mṛga-vīthī two, Ājī = Anurādhā/Viśākhā/Jyeṣṭhā, Vaiśvānarī = Mūla + the two Āṣāḍhās). (e) GARGA, close to Varāhamihira. Plus (f) the SAMĀSA-SAṂHITĀ, Varāhamihira's own lost epitome, agreeing with (c). Utpala explicitly notes the clash — 'atra varāhamihireṇa saha bhedaḥ', 'here there is a difference with Varāhamihira' — and Varāhamihira himself refuses to adjudicate at 9.7. TWO NEW NAME-FORMS: MṚGAVĪTHIKĀ (Kāśyapa, 'mūlādyā mṛgavīthikā') and MṚGĀKHYĀ, 'the Mṛga-named' (Varāhamihira BS 9.3 and Garga). Content: Varāhamihira, Garga and the Samāsa-saṃhitā make it the triad from Maitra (Anurādhā, Jyeṣṭhā, Mūla), which Utpala spells out; Devala and Kāśyapa make it the triad from Mūla; PARĀŚARA reduces it to two, Tvāṣṭra (Citrā) and Hasta — a wholly different part of the sky.</sub>
+
 ### वैश्वानरी (Vaiśvānarī) — the road of Vaiśvānara (Fire)
 
 **Modern identification:** the road of Vaiśvānara (Fire) — —, Scorpius/Sagittarius (Mūla, Pūrva- and Uttara-āṣāḍhā) (*disputed*)
@@ -2599,6 +5474,30 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 > <br>— Literal rendering by the compiler ([source](https://archive.org/details/in.ernet.dli.2015.274264))
 
 <sub>**Identification notes (Purāṇas):** Southernmost vīthī, Matsya 124.59. Directly contradicts Matsya 124.53, which gives the same three asterisms to Ajavīthī. The 1916 translator marks both verses corrupt and his rendering 'tentative only'.</sub>
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.3–9.4, quoting Parāśara and Kāśyapa** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ मार्गास्त्रयो भवन्त्युत्तरमध्यमदक्षिणाः। पुनरेकैकशस्त्रिधा नव वीथय इत्याचक्षते। तत्रोत्तरे नागगजैरावत्यः। मध्ये वृषभगोजारद्गव्यः। दक्षिणे मृगाजदहनाः। तासां नागाऽऽग्नेययाम्यवायव्यानि। गजवीथी रोहिण्यादीनि त्रीणि। चत्वारि परमैरावती। वृषभा फल्गुन्यौ। गोवीथी प्राक्प्रोष्ठपदादीनि चत्वारि। श्रवणधनिष्ठावारुणानि जारद्गवी। मृगवीथी त्वाष्ट्रहस्तम्। आजी मैत्रमैन्द्राग्न्यधिपमैन्द्रम्। मूलमषाढाद्वयं च वैश्वानरीमितीच्छन्ति। … [९.३ टीका] अषाढाद्वयं पूर्वाषाढोत्तराषाढा चेति दहनवीथी। … [काश्यपः] अजाद्या तु दहना स्मृता॥
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes.*
+>
+> — *Parāśara: '…and Mūla with the two Āṣāḍhās they hold to be the Vaiśvānarī.' Utpala on 9.3: 'The two Āṣāḍhās, Pūrvāṣāḍhā and Uttarāṣāḍhā, are the Dahana-vīthī.' Kāśyapa: 'and the Dahanā, beginning with Ajā (Pūrva-Bhādrapadā), is so remembered.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** RESOLVES A CONTRADICTION THE DATABASE FLAGS AS UNRESOLVED. The database's 'vaishvanari' entry rests on Matsya 124.59 (Vaiśvānarī = Mūla + the two Āṣāḍhās) and marks it 'disputed' because Matsya 124.53 gives the same three asterisms to the Ajavīthī, with the 1916 translator calling both verses corrupt. Utpala quotes PARĀŚARA — a pre-Varāhamihira authority, independent of the Purāṇic transmission — reading exactly the Matsya 124.59 assignment: 'mūlam aṣāḍhā-dvayaṃ ca vaiśvānarīm itīcchanti', 'and Mūla with the two Āṣāḍhās they hold to be the Vaiśvānarī'. Matsya 124.59 is therefore the sound verse. SECOND NAME-FORM: Varāhamihira, Devala, Kāśyapa, Garga and the Samāsa-saṃhitā all call the ninth vīthī DAHANĀ ('the burning one', also a fire-name) and place it at the two Āṣāḍhās (Varāhamihira, Garga) or at Pūrva-Bhādrapadā, Uttara-Bhādrapadā and Revatī (Devala, Kāśyapa) — so Vaiśvānarī and Dahanā are the same slot under two fire-epithets but with different contents, which is why the identification stays 'likely' rather than 'certain'.</sub>
+
+**Rāmāyaṇa 1.59.30 (Critical Edition, Bāla Kāṇḍa) = Griffith Book I Canto LX** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> evaṃ bhavatu bhadraṃ te tiṣṭhantv etāni sarvaśaḥ / gagane tāny anekāni vaiśvānarapathād bahiḥ //
+>
+> *CE reference R_1,059.030 = vulgate Bāla Kāṇḍa 60.*
+>
+> — *All these innumerable stars, O foremost of anchorets, shall remain in the firmament outside the path of Vaiśwānara and shining in their splendour, Trisanku shall dwell with bended head, like unto an immortal.*
+> <br>— Manmatha Nath Dutt (1892) ([source](https://archive.org/download/in.ernet.dli.2015.217233/2015.217233.The-Ramayana_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The database carries Vaiśvānarī only from the Purāṇas; the Rāmāyaṇa attestation is materially earlier and, more usefully, it is used as an OPERATIVE boundary rather than a catalogue heading: Viśvāmitra's new asterisms are to stand 'outside the Vaiśvānara path'. That presupposes a three-road (or at least an inside/outside) division of the sky already in force when the Bāla Kāṇḍa was composed, with the Vaiśvānara road as the reference band beyond which the far-southern stars lie. This is the clearest early functional use of the mārga concept the database has. The identification with the middle/solar road follows the Purāṇic scheme already recorded (margas, jaradgava, airavati).</sub>
 
 ### ऐरावत / जरद्गव / वैश्वानर (मार्गाः) (Airāvata / Jaradgava / Vaiśvānara (the three mārgas)) — the three great celestial belts — northern, middle, southern
 
@@ -2615,6 +5514,17 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 
 <sub>**Identification notes (Purāṇas):** The framing structure of the whole system: Airāvata = the northern belt, Jaradgava = the middle, Vaiśvānara = the southern; each contains three vīthīs, three nakṣatras apiece, 27 in all. This is what makes Viṣṇu P. 2.8.85 coherent — the Pitṛyāṇa can be both 'south of Ajavīthī' and 'outside the Vaiśvānara path' because Ajavīthī is a sub-road of the Vaiśvānara belt. Vaiśvānara-patha is thus a real, textually attested Purāṇic sky-region name.</sub>
 
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9 (opening) and on 9.22, quoting Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> अथ शुक्रचारो व्याख्यायते। तस्य च नव वीथयस्त्रयो मार्गा उदङ्मध्यदक्षिणा। वातव्याडवैश्वानरास्त्रयो मार्गभेदाः षड् मण्डलानि भवन्ति। ... तथा च पराशरः— आद्यरोहितदारुणविरोचनोर्ध्वदण्डतीक्ष्णान्येतानि षण्मण्डलानि। तत्र भरण्यादीनि चत्वारि चतुर्नक्षत्राणि। ज्येष्ठाद्ये द्वे पञ्चनक्षत्रे। आद्यमेव मण्डलचतुष्टयं वातमाहुस्तीक्ष्णं व्याडमार्गम्। ऊर्ध्वदण्डं वैश्वानरमृते श्रवणात्।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. The two halves are from two places in ch. 9 (the chapter opening and the commentary on v. 22), joined here by ellipsis. The Samāsa-saṃhitā line भरणीरौद्रमघाऽनिलशक्रधनिष्ठादिसम्प्रवृत्तेषु is a COMPOSITE of two damaged scans and is not verbatim from any single one: Krishna Chandra Dvivedi's reads भरणीरोद्रमघाऽनिटशक्रधनिप्ठादिसम्प्रवृत्तेषु, Achyuta Nand Jha's भरणीरीद्रमघाऽनिलशक्रधनिष्ठादिसम्मवृत्तेषु; each supplies exactly what the other loses. Flagged as a reconstruction. Also, the words ज्येष्ठाद्ये द्वे पञ्चनक्षत्रे in the Parāśara maṇḍala passage follow A.V. Tripathi's scan (ज्येष्ठादये दे); Achyuta Nand Jha's reads ज्येष्ठाय द्वे and Krishna Chandra Dvivedi's ज्येष्ठा द्वे.*
+>
+> — *'Now the Śukra-cāra is expounded. Venus has nine vīthīs; the three mārgas are northern, middle and southern; the three mārga-divisions are Vāta, Vyāḍa and Vaiśvānara; and there are six maṇḍalas.' ... 'And so Parāśara: Ādya, Rohita, Dāruṇa, Virocana, Ūrdhvadaṇḍa, Tīkṣṇa — these are the six maṇḍalas. Of these, the four beginning with Bharaṇī are of four asterisms each; the two beginning with Jyeṣṭhā are of five asterisms. The first group of four maṇḍalas they call Vāta; the Tīkṣṇa, the Vyāḍa-road; the Ūrdhvadaṇḍa, Vaiśvānara — excepting Śravaṇa.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** VARIANT NAME-SET, NEW TO THE DATABASE. The database records the three mārgas only under the Purāṇic names Airāvata / Jaradgava / Vaiśvānara (Matsya 124.52). Utpala opens his commentary on Bṛhat Saṃhitā ch. 9 with a different trio: 'its nine vīthīs, three mārgas — northern, middle and southern — are the three mārga-divisions Vāta, Vyāḍa and Vaiśvānara; and there are six maṇḍalas.' Vyāḍa means 'serpent' (so Krishna Chandra Dvivedi's editorial footnote ad loc., which cross-refers to Parāśara's words in the ṭīkā on 9.22), i.e. Vyāḍa is a synonym of Nāga. Utpala's source is the Parāśara passage he quotes on BS 9.22, given as the shloka here: there Parāśara applies Vāta, Vyāḍa-mārga and Vaiśvānara to Venus's six maṇḍalas rather than to the vīthī-triads, so the two systems have been conflated in the opening sentence. All three scanned editions read वातव्याडवैश्वानरा identically. Airāvata is here demoted to a single vīthī-name (Airāvatī), not a mārga-name — a real doctrinal difference from the Purāṇas.</sub>
+
 ### पितृयाण / देवयान (Pitṛyāṇa / Devayāna) — the Road of the Fathers / the Road of the Gods — two celestial bands defined by star markers
 
 **Modern identification:** the Road of the Fathers / the Road of the Gods — two celestial bands defined by star markers — —, Pitṛyāṇa: north of Canopus and south of Ajavīthī. Devayāna: north of Nāgavīthī (Aries/Taurus) and south of Ursa Major (*likely*)
@@ -2629,6 +5539,42 @@ The Purāṇic road-system: three great belts (Airāvata, Jaradgava, Vaiśvānar
 > <br>— H.H. Wilson (1840; public domain) ([source](https://www.sacred-texts.com/hin/vp/vp066.htm))
 
 <sub>**Identification notes (Purāṇas):** Valuable for a star database because these are defined ASTRONOMICALLY, by named stellar boundary markers rather than by myth: Agastya (Canopus) and Ajavīthī bound the Pitṛyāṇa; Nāgavīthī and the Saptarṣis bound the Devayāna. Attested identically in three recensions.</sub>
+
+### सुरवीथी (Suravīthī) — the road of the gods — the broad path of the asterisms
+
+**Modern identification:** the road of the gods — the broad path of the asterisms — —, the ecliptic/zodiacal band as a whole (*likely*)
+
+*See also:* `margas`, `pitryana-devayana`, `shukra-shanmandala`
+
+**Mahābhārata 3.44.12 (Critical Edition, Vana Parva, Indralokābhigamana) = vulgate/Ganguli Vana Parva Section XLIII** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> nakṣatramārgaṃ vipulaṃ suravīthīti viśrutam / indrājñayā yayau pārthaḥ stūyamānaḥ samantataḥ //
+>
+> *CE lines 03,044.012a/012c. CE Vana 3.44 = Ganguli's vulgate Vana Parva Section XLIII — the numbers differ by one.*
+>
+> — *And praised all around, the son of Pritha then went, at the command of Indra, to that large and extensive starry way called by the name of Suravithi.*
+> <br>— Kisari Mohan Ganguli (1883-96) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m03/m03043.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** A vīthī-name not in the database's Purāṇic star-road set (nāgavīthī, gajavīthī, airāvatī, ārṣabhī, govīthī, jāradgavī, ajavīthī, mṛgavīthī, vaiśvānarī). The epic defines it in apposition: 'the broad NAKṢATRAMĀRGA renowned as Suravīthī' — so Suravīthī is not one of the nine narrow lanes but the whole road of the asterisms, which Arjuna travels by Indra's order on his way to Amarāvatī. The Purāṇic vīthīs subdivide precisely this band, so Suravīthī is best read as the generic name of which they are the subdivisions. Ganguli: 'that large and extensive starry way called by the name of Suravithi.'</sub>
+
+### आद्य, रोहित, दारुण, विरोचन, ऊर्ध्वदण्ड, तीक्ष्ण (Ādya, Rohita, Dāruṇa, Virocana, Ūrdhvadaṇḍa, Tīkṣṇa (the six maṇḍalas)) — the six 'circles' of the ecliptic — named blocks of 4–6 consecutive nakṣatras
+
+**Modern identification:** the six 'circles' of the ecliptic — named blocks of 4–6 consecutive nakṣatras — —, ecliptic: I Bharaṇī+4, II Ārdrā+4, III Maghā+4, IV Svātī+4, V Jyeṣṭhā+5, VI Dhaniṣṭhā+6 (*likely*)
+
+*See also:* `margas`, `suravithi`
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 9.22, quoting Parāśara (and the Samāsa-saṃhitā)** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> आद्यरोहितदारुणविरोचनोर्ध्वदण्डतीक्ष्णान्येतानि षण्मण्डलानि। तत्र भरण्यादीनि चत्वारि चतुर्नक्षत्राणि। ज्येष्ठाद्ये द्वे पञ्चनक्षत्रे। आद्यमेव मण्डलचतुष्टयं वातमाहुस्तीक्ष्णं व्याडमार्गम्। ऊर्ध्वदण्डं वैश्वानरमृते श्रवणात्। … अत्र मतभेदो वराहमिहिरेण सहास्ति। तथा च समाससंहितायाम्— भरणीरौद्रमघाऽनिलशक्रधनिष्ठादिसम्प्रवृत्तेषु।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. The Samāsa-saṃhitā half-verse is quoted only for its first line; the second line is damaged in all three scans and is not reproduced. The Samāsa-saṃhitā line भरणीरौद्रमघाऽनिलशक्रधनिष्ठादिसम्प्रवृत्तेषु is a COMPOSITE of two damaged scans and is not verbatim from any single one: Krishna Chandra Dvivedi's reads भरणीरोद्रमघाऽनिटशक्रधनिप्ठादिसम्प्रवृत्तेषु, Achyuta Nand Jha's भरणीरीद्रमघाऽनिलशक्रधनिष्ठादिसम्मवृत्तेषु; each supplies exactly what the other loses. Flagged as a reconstruction. Also, the words ज्येष्ठाद्ये द्वे पञ्चनक्षत्रे in the Parāśara maṇḍala passage follow A.V. Tripathi's scan (ज्येष्ठादये दे); Achyuta Nand Jha's reads ज्येष्ठाय द्वे and Krishna Chandra Dvivedi's ज्येष्ठा द्वे.*
+>
+> — *'Ādya, Rohita, Dāruṇa, Virocana, Ūrdhvadaṇḍa, Tīkṣṇa — these are the six maṇḍalas. Of these, the four beginning with Bharaṇī consist of four asterisms each; the two beginning with Jyeṣṭhā, of five asterisms. The first set of four maṇḍalas they call Vāta; Tīkṣṇa, the Vyāḍa-road; Ūrdhvadaṇḍa, Vaiśvānara, excepting Śravaṇa.' … 'Here there is a difference of opinion with Varāhamihira. And so in the Samāsa-saṃhitā: in the maṇḍalas that begin respectively with Bharaṇī, Raudra (Ārdrā), Maghā, Anila (Svātī), Śakra (Jyeṣṭhā) and Dhaniṣṭhā …'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** A SIXTH sky-division scheme, parallel to the nine vīthīs and three mārgas but named nowhere in Varāhamihira's own text. BS 9.10–9.21 describes six maṇḍalas by their opening asterism only ('bharaṇī-pūrvam ṛkṣa-catuṣkam', 'ārdrādyaṃ bha-catuṣṭayam', …); the NAMES survive solely in the Parāśara passage Utpala quotes on BS 9.22. Utpala's own prose confirms the count: 'atha śukrasya ṣaṇ-maṇḍalāni bhavanti' (comm. on 9.10). Varāhamihira's own lost Samāsa-saṃhitā, also quoted by Utpala here, lists the six by their initial asterisms with deity-synonyms: 'bharaṇī-raudra-maghā-anila-śakra-dhaniṣṭhādi-sampravṛtteṣu' — i.e. Bharaṇī, Raudra (=Ārdrā), Maghā, Anila (=Svātī), Śakra (=Jyeṣṭhā), Dhaniṣṭhā. Assignment of each name to each maṇḍala follows the order of the two lists; Parāśara's further remark ('the first four maṇḍalas they call Vāta; Tīkṣṇa the Vyāḍa-road; Ūrdhvadaṇḍa Vaiśvānara, excepting Śravaṇa') is elliptical and its exact force is uncertain — flagged as such.</sub>
 
 ## The Milky Way
 
@@ -2649,6 +5595,30 @@ Three Purāṇic names for the galactic band. On the chart they are attached to 
 
 <sub>**Identification notes (Purāṇas):** In Bhāgavata 5.23.5 it lies on the belly (udara) of the Śiśumāra, placed among star-positions alongside Ajavīthī — that context makes the Milky Way reading secure. IMPORTANT CONTRAST: in Viṣṇu P. 2.9.12, 2.9.14 and 2.9.17 the same word means something else entirely — the celestial water that falls from a cloudless sky, a bath in which is 'divya snāna'. So the Milky-Way sense is specifically the Bhāgavata's. The Vāyu/Brahmāṇḍa/Matsya group does not use the word for the sky at all; its Milky Way term is chāyāpatha.</sub>
 
+**Raghuvaṃśa 16.71** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> tenāvarodhapramadāsakhena vigāhanānena saridvarāṃ tām / ākāśagaṅgāratir apsarobhir vṛto marutvān anuyātalīlaḥ // Ragh_16.71
+>
+> — *Literal rendering: 'As he plunged into that best of rivers with his harem-ladies for companions, Marutvan (Indra), who delights in the Akasaganga surrounded by apsarases, seemed to be copying his sport.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt))
+
+<sub>**Identification notes (Classical kāvya):** Indra (marutvan) sporting with apsarases in the waters of the Akasaganga - the celestial river as a place in heaven. Already in the database from the Puranas; recorded here because Akasaganga is Kalidasa's commonest name for the sky-river (also Kumarasambhava 6.5) and because kavya usage is what fixed it in later Sanskrit.</sub>
+
+**Śiśupālavadha 3.8** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mAgha-zizupAlavadha.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> ubhauyadi vyomni pṛthakpravāhāvākāśagaṅgāpayasaḥ patetām / tenopamīyate tamālanīlamāmuktamuktālatamasya vakṣaḥ // mspv_3.8 //
+>
+> *IAST from GRETIL; word boundaries are unmarked in this e-text (see its file header).*
+>
+> — *Literal rendering: 'If the water of the Akasaganga were to fall in the sky in two separate streams, by that his chest - dark as tamala, with its loosed strings of pearls - might be likened.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mAgha-zizupAlavadha.txt))
+
+<sub>**Identification notes (Classical kāvya):** Magha's use is the most visual of all the celestial-river passages found: the comparison requires the Akasaganga's water to fall 'in the sky' (vyomni) in TWO SEPARATE STREAMS, which is how the poet renders the dark rift down the Milky Way - as the two strands of Krsna's pearl necklace against his dark chest. This is the closest anything in the survey comes to describing the actual appearance of the band.</sub>
+
 ### छायापथ (Chāyāpatha) — the Milky Way (lit. 'the shadow-path')
 
 **Modern identification:** the Milky Way (lit. 'the shadow-path') — —, the galactic band (*certain*)
@@ -2663,6 +5633,17 @@ Three Purāṇic names for the galactic band. On the chart they are attached to 
 > <br>— Literal rendering by the compiler; no public-domain published translation of this verse was located ([source](https://sa.wikisource.org/wiki/वायुपुराणम्/पूर्वार्धम्/अध्यायः_४७))
 
 <sub>**Identification notes (Purāṇas):** The clearest, least ambiguous Milky Way attestation in the whole Purāṇic corpus, and the term the Vāyu/Brahmāṇḍa/Matsya group actually uses: 'the shadow-path in the sky that runs ALONG THE CIRCLE OF THE NAKṢATRAS, seen shining at night — that is the goddess Tripathagā.' Three independent witnesses. The description (a luminous band following the asterism-circle, visible at night) admits no other referent.</sub>
+
+**Raghuvaṃśa 13.2** — [Sanskrit e-text](https://sa.wikisource.org/wiki/रघुवंशम्/त्रयोदशः_सर्गः)
+
+> वैदेहि पश्य्ऽ आमलयाद्विभक्तं मत्सेतुना फेनिलं अम्बुराशिं । छायापथेनेव शरत्प्रसन्नं आकाशं आविष्कृतचारुतारं । । १३.२ । ।
+>
+> *Devanagari from Sanskrit Wikisource, agreeing word-for-word with GRETIL. The odd 'पश्य्ऽ आ' is the e-text's way of writing paśya ā(malayāt).*
+>
+> — *Literal rendering: 'Vaidehi, look at the foaming ocean, parted by my causeway all the way from Malaya, like the autumn-clear sky with its lovely stars laid open by the chayapatha (the shadow-path, the Milky Way).'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt))
+
+<sub>**Identification notes (Classical kāvya):** The Milky Way sense is fixed by the simile itself: the foaming ocean divided by Rama's causeway is likened to the autumn-clear sky WITH ITS LOVELY STARS REVEALED (āviṣkṛta-cāru-tāram), divided by the chayapatha. A band that visibly bisects a star-filled sky can only be the Milky Way. The database already has chayapatha from the Puranas; this is the classic literary attestation, and the one the Sanskrit lexicographers most often cite.</sub>
 
 ### त्रिपथगा (Tripathagā) — the Milky Way, as the 'three-path-goer' (the Gaṅgā of the three worlds)
 
@@ -2738,6 +5719,68 @@ Three Purāṇic names for the galactic band. On the chart they are attached to 
 > <br>— H.T. Colebrooke (1808) ([source](https://archive.org/download/AmaraKosha/amara_english_colebrook_djvu.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** 'The gods' long water-course'. Fourth synonym in the same verse, and the one whose astronomical reference is weakest — it need mean no more than a celestial watercourse in the abstract.</sub>
+
+### व्योमगङ्गा (Vyomagaṅgā) — the Milky Way
+
+**Modern identification:** the Milky Way — —, — (*likely*)
+
+*See also:* `akashaganga`, `nabhonadi`, `mandakini`, `viyadganga`
+
+**Raghuvaṃśa 12.85** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> tam ādhūtadvajapaṭaṃ vyomagaṅgormivāyubhiḥ / devasūtabhujālambī jaitram adhyāsta rāghavaḥ // Ragh_12.85
+>
+> *Given in IAST from GRETIL because the Sanskrit Wikisource Devanagari of this verse is corrupted at exactly the key word (it prints 'व्य्ॐअगङ्गोर्मिवायुभिः' for व्योमगङ्गोर्मिवायुभिः). Both witnesses read 'dvaja' for the expected 'dhvaja'.*
+>
+> — *Literal rendering: 'Raghava, steadied by the arm of the gods' charioteer, mounted that victorious car, its banner-cloth shaken by the winds from the waves of the Sky-Ganga.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-raghuvaMza.txt))
+
+<sub>**Identification notes (Classical kāvya):** 'Sky-Ganga' - an eighth poetic name for the celestial river / Milky Way, alongside the seven already in the database (Akasaganga, Mandakini, Viyadganga, Svarnadi, Suradirghika, chayapatha, Tripathaga). Kalidasa uses it at least twice, and it is the reading of the Devanagari Kumarasambhava 6.5 where GRETIL reads akasaganga. Here Rama's aerial chariot's banner is shaken by winds off the WAVES of the Vyomaganga during a battle fought in the sky - unambiguously the celestial, not the terrestrial, Ganga. Confidence is 'likely' rather than 'certain' only because Sanskrit poets do not always distinguish the heavenly Ganga as a mythic river from the visible band of light; the identification rests on the standard Indian equation of the two.</sub>
+
+**Meghadūta (Pūrvamegha) 1.46; numbered 45 in editions that count the opening verse differently** — [Sanskrit e-text](https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:)
+
+> तत्र स्कन्दं नियतवसतिं पुष्पमेघीकृतात्मा पुष्पासारैः स्नपयतु भवान् व्योमगङ्गाजलार्द्रैः । रक्षाहेतोर्नवशशिभृता वासवीनां चमूनाम् अत्यादित्यं हुतवहमुखे संभृतं तद्धि तेजः॥१.४६॥
+>
+> *Devanagari from Sanskrit Wikisource. The reading vyomagaṅgā is confirmed by THREE independent GRETIL e-texts - the plain text, M. R. Kale's edition, and the text accompanying VALLABHADEVA's commentary, i.e. the oldest (10th-century Kashmirian) recension. BUT H. H. Wilson's manuscript read mandākinī instead: his 1843 note glosses the line as 'Moistened with the waters of the Mandakini, the celestial Ganges'. So the verse names the sky-river in every witness; only which name varies.*
+>
+> — *There change thy form, and showering roses shed, / Bathed in the dews of heaven, on Skanda's head;*
+> <br>— Horace Hayman Wilson, The Megha duta; or, Cloud Messenger (2nd ed., 1843), vv. 295-296 - a verse rendering; his own literal note reads 'Moistened with the waters of the Mandakini, the celestial Ganges' ([source](https://archive.org/download/bub_gb_GbQIAAAAQAAJ/bub_gb_GbQIAAAAQAAJ_djvu.txt))
+
+<sub>**Identification notes (Classical kāvya):** Second Kalidasa attestation of the 'Sky-Ganga'. The Cloud, itself travelling through the sky, is to bathe Skanda on Devagiri with flower-showers 'wet with the water of the Vyomaganga' - the river as a source the cloud can reach in flight. Same class as the seven celestial-river names already in the database; the caveat entered under Raghuvamsa 12.85 applies.</sub>
+
+### नभोनदी (Nabhonadī) — the Milky Way
+
+**Modern identification:** the Milky Way — —, — (*likely*)
+
+*See also:* `akashaganga`, `vyomaganga`, `svarnadi`
+
+**Śiśupālavadha 17.64** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mAgha-zizupAlavadha.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> nabhonadīvyatikaradhautamūrtibhirviyadgatairanadhigatāni lebhire / calaccamūturagakhurāhatotpatanmahīrajaḥsnapanasukhāni diggajaiḥ // mspv_17.64 //
+>
+> *IAST from GRETIL (Sansknet e-text, converted from two competing Devanagari encodings, so word boundaries are largely unmarked).*
+>
+> — *Literal rendering: 'The elephants of the quarters, moving through the sky with their bodies washed by contact with the Sky-River, obtained pleasures of bathing they had never known - in the earth-dust flung up by the beating hooves of the moving army's horses.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mAgha-zizupAlavadha.txt))
+
+<sub>**Identification notes (Classical kāvya):** 'Sky-river' - a ninth name for the celestial stream, not in the database. Here the elephants of the quarters are 'viyad-gataiḥ', MOVING THROUGH THE SKY, and their bodies are 'washed by contact with the Nabhonadi'; they envy the earthly dust-bath kicked up by the marching army. The referent is unambiguously in the sky. Same caveat as Vyomaganga: celestial-river names are identified with the Milky Way by Indian convention rather than by an explicit description of a band of light.</sub>
+
+**Kirātārjunīya 7.18** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bhAravi-kirAtArjunIya.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> ākīrṇā mukhanalinair vilāsinīnām udbhūtasphuṭaviśadātapatraphenā / sā tūryadhvanitagabhīram āpatantī bhūbhartuḥ śirasi nabhonadīva reje // BhKir_7.18
+>
+> *IAST from GRETIL.*
+>
+> — *Literal rendering: 'Strewn with the lotus-faces of lovely women, foaming with the white parasols risen clear above it, descending with a deep roar of trumpets, it shone like the Sky-River falling on the head of the lord of the earth.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bhAravi-kirAtArjunIya.txt))
+
+<sub>**Identification notes (Classical kāvya):** Second, and probably earlier, attestation of Nabhonadi. Indra's army pouring down onto the peak of Mount Indrakila 'shone like the Sky-River falling on the head of the lord of the earth' - the Ganga descending from heaven onto Siva's head, i.e. the celestial river seen as falling out of the sky. Bharavi antedates Magha by roughly a century.</sub>
 
 ## Sky-regions and mechanisms
 
@@ -2838,6 +5881,104 @@ Star-catalog passages that treat the yogatārās as a set.
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** THIS IS THE TABLE BHĀSKARA COPIED — and the edition's commentary says so outright: 'these very dhruvāṃśas of Aśvinī and the rest were read out by Bhāskara too, in his own Bhagrahayutyadhikāra.' BSS 10.3–4 give the polar longitudes as degrees within a sign (Aśvinī 8° Aries, Bharaṇī 20° Aries, Kṛttikā 8° Taurus less 32', Rohiṇī 20° Taurus less 32', Mṛgaśīrṣa 13° Gemini, Ārdrā 7° Gemini, Punarvasu 3° Cancer, Puṣya 16° Cancer, Āśleṣā 18° Cancer, Maghā 9° Leo, P. Phalgunī 27° Leo, U. Phalgunī 5° Virgo, Hasta 20° Virgo, Citrā 3° Libra, Svātī 19° Libra…); 10.5–7 give the latitudes and 10.8–9 the minute-corrections. Only 27 are tabulated. Burgess: 'With it, so far as the longitude is concerned, exactly accord the Brahma-Siddhanta, as reported by Colebrooke, and the Khanda-Kataka, as reported by al-Biruni... but the latitudes of the Khanda-Kataka often vary considerably from both.' SEPARATELY, the Pañcasiddhāntikā gives coordinates for only SEVEN yogatārās (XIV.34–37: Kṛttikā, Rohiṇī, Punarvasu, Puṣya, Āśleṣā, Maghā, Citrā), in hastas rather than degrees, and they diverge widely from the Sūrya Siddhānta's; Thibaut: 'Why Varāha Mihira should have confined himself to stating the longitudes and latitudes of seven junction stars only, remains unaccounted for. Possibly the Manuscripts are defective just at that place.'</sub>
 
+**Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 1–11** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
+
+> अथ भ-ग्रह-योगाय भानां वक्ष्ये ध्रुवान् शरान् ।
+> संख्याकारान् योगताराः साङ्गानां बिम्बविस्तृतीः ॥ १ ॥
+> दस्रादीनां ध्रुवांशाः स्युः-
+> वृद्धिकाष्ठाः(१)८।४५ कुबाहवः(२)२१ ।
+> सपादेष्वग्नयः(३)३५।१५ सार्ध-
+> षड्वेदाः(४)४६।३० साद्धिखर्तवः(५)६०।१५ ॥ २ ॥
+> शरघंट(६)६५ साद्धिशून्याङ्काः(७)९०।१५
+> कृताभा(८)१०४ वसुखेन्दवः(९)१०८ ।
+> रसार्काः(१०)१२६ सार्धवह्नीन्द्रा(११)१४३।३०
+> रामबाणहिमांशवः(१२)१५३ ॥ ३ ॥
+> शरभूपा(१३)१६५ नवघना(१४)१७९-
+> स्विनन्दसितभानवः(१५)१९३ ।
+> नगाभ्रपक्षा(१६)२०७ साद्धाष्ट-
+> भूभुजा(१७)२१८।३० ॥ ४ ॥
+> अर्धोना(१८)२२५।३० स्वंशहीनेन्दु-
+> सिद्धाः(१९)२४०।४० खशरबाहवः(२०)२५० ।
+> अर्द्धयुक्तर्कतत्त्वानि(२१)२५६।३०
+> दलोनाद्रीषुबाहवः(०)२५६।३० ॥ ५ ॥
+> त्रिभानि(२२)२७३ सार्धपञ्चाष्ट-
+> पक्षा(२३)२८५।३० व्यङ्गाष्टभूगुणाः(२४)३१७।४५ ।
+> दृग्दन्ता(२५)३२२ दन्तिगीर्वाणाः(२६)३३८
+> शून्यं(२७)० साभिजितामिति ॥ ६ ॥
+> क्रान्त्यन्तादेषामथ
+> विक्षेपांशा दलाब्ध्यदिश(१)१०।३० ईशाः(२)११ ।
+> साङ्गव्ध्ययः(३)४।१५ सहार्धे-
+> न्द्रियाणि(४)५।३० साद्धानलक्षितयः(५)१३।३० ॥ ७ ॥
+> चरांशोनतर्कचन्द्राः(६)१५।४०
+> साद्रसाः(७)६।३० साद्धिरूप(८)१।१५ मर्काश्च(९)१२ ।
+> रूपदलं निजषष्ठां-
+> शोनित(१०)०।२५ मर्धेन्दवौ(११)१५ विश्वे(१२)१३ ॥ ८ ॥
+> रुद्राः(१३)११ सरसांशहृशौ(१४)२।१०
+> देवा(१५)३३ बाहू(१६)२ भुजौ(१७)२ सपादक्षताः(१८)४।१५ ।
+> सदलानलरजनीशाः(१९)१३।३०
+> साद्धांङ्गा(२०)६।३० न्यंत्रिभागक्षताः(२१)३।४० ॥ ९ ॥
+> द्वाषष्टि(०)६२ रन्ध्ररामाः(२२)३०
+> षट्त्रिंश(२३)३६ च्छीतदीधितेस्त्र्यंशः(२४)०।२० ।
+> दन्ता(२५)३२ गजभुजसङ्ख्या(२६)२८
+> शरा(२७)५ इति शराः क्रमाद्भानाम् ॥ १० ॥
+> ब्रह्मत्रयस्य(४।५।६) राधाषट्क(१६।१७।१८।१९।२०।२१)-
+> स्याहेः(९) करस्य(१३) चित्रायाः(१४) ।
+> वरुणस्य(२४) च विक्षेपो याम्यः सौम्योऽपररक्षाणाम् ॥ ११ ॥
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n216–n217 = printed pp. 114–116) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/in.ernet.dli.2015.292705/page/n216.jpg . Every numeral was re-read at full scan resolution. Cross-checked against a second, independent scan of the same Ray edition at https://archive.org/download/siddhantadarpanachandrashekarsimha1897_252_Z/ , which agrees character for character on the figures. Round brackets and the figures in them are the PRINTED EDITION'S own: (n) is the serial number of the asterism/star, the figure after it the edition's decoding of the preceding bhūtasaṅkhyā word-numeral, so no numeral has been silently converted here. A handful of the compound word-forms in this worn 1899 type are uncertain and are marked in this database as read, not emended; the FIGURES, which carry the astronomy, were verified at high magnification in both scans.*
+>
+> — *'Now, for the conjunction of the asterisms with the planets, I shall state the dhruvas and śaras of the asterisms, their numbers and shapes, the junction stars, and the disc-diameters of those that have members. (1) The dhruva-degrees of the asterisms beginning with Dasra (Aśvinī) are: …' — then the two numerical lists, closing (10) 'these are the śaras of the asterisms in order', and (11) 'The vikṣepa of the Brahmā-triad (4, 5, 6), of the six beginning with Rādhā (16–21), of Ahi (9), of Kara (13), of Citrā (14) and of Varuṇa (24) is southern; northern for the remaining asterisms.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** SĀMANTA'S COMPLETE YOGATĀRĀ TABLE, 1869 CE — the fourth and by far the most accurate of the Sanskrit coordinate sets. Polar longitudes (dhruva) in order Aśvinī…Revatī, with Abhijit inserted as no. (0) between Uttarāṣāḍhā and Śravaṇa: 8°45', 21°, 35°15', 46°30', 60°15', 65°, 90°15', 104°, 108°, 126°, 143°30', 153°, 165°, 179°, 193°, 207°, 218°30', 225°30', 240°40', 250°, 256°30', [Abhijit] 256°30', 273°, 285°30', 317°45', 322°, 338°, 0°. Polar latitudes (śara): 10°30', 11°, 4°15', 5°30', 13°30', 15°40', 6°30', 1°15', 12°, 0°25', 15°, 13°, 11°, 2°10', 33°, 2°, 2°, 4°15', 13°30', 6°30', 3°40', [Abhijit] 62°, 30°, 36°, 0°20', 32°, 28°, 5°. XII.11 makes the śara SOUTHERN for nos. 4, 5, 6, 9, 13, 14, 16–21 and 24 and northern for the rest. Star-counts (XII.12–13): 3, 3, 6, 5, 3, 1, 5, 3, 5, 5, 2, 2, 5, 1, 1, 5, 7, 3, 9, 4, 4, 3, [Abhijit] 3, 5, 100, 2, 2, 32. Shapes (XII.15–17) include Viśākhā = toraṇa (a gateway/festoon arch), Ārdrā = vidruma (coral), Śatabhiṣaj = vitāna (canopy), Dhaniṣṭhā = muraja (drum), Abhijit = agni-bimba (fire-disc). ACCURACY: reduced to Sāmanta's own sidereal zero (his Citrā = 179°, i.e. Spica), twenty of the twenty-eight polar longitudes are within 1° of the true 1870 values and most of the latitudes within 20'. This is a genuine re-observation, not a copy: he lowers Viśākhā by 6° (213°→207°), Śatabhiṣaj by 2°15' (320°→317°45'), Svāti by 6° (199°→193°), and raises Mūla's latitude from 9° to 13°30' and Ārdrā's from 9° to 15°40' — every one of these corrections moves the figure TOWARDS the modern star, not away from it.</sub>
+
+**Vaṭeśvara-siddhānta VIII (Samāgamādhikāra), section 2 (Bhagrahayutyādividhiḥ) 1–9** — [Sanskrit e-text](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt)
+
+> मेषेऽष्ट[८]नखै[२०]रंशै-
+> र्गवि विदलैस्तै[७॥,१९॥]स्त्रि[३]सप्त[७]भिर्जितुमे ।
+> त्र्य[३]ष्टि[१६]धृति[१८]भिः कुलीरे
+> वसु[८]भैः[२७] सिंहे जलधि[४]नखैः[२०] षष्ठे ॥ १ ॥
+> राम[३]धृति[१८]भिस्तुलायां
+> द्वी[२]न्द्रा[१४]तिधृति[१९भि]रलिनि कु[१]मनु[१४]नख[२०]भैः[२७]
+> धनुषीभ[८]नखै[२०]मंकरे
+> विंशति[२०]त्रिघनै[२७]र्घंटे नग[७]त्रिंशैः[३०] ॥ २ ॥
+> मीनेऽश्विन्यादीनि द्युचरैर्योगं व्रजन्ति
+> जितुमांशे ।
+> सप्तार्विंशे[२७]ऽगस्त्यः तर्द्विंशे[२०] लुब्धकध्रुवकः ॥ ३ ॥
+> ध्रुवकक्रान्त्यन्ततः क्षेपाः ॥ ४ ॥
+> दश[१०] सूर्याः[१२] पञ्च[५] शराः[५]
+> दिशः[१०] शिवाः[११] षड्[६] वियन्[०] नगाः[७] शून्यम्[०] ।
+> सूर्या[१२] विश्वे[१३] शौ[११] द्वौ[२]
+> सप्तत्रिंशद्[३७] भुजौ[२] रामाः[३] ॥ ५ ॥
+> वेदा[४] नव[९] षड्[६] ऋतवः[६]
+> कृतर्तवः[६४] खाग्नयो[३०] ऽङ्गरामाः[३६] खम्[०] ।
+> तीर्थकृतः[२४] षड्यमलाः[२६] ख[०]मंशका अश्विनादीनाम् ॥ ६ ॥
+> ब्राह्मेन्द्रमूलमैत्राग्नेयानां खाग्नयः[३०] कलाः खकृताः[४०] ।
+> वैश्वापविशाखानां खभुजा[२०]स्त्वाष्ट्रस्य संशोध्याः ॥ ७ ॥
+> त्रीणि ब्राह्मात् सार्पं द्वितयं हस्ताद् द्विदैवतात् षट् ।
+> एतानि दक्षिणदिशि विक्षिप्तान्यन्यानि चोत्तरतः ॥ ८ ॥
+> याम्ये क्षिप्तो व्याधः खकृतै[४०]रंशैः नगाचले[७७]श्च मुनिः ।
+>
+> *Devanagari transcribed by the compiler from the page FACSIMILE (archive.org scan leaf n317–n318 = printed pp. 293–294) because the archive.org OCR of this volume is unusable for Devanagari; the page image itself was fetched in this session at https://archive.org/download/VatesvaraSiddhantaSanskritText/page/n317.jpg . Every numeral was re-read at full scan resolution. The SQUARE brackets and the figures inside them are the EDITION'S (K. S. Shukla, INSA) own decoding of the bhūtasaṅkhyā word-numerals, reproduced so that no numeral is silently converted. '॥' after 7 and 19 in verse 1 renders the edition's fraction sign for ½. Shukla's English translation and notes are in copyright and are neither quoted nor relied on here — only the constituted mūla text and the edition's numeric glosses.*
+>
+> — *'In Aries at 8 and 20 degrees; in Go (Taurus) at those [same figures] diminished by a half (7½, 19½); at 3 and 7 in Jituma (Gemini); at 3, 16 and 18 in Kulīra (Cancer); at 8 and 27 in Siṃha (Leo); at 4 and 20 in the sixth sign (Virgo) (1). At 3 and 18 in Tulā (Libra); at 2, 14 and 19 in Alin (Scorpio); at 1, 14, 20 and 27 in Dhanus (Sagittarius); at 8 and 20 in Makara (Capricorn); at 20 and 27 in Ghaṭa (Aquarius); at 7 and 30 in Mīna (Pisces) (2) — [there] the asterisms beginning with Aśvinī come into conjunction with the planets. In degrees of Jituma: Agastya at the 27th, and the dhruvaka of Lubdhaka at its 20th (3). … The kṣepas are [reckoned] from the end of the declination-circle of the dhruvaka (4). Ten, twelve, five, five; ten, eleven, six, nought, seven, nought; twelve, thirteen, eleven, two; thirty-seven, two, three (5); four, nine, six, six; sixty-four, thirty, thirty-six, nought; twenty-four, twenty-six, nought — [these are] the degrees of [the asterisms] beginning with Aśvinī (6). … Three from Brāhma, the pair from Sārpa, six from Hasta [and] from the two-deity one — these are deflected to the south, the others to the north (8). Vyādha is deflected south by forty degrees, and Muni by seventy-seven.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/VatesvaraSiddhantaSanskritText/Va%E1%B9%ADe%C5%9Bvara%20Siddh%C4%81nta-Sanskrit-text_djvu.txt))
+
+<sub>**Identification notes (Vaṭeśvara & Sāmanta):** VAṬEŚVARA'S YOGATĀRĀ TABLE, 904 CE — a fourth independent witness to the inherited Sūrya-Siddhānta / Brahmagupta coordinate set. Two peculiarities of presentation: (i) the dhruvakas are given as degrees WITHIN each zodiacal sign, sign by sign, not as absolute longitudes, and (ii) the sign names are partly the Greek-derived series — jituma (Gemini, from δίδυμοι), kulīra (Cancer, from κολουρος/καρκινος tradition), go (Taurus), alin (Scorpio), ghaṭa (Aquarius). Absolute equivalents: 8°, 20°, 37°30', 49°30', 63°, 67°, 93°, 106°, 108°, 128°, 147°, 154°, 170°, 183°, 198°, 212°, 224°, 229°, 241°, 254°, 260°, [Abhijit] 267°, 278°, 290°, 320°, 327°, 337°, 360°. Kṣepas (VIII.2.5–6): 10°, 12°, 5°, 5°, 10°, 11°, 6°, 0°, 7°, 0°, 12°, 13°, 11°, 2°, 37°, 2°, 3°, 4°, 9°, 6°, 6°, [Abhijit] 64°, 30°, 36°, 0°, 24°, 26°, 0°. VIII.2.7 then adds minute-corrections — 30' for Brāhma (Abhijit), Aindra (Jyeṣṭhā), Mūla, Maitra (Anurādhā) and Āgneya (Kṛttikā); 40' for Vaiśva (Uttarāṣāḍhā), Āpa (Pūrvāṣāḍhā) and Viśākhā; 20' for Tvāṣṭra (Citrā), which is to be SUBTRACTED (saṃśodhyāḥ). Whether the first two groups are additive or also subtractive is not unambiguous in the constituted text and is left unresolved here rather than guessed. VIII.2.8 gives the north/south rule and is, by the edition's own footnote, identical with Brahmagupta's Khaṇḍakhādyaka I.9.13. DIFFERENCES FROM THE SŪRYA SIDDHĀNTA worth noting: Ārdrā 67° (SS 67°20') but with latitude 11° instead of 9°; Viśākhā 212° instead of 213°; Abhijit's latitude 64° instead of 60°; Citrā at 183° rather than 180°, which shifts Vaṭeśvara's whole sidereal zero about 3° from the Sūrya Siddhānta's.</sub>
+
+**Kumārasambhava 8.73** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-kumArasaMbhava.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> eṣa cārumukhi yogatārayā yujyate taralabimbayā śaśī / sādhvasād upagataprakampayā kanyayeva navadīkṣayā varaḥ // Ks_8.73
+>
+> *IAST from GRETIL. Canto 8 could not be obtained in Devanagari in this session (the Sanskrit Wikisource page for the eighth sarga is a scan-transclusion stub with no text layer), and R. T. H. Griffith omitted canto 8 from his translation.*
+>
+> — *Literal rendering: 'This moon, fair-faced one, is being joined by a junction-star (yogatara) of trembling disc, as a bridegroom is by a maiden set aquiver with the fright of her new consecration.'*
+> <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_kAlidAsa-kumArasaMbhava.txt))
+
+<sub>**Identification notes (Classical kāvya):** The strictly technical siddhanta term yogatārā ('junction star' - the one star of an asterism by which the moon's conjunction is reckoned) used inside a love-poem. Siva, pointing out the night sky to Parvati, says the moon is being joined by a yogatara with a trembling disc, like a bridegroom by a bride shaking with the fright of her new initiation. The database already records the collective Aśvinyādi yogatārāḥ from the Surya Siddhanta; this shows the word had passed into poetic currency. No individual naksatra is named.</sub>
+
 ### दाक्षायिण्यः (Dākṣāyaṇyaḥ) — the 27 lunar mansions collectively
 
 **Modern identification:** the 27 lunar mansions collectively — —, — (*certain*)
@@ -2855,7 +5996,7 @@ Star-catalog passages that treat the yogatārās as a set.
 
 ### चित्रशिखण्डिनः (Citraśikhaṇḍinaḥ) — Big Dipper / Great Bear
 
-**Modern identification:** Big Dipper / Great Bear — α–η Ursae Majoris, Ursa Major (*certain*)
+**Modern identification:** Big Dipper / Great Bear — α–η Ursae Majoris, Ursa Major (*likely*)
 
 *See also:* `saptarshi`, `rksha`
 
@@ -2867,6 +6008,19 @@ Star-catalog passages that treat the yogatārās as a set.
 > <br>— H.T. Colebrooke (1808) ([source](https://archive.org/download/AmaraKosha/amara_english_colebrook_djvu.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** Second collective name for the Seven Sages, 'the bright-crested ones', given as a straight synonym of Saptarṣayaḥ. Colebrooke glosses the verse 'Ursa major' and names the seven in a footnote. Cross-confirmed internally: six verses earlier the Amarakośa calls Bṛhaspati citraśikhaṇḍija, 'son of a Citraśikhaṇḍin' (i.e. of Aṅgiras, one of the seven).</sub>
+
+**Mahābhārata 12.322.26-27 (Critical Edition, Śānti Parva, Nārāyaṇīya)** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> ye hi te munayaḥ khyātāḥ sapta citraśikhaṇḍinaḥ / … marīcir atryaṅgirasau pulastyaḥ pulahaḥ kratuḥ / vasiṣṭhaś ca mahātejā ete citraśikhaṇḍinaḥ //
+>
+> *CE lines 12,322.026a and 12,322.027a/027c; the ellipsis marks the omitted 026c. Vulgate chapter numbering for the Nārāyaṇīya differs from the CE; Ganguli's corresponding Śānti Parva section was not fetched.*
+>
+> — *Literal rendering by the compiler: 'Those munis who are renowned as the seven Citraśikhaṇḍins … Marīci, Atri and Aṅgiras, Pulastya, Pulaha, Kratu, and Vasiṣṭha of great splendour — these are the Citraśikhaṇḍins.'*
+> <br>— Literal rendering by the compiler (no public-domain translation of the CE chapter was fetched in this session) ([source](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** The Mahābhārata is in fact the locus classicus for this name, which the database currently carries only from the lexicons. Nārāyaṇīya 12.322.26-27 names 'the seven munis famed as the Citraśikhaṇḍins' and then lists them individually: Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu and Vasiṣṭha — the same seven the Bṛhat Saṃhitā maps onto α–η UMa. HONEST CAVEAT on the discrimination test: in this passage they are treated as sages who authored a śāstra, not explicitly as stars, so the passage attests the NAME for the seven but not, by itself, a celestial reference. The name itself ('bright-crested') is stellar in force, and the seven are the standard star-seven, which is why it is recorded here as likely rather than certain.</sub>
 
 ### अष्टाविंशतिनक्षत्राणि (Aṣṭāviṃśati-nakṣatrāṇi) — the 28-fold nakshatra circle (Buddhist)
 
@@ -2885,6 +6039,17 @@ Star-catalog passages that treat the yogatārās as a set.
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** The Buddhist canonical list, enumerated from Kṛttikā (not Aśvinī) and explicitly counted as 28 with Abhijit included — the same archaic starting-point as the Vedic lists on file. This is the frame for the star-count and figure data that the same chapter supplies for every asterism, and which is recorded on each nakshatra's own entry.</sub>
 
+**Taishō T21n1300 fasc. 1 (T21.404b27–c09); T21n1299 fasc. 1 (T21.388b24–c06) and note at T21.394c17** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml)
+
+> 星紀雖多，要者其唯二十有八：一名昴宿、二名為畢、三名為觜、四名為參、五名為井、六名為鬼、七名為柳、八名為星、九名為張、第十名翼、十一名軫、十二名角、十三名亢、十四名氐、十五名房、十六名心、十七名尾、十八名箕、十九名斗、二十名牛、二十一女、二十二虛、二十三危、二十四室、二十五壁、二十六奎、二十七婁、二十八胃，如是名為二十八宿。』蓮華實言：『如此宿者，為有幾星？形貌何類？為復幾時與月共俱？其所祭祀為用何等？何神主之？有何等姓？唯願仁者重為分別。
+>
+> *The Xiuyao jing's own 27-fold division, T21n1299 at T21.388b24–c06: 「凡天道二十七宿有闊有狹，皆以四足均分別…云何前合？奎、婁、胃、昴、畢、觜六宿為前合也。云何為並合？參、井、鬼、柳、星、張、翼、軫、角、亢、氐、房十二宿為並合。云何為隨合？心、尾、箕、斗、女、虛、危、室、壁九宿為隨合。」 — 6 + 12 + 9 = 27, with 牛 (Abhijit) absent. And the commentator's note at T21.394c17: 「唐用二十八宿，西國除牛宿，以其天主事之故。」*
+>
+> — *"Though the star-records are many, the essential ones are only twenty-eight: the first is named the Mao lodge, the second Bi, the third Zi, the fourth Shen, the fifth Jing, the sixth Gui, the seventh Liu, the eighth Xing, the ninth Zhang, the tenth Yi, the eleventh Zhen, the twelfth Jiao, the thirteenth Kang, the fourteenth Di, the fifteenth Fang, the sixteenth Xin, the seventeenth Wei, the eighteenth Ji, the nineteenth Dou, the twentieth Niu, the twenty-first Nü, the twenty-second Xu, the twenty-third Wei, the twenty-fourth Shi, the twenty-fifth Bi, the twenty-sixth Kui, the twenty-seventh Lou, the twenty-eighth Wei — these are called the twenty-eight lodges.' Puṣkarasārin said: 'As for these lodges, how many stars has each? Of what kind is its shape? For how long is it together with the moon? What is used for its sacrifice? What deity presides over it? What clan has it? I beg you, sir, to distinguish these for me again.'" — And from the Xiuyao jing: "The Tang uses twenty-eight lodges; the Western Country removes the Niu lodge, because the Lord of Heaven attends to it."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** The Chinese Buddhist witnesses answer the 27-vs-28 question from both sides. T1300 (c. 230 CE) enumerates TWENTY-EIGHT lodges beginning at 昴 (Kṛttikā) and ending at 胃 (Bharaṇī) — the same archaic Kṛttikā-first order as the Sanskrit Śārdūlakarṇāvadāna list already in the database — and its questionnaire (how many stars? what shape? how long with the moon? what offering? what deity? what gotra?) is a point-for-point translation of the six data-fields of the Sanskrit nakṣatra-vaṃśa. The Xiuyao jing, 529 years later, keeps twenty-eight chapter-headings in its ch. 2 but runs TWENTY-SEVEN everywhere it actually computes: the zodiacal division into 12 palaces of nine 'feet' each omits Niu, and the conjunction rule quoted here divides the circle as 6 + 12 + 9 = 27 lodges with Niu absent. Yang Jingfeng's note at T21.394c17 makes the reason explicit: 「唐用二十八宿，西國除牛宿，以其天主事之故」 'The Tang uses twenty-eight lodges; the Western Country removes the Niu lodge, because the Lord of Heaven attends to it.' This is a dated (764 CE) outside statement that India had by then dropped Abhijit, and it gives the tradition's own reason.</sub>
+
 ### चतुर्द्वारिकाणि नक्षत्राणि (Catur-dvārikāṇi nakṣatrāṇi) — the 28 nakshatras in four gate-groups of seven
 
 **Modern identification:** the 28 nakshatras in four gate-groups of seven — —, — (*certain*)
@@ -2902,6 +6067,17 @@ Star-catalog passages that treat the yogatārās as a set.
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** A structural scheme attested independently in two Buddhist texts: the 28 are divided into four sevens 'stationed at the gates' of the four directions — Kṛttikā–Aśleṣā (east), Maghā–Viśākhā (south), Anurādhā–Śravaṇā (west), Dhaniṣṭhā–Bharaṇī (north). The Mahāmāyūrī makes each seven the guardian of its quarter. Note the boundaries fall between Aśleṣā/Maghā and between Śravaṇā/Dhaniṣṭhā, i.e. near the old solstitial colures — the same division the Vedāṅga Jyotiṣa's Śraviṣṭhā/Sārpa solstices imply.</sub>
 
+**Taishō T21n1300 fasc. 1 (T21.404c21, 405a04, 405a17, 405a29 and 405b06–08); T21n1301 (T21.416a13–16); cf. T19n0982 (T19.436c–437a)** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml)
+
+> 東方七宿，初起於昴。南方七宿，初起七星。西方七宿，初起於房。北方七宿，初起於虛。
+>
+> *T21n1301 at T21.416a13–16: 「厥東方宿，名稱在前、前魚在後。南方宿者，土地在前、善格在後。西方宿者，北魚在前、耳聰在後。北方宿者，貪財在前、長息在後。是為二十八宿。」 (the east's last member and the west's first are corrupt; the south — Maghā first, Viśākhā last — and the north — Dhaniṣṭhā first, Bharaṇī last — match the Sanskrit exactly).*
+>
+> — *"The seven eastern lodges begin from Mao (Kṛttikā). The seven southern lodges begin from Xing (Maghā). The seven western lodges begin from Fang (Anurādhā). The seven northern lodges begin from Xu (Dhaniṣṭhā)." — T1301: "Of the eastern lodges, Renown (Kṛttikā) is first … Of the southern lodges, Earth (Maghā) is first, Good-Frame (Viśākhā) last. Of the western lodges, … Keen-of-Hearing (Śravaṇa) is last. Of the northern lodges, Greedy-for-Wealth (Dhaniṣṭhā) is first, Long-Breath (Bharaṇī) last. These are the twenty-eight lodges."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml) · [mirror](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1301.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** The four-gate scheme already on file from the Śārdūlakarṇāvadāna and the Mahāmāyūrī is confirmed with identical boundaries by a Chinese translation of 230 CE. T1300 marks the four groups of seven inline as it describes them (有此七宿，在於東方 after Liu/Āśleṣā; 有此七宿，在於南方 after Di/Viśākhā; 有斯七宿，在於西方 after Nü/Śravaṇa; 有此七星，在於北方 after Wei/Bharaṇī) and then restates them as first-members. T1301 gives the same by first and last member. The boundaries therefore fall between Āśleṣā/Maghā and between Śravaṇa/Dhaniṣṭhā in both, exactly as in the Sanskrit — i.e. near the old solstitial colures. Note that T1300 assigns Anurādhā (房) to the WEST and T1301 (in a corrupt line) names 北魚 = Uttarāṣāḍhā as the west's first member, which is plainly an error for 悅可 = Anurādhā; T1301's east-group last member is likewise corrupt (前魚 for 不覲). The Chinese Mahāmāyūrī, T19n0982, independently gives the same four groups of seven guarding the four gates in Chinese lodge-names (e.g. T19.437a09–13, the northern seven: 虛星與危星，室星辟星等，奎星及婁星，胃星最居後).</sub>
+
 ### ताराग्रहाः (Tārāgrahāḥ) — the five star-planets
 
 **Modern identification:** the five star-planets — Mercury, Venus, Mars, Jupiter, Saturn, — (*certain*)
@@ -2918,6 +6094,102 @@ Star-catalog passages that treat the yogatārās as a set.
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_mahAmAyUrIvidyArAjJI.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** 'The star-seizers' — the technical term distinguishing the five planets from the luminaries. Recorded because it shows tārā being used of planets as well as fixed stars, a distinction this database should keep explicit. The same passage counts thirty-seven bodies in all: 28 nakshatras + 5 tārāgrahas + Rāhu + Ketu + sun + moon.</sub>
+
+**Taishō T21n1299 fasc. 2 (T21.398b05–18); T21n1300 fasc. 1 (T21.405b13–16)** — [Sanskrit e-text](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml)
+
+> 日曜，太陽，胡名蜜，波斯名曜森勿，天竺名阿儞底耶。月曜，太陰，胡名莫，波斯名婁禍森勿，天竺名蘇上摩。火曜，熒惑，胡名雲漢，波斯名勢森勿，天竺名糞盎聲哦囉迦盎。水曜，辰星，胡名咥，波斯名掣森勿，天竺名部陀。木曜，歲星，胡名鶻勿，波斯名本森勿，天竺名勿哩訶娑跛底。金曜，太白，胡名那歇，波斯名數森勿，天竺名戌羯羅。土曜，鎮星，胡名枳院，波斯名翕森勿，天竺名賒乃以室折囉。
+>
+> *T21n1300 at T21.405b13–16: 「今當為汝復說七曜，日、月、熒惑、歲星、鎮星、太白、辰星，是名為七。羅睺、彗星，通則為九。」*
+>
+> — *"The Sun's day: Taiyang. In Hu it is named Mi; in Persian, Yaosenwu; in Indian, Āditya. The Moon's day: Taiyin. In Hu, Mo; in Persian, Louhuosenwu; in Indian, Soma. The Fire day: Yinghuo (Mars). In Hu, Yunhan; in Persian, Shisenwu; in Indian, Aṅgāraka. The Water day: Chenxing (Mercury). In Hu, Die; in Persian, Chesenwu; in Indian, Budha. The Wood day: Suixing (Jupiter). In Hu, Guwu; in Persian, Bensenwu; in Indian, Bṛhaspati. The Metal day: Taibai (Venus). In Hu, Naxie; in Persian, Shusenwu; in Indian, Śukra. The Earth day: Zhenxing (Saturn). In Hu, Zhiyuan; in Persian, Xisenwu; in Indian, Śanaiścara." — T1300: "Now I shall further tell you of the seven luminaries: sun, moon, Mars, Jupiter, Saturn, Venus, Mercury — these are called the seven. With Rāhu and the comet they make nine in all."*
+> <br>— Literal rendering by the compiler ([source](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1299.xml) · [mirror](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1300.xml))
+
+<sub>**Identification notes (Chinese Buddhist witnesses):** THE ONE PLACE IN THE XIUYAO JING WHERE SANSKRIT NAMES ARE GIVEN IN PHONETIC TRANSCRIPTION AS NAMES. Fasc. 2 sets out the seven planetary day-lords in four languages side by side — Chinese, 'Hu' (Sogdian), Persian, and 天竺 'Indian'. The Indian column is Sanskrit in Chinese transcription: 阿儞底耶 = Āditya (Sun), 蘇摩 = Soma (Moon), 哦囉迦 = Aṅgāraka (Mars; the printed 糞盎…哦囉迦盎 carries pronunciation glosses), 部陀 = Budha (Mercury), 勿哩訶娑跛底 = Bṛhaspati (Jupiter), 戌羯羅 = Śukra (Venus), 賒乃以室折囉 = Śanaiścara (Saturn). All seven Sanskrit forms are abundantly attested elsewhere; the value here is the firm 759 CE date and the trilingual control. T1300 (c. 230 CE) gives the same five star-planets in translated Chinese and adds 羅睺 Rāhu and 彗星 the comet to make nine: 「今當為汝復說七曜，日、月、熒惑、歲星、鎮星、太白、辰星，是名為七。羅睺、彗星，通則為九。」 — a navagraha with a COMET in the ninth place rather than Ketu, which is a genuinely early configuration.</sub>
+
+### रोहिणीशकटम् / प्राजापत्यं शकटम् (Rohiṇī-śakaṭa / Prājāpatya śakaṭa) — the 'Wain of Rohiṇī' — the V-shaped Hyades cluster with Aldebaran
+
+**Modern identification:** the 'Wain of Rohiṇī' — the V-shaped Hyades cluster with Aldebaran — α, θ¹, θ², γ, δ, ε Tauri, Taurus (*certain*)
+
+*See also:* `rohini`, `krittika-seven`, `ilvala`, `ishus-trikanda`
+
+**Bṛhat Saṃhitā 9.25 and 24.30, with Utpala's Vivṛti (quoting the Brahmasiddhānta and Bhānubhaṭṭa)** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> प्राजापत्ये शकटे भिन्ने कृत्वेव पातकं वसुधा। केशास्थिशकलशबला कापालमिव व्रतं धत्ते॥९.२५॥ [टीका] प्राजापत्ये शकटे रोहिण्याः शकटे भिन्ने। शकटभेदलक्षणं गणितकारैरुक्तम्। तथा च ब्रह्मसिद्धान्ते— विक्षेपोंऽशद्वितयादधिको वृषभस्य सप्तदशभागे। यस्य ग्रहस्य याम्यो भिनत्ति शकटं स रोहिण्याः॥ तथा च भानुभट्टः— वृषस्यांशे सप्तदशे विक्षेपो यस्य दक्षिणः। अंशद्वयाधिको भिन्द्याद्रोहिण्याः शकटं तु सः॥ [टीका ऑन २४.३०] षट्तारकत्वाद्रोहिण्याः शकटः समूहः।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. The mūla half-verse 9.25 is given from GRETIL (https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_varAhamihira-bRhatsaMhitA.txt: 'prājāpatye śakaṭe bhinne kṛtvā^iva pātakaṃ vasudhā / keśa^asthi^śakala^śabalā kāpālam iva vrataṃ dhatte'); the commentary and the two quoted verses from the OCR of the printed edition. The final sentence is from the commentary on BS 24.30.*
+>
+> — *Mūla 9.25 (Iyer 1884, ch. IX v. 25, verbatim, OCR of the proper name corrected): 'If Venus should pass through the constellation of Rohini, Earth will assume the same appearance of death and devastation as if she was going through the ceremony of Kapala.' Mūla 24.30 (Iyer, ch. XXIV v. 30, verbatim): 'If the Moon should enter the Rohini group and pass through its centre, mankind will be rendered helpless and, troubled by the cries of children for food, they will travel to foreign lands, drinking the waters of muddy pools from their broken bowls.' Commentary (rendered by the compiler): '"In the Prājāpatya cart" — in Rohiṇī's cart, when it is split. The definition of the splitting of the cart has been stated by the computers. Thus in the Brahmasiddhānta: "Whatever planet's southern latitude exceeds two degrees at the seventeenth degree of Taurus, that one splits Rohiṇī's cart." And so Bhānubhaṭṭa: "He whose southern latitude at the seventeenth degree of Taurus exceeds two degrees would split Rohiṇī's cart."' … 'Because it has six stars, Rohiṇī's group is a cart.'*
+> <br>— N. Chidambaram Iyer (1884) for the two mūla verses; commentary rendered by the compiler ([source](https://archive.org/download/bihatsahitvarah00iyergoog/bihatsahitvarah00iyergoog_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** A NAMED STAR-FIGURE, not a single star: the V of the Hyades read as a cart or wain. Varāhamihira names it twice (BS 9.25 'prājāpatye śakaṭe bhinne'; BS 24.30 'rohiṇī-śakaṭa-madhya-saṃsthite'; also BS 47.14). Utpala supplies two things the mūla does not. (i) A STAR COUNT: 'ṣaṭ-tārakatvād rohiṇyāḥ śakaṭaḥ samūhaḥ' — 'because it has six stars, Rohiṇī's group is [called] a cart' (comm. on 24.30). This is a SIX-star figure, against the FIVE stars of the Śārdūlakarṇāvadāna's śakaṭākṛti already in the database — a genuine textual divergence in the count, worth recording. (ii) A COORDINATE: he says the criterion for 'splitting the cart' is a matter for the computers, and quotes the Brahmasiddhānta (Brahmagupta) and one Bhānubhaṭṭa — a planet at Taurus 17° with south latitude greater than 2° splits Rohiṇī's cart. Taurus 17° in the Indian sidereal frame with about 2° south latitude falls on the southern arm of the Hyades V, which fixes the figure on the Hyades independently of the name. NAME-COLLISION: 'prājāpatya' here means Rohiṇī (deity Prajāpati), the same usage as Prājeśa/Paitāmaha, and NOT the separate star Prajāpati (δ Aurigae) of Sūrya-siddhānta 8, nor the circumpolar Prajāpati on the Śiśumāra's tail.</sub>
+
+### ब्रह्मराशिः (Brahmarāśi) — unidentified circumpolar star-group, listed between Dhruva and the Saptarṣis
+
+**Modern identification:** unidentified circumpolar star-group, listed between Dhruva and the Saptarṣis — —, — (*unidentified*)
+
+*See also:* `brahma-nakshatra`, `dhruva`, `saptarshi`
+
+**Utpala, Vivṛti on Bṛhat Saṃhitā 11.33–36, quoting Parāśara** — [Sanskrit e-text](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt)
+
+> … ब्रह्मनक्षत्रमुपसृत्य मनाग् ध्रुवं ब्रह्मराशिं सप्तर्षीन् स्पृशन् नभसोऽर्धमात्रं दक्षिणमनुक्रम्यास्तं व्रजति।
+>
+> *Transcribed from the Devanagari OCR of the printed edition at shloka_source_url (Achyuta Nand Jha ed., vol. 1) and checked word-for-word against two further independent scans of two different printed editions of the same commentary — Krishna Chandra Dvivedi's (https://archive.org/download/brihatsamhitawithbhattotpalavivrittipartidr.krishnachandradvivedi/Brihat%20Samhita%20%20with%20Bhattotpala%20Vivritti%20Part%20I%20-%20Dr.%20Krishna%20Chandra%20Dvivedi_djvu.txt) and A.V. Tripathi's (https://archive.org/download/JiUm_brihat-samhita-part-1-of-varaha-mihira-by-avadh-bihari-tripathi-saraswati-bhavan-granthamala/Brihat%20Samhita%20Part%201%20of%20Varaha%20Mihira%20by%20Avadh%20Bihari%20Tripathi%20-%20Saraswati%20Bhavan%20Granthamala_djvu.txt). Only glyph-level OCR artifacts that all three scans show to be artifacts (e.g. OCR रद्वव for रद्गव, श्व for श्च) have been normalised; every substantive reading is as scanned, and the two places where the scans genuinely differ are flagged in identification_notes. Extract from the longer Parāśara passage given in full under db_id 'brahma-nakshatra'.*
+>
+> — *'…approaching the Brahma-nakṣatra and just grazing Dhruva, the Brahmarāśi and the Seven Ṛṣis, it crosses half the sky southward and sets.'*
+> <br>— Literal rendering by the compiler ([source](https://archive.org/download/dhSS_brihat-samhita-of-bhattotpal-with-vimala-hindi-commentary-by-pt.-achyuta-nand-jh/Brihat%20Samhita%20of%20Bhattotpal%20With%20VImala%20Hindi%20Commentary%20By%20Pt.%20Achyuta%20Nand%20Jha%2C%20Vol%201%2C%20Vidya%20Bhavan%20Prachya%20Vidya%20Series%20156%20-%20Chaukhamba%20Vidya%20Bhavan%2C%20Varanasi_djvu.txt))
+
+<sub>**Identification notes (Utpala's commentary):** 'Brahmā's heap/group.' Occurs once in the whole commentary, in the Parāśara comet passage quoted on BS 11.33–36, in the sequence 'dhruvaṃ brahmarāśiṃ saptarṣīn' — i.e. an item between the pole star and the Big Dipper along a comet's northward track. Varāhamihira's own verse at that point lists only Saptamuni, Dhruva and Abhijit, so Brahmarāśi is an EXTRA figure preserved only in the lost Parāśara. Position in the list suggests something in the circumpolar Draco/Cepheus region — i.e. plausibly part of the Śiśumāra figure the database already records — but nothing in Utpala identifies it, and no attempt at a modern identification is warranted. It is NOT Brahmahṛdaya (Capella), which is far from the pole and which Utpala's commentary on the Bṛhat Saṃhitā never mentions. Flagged as a distinct name from Brahma-nakṣatra (= Abhijit), which occurs in the same sentence.</sub>
+
+**Mahābhārata 6.3.17 (Critical Edition) = vulgate Bhīṣma Parva Section III; Rāmāyaṇa 6.4.43 (Critical Edition, Yuddha Kāṇḍa) = Griffith Book VI Canto IV** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh1-18u.zip) · [mirror](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> vakrānuvakraṃ kṛtvā ca śravaṇe pāvakaprabhaḥ / brahmarāśiṃ samāvṛtya lohitāṅgo vyavasthitaḥ // [Rām:] brahmarāśir viśuddhaś ca śuddhāś ca paramarṣayaḥ / arciṣmantaḥ prakāśante dhruvaṃ sarve pradakṣiṇam //
+>
+> *Two verses from two different works, quoted together because the name occurs in each only once. MBh CE lines 06,003.017a/017c (GRETIL mbh1-18u.zip); Rāmāyaṇa CE R_6,004.043 (GRETIL sa_rAmAyaNa.txt). Griffith's canto numbering for the Rāmāyaṇa passage follows the vulgate: Book VI Canto IV; Dutt's 1893 prose has it in the same chapter.*
+>
+> — *Ganguli on the Mahābhārata verse: 'The red-bodied (Mars) possessed of the effulgence of fire, wheeling circuitously, stayeth in a line with the constellation Sravana over-ridden by Vrihaspati.' Griffith on the Rāmāyaṇa verse: 'The pole-star and the Sainted Seven / Shine brightly in the northern heaven'. Literal rendering of the Rāmāyaṇa verse by the compiler: 'The Brahmarāśi is wholly pure, and pure are the supreme ṛṣis; radiant, they all shine, circling Dhruva to the right.'*
+> <br>— Kisari Mohan Ganguli (1883-96) and Ralph T. H. Griffith (1870-74), with a literal rendering by the compiler ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/m06/m06003.htm) · [mirror](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry403.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** A genuinely obscure sky-object named INDEPENDENTLY in both epics, which is why it deserves an entry. In the Mahābhārata (Bhīṣma 6.3.17) Mars, after going retrograde, 'stands enveloping the Brahmarāśi'; in the Rāmāyaṇa (Yuddha 6.4.43) Lakṣmaṇa reports 'the Brahmarāśi is pure, and pure are the supreme ṛṣis; blazing, they all shine circling Dhruva clockwise'. The Rāmāyaṇa context is unambiguously circumpolar (paramarṣayaḥ = the Saptarṣi, pradakṣiṇa around Dhruva), which argues for a northern object; the Mahābhārata context is a planet-conjunction and so must be near the ecliptic. Traditional glosses diverge accordingly: (a) Abhijit, whose deity is Brahmā, giving Vega; (b) a 'heap of Brahmā' = the Prajāpati figure; (c) the whole rāśi ('heap') of nakṣatras. Ganguli declines to render the word at all ('stayeth in a line with the constellation Sravana'); Griffith folds it into 'the pole-star'; Dutt reads the Rāmāyaṇa clause as 'Dhruva is without blemish'. Because three competent translators produce three different results, the entry is recorded as disputed and unidentified rather than forced onto a star.</sub>
+
+### नक्षत्रमाला (Nakṣatramālā (also nakṣatravaṃśa)) — a second 'garland of asterisms' in the southern sky
+
+**Modern identification:** a second 'garland of asterisms' in the southern sky — —, southern sky, outside the Vaiśvānara path (*unidentified*)
+
+*See also:* `dakshina-saptarshi`, `trishanku`
+
+**Rāmāyaṇa 1.59.21-22 (Critical Edition, Bāla Kāṇḍa) = Griffith Book I Canto LX** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> nakṣatramālām aparām asṛjat krodhamūrchitaḥ / dakṣiṇāṃ diśam āsthāya munimadhye mahāyaśāḥ // sṛṣṭvā nakṣatravaṃśaṃ ca krodhena kaluṣīkṛtaḥ /
+>
+> *CE references R_1,059.021 and the first pāda of R_1,059.022 = vulgate Bāla Kāṇḍa 60.*
+>
+> — *Girt with his sages forth he went, / And southward in the firmament / New wreathed stars prepared to set / In many a sparkling coronet.*
+> <br>— Ralph T. H. Griffith (1870-74) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry060.htm))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** In the same Triśaṅku episode Viśvāmitra creates, besides the southern seven ṛṣis, 'another NAKṢATRAMĀLĀ (garland/necklace of asterisms)' and 'a NAKṢATRAVAṂŚA (lineage of asterisms)', both stationed in the southern quarter and, per verse 30, outside the Vaiśvānara road. Nakṣatramālā is elsewhere in the Rāmāyaṇa a simple simile-word for a string of stars (e.g. R_3,050.026, R_4,014.008), but here it is a created, permanent sky-object, and nakṣatravaṃśa occurs nowhere else in either epic. Recorded as a collective sky-group name rather than a star. No identification is possible.</sub>
+
+### दक्षिणमार्गस्थाः सप्तर्षयः (Dakṣiṇamārgasthāḥ saptarṣayaḥ) — a southern counterpart of the Great Bear
+
+**Modern identification:** a southern counterpart of the Great Bear — —, far-southern sky; Crux and neighbours on the Gorresio conjecture, unidentified in the text (*unidentified*)
+
+*See also:* `saptarshi`, `nakshatramala`, `trishanku`
+
+**Rāmāyaṇa 1.59.20 (Critical Edition, Bāla Kāṇḍa) = Griffith Book I Canto LX** — [Sanskrit e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_rAmAyaNa.txt)
+
+> *(IAST — the e-text carries no Devanagari copy)*
+>
+> ṛṣimadhye sa tejasvī prajāpatir ivāparaḥ / sṛjan dakṣiṇamārgasthān saptarṣīn aparān punaḥ //
+>
+> *CE reference R_1,059.020 = vulgate Bāla Kāṇḍa 60.*
+>
+> — *Griffith: 'By penance-power and holy lore, / Like Him who framed the worlds of yore, / Seven other saints he fixed on high / To star with light the southern sky.' Dutt: 'And in the midst of the ascetics, like unto another Prajāpati, he created other seven Rishis on the Southern way; and also, overwhelmed with wrath created another set of stars.'*
+> <br>— Ralph T. H. Griffith (1870-74) and Manmatha Nath Dutt (1892) ([source](https://web.archive.org/web/2020id_/https://www.sacred-texts.com/hin/rama/ry060.htm) · [mirror](https://archive.org/download/in.ernet.dli.2015.217233/2015.217233.The-Ramayana_djvu.txt))
+
+<sub>**Identification notes (Mahābhārata & Rāmāyaṇa):** A second, SOUTHERN set of seven ṛṣis 'situated on the southern path' created by Viśvāmitra in fury — an explicit doubling of the Saptarṣi into a northern and a southern seven. This is a distinct sky-group name and has no counterpart anywhere else in the database. Griffith's footnote (quoting Gorresio) gives the standard reading: the seven original ṛṣis are Ursa Major, and 'the seven other new saints … should be seven new southern stars, a sort of new Ursa', the mythical fiction reflecting the fact that these southern stars became known to Indians only when they colonised the south. That is a conjecture, not a textual identification, and is recorded as such. The passage continues into a second nakṣatramālā (see the nakshatramala entry).</sub>
 
 ## Caveats, per source
 
@@ -3025,3 +6297,96 @@ These are the working caveats recorded during compilation — read them before t
 - AL-BĪRŪNĪ'S NAKSHATRA COORDINATE TABLE WAS NOT FULLY TRANSCRIBED. Its OCR is heavily damaged; only the identification column was extracted reliably, plus two coordinate rows (Abhijit 265°/62°N — note this differs from the Sūrya Siddhānta value; Śatabhiṣaj 10s 20°). Recovering the full numeric column requires the page images and would be worth doing, since Burgess says the Khaṇḍakhādyaka latitudes 'often vary considerably' from both the Sūrya Siddhānta and the Siddhānta Śiromaṇi, and al-Bīrūnī is our only witness for them.
 - TWO AL-BĪRŪNĪ OBJECTS ARE NOTED BUT GIVEN NO ENTRY, because he supplies no Sanskrit name. (1) A 'fever-star' seen from Langabalus, 'composed of the tail of the Small Bear and his back, and of some small stars situated there; it is called the axe of the mill' — and, crucially, 'BRAHMAGUPTA MENTIONS IT IN CONNECTION WITH THE FISH', i.e. Brahmagupta treated this Ursa Minor group as part of the Śiśumāra, a datum about the figure's extent worth chasing in the BSS Golādhyāya. (2) The Pauliśa Siddhānta's rule for Agastya's heliacal setting, with the observational note that 'They observe it first when the sun enters the station Hasta, and they lose it out of sight when he enters the station Rohiṇī.'
 - NAME-COLLISION WARNING. Brahmagupta's yogatārā table uses deity-epithets that collide with existing entries for entirely different stars: Prājeśa/Prajāpati means ROHIṆĪ (α Tauri), whereas the Prajāpati on file is δ Aurigae; and Āgneya means KṚTTIKĀ (η Tauri), whereas the Agni/Hutabhuj on file is β Tauri. Sūrya Siddhānta 9.13–15 uses the same style of epithet (maitra, sārpa, raudrarkṣa, tiṣya, saumya, aśvinidaivata, vaiṣṇava, vāsava, ahirbudhnya). These are recorded as alternative names of the nakshatras, deliberately NOT merged with the same-named fixed stars.
+
+### Utpala's commentary
+
+- NO CRITICAL EDITION WAS CONSULTED, AND NO MANUSCRIPT. Every Devanagari string here is transcribed from archive.org OCR of a printed edition. To guard against OCR fiction, every passage quoted was checked word-for-word against at least two, usually three, independent scans of different printed editions; the URLs of all three are given in every shloka_note. Where the scans genuinely differ the divergence is stated in identification_notes and NOT silently resolved.
+- Sudhakara Dvivedi's Vizianagram Sanskrit Series edition (1895–97), the edition named in the brief, IS on archive.org (BrihatSamhitaBhattotpalasSanskritCommentaryVol1 / Vol2, and in.ernet.dli.2015.322591) but its full text is legacy pre-Unicode OCR that produces no readable Devanagari at all. The readings here are therefore from A.V. Tripathi's Sarasvatī Bhavana Granthamālā edition, Krishna Chandra Dvivedi's Sampurnanand edition, and Achyuta Nand Jha's Vimala edition — not from Dvivedi 1895–97.
+- GRETIL does not carry Utpala's commentary in any form. Its Bṛhat Saṃhitā file (sa_varAhamihira-bRhatsaMhitA.txt, Yano–Sugita, based on Tripathi) records Utpala's readings only as about thirty bracketed [u.] / [k.ū.] variant markers, all of them trivial orthographic variants (u.nāḍī^vināḍī, u.nagnajit, u.prājāpatya, u.subhikṣa …). NONE of them concerns a star name. Anyone hoping to mine the [U.] markers for star lore should be told this outright.
+- Utpala's quotations are the ONLY witness for most of what is recorded here. Garga, Vṛddha-Garga, Parāśara, Kāśyapa and Devala survive in citation alone, and Varāhamihira's own Samāsa-saṃhitā is lost. There is no independent control on whether Utpala quoted them accurately or on how much the texts had drifted by 966 CE. Treat every attribution as 'Utpala says X said', not as a direct 1st-century witness.
+- The three-mārga naming Vāta / Vyāḍa / Vaiśvānara appears in Utpala's own chapter-opening sentence, where it seems to conflate the vīthī-triads with Parāśara's six maṇḍalas, which is where those three words actually belong. The entry is recorded because the name-forms are real and all three scans agree on them, but the doctrinal fit is imperfect and is flagged in the entry itself.
+- NAME-COLLISIONS FLAGGED. (1) The Prajāpati family now has FIVE members in the database and they do not all mean the same star: Prājeśa, Paitāmaha, Svāyambhuva and Prājāpatya (in prājāpatya śakaṭa) all = ROHIṆĪ = Aldebaran; the star Prajāpati of Sūrya-siddhānta 8 = δ Aurigae; and Prajāpati on the Śiśumāra's tail is circumpolar. (2) The fire family: Anala and Āgneya = KṚTTIKĀ = the Pleiades, but the star Agni/Hutabhuj = Elnath, β Tauri. (3) Brahma-nakṣatra (= Abhijit, Vega) is NOT the database's unidentified Vedic 'Brāhmaṇa' nakṣatra, whose deity is Soma, not Brahmā; and neither is Brahmarāśi, which is a third, circumpolar thing. (4) yāmya in ch. 9 is usually just the adjective 'southern'; only the two glosses cited use it as Bharaṇī's name.
+- Chapter numbering: this commentary's chapters agree with Kern's and with GRETIL's throughout the passages used. The nakṣatra chapters the brief calls 'ch. 98–104' are, in this numbering, 97 (nakṣatra-karma-guṇa) and 100 (nakṣatra-jātaka); both were read and neither yields a star name or identification.
+- Iyer's 1884 English (public domain) is quoted verbatim for Varāhamihira's own verses only, with obvious OCR corruptions of proper names corrected; Iyer translates the mūla alone and never the commentary, so all renderings of Utpala and of his quoted authorities are the compiler's own and are labelled as such. No post-1930 translation (Bhat, Kuppanna Sastry, Pingree) was consulted or used.
+- Modern-star assignments in these entries are almost all INHERITED from the database's existing entry for the underlying asterism (Rohiṇī = Aldebaran, Citrā = Spica, and so on). Utpala supplies the NAME and the equation name→asterism; he supplies an independent positional anchor in only one case, the Rohiṇī-śakaṭa, where the quoted Brahmasiddhānta coordinate does real identifying work.
+- TWO PLACES ARE RECONSTRUCTIONS, NOT TRANSCRIPTIONS, AND ARE MARKED AS SUCH IN THE ENTRIES. The Samāsa-saṃhitā line भरणीरौद्रमघाऽनिलशक्रधनिष्ठादिसम्प्रवृत्तेषु is a COMPOSITE of two damaged scans and is not verbatim from any single one: Krishna Chandra Dvivedi's reads भरणीरोद्रमघाऽनिटशक्रधनिप्ठादिसम्प्रवृत्तेषु, Achyuta Nand Jha's भरणीरीद्रमघाऽनिलशक्रधनिष्ठादिसम्मवृत्तेषु; each supplies exactly what the other loses. Flagged as a reconstruction. Also, the words ज्येष्ठाद्ये द्वे पञ्चनक्षत्रे in the Parāśara maṇḍala passage follow A.V. Tripathi's scan (ज्येष्ठादये दे); Achyuta Nand Jha's reads ज्येष्ठाय द्वे and Krishna Chandra Dvivedi's ज्येष्ठा द्वे.
+- Utpala's gloss on the nakṣatra-deity list at BS 97.4–5, used as corroboration in several entries, is in part II of the commentary, read at https://archive.org/download/zund-brihat-samhita-part-2-vivriti-bhattotpala-by-varah/Brihat%20Samhita%20Part%202%20Vivriti%20Bhattotpala%20By%20Varahamihira%20Edited%20By%20Avadha%20Vihari%20Tripathi%20Sanskrit%20Astrology%20Varanasi%201968%20-%20Varanaseya%20Sanskrit%20Vishvavidyalaya_djvu.txt — a different archive.org item from the part-I scans, and one for which no second scan was collated. Its readings are therefore single-witness.
+- Garga's Go-vīthī verse (BS 9.4 comm.) appears to have lost an asterism-name in transmission — it names three where four are required — and the two usable scans differ on the compound. It is reproduced as scanned and flagged, not emended.
+
+### Pāṇini & Patañjali
+
+- PATAÑJALI ON ADHYĀYA 4 COULD NOT BE OBTAINED. The only complete public e-text of the Mahābhāṣya (GRETIL, from Kielhorn 1880-85 rev. Abhyankar, input by George Cardona) omits adhyāya 4 entirely — verified with `grep -c '(p_4,' mb_lines.txt` returning 0, with the reference markers running p_1, p_2, p_3, then jumping to p_5; the corresponding Sanskrit Wikisource page व्याकरणमहाभाष्यम्/अष्टाध्यायी-चतुर्थोऽध्यायः returns HTTP 404. This means Patañjali's discussion of the single richest sūtras for this project — 4.2.3 nakṣatreṇa yuktaḥ kālaḥ, 4.2.5, 4.2.22-23, 4.3.34 (the ten-name list), 4.3.36 (Abhijit, Aśvayuj, Śatabhiṣaj) and 4.3.16 — is simply absent from the sources I could fetch. The brief predicted Patañjali would supply more names than Pāṇini there; that prediction remains UNTESTED. Anyone continuing this work should obtain Kielhorn vol. II (which covers roughly adhyāya 3.2 to 6.1 in the print edition) or a scan of a Mahābhāṣya edition covering 4.2-4.3.
+- NO KĀŚIKĀVṚTTI E-TEXT WAS FOUND. GRETIL has no Kāśikā file (a search of its full index for 'kAzik' returns nothing), and its Aṣṭādhyāyī text sa_pANini-aSTAdhyAyI.txt is merely the sūtras EXTRACTED from Aryendra Sharma's Kāśikā edition — the commentary itself is not present. The Kāśikā's readings therefore reach me only second-hand, through Vasu's 1891-98 translation, which is a translation of the Kāśikā and quotes it. Where I attribute a gloss to 'the tradition' or 'the Kāśikā', the actual evidence is Vasu's English.
+- THE GAṆAPĀṬHA CANNOT CARRY PĀṆINI'S DATE. Pāṇini's sūtras name the gaṇas (revatyādi, tārakādi, gaurādi, aṃśvādi, suṣāmādi, sāndhyādi) but the membership LISTS are transmitted as a separate text and are demonstrably accreted — the tārakādi list itself ends with the note tārakādir ākṛtigaṇaḥ, 'tārakādi is an open-ended class'. Every finding that rests only on the gaṇapāṭha (Rohiṇī and Revatī marked nakṣatre in gaurādi; Kṛttikā/Ārdrā/Śravaṇa in aṃśvādi; Śraviṣṭhā in aśvādi; Rohiṇī in śubhrādi; Rohiṇī-/Bharaṇī-/Śatabhiṣak-ṣeṇa in suṣāmādi; taiṣam/pauṣam in sāndhyādi) is flagged as such in the relevant entry and must NOT be presented as a Pāṇinian attestation.
+- PĀṆINI'S DATE IS ITSELF CONTESTED. I have used 'c. 500-350 BCE', the mainstream range, but estimates run from the 6th to the 4th century BCE and the argument is largely internal (his knowledge of the Yavana script, of Persian administrative vocabulary, and the absence of Mauryan terms). The claim that this is the earliest firmly DATABLE attestation in the database should be stated as 'earliest firmly datable' with that range attached, not as an absolute year. Kātyāyana's vārttikas are conventionally c. 3rd century BCE; Patañjali's Mahābhāṣya is dated c. 150 BCE on the strength of its reference to the Śuṅga sacrifice (iha puṣyamitraṃ yājayāmaḥ) and to a Yavana siege.
+- THE DEVANĀGARĪ WITNESS HAS TYPOGRAPHIC ERRORS. The Sanskrit Wikisource Aṣṭādhyāyī is a de-sandhied/word-split edition and contains several clear errors in the sūtras I quote: 1.2.62 विसाखयोस् च for विशाखयोश्च; 4.2.23 स्रवणा for श्रवणा; 6.4.149 मत्स्याणां for मत्स्यानाम्; 7.3.18 प्रोष्ठपदाणां for प्रोष्ठपदानाम्; 5.4.110 नदीपौर्णमासीआग्रआयणीह्यः (corrupt); 5.4.120 प्रोष्ठादाः for प्रोष्ठपदाः. I have quoted the Devanāgarī exactly as fetched and flagged each error in the relevant shloka_note, cross-checking every one against the two independent GRETIL IAST texts rather than silently emending.
+- THE TWO GRETIL SŪTRAPĀṬHA TEXTS DISAGREE IN TWO PLACES THAT MATTER. At 4.2.3 the Kāśikā-derived file reads yuktaṃ where the 'alt' file and the Devanāgarī read yuktaḥ (yuktaḥ is correct: it agrees with kālaḥ). At 3.1.116 the Kāśikā-derived file reads siddhyau where the 'alt' file and the Devanāgarī read sidhyau (sidhyau is correct and is the form the database records as an alias). In both cases I have followed the two-witness majority and documented the variant.
+- THE GRETIL MAHĀBHĀṢYA'S SŪTRA-NUMBER MARKERS ARE NOT ALWAYS THE VULGATE NUMBERS. For example the passage marked (p_5,1.97) quotes viśākhāṣāḍhāt aṇ manthadaṇḍayoḥ, which is vulgate 5.1.110, and (p_7,3.10) quotes je proṣṭhapadānām, vulgate 7.3.18 — while (p_1,2.60), (p_1,2.63) and (p_2,3.45) do match. I have therefore given the Kielhorn volume/page/line reference (ka_i,231.14 etc.) alongside every Mahābhāṣya citation, since that is unambiguous.
+- MAHĀBHĀṢYA TEXT IS IN PAUSĀ. The GRETIL Mahābhāṣya is 'TEXT IN PAUSA (segmented)' — sandhi is resolved and words are separated. What I quote is verbatim from that e-text, but it is NOT what a printed Kielhorn page looks like; anyone rendering it into Devanāgarī for display should expect to re-apply sandhi. The bracketed markers (p_x,y.z), ka_..., ro_... and {n/m} are GRETIL's apparatus, not part of Patañjali's text; I have kept them in the quoted strings so the exact source location is recoverable, and they should be stripped before display.
+- VASU'S TRANSLATION IS PUBLIC DOMAIN BUT THE OCR IS BAD. Śrīśa Chandra Vasu's The Ashṭādhyāyī of Pāṇini (1891-98) is out of copyright and I have quoted it verbatim, but the archive.org OCR drops or garbles nearly all the Devanāgarī, so his Sanskrit examples appear as noise. Where I have supplied a bracketed Sanskrit word inside a Vasu quotation (e.g. '[śrāviṣṭhaḥ]', '[Kṛttikā]', '[Citrā and Revatī]') that is MY reconstruction of what the illegible glyphs must be, based on the surrounding English, and is marked with square brackets. The English outside brackets is verbatim.
+- SEVERAL NAMES SIT AMBIGUOUSLY BETWEEN ASTERISM AND MONTH. Pāṇini's Kārttikī, Caitrī, Phālgunī, Āśvayujī and Āgrahāyaṇī are strictly full-moon-night names, from which month names are derived; they attest the underlying asterisms only indirectly. I have made entries only where the underlying asterism is either named directly or unmistakably presupposed, and have said so in each identification_notes. Caitrī has no entry because Citrā's attestation rests on Patañjali, not on the month name.
+- ALL 31 DB_IDS WERE VERIFIED PROGRAMMATICALLY AGAINST star-names.json. Thirty resolve to existing entries and are marked additional-attestation; 'bahula' is the only new id and is the only entry marked new. Each entry's modern_star was copied from the existing database record so the merge does not silently change an identification — this source supplies no positional data for any star and therefore cannot revise any identification. Note that several entries are filed under a pair-member id (purva-phalguni for Pāṇini's undivided Phalgunī, purva-ashadha for his undivided Aṣāḍhā, proshthapada for the undivided Proṣṭhapadā) because Pāṇini does not use pūrva/uttara; whoever merges may want to cross-link uttara-phalguni, uttara-ashadha and uttara-bhadrapada via see_also.
+
+### Vaṭeśvara & Sāmanta
+
+- NO SANSKRIT E-TEXT EXISTS FOR EITHER WORK. GRETIL was checked exhaustively: the plaintext directory listing returns HTTP 403, so the full master index at https://gretil.sub.uni-goettingen.de/gretil.html (84 KB, fetched) was searched instead — the only jyotiṣa siddhāntas in GRETIL are Brahmagupta's Brāhmasphuṭasiddhānta and the Sūrya Siddhānta; the only 'Samanta' hits are Samantabhadra's Āptamīmāṃsā and the Pali Samantapāsādikā. Direct probes of the plausible filenames sa_vaTezvarasiddhAnta.txt, sa_vaTezvara-siddhAnta.txt, sa_siddhAntadarpaNa.txt, sa_sAmanta-siddhAntadarpaNa.txt and sa_candrazekharasAmanta-siddhAntadarpaNa.txt all returned 404 (a control probe of a known file returned 200). Sanskrit Wikisource full-text search for वटेश्वरसिद्धान्त and सिद्धान्तदर्पण returned no results.
+- EVERY VERSE HERE IS A FACSIMILE TRANSCRIPTION, NOT AN E-TEXT COPY. The archive.org OCR of both volumes is catastrophically bad for Devanagari — grepping the Siddhānta Darpaṇa OCR for the 28 nakṣatra names returns zero hits for 20 of them — so nothing was taken from the OCR. The page images themselves were downloaded in this session and read at full scan resolution; for the Siddhānta Darpaṇa every numeral was additionally verified against a SECOND independent scan of the same 1899 Ray edition (archive.org id siddhantadarpanachandrashekarsimha1897_252_Z), and the two agree throughout. The shloka_source_url field gives the archive.org item; the exact page-image URL is given in each shloka_note.
+- A handful of compound WORD-FORMS in the worn 1899 Siddhānta Darpaṇa type could not be read with certainty (examples: the close of XII.4, the first word of XII.22, the last pāda of XII.48, and the syntax of XII.36 that assigns Yama's two figures). These are transcribed as read and flagged in the relevant notes; none has been emended or reconstructed. The FIGURES, which carry all the astronomy, were verified at high magnification.
+- The Siddhānta Darpaṇa prints IDENTICAL dhruvas — 256°30' — for Uttarāṣāḍhā (21) and for Abhijit (0), although the two bhūtasaṅkhyā compounds differ. This is reported as printed and is probably a compositor's error in one of the two; the true values are 258°39' and 255°16' respectively.
+- The Siddhānta Darpaṇa gives Revatī a śara of 5° NORTH, which cannot be reconciled with ζ Piscium (0°14' south). Reported unemended.
+- NO BHŪTASAṄKHYĀ WAS SILENTLY CONVERTED. Both editions print their own decoding of every word-numeral — the Siddhānta Darpaṇa in round brackets after the serial number, Shukla's Vaṭeśvara in square brackets — and both are reproduced verbatim in shloka_devanagari, so the reading is always visible. Where the compilers' arithmetic differs from a naive decoding (e.g. Vaṭeśvara's Leo pair read as 8 and 27, which puts Pūrva-Phalgunī 3° above everything else in the tradition) the edition's figure is given and the anomaly flagged rather than corrected.
+- K. S. SHUKLA'S 1985–86 INSA EDITION AND TRANSLATION OF THE VAṬEŚVARA-SIDDHĀNTA IS IN COPYRIGHT. Nothing of Shukla's English or of his notes is quoted or paraphrased here; only (a) the constituted mūla Sanskrit of a 904 CE text, which is public domain, and (b) the edition's bracketed numeric glosses, which are bare facts. The same rule was applied to all modern renderings of the Siddhānta Darpaṇa (Arun Kumar Upadhyay, Nag Publishers): none was consulted. All English in this file is the compiler's own literal rendering of the Sanskrit.
+- ALL 'TRUE VALUES' IN THE NOTES WERE COMPUTED, NOT LOOKED UP. Method: J2000 positions and proper motions fetched from SIMBAD's TAP service in this session, proper motion applied to the epoch, rigorous precession (IAU 1976 ζ, z, θ) to the epoch, obliquity of date, then the POLAR longitude and latitude of the Indian system — the ecliptic longitude of the point where the star's declination circle meets the ecliptic, and the arc from that point to the star along the same circle. Epochs 904 CE for Vaṭeśvara and 1870 CE for Sāmanta. Each set is reduced to the TEXT'S OWN sidereal zero, fixed by that text's own Citrā value (Vaṭeśvara's Citrā = 183°, Sāmanta's = 179°, both being Spica), so that the comparison does not depend on any modern choice of ayanāṃśa. Sāmanta's implied ayanāṃśa for 1870 is 22°12', which is within a few minutes of the Lahiri value — an independent check that his frame is sound.
+- POLAR LONGITUDE IS NOT A FIXED SIDEREAL QUANTITY. For stars far from the ecliptic it drifts against the sidereal frame as the equator precesses. Canopus's polar longitude fell about 7°24' between 1150 and 1869, which is why Sāmanta's dhruva for Agastya (85°) sits 12° above the value his own frame implies, and why he devotes XII.37–40 to the discrepancy. Comparisons of dhruva across texts of different dates must allow for this; comparisons of śara need not.
+- Sāmanta's Prajāpati = Rigel and his rejection of Mṛgavyādha = the southern star are recorded as DISPUTED, not as settled. They are one nineteenth-century text against the whole earlier tradition — but that text is the only observationally grounded member of it, and its coordinates land on first-magnitude stars where the tradition's land on fourth-magnitude ones.
+- The Siddhānta Darpaṇa's own epoch is 1869 CE (Śaka 1791); it was printed at Calcutta in 1899 by Joges Chandra Ray and is public domain. An Odia-script edition of the same year (https://archive.org/details/siddhanta-darpana-1899) was also downloaded and is a further witness, but was not used for transcription since the Devanagari edition is the more legible.
+
+### Āryabhaṭīya commentaries
+
+- NO NEW STAR NAME is contributed by any Kerala text. The only individual star named anywhere in the Āryabhaṭīya commentary tradition is Agastya, which the database already holds with six references. The finding's value is therefore about REFRAMING, not about new entries.
+- THE REFRAMING MUST BE NARROW. 'Āryabhaṭa omitted what his tradition knew' is true only of Nīlakaṇṭha, c. 1500, a thousand years after the mūla, and only in two digressions in one of three volumes. Bhāskara I (629 CE), Parameśvara (c. 1430), the Tantrasaṅgraha (1501), the Yuktibhāṣā (c. 1530) and the Karaṇapaddhati name no individual star at all. The original negative finding stands essentially intact for the lineage as a whole.
+- A REAL DISTINCTION THE FINDING SHOULD ABSORB: Bhāskara I names no star in his BHĀṢYA but catalogues the 27 yogatārās, with coordinates and named occultation targets, in his KARAṆAS (Laghubhāskarīya ch. VIII; Mahābhāskarīya III.63–74). So the Āryabhaṭa school did name stars as objects — just not while commenting on the Āryabhaṭīya, and never any star outside the zodiacal 27. The absence of Agastya, Mṛgavyādha, Brahmahṛdaya, Apāṃvatsa, Āpaḥ and Agni from Bhāskara I is a positive contrast with Sūrya Siddhānta ch. 8, not merely an absence of evidence.
+- ALL DEVANAGARI QUOTED HERE IS UNCORRECTED OCR of printed scans, not a keyed critical e-text. No GRETIL, sanskritdocuments.org or Wikisource e-text exists for ANY Kerala-school work — verified: GRETIL's corpus holds the Āryabhaṭīya and Bhāskara I's bhāṣya but nothing by Nīlakaṇṭha, Parameśvara, Jyeṣṭhadeva or Putumana Somayāji; sanskritdocuments.org's jyotiṣa index is entirely astrological. The shloka_devanagari fields are therefore verbatim OCR, with editorially normalised readings given separately in shloka_note and clearly marked as such.
+- THE BHAṬADĪPIKĀ NEGATIVE IS WEAK. Kern's 1874 edition is the only text available and its OCR is the worst in this set — about one word in five is corrupt and नक्षत्र scores zero, which cannot be true of the actual text. The Bhaṭadīpikā is a famously terse commentary and a priori unlikely to digress into star lists, but this should be recorded as 'no evidence found' rather than 'verified absent'. The same caution applies to the Karaṇapaddhati, whose OCR is only 47 K characters and may be incomplete.
+- TWO OF PARAMEŚVARA'S WORKS COULD NOT BE TESTED AT ALL. His Sūrya-Siddhānta commentary survives online only as an unOCR'd palm-leaf manuscript scan (IA raswhish137-139, whose _djvu.txt is pure noise), and his Laghubhāskarīya-vivaraṇa / Karmadīpikā is not online in any form. Since the Sūrya Siddhānta is precisely the text that DOES catalogue Agastya, Mṛgavyādha, Brahmahṛdaya and Apāṃvatsa — and is the text Nīlakaṇṭha defers to — Parameśvara's commentary on it is the single highest-value untested target, and would very likely gloss those stars.
+- THE MALAYALAM YUKTIBHĀṢĀ WAS NOT TESTED. Only the anonymous Sanskrit version (ed. K. V. Sarma, IIAS 2004) is machine-readable; the Malayalam original exists online only as palm-leaf scans whose OCR is worthless. A Malayalam star name would not have been detected.
+- 'DHRUVA' IS A FALSE FRIEND THROUGHOUT AND NEVER DENOTES A POLE STAR in any text examined. It means: the celestial pole (Bhāskara I's bhāṣya, Yuktibhāṣā — which posits a SOUTHERN dhruva too, ruling out a star), an epoch constant (Mahābhāskarīya dhruvaka, Tantrasaṅgraha kalyādi-dhruva), the hour circle (dhruvaprota-vṛtta), and the 12th of the 27 yogas. Any future automated sweep of this corpus for 'dhruva' will produce false positives.
+- NĪLAKAṆṬHA ALSO QUOTES, BUT DOES NOT HIMSELF USE, TWO OTHER STAR NAMES: the Vicṛtau (from the Vedic 'amī ye subhage divi vicṛtau nāma tārake', usually the two stars of Mūla) and the six Kṛttikās ('ṣaṭ kṛttikā nakṣatram'). These are cited as specimens of Vedic naming inside a philosophical objection, not used astronomically, so no entries were created for them. The database currently has no 'vicrtau' id; if one is wanted it should be sourced from the Vedic corpus, not from here.
+- VERSE NUMBERING was cross-checked against GRETIL's mūla (sa_AryabhaTa-AryabhaTIya.txt) rather than assumed: Nīlakaṇṭha's Golapāda 4.46, 4.47 and 4.48 print verses that match GRETIL's AB_4.46, AB_4.47 and AB_4.48 word for word, so his numbering agrees with Shukla's. Note that Clark's 1930 numbering of the Golapāda also agrees here.
+
+### Chinese Buddhist witnesses
+
+- The brief's premise that the Xiuyao jing 'preserves Sanskrit star names in Chinese phonetic transcription' does not hold for the nakshatra names. It transcribes deity-names and gotra-names phonetically (鉢闍鉢底 Prajāpati, 蘖利訶馺撥底 Bṛhaspati, 因伽陀羅祇尼 Indrāgni, 婆魯拏 Varuṇa, 乾闥婆 Gandharva, 因陀羅 Indra, 魯達羅 Rudra, 甫涉 Pūṣan, 婆私瑟吒 Vāsiṣṭha, 迦旃延/迦底那 Kātyāyana, 憍尸迦 Kauśika, 憍陳如 Kauṇḍinya, 阿藍婆 Ālaṃba, 闍罽那 Jātūkarṇa, 賓伽羅 Piṅgala, 毘舍延 Vaiśyāyana, 烏波若 Aupamanyava, 拔伽 Bhārgava, 丹茶耶 Tāṇḍya), and the asterisms themselves it names by Chinese lodge. Every Sanskrit form I give for a transcription is my reading of the Chinese characters against the Sanskrit already in the database; where I could not reconstruct a form with confidence (T1299's 瑟室利, 毘婆怛利, 尼陀羅, 阿醯多陀難; T1301's 沙栴) I have said so rather than guess.
+- No public-domain English translation of T21n1299, T21n1300 or T21n1301 exists, so every English rendering here is my own literal version, marked as such. The modern scholarship on these texts (Yano Michio's studies of the Xiuyao jing, Zenba Makoto on the Mātaṅga material, Bill Mak and Jeffrey Kotyk on Chinese Buddhist astral science) is in copyright and is neither quoted nor drawn on for wording.
+- The Chinese lodge (xiu) to nakshatra correspondence used throughout is the standard positional one (昴=Kṛttikā … 胃=Bharaṇī) that the texts themselves assume; I have NOT quoted any fetched source for the determinative stars of the Chinese lodges, so statements about which modern stars each xiu marks are background, not evidence from this session. The evidential weight here is in the star-counts, figures, deities, gotras, foods and muhūrta-values, all quoted verbatim.
+- Where a star-count differs between witnesses the pattern is consistent and worth weighing: the 3rd–4th-century translations (T1300, T1301) usually agree with the Sanskrit Śārdūlakarṇāvadāna, while the 759 CE Xiuyao jing has in several places drifted toward the CHINESE lodge count (角 2 for Citrā's 1, 氐 4 for Viśākhā's 2, 婁 3 for Aśvinī's 2, 柳 6 for Āśleṣā's 1, 尾 2 against Mūla's 7). Yang Jingfeng saw this and said so: 'examining the sūtra text, its account of the stars mostly does not correspond with the Chinese' (T21.388c13), and he appended the Chinese count to every one of the twenty-eight entries — which is why a clean Indian-vs-Chinese comparison is available for the whole series.
+- Several readings in the Taishō text of T1299 are defective and I have not emended them: 昴's gotra 姓某尼裴苦 (某 marks a lost graph), 星's figure 形如猛 (incomplete), 柳's deity (the name is simply absent before 神也), and 星's food 食卒日消. T1301 misprints 三十五須臾 for 四十五 twice (北德, 北賢迹) — corrected by its own summary list — and its east- and west-group boundary members are corrupt.
+- T21n1301 has no description for Anurādhā (悅可): the name stands at no. 15 in its list but the western group runs from Jyeṣṭhā and yields six described asterisms where the text claims seven. This is a lacuna in the received text, not an omission of mine.
+- The Xiuyao jing's 二十七宿十二宮圖 (twenty-seven-lodge and twelve-palace chart) at T21.395a survives in the Taishō only as two facsimile images. CBETA does not transcribe them and the figure URLs on cbetaonline returned HTML, not images, so anything the chart may contain — including any Sanskrit lettering — is unverified.
+- T19n0982 (the Chinese Mahāmāyūrī, whose Sanskrit counterpart is already in the database) was fetched and checked: it too names the twenty-eight by Chinese lodge, in four groups of seven guarding the four gates, so it corroborates the catur-dvārika scheme but adds no name-forms. T54n2130 (翻梵語) has no twenty-eight-lodge section; it yields only two monk-names built on nakshatras (馬宿 = Aśvajit, glossed 阿輸實, and 滿宿). T21n1302–1311 yielded nothing on nakshatra names.
+
+### Mahābhārata & Rāmāyaṇa
+
+- AGASTYA IS NEVER A STAR IN EITHER EPIC — this is the single most important negative finding of the assignment. Method: the complete BORI Critical Edition Mahābhārata (grep of all 18 parvans, 90 hits) and the complete Critical Edition Rāmāyaṇa (47 hits) were searched for 'agasty', and every hit inspected. All are the ṛṣi: the Vātāpi episode (MBh 3.94-97), the ocean-drinking (3.101-103), the Nahuṣa episode (13.102-103), Lopāmudrā, the tīrthas named after him, and the Rāmāyaṇa's Araṇya-Kāṇḍa hermitage (3.10-13). The only quasi-cosmic usage is directional, not stellar: 'agastyaśāstāṃ diśam' (MBh 1.184.9, 5.141.41), 'agastyādhyuṣitāṃ diśam' (Rām 2.43.8), 'agastyacaritām āśāṃ dakṣiṇām' (Rām 4.44.5, 4.46.x) and 'agastyena durādharṣā muninā dakṣiṇeva dik' (Rām 6.103.14) — Agastya as regent of the SOUTH, which is the conceptual bridge to the later Canopus identification but is not yet the star. Cross-checks that returned zero: 'agastyod-' (no agastyodaya / heliacal-rising formula anywhere), and no occurrence of agastya in the same verse as nakṣatra, graha, tārā, jyotis, divi, gagana or udaya. MBh 12.329.38 does supply the epithets Maitrāvaruṇi and Kumbhayoni, which the database records as star-names from the lexicons, but there they are applied to the sage. Conclusion: the Agastya = Canopus identification is post-epic, and the database's Ṛgvedic finding holds through the epics.
+- LUBDHAKA AND MṚGAVYĀDHA ARE NOT SIRIUS IN EITHER EPIC. Lubdhaka: 34 occurrences in the Mahābhārata, ZERO in the Rāmāyaṇa; every one means 'hunter' — the fowler of the Śānti Parva (12.141-145), the interlocutor of the Mṛtyu-Gautamī dialogue (13.1), and the hunter Jarā who kills Kṛṣṇa (16.5.20). Mṛgavyādha: 7 occurrences, all in the Mahābhārata; two are the Rudra of that name in the eleven-Rudra list (1.60.2, 1.114.57), four are a literal deer-hunter (3.60.26, 3.60.32, 3.61.1, 12.130.20), and one is a compound about a deer-hunt (8.49.38). No celestial context in any of them.
+- BRAHMAHṚDAYA IS NOT CAPELLA IN THE EPICS. The word occurs exactly ONCE in the whole Mahābhārata, at 12.335.34 'namas te brahmahṛdaya namas te mama pūrvaja', a vocative epithet of Viṣṇu ('heart of Brahmā'), and ZERO times in the Rāmāyaṇa. The Sūrya-Siddhānta star-name has no epic antecedent.
+- THE ŚALYA- AND ANUŚĀSANA-PARVA ARUNDHATĪ PASSAGES ARE TERRESTRIAL, NOT CELESTIAL. Śalya 9.47.28-49 is the Badarapācana-tīrtha aetiology: the seven ṛṣis leave for the Himālaya during a twelve-year drought, Arundhatī stays and cooks jujubes for a disguised Śiva; there is no sky, no position, no star. Anuśāsana 13.94-96 is the Vṛṣādarbhi famine story, equally terrestrial, though 13.95.39 gives the standing etymology of the name ('mano 'nurundhatī bhartur iti māṃ viddhy arundhatīm'). The ONLY unambiguously stellar Arundhatī in either epic is the Bhīṣma-Parva omen at 6.2.31.
+- CE-VS-VULGATE NUMBERING IS UNSTABLE AND MUST BE STATED. Every Mahābhārata verse in this file is quoted from the Critical Edition and its CE reference is given; the Ganguli/vulgate section is given separately because the two systems diverge irregularly — CE Vana 3.219 = Ganguli Vana CCXXIX (NOT CCXXX, which is where the standard citation 'Vana 230.8-10' points and which in fact contains the Svāhā episode); CE Vana 3.44 = Ganguli XLIII; CE Vana 3.188 = Ganguli CLXXXIX; CE Udyoga 5.109 = Ganguli CXI; CE Udyoga 5.141 = Ganguli CXLIII; CE Bhīṣma 6.2 and 6.3 happen to equal Ganguli II and III. For the Rāmāyaṇa, CE Bāla 1.17 = vulgate 18 and CE Bāla 1.59 = vulgate 60, while the CE and vulgate Sundara Kāṇḍa sarga numbers diverge widely (CE 5.55 = Dutt's Section CVII).
+- THE CRITICAL EDITION AND THE VULGATE DISAGREE ON TWO POINTS THAT MATTER FOR THIS DATABASE. (1) Rāma's birth-horoscope, including the Aditi-asterism (Punarvasu), the five exalted planets and the Cancer lagna, is a VULGATE reading absent from the Critical Edition; anyone citing Rāmāyaṇa Bāla 18 for Punarvasu is citing the vulgate. (2) At MBh 3.219.11 the CE says the newly installed Kṛttikā 'shines CART-SHAPED (śakaṭākāra), its deity Fire', where Ganguli's vulgate says it 'shines as if with SEVEN HEADS'. Śakaṭa is elsewhere the shape-word for Rohiṇī, so the CE reading is either archaic or corrupt and should not be used to redraw the Pleiades.
+- GRETIL TEXT DEFECTS. The GRETIL Critical Edition Rāmāyaṇa file contains obvious typographical errors in two of the verses quoted here: R_6,004.044 prints 'iṣkvākūṇāṃ' for ikṣvākūṇāṃ and R_6,004.047 prints 'nakatraṃ' for nakṣatraṃ. The quotations are verbatim from the file as fetched, errors included; the readings are not in doubt.
+- TWO EPIC PASSAGES USED HERE ARE MARKED AS INTERPOLATIONS BY THE CRITICAL EDITION ITSELF and are cited only as context, never as evidence: the nakṣatra-puruṣa list at 13,111.021d appendix 012A (Puṣya = the face, Svāti = the teeth and lips, Mitra = the forehead, and so on through all 27) and 13,150.009d appendix 020 ('svātinakṣatranirmitā'). GRETIL flags these with @ and * markers.
+- TIṢYA/PUṢYA ALSO NAME THE FOURTH AGE, NOT ONLY THE ASTERISM. MBh 12.327.76 and 12.337.42 and Rāmāyaṇa 6.26.13 use Tiṣya for the Kali yuga, and MBh 6.11.3-13 lists the four ages as 'kṛtaṃ tretā dvāparaṃ ca puṣyaṃ ca'. These are age-names and must not be counted as star attestations, though they show how closely the asterism-name and the age-name were felt to belong together.
+- NO INDIVIDUAL NAMED STAR OUTSIDE THE NAKṢATRA SYSTEM IS SECURELY ATTESTED IN EITHER EPIC. The epics name asterisms, planets, comets, roads, the Saptarṣi, Arundhatī, Dhruva and Triśaṅku — but produce not one uncontested individual star-name of the Agastya/Lubdhaka/Brahmahṛdaya type. Brahmarāśi is the sole possible exception and is unidentified. This is a significant chronological result: the individual-star nomenclature of the Sūrya Siddhānta and the Bṛhat Saṃhitā has no epic ancestry.
+
+### Classical kāvya
+
+- NOT SEARCHED: Vikramorvasiya and Malavikagnimitra. Neither is on GRETIL, sanskritdocuments.org returns HTTP 406 to this session, and the Sanskrit Wikisource pages for both are empty transclusion stubs with no text layer. Kadambari is likewise absent from GRETIL's plaintext transformations (the .htm is listed in the index but sa_bANa-kAdambarI-1.txt returns 404), so of Bana only the Harsacarita could be searched.
+- Sriharsa's Naisadhiyacarita WAS searched (all 22 cantos, from Sanskrit Wikisource) and yielded almost nothing on these targets: zero occurrences of svati, sukti, naksatra, krttika, visakha, jyestha, agastya, arundhati or abhijit; two of rohini (both persons/epithets) and one of mrgavyadha, at 22.140, where it means Siva as hunter of the sacrifice-deer, not Sirius. Its astronomical conceits are about the moon and the planets, not named fixed stars.
+- The Kathasaritsagara (5.9 MB e-text, searched in full) has NO svati and NO abhijit. Its lubdhaka at 6,2.88 is the verse the database already records with the caveat that Tawney read it as 'outcaste hunter'; nothing found here changes that.
+- MILKY-WAY IDENTIFICATIONS HERE ARE CONVENTIONAL, NOT DESCRIPTIVE. Vyomaganga, Nabhonadi and (in these passages) Akasaganga name the heavenly Ganga as a mythic river located in the sky. Sanskrit tradition identifies that river with the visible band, and the passages place it unambiguously in the sky - but with the partial exception of Magha 3.8, none of them describes a band of light. They are marked 'likely' rather than 'certain' for that reason.
+- Meghaduta 1.46 has a real textual split: vyomaganga in the plain GRETIL text, in M. R. Kale's edition, in the text accompanying Vallabhadeva's commentary (the oldest recension), and on Sanskrit Wikisource - but mandakini in the manuscript H. H. Wilson translated in 1843. Kumarasambhava 6.5 splits the same way, akasaganga (GRETIL) against vyomaganga (Nirnayasagara / Wikisource).
+- Where the shloka is given in IAST rather than Devanagari it is because no clean Devanagari e-text of that passage could be fetched: Kumarasambhava canto 8 (Wikisource page is a scan stub), Raghuvamsa 12.85 (Wikisource Devanagari is mojibake at exactly the key word), Kumarasambhava 1.16 (Wikisource OCR reads सत्पर्षि for सप्तर्षि), and the whole of Magha, Bharavi, Bana and Asvaghosa.
+- Verse numbering differs between witnesses in several places and is flagged per entry: Buddhacarita 1.9 = Cowell I.25; Raghuvamsa 18.32 = Nandargikar XVIII.31; Sisupalavadha 3.60 (GRETIL) = 3.69 (Wikisource); Sisupalavadha 11.3 is misprinted as 11.2 in BOTH witnesses consulted.
+- Public-domain translations quoted here come from archive.org OCR of nineteenth-century prints. Where the OCR mangled diacritics or words, the correction is stated in the translator field of the entry concerned; nothing was silently normalised. Griffith (1879) and Wilson (1843) are free verse renderings, not literal; Nandargikar (1897), Cowell (1894, 1897) and Monier Williams (1856) are close. No copyrighted translation (Ingalls, Mallinson, Clay Sanskrit Library) was consulted or quoted.
+- Not recorded as separate entries but worth noting: Bana dates an event to the month JYESTHAMULIYA (Harsacarita ch. VI), a month-name built from the naksatras Jyestha and Mula; Magha 3.60 calls the moon ROHINISA, 'Rohini's lord', in a slesa on Balarama; Raghuvamsa 6.22 distinguishes naksatra, tara and graha in a single line ('though crowded with asterisms, stars and planets, night is luminous only by the moon'); Kiratarjuniya 6.1 has TRIPATHAGA, but of the Ganga at her Himalayan source, so it was not counted as a Milky-Way attestation; and Bana's ch. I description of the heavenly Ganga has 'the clear stars tremulous as they crossed its high-leaping waves'.
+- The Rtusamhara, though it contains a full autumn (sarad) canto, names no star at all - no Agastya, no naksatra, no saptarsi, only generic candra/tara words. That is one more small reason to doubt its ascription to the poet of Raghuvamsa 4.21.
