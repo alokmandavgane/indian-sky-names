@@ -1,0 +1,5518 @@
+# Star names in the languages of India
+
+What speakers of the different Indian languages call a star, an asterism or a constellation — with the dictionary or ethnography each name comes from, quoted and cited.
+
+*Generated 2026-08-02. Machine-readable version: [`star-names-local.json`](star-names-local.json); per-language research files: [`sources/`](sources/).*
+
+> **This file is generated — do not edit it.** The originals are the per-language-group research files in [`sources/`](sources/). See [`FORMAT.md`](FORMAT.md) for the schema and the editorial rules.
+
+**522 names** across **26 languages** for **45 sky objects**. 341 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
+
+**Register.** Every name is tagged by register. That is the point of the database rather than a detail: most Indian languages inherited the 27 Sanskrit nakshatra names and adapted them phonologically, and a table of those adaptations would be large and nearly uninformative. The tags separate that borrowed layer from names the languages made themselves. **vernacular** — formed in the language itself, not a Sanskrit loan; **folk** — rural or colloquial usage, from a dictionary's own usage note or from ethnography; **tribal** — from a distinct Adivasi tradition; **sanskritic** — the Sanskrit name in this language's script and phonology.
+
+Of 522 names, **369 are not Sanskrit** — 177 vernacular, 101 folk, 91 tribal, 153 sanskritic.
+
+**Method.** Compiled from public-domain lexicography and ethnography, chiefly the Digital Dictionaries of South Asia (dsal.uchicago.edu) and archive.org: Platts 1884, Fallon 1879 and Shakespear 1834 for Hindi/Urdu; Molesworth 1857 for Marathi; Maffei 1883 and Dalgado 1893 for Konkani; the Madras Tamil Lexicon 1924-39 and Winslow 1862 for Tamil; Brown 1852/1903 for Telugu; Kittel for Kannada; Gundert 1872 for Malayalam; Männer 1886 for Tulu; Carter and Clough for Sinhala; Praharaj and Jñānendramohana Dāsa for Odia and Bengali; and for the Adivasi languages Hoffmann's Encyclopaedia Mundarica, Bodding and Campbell on Santali, Grignard on Kurukh, Rivers 1906 on the Toda, Man 1883 and Radcliffe-Brown 1922 on the Andamans, and Russell & Hiralal 1916. Every name is quoted verbatim from a source that was actually fetched, with the page cited and the URL recorded; where a source printed only a romanization, no script is supplied and nothing was back-transliterated. Work still in copyright (notably the 2013 and 2023 JAHH papers on Gondi and Bhil astronomy, Samsad 2000 and Candrakanta 1962) is paraphrased and cited, never quoted. Wikipedia was not used as a source.
+
+## Languages
+
+| Language | Names | Language | Names |
+|---|--:|---|--:|
+| Marathi | 62 | Assamese | 11 |
+| Tamil | 61 | Punjabi | 11 |
+| Telugu | 57 | Kurukh | 9 |
+| Kannada | 41 | Tulu | 8 |
+| Malayalam | 36 | Toda | 7 |
+| Odia | 31 | Konkani | 5 |
+| Hindi | 30 | Khasi | 5 |
+| Mundari | 26 | Nicobarese | 4 |
+| Bengali | 24 | Chhattisgarhi | 3 |
+| Sinhala | 24 | Andamanese | 3 |
+| Urdu | 20 | Kodava | 3 |
+| Gondi | 20 | Ho | 2 |
+| Santali | 17 | Gujarati | 2 |
+
+## Sky objects, most widely named first
+
+| Object | Languages | Names | Sanskrit counterpart |
+|---|--:|--:|---|
+| [The Milky Way](#the-milky-way) | 21 | 49 | `akashaganga` |
+| [Ursa Major (the Big Dipper)](#ursa-major-the-big-dipper) | 19 | 51 | `saptarshi` |
+| [The Pleiades](#the-pleiades) | 18 | 48 | `krittika` |
+| [Comets](#comets) | 18 | 28 | — |
+| [Venus as morning star](#venus-as-morning-star) | 17 | 30 | — |
+| [Orion](#orion) | 16 | 35 | `mriga` |
+| [Meteors and shooting stars](#meteors-and-shooting-stars) | 15 | 20 | `tara` |
+| ['Star' as a word](#star-as-a-word) | 12 | 21 | `tara` |
+| [Venus](#venus) | 12 | 15 | `tara` |
+| [Ursa Minor](#ursa-minor) | 11 | 20 | `dhruva` |
+| [Canopus](#canopus) | 11 | 14 | `agastya` |
+| [The lunar mansions as a system](#the-lunar-mansions-as-a-system) | 10 | 60 | `nakshatra-generic` |
+| [Figures with no secure modern identification](#figures-with-no-secure-modern-identification) | 10 | 13 | — |
+| [Aldebaran](#aldebaran) | 10 | 12 | `rohini` |
+| [Orion's Belt](#orions-belt) | 8 | 15 | `ishus-trikanda` |
+| [Venus as evening star](#venus-as-evening-star) | 8 | 10 | — |
+| [Sirius](#sirius) | 7 | 10 | `lubdhaka` |
+| [Arcturus](#arcturus) | 6 | 7 | `svati` |
+| [Antares](#antares) | 6 | 6 | `jyeshtha` |
+| [Seasonal and agricultural star-markers](#seasonal-and-agricultural-star-markers) | 3 | 4 | `ashvayuj` |
+| [Vega](#vega) | 3 | 4 | `abhijit` |
+| ['Constellation' as a word](#constellation-as-a-word) | 3 | 3 | `tara` |
+| [Scorpius](#scorpius) | 3 | 3 | `mula` |
+| [The Moon](#the-moon) | 3 | 3 | — |
+| [The Sun](#the-sun) | 3 | 3 | `uttara-phalguni` |
+| [The zodiac](#the-zodiac) | 3 | 3 | — |
+| [Spica](#spica) | 2 | 4 | `chitra` |
+| [Capella](#capella) | 2 | 3 | `brahmahridaya` |
+| ['Sky' as a word](#sky-as-a-word) | 2 | 2 | `tarapatha` |
+| [Altair](#altair) | 2 | 2 | `shravana` |
+| [Centaurus](#centaurus) | 2 | 2 | — |
+| [Regulus](#regulus) | 2 | 2 | `magha` |
+| [Corvus](#corvus) | 1 | 3 | `hasta` |
+| [Pegasus](#pegasus) | 1 | 3 | — |
+| [Castor and Pollux](#castor-and-pollux) | 1 | 2 | `punarvasu` |
+| [Praesepe and Cancer](#praesepe-and-cancer) | 1 | 2 | `pushya` |
+| [Viśākhā (ι Librae)](#viśākhā-ι-librae) | 1 | 2 | `vishakha` |
+| ['Planet' as a word](#planet-as-a-word) | 1 | 1 | `taragraha` |
+| [Auriga](#auriga) | 1 | 1 | — |
+| [Aśvayuj (Sheratan)](#aśvayuj-sheratan) | 1 | 1 | `ashvayuj` |
+| [Cygnus](#cygnus) | 1 | 1 | — |
+| [Leo and Virgo](#leo-and-virgo) | 1 | 1 | — |
+| [Lupus](#lupus) | 1 | 1 | — |
+| [Nakṣatra (star / asterism (generic))](#nakṣatra-star--asterism-generic) | 1 | 1 | `nakshatra-generic` |
+| [Saturn](#saturn) | 1 | 1 | — |
+
+## The Milky Way
+
+**Modern:** the Milky Way  
+**Sanskrit database:** `akashaganga` — Ākāśagaṅgā (the Milky Way (lit. 'sky-Ganges')) ([entry](../star-names/star-names.json))  
+**Named in 21 languages:** Andamanese, Assamese, Bengali, Chhattisgarhi, Gondi, Hindi, Kannada, Konkani, Kurukh, Malayalam, Marathi, Mundari, Nicobarese, Odia, Punjabi, Santali, Sinhala, Tamil, Telugu, Tulu, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Bengali | দুধপথ | *dudh-patha* | 'the milk-road' | vernacular |
+| Bengali | যমজাঙ্গাল | *yama-jāṅgāla* | 'Yama's jāṅgāl' — a jāṅgāl is a raised earthen causeway or embankment across flooded land | vernacular |
+| Bengali | যমের জাঙ্গাল (যমজাঙ্গাল) | *yamer jāṅgāl (yama-jāṅgāla)* | 'Yama's causeway' | vernacular |
+| Kannada | ಬಾನ್ದೊಱೆ | *bāndoṟe* | the sky-river | vernacular |
+| Kannada | ಬಾಂಗಡಲ್ | *bāṅgaḍal* | the sky-sea | vernacular |
+| Kannada | ಬಾಂಗೆಱೆ | *bāṅgeṟe* | the sky-tank | vernacular |
+| Konkani | — | *molbamārog* | the road that is on the sky | vernacular |
+| Sinhala | අහස් ගඟ | *ahas gan̆ga* | 'sky-river' (අහස ahasa 'sky' + ගඟ gan̆ga 'river') | vernacular |
+| Tamil | மணலக்கம்பம் | *maṇalakkampam* | — | vernacular |
+| Tamil | மாசு | *mācu* | stain, spot, blemish | vernacular |
+| Tamil | பால்வீதிமண்டலம் | *pāl-vīti-maṇṭalam* | the milk-street region | vernacular |
+| Tamil | பூராடமாசு | *pūrāṭa-mācu* | the Pūrāṭam stain — the smudge at the twentieth asterism | vernacular |
+| Telugu | పాలపుంత | *pāla-punta* | the milk track | vernacular |
+| Tulu | ನಕ್ಷತ್ರೊಳಿ ಸಾಲ್ | *nakṣatroḷi sāl* | 'row/line of stars' (ಸಾಲ್ sāl 'row, line', native Dravidian) | vernacular |
+| Urdu | کـﮩکشاں | *kahkashāṅ* | 'the straw-drag' - kāh 'straw' + kashān 'dragging' | vernacular |
+| Assamese | হাতীপটি | *hātīpaṭi* | 'elephant-track' — the beaten path elephants make through jungle | folk |
+| Chhattisgarhi | — | *Gajvīthi (named elsewhere in the same work)* | the track of the elephant | folk |
+| Hindi | — | *Bhagwān kī Kachahrī* | 'God's court-house' | folk |
+| Hindi | — | *Sufed Bādhī* | 'the white garland' | folk |
+| Hindi | — | *Surg Dwārī* | 'the gate of heaven' | folk |
+| Hindi | هتهيا کي راه | *hathiyā kī rāh* | 'the road of Hathiyā (the Hasta asterism)' | folk |
+| Hindi | — | *hāthī kī rāh* | 'the elephant's road' | folk |
+| Konkani | — | *dudavat* | milk-road (conjectural: dudh 'milk' + vāṭ 'way') | folk |
+| Marathi | — | *Kavadgantak* | — | folk |
+| Marathi | — | *Vastupurush* | the Vāstu-puruṣa, the cosmic man of the building site | folk |
+| Odia | ହାତିଦଣ୍ଡା | *Hātidaṇḍā* | 'the elephant-road' — the trampled lane elephants drive through jungle | folk |
+| Odia | ହାଁଥିଧରସା (ହାଥି ଧର୍ସା) | *Hāñthi dharasā (Hāti dhar-sā)* | 'elephant-track' | folk |
+| Punjabi | — | *Berā dā Ghās* | 'the boat's track/fodder' - glossed by the contributor as 'The Path of (Noah's) Boat' | folk |
+| Andamanese | — | *ig-yádowa-* | — | tribal |
+| Gondi | — | *Sagur, Sagarpath, Dhor Sari, Murana Sagur, Pandhan, Hari, Sadak, Marg, Rasta* | the road; the path of the animals | tribal |
+| Kurukh | — | *gāy-chour bīnkō* | the cattle-track constellation | tribal |
+| Mundari | — | *gaiko hora, gaiko hor, gaikoiḍ, caṭar* | the cattle road | tribal |
+| Nicobarese | — | *dāk-oal-kalahoiya; oal-kalahoiya* | river in the sky | tribal |
+| Santali | — | *Hat dahar* | the market road | tribal |
+| Santali | — | *Panjar dahar* | the rib road | tribal |
+| Bengali | অজবীথি | *ajabīthi* | 'the goat-road' | sanskritic |
+| Bengali | ছায়াপথ | *chāyā-patha* | 'the shadow-path' | sanskritic |
+| Bengali | হরিতালী, হরিতালিকা | *haritālī, haritālikā* | uncertain; the word's other senses are the bright-fourth of Bhādra and dūrvā grass | sanskritic |
+| Hindi | आकास / آکاس | *ākāś-gaṅgā (akkās gaṅgā)* | 'the sky-Ganges' | sanskritic |
+| Kannada | ಆಕಾಶಗಂಗೆ | *ākāśagaṅge* | the sky-Ganges | sanskritic |
+| Konkani | — | *Akāsagaṅgā* | the sky-Ganges | sanskritic |
+| Malayalam | സുരവാഹിനി | *suravāhini* | 'the river of the gods' | sanskritic |
+| Malayalam | ആകാശഗംഗ | *ākāśagaṅga* | 'the sky-Ganges' | sanskritic |
+| Marathi | मंदाकिनी | *mandākinī* | — | sanskritic |
+| Marathi | आकाशगंगा | *ākāśagaṅgā* | the sky-Ganges | sanskritic |
+| Odia | ହରିତାଳୀ (ହରିତାଳିକା) | *Haritāḻī (Haritāḻikā)* | uncertain; the word's other senses are the Bhādra festival day and the sharp edge of a sword | sanskritic |
+| Tamil | நாகவீதி | *nāka-vīti* | serpent-street | sanskritic |
+| Tamil | ஆகாசகங்கை | *ākāca-kaṅkai* | sky-Ganges | sanskritic |
+| Telugu | నక్షత్రవీధి | *nakṣatra-vīdhi* | the street of the asterisms | sanskritic |
+
+**দুধপথ · dudh-patha** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+Listed by Dāsa among the Bengali synonyms of ছায়াপথ, and again under হরিতালী (p. 2133). This is the one indigenous eastern name for the galaxy that agrees with the European one, and Dāsa gives it without comment beside আকাশগঙ্গা and যমের জাঙ্গাল.
+
+> ̃পথ [ছায়া (জ্যোতিঃ) পথ (পথ সদৃশ বলিয়া] বি, জ্যোতিশ্চক্রের মধ্যস্হিত পথের ন্যায় দৃশ্যমান অর্দ্ধমণ্ডলাকার নক্ষত্রপুঞ্জ; আকাশগঙ্গা; দুধপথ; যমের জাঙ্গাল।
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. ছায়া chāẏā, sub-lemma ̃পথ, p. 812 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=812))
+
+<sub>Whether দুধপথ is a nineteenth-century calque on 'Milky Way' or older is not settled by this entry; Dāsa gives no etymology and no citation for it. It is absent from Biswas. Treat as possibly a translation.</sub>
+
+**যমজাঙ্গাল · yama-jāṅgāla** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+Sub-lemma ~জাঙ্গাল under the headword যম (Yama, god of death). The image is of the galaxy as the raised road on which the dead travel — the deltaic-Bengal counterpart of the Odia hātidaṇḍā and Assamese hātīpaṭi 'elephant-track' (both in this file).
+
+> ~জাঙ্গাল n. the Milky Way, the Galaxy.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. যম yama (2), sub-lemma ~জাঙ্গাল, p. 890 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%AF%E0%A6%AE&searchhws=yes&matchtype=exact))
+
+<sub>জাঙ্গাল is a Bengali (not Sanskrit) word for an embankment/raised road; the compound is therefore formed in Bengali even though its first member is the Sanskrit theonym. Note the Bengali word for the Milky Way that everyone knows, ছায়াপথ, is a separate sanskritic entry here.</sub>
+
+**যমের জাঙ্গাল (যমজাঙ্গাল) · yamer jāṅgāl (yama-jāṅgāla)** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+The second, independent attestation of the name — Dāsa lists it among the synonyms of ছায়াপথ (p. 812) and again as a sub-headword under যম (p. 1811), where it is equated with আকাশগঙ্গা, সোমধারা, দেবপথ and ছায়াপথ.
+
+> ̃জাঙ্গাল -বি, আকাশগঙ্গা; নভোমণ্ডলস্হিত সোমধারা; দেবপথ বা ছায়াপথ the milky way.
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. যম yama, sub-lemma ̃জাঙ্গাল, p. 1811 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=1811))
+
+<sub>Three independent Bengali dictionaries carry it: Dāsa here and at p. 812, Biswas's Samsad Bengali-English at p. 890 (যমজাঙ্গাল), and Biswas's Bengali-Bengali Saṃsada Bāṅgālā Abhidhāna, 7th ed. 2004, p. 305, which lists 'আকাশগঙ্গা, যমের জাঙ্গাল, milky way' under ছায়াপথ. The genitive form যমের জাঙ্গাল is the spoken one.</sub>
+
+**ಬಾನ್ದೊಱೆ · bāndoṟe** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: likely
+
+> — ಬಾನ್ದೊಱೆ. - ತೊಱೆ. the celestial Ganges [ಬಾನ್ದೊಱೆಯನೆ ಪೊತ್ತು ಗೌರಿಗೆ ಕವಲ್ದೊಱೆಗೆಯ್ಸಿದಂ Pb. 7, 75]; (Bp. 17, 11).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಬಾನ್ bān 3, p. 1169 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1169))
+
+<sub>The Kannada calque nearest to Sanskrit Ākāśagaṅgā, but made of Dravidian material throughout. Kittel's ಬಾನ್ 3 entry also lists the sky-road synonyms ಮೀನ್ವಟ್ಟೆ and ಅಱಿಲ್ವಟ್ಟೆ, which is why the star-road words are entered separately above.</sub>
+
+**ಬಾಂಗಡಲ್ · bāṅgaḍal** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: likely
+
+> — ಬಾಂಗಡಲ್. -ಕಡಲ್. the sky-sea : the celestial Ganges (Rśv. 10, 82; Śśv. 3, 3).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಬಾಂ- bām-, p. 1166 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1166))
+
+<sub>Third member of the Kannada set bān-kaḍal 'sky-sea' / bān-keṟe 'sky-tank' / bān-toṟe 'sky-river' (the last at Kittel p. 1169, glossed 'the celestial Ganges'). All three are Dravidian compounds on bān 'sky' with a different body of water; Kittel equates the sea and river forms with the celestial Ganges, i.e. with Ākāśagaṅgā.</sub>
+
+**ಬಾಂಗೆಱೆ · bāṅgeṟe** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: likely
+
+A Dravidian figure for the galaxy: not a river but an irrigation tank, the standing water of the Karnataka countryside.
+
+> ಬಾಂ- bāṅ. ಬಾಙ್-. = ಬಾನ್ 3, etc. the sky. — ಬಾಂಗಡಲ್. -ಕಡಲ್. the sky-sea : the celestial Ganges (Rśv. 10, 82; Śśv. 3, 3). — ಬಾಂಗೆಱೆ. - ಕೆಱೆ. the sky-tank (Rśv. 12, 12; V. 3, 14).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಬಾಂ- bām-, p. 1166 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1166))
+
+<sub>The best genuinely indigenous Kannada sky-figure found. Both elements are Dravidian (bān 'sky', keṟe 'tank'). Confidence 'likely' rather than certain only because Kittel's ಬಾಂ- entry glosses it literally as 'sky-tank' without saying Milky Way; the equation with the galaxy comes from his ಆಕಾಶಗಂಗೆ entry (p. 146), where bāṅgeṟe is given as the Kannada equivalent. His illustrative citation from the Rājaśekhara-vilāsa makes the sense plain — ಬಾಂಗೆಱೆಯೊಳ್ ಮೀಂಗಳ್ … ಮುೞುಗುವನ್ತೆ ಅಡಂಗಿದುವು, the stars vanished as though fishes were diving in the sky-tank (Kittel s.v. ಅಡಂಗು, p. 32), which turns on mīn meaning both fish and star.</sub>
+
+**molbamārog** — Konkani (South Kanara / Mangalore) · *vernacular* · confidence: certain
+
+> Galaxy, s. molbamarog, -rga, m. =l. the road (which is) on the sky
+> <br>— A. F. X. Maffei, An English-Konkani Dictionary (Mangalore: Basel Mission Press, 1883), s.v. Galaxy, pp. 201-202 ([source](https://archive.org/details/anenglishkonkan00bygoog))
+
+<sub>The best indigenous find in the whole Konkani/Gujarati side of this compilation: the Milky Way as a ROAD, with Maffei supplying his own literal gloss ('=l.' is his abbreviation for 'literal, i.e. translation'). Built on molab 'sky, firmament' (Maffei p. 184, s.v. Firmament: 'molab, -lba, n.; antral, -la, n.; akas, -sa, n.') + mārog 'road'. This is exactly what the Marathi dictionaries do NOT have — Molesworth's eight Milky Way names are all Sanskrit rivers of heaven. Maffei prints roman only in the English-Konkani half (the Konkani-English half uses Kannada script), so no Devanagari is supplied here. The Google scan prints Maffei's abbreviation '=l.' (his mark for 'literal, i.e. translation') as '=1.' and drops the running head into the middle of the entry, which runs across a page break; and the same entry adds two further forms — see the sibling entries for dudavat and for Maffei's explicit denial of Akāsagaṅgā.</sub>
+
+**අහස් ගඟ · ahas gan̆ga** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+Carter attaches the Kailāsa origin-myth to it; Clough glosses it only 'the celestial river' and does not connect it to the galaxy at all.
+
+> අහස් ගඟ ahas gan̆ga , n. celestial river, supposed to issue from the foot of mount කෛලාස; the milky-way.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. අහස් ගඟ ahas gan̆ga, p. 84 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=Milky%20Way&matchtype=default))
+
+<sub>Native in form, borrowed in concept: both morphemes are ordinary Sinhala, but Jayatilaka's etymology bracket at අහස්ගඟ (p. 978) reads '[Cf. P. ākāsa-gaṅgā, Sk. ākāśa-gaṅgā]', so it is a morpheme-for-morpheme calque of the Pali/Sanskrit compound — exactly the same compound the Malayalam ആകാശഗംഗ takes over unchanged. Sinhala translated it; Malayalam borrowed it. Carter's synonym list, all loans or hybrids, is අඹුරු නිය am̆buru niya (p. 58), නාග·විථිය nāga·vithiya (p. 319, 'the path of Indra's elephant Airāvata'), බාරුසීගඟ bārusīgan̆ga (p. 446), මන්‍දා·කිනිය man‍dā·kiniya (p. 479), සුර·සිඳුව sura·sin̆duva (p. 692) and ස්වර්නදිය svarnadiya (p. 711).</sub>
+
+**மணலக்கம்பம் · maṇalakkampam** — Tamil (Jaffna, Sri Lanka) · *vernacular* · confidence: likely
+
+An opaque Tamil name for the galaxy recorded only from the Yāḻppāṇa Akarāti; the Lexicon itself will not commit to an etymology.
+
+> மணலக்கம்பம் maṇalakkampam , n. perh. மணல் + lakṣa + பம். The Milky Way; பால்வீதிமண்டலம். (யாழ். அக.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. மணலக்கம்பம், vol. V p. 3038, citing the Yāḻppāṇa Akarāti ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%A3%E0%AE%B2%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Lexicon's etymology is prefixed 'perh.' and parses it as maṇal 'sand' + Skt. lakṣa 'lakh' + an unexplained -pam — i.e. something like 'a hundred thousand grains of sand', which would be a fine name for the Milky Way but is expressly a guess. Recorded with the guess flagged as the Lexicon flags it. Confidence 'likely' for the referent (the definition is unambiguous), not for the etymology.</sub>
+
+**மாசு · mācu** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A TAMIL NAME WITH NO SANSKRIT MODEL: the galaxy as a smudge on the sky, not as a celestial river. Every Sanskrit name for the Milky Way is a Ganges-metaphor; this one is not.
+
+> மாசு¹ mācu , n. … 1. Spot; மறு. … 2. Stain, taint, tarnish; அழுக்கு. … 5. Blackness; கருமை. … 7. Cloud; மேகம். (பிங்.) … 11. The Milky Way; பால்வீதிமண்டலம். (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. மாசு¹ sense 11, vol. V p. 3147, marked (W.) after Winslow ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%BE%E0%AE%9A%E0%AF%81&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM-HEAVY: eighteen senses on one headword, including ordure, bile, phlegm, afterbirth and a film in the eye. Only sense 11 is astronomical, and it is Winslow's; Winslow's own entry reads 'The galaxy, or milky way, பால்வீதிமண்டலம்' (1862, p. 859, https://dsal.uchicago.edu/cgi-bin/app/winslow_query.py?qs=Milky+Way&matchtype=default). No literary attestation in the astronomical sense was found, but the sense is confirmed by the compound pūrāṭa-mācu below. sanskrit_db_id given as the Milky Way entry akashaganga on referent identity only — the name itself has no Sanskrit counterpart.</sub>
+
+**பால்வீதிமண்டலம் · pāl-vīti-maṇṭalam** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The standard Tamil astronomical term, and the word by which the Lexicon defines every other Milky Way name. The Lexicon marks it '(Astron.)' and glosses it with the Latin via lactea.
+
+> பால்வீதிமண்டலம் pāl-vīti-maṇṭalam , n. < id. + வீதி +. (Astron.) Milky Way, via lactea; வானத்தின் ஒருபுறமாக நீளத்தோன்றும் நட்சத்திரத்திரளின் ஒளி. (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. பால்வீதிமண்டலம், vol. V p. 2628, marked (W.) after Winslow ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%80%E0%AE%A4%E0%AE%BF%E0%AE%AE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%B2%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The elements pāl 'milk' and maṇṭalam are Tamil and Sanskrit respectively, vīti < Skt. vīthī 'street'; the compound as a whole is a Tamil formation. Because the Lexicon glosses it with via lactea and attributes it to Winslow, a European calque cannot be ruled out — but the Tamil definition, 'the light of the mass of stars appearing lengthwise along one side of the sky', is descriptive rather than mythological, unlike the Sanskrit names. No literary attestation found.</sub>
+
+**பூராடமாசு · pūrāṭa-mācu** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The galaxy named for the part of the zodiac where it is brightest. Pūrāṭam is Pūrvāṣāḍhā, in Sagittarius — which is where the Milky Way's central bulge lies. The name is an accurate piece of sky-description.
+
+> பூராடமாசு pūrāṭa-mācu , n. < id. +. Galaxy, the Milky Way; பால்வீதிமண்டலம். (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. பூராடமாசு, vol. V p. 2847, marked (W.) after Winslow ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AE%AE%E0%AE%BE%E0%AE%9A%E0%AF%81&searchhws=yes&matchtype=exact))
+
+<sub>Winslow's own entry, s.v. பூராடம் (1862, p. 808), reads 'பூராடமாசு, s. The galaxy or milky way, பால்வீதிமண்டலம்; (adopted.)' — his '(adopted)' means the term is taken up rather than native to his colloquial register. That the Milky Way should be named for Pūrvāṣāḍhā rather than for any other asterism is not accidental and is not, as far as this compilation found, paralleled in Sanskrit.</sub>
+
+**పాలపుంత · pāla-punta** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Also పాలబాట pāla-bāṭa 'the milk road' and పాలవెల్లి pāla-velli.
+
+> పాలబాట, పాలపుంత pālabāṭa, pālapunta paalabaaTa, paalapunta n. astron. milky way.
+> <br>— Gwynn, J. P. L., A Telugu-English Dictionary (Delhi: Oxford University Press, 1991), s.v. పాలబాట, పాలపుంత pālabāṭa, pālapunta, p. 331 ([source](https://dsal.uchicago.edu/cgi-bin/app/gwynn_query.py?page=331))
+
+<sub>Gwynn 1991 is a copyrighted modern dictionary; the quote is limited to the bare lexical gloss and nothing is taken from his discussion. The name is not in Brown (1903), so on the evidence assembled here the milk-image Telugu names cannot be pushed back into the nineteenth century — that is a dating limit, not a claim that they are recent. Kannada solves the same problem with a different figure entirely: ಬಾಂಗೆಱೆ 'sky-tank'.</sub>
+
+**ನಕ್ಷತ್ರೊಳಿ ಸಾಲ್ · nakṣatroḷi sāl** — Tulu (South Canara (Tulu Nadu)) · *vernacular* · confidence: likely
+
+> Galaxy, s. ಆಕಾಶಗಂಗೆ, ನಕ್ಷತ್ರೊಳಿ ಸಾಲ್.
+> <br>— Männer, English–Tuḷu Dictionary (1888), s.v. Galaxy, p. 208 ([source](https://archive.org/download/tuluenglishengli02mnuoft/page/n215_w1400.jpg))
+
+<sub>A descriptive Tulu phrase set beside the Sanskrit ಆಕಾಶಗಂಗೆ ākāśagaṅge 'sky-Ganges' — the same compound Malayalam and Sinhala both have. Marked 'likely' because a lexicographer's English-to-Tulu equivalent may be his own rendering rather than a current name; Männer gives no citation or usage. Only the second element is Sanskrit.</sub>
+
+**کـﮩکشاں · kahkashāṅ** — Urdu (Urdu, from Persian) · *vernacular* · confidence: certain
+
+The Persian image: the sky is streaked where someone dragged a bundle of straw across it. Fallon prints the Hindi equivalent akkās gaṅgā on the same line, which is exactly the two-layer situation this file is built to show. The image is shared with Arabic ṭarīqu't-tabn, 'the road of straw'.
+
+> P کـﮩکشاں kahkashāṅ'; H. akkās gaṅgā; Sant. panjar, ḍahar , n. f. The milky way.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. kahkashāṅ', p. 970 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=970))
+
+<sub>Platts files it under kāh, p. 808: 'kāh-kashān, s.m. The milky-way, galaxy'. Shakespear (1834) has it twice, pp. 1311 and 1408. Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 25, glosses it 'the dragging of a bundle of straw through the sky'. The Santali forms in Fallon's line are not claimed here.</sub>
+
+**হাতীপটি · hātīpaṭi** — Assamese (Assam) · *folk* · confidence: certain
+
+The primary sense in the dictionary is the literal jungle elephant-track; the galaxy is sense 2. Exactly the same metaphor, with the same primary sense, is the recorded Odia name — ହାତିଦଣ୍ଡା hātidaṇḍā (Praharaj p. 4095, and Sambalpuri ହାଁଥିଧରସା p. 9036). This is the strongest vernacular isogloss in this file.
+
+> হাতীপটি hātīpaṭi বি. হাৰিৰ মাজৰ হাতীয়ে চলাচল কৰা বাট; a track of elephant in jungle. 2। আকাশত ওলোবা সৰু সৰু তৰাৰ শাৰী; অজৰীথি; the milky way.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. হাতীপটি hātīpaṭi, p. 908 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AA%E0%A6%9F%E0%A6%BF&searchhws=yes&matchtype=exact))
+
+<sub>'হাৰিৰ' and 'অজৰীথি' in the DSAL text are OCR for হাবিৰ (jungle) and অজবীথি; the entry cross-refers to the অজবীথি lemma at p. 10, which is glossed 'হাতীপটি; ছায়াপথ; milky-way'.</sub>
+
+**Gajvīthi (named elsewhere in the same work)** — Chhattisgarhi (Chhattisgarh (Dhuri caste, rice-parchers)) · *folk* · confidence: certain
+
+The path by which the elephant of the heavens passes from south to north to feed on young bamboo shoots, of which he is very fond.
+
+> the milky way is the path by which the elephant of the heavens passes from south to north to feed on the young bamboo shoots, of which he is very fond
+> <br>— Russell & Hiralal, The Tribes and Castes of the Central Provinces of India (1916), vol. II, article 'Dhuri', p. 529 ([source](https://archive.org/download/in.ernet.dli.2015.175422/2015.175422.The-Tribes-And-Castes-Of-The-Central-Provinces-Of-India-Vol-ii_djvu.txt))
+
+<sub>Russell gives the name Gajvīthi, 'the track of the elephant', at vol. II p. 124 under Bania, and the Dhuri belief at p. 529 without a name; the two are joined here and the join is flagged. Gajavīthi is Sanskrit, so this is a sanskritic name carried in folk belief — but the elephant is doing exactly the job the Munda cattle and the Gond wild animals do.</sub>
+
+**Bhagwān kī Kachahrī** — Hindi (Punjab and northern India (contributed to a Panjab journal)) · *folk* · confidence: certain
+
+The colonial district court transposed to the sky - kachahrī is the ordinary word for a magistrate's court. Crooke picked this name up from the same source and reprinted it.
+
+> Hindi : Akás Gangá ... Bhagwán kí Kachahrí, God's Court.
+> <br>— L. Whyte King, 'Names for the Milky Way', Panjab Notes and Queries, vol. II (Dec. 1884), note 308 ([source](https://archive.org/details/pnq_v2))
+
+<sub>Quoted as printed apart from OCR noise in the diacritics. Repeated by Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 25: 'The Hindu calls it Akash Ganga or the heavenly Ganges, Bhagwan ki kachahri or the Court of God, Swarga-duari or the door of Paradise.' Cited by note number, the standard locator for this journal.</sub>
+
+**Sufed Bādhī** — Hindi (northern India) · *folk* · confidence: likely
+
+Printed in the original note as 'Supesh Bidhi, the way of fate' and corrected by the contributor himself in a later note - a good example of why the correction slip matters.
+
+> In notes 306 and 308, Vol. II, are some important misprints which are hereby corrected. ... 'Akás Gangá, the bed of the Ganges,' should be Akás Gangá, the Heavenly Ganges. 'Supesh Bidhi, the way of fate,' should be Sufed Badhi, the white garland.
+> <br>— L. Whyte King, 'Names for heavenly objects', Panjab Notes and Queries, vol. II (Feb. 1885), note 523, p. 84 (correcting note 308) ([source](https://archive.org/details/pnq_v2))
+
+<sub>confidence likely: the corrected form is attested only in this correction slip and its exact Hindi shape (bādhī? bāṛhī?) cannot be checked against a script form.</sub>
+
+**Surg Dwārī** — Hindi (northern India) · *folk* · confidence: certain
+
+svarga 'heaven' + dvārī 'gateway', in vernacular shape. Crooke gives the same as Swarga-duari, 'the door of Paradise'.
+
+> Surg Dwárí, the Gate of Heaven: Hindi.
+> <br>— R. C. Temple, 'Name for the Milky Way', Panjab Notes and Queries, vol. II (Mar. 1885), note 610, p. 102 ([source](https://archive.org/details/pnq_v2))
+
+<sub>Corroborated by Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 25-26.</sub>
+
+**هتهيا کي راه · hathiyā kī rāh** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+The same 'road' image, but named for hathiyā, the thirteenth lunar mansion - the hand-shaped asterism in Corvus which in the Hindi belt is above all the season of the closing rains. A sky-road named after a calendar station, not after a bright star.
+
+> هتهيا hath-iyā हस्त s. m. 1. The 13th mansion of the moon, Corvus. 2. The breaking up of the rains. هتهيا کي راه hathiyā kī rāh, The milky way.
+> <br>— John Shakespear, A Dictionary, Hindustani and English, 3rd ed. (London, 1834), s.v. hath-iyā, p. 1851 ([source](https://dsal.uchicago.edu/cgi-bin/app/shakespear_query.py?page=1851))
+
+<sub>Shakespear prints the Urdu script for both headword and compound; Platts, p. 1219, has it in roman under हथिया / هتهيا. Still recorded by McGregor, Oxford Hindi-English Dictionary (1993), p. 1057, s.v. हथिया.</sub>
+
+**hāthī kī rāh** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+A folk name that answers to the Sanskrit Gajavīthī, 'the elephant's course' - Platts records gaj-vīthī for the Milky Way as well (p. 898) - but here it is built from the ordinary Hindi word hāthī, not from Sanskrit gaja.
+
+> hāthī-kī rāh, s.f. The galaxy or milky way (syn. ākāś-gaṅgā)
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. hāthī, p. 1215 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1215))
+
+<sub>Headword printed by Platts as हाथी / هاتهي; the compound in roman only. Fallon, p. 1193, s.v. hāth'ī: 'hāthī kī rāh, akkās Gaṅgā, n. f. The milky way.'</sub>
+
+**dudavat** — Konkani (South Kanara / Mangalore) · *folk* · confidence: likely
+
+marked (H. K.) — Maffei's abbreviation for a word used especially by Hindu Konkans, as against the Christian Konkani of Mangalore
+
+> dudavat, -te, f. (H. K.)
+> <br>— A. F. X. Maffei, An English-Konkani Dictionary (Mangalore: Basel Mission Press, 1883), s.v. Galaxy, p. 202 ([source](https://archive.org/details/anenglishkonkan00bygoog))
+
+<sub>A second, community-specific Konkani name for the Milky Way, given in the same entry as molbamārog. Maffei supplies no gloss; the reading 'milk-road' is my conjecture from dudh + vāṭ and is flagged as such — it would be an independent calque on the same idea as Latin via lactea rather than a borrowing from it. Confidence 'likely' covers both the OCR of the form (the scan renders the H.K. mark as '{B. K.}') and the etymology; the identification of the object is explicit and certain. The Konkani-English half of the volume carries what appears to be the same word under a Kannada-script headword glossed 'Galaxy, milky way', marked n.u. = not used.</sub>
+
+**Kavadgantak** — Marathi (Bombay Presidency (Deccan and Konkan)) · *folk* · confidence: likely
+
+> The Milky Way is known as the Akashganga, Vastupurush, and Kavadgantak.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 72 ([source](https://archive.org/details/folkloreofbombay00reen/page/n74))
+
+<sub>SPELLING CONFLICT within the source: the body text on p. 72 prints Kavadgantak; the book's own index (p. 361) prints Kavadghantak. Both forms are Enthoven's. The first element is very likely कावड kāvaḍ, the shoulder-yoke with a water-pot hung at each end — which would make the Milky Way a carrying-pole across the sky, a figure that would be independent of the Gaṅgā tradition — but Enthoven gives no gloss and I have not found the word in a dictionary, so the etymology is my conjecture and is flagged as such. Confidence 'likely' refers to the name's form, not to the identification of the object, which is explicit.</sub>
+
+**Vastupurush** — Marathi (Bombay Presidency (Deccan and Konkan)) · *folk* · confidence: certain
+
+> The Milky Way is known as the Akashganga, Vastupurush, and Kavadgantak.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 72 ([source](https://archive.org/details/folkloreofbombay00reen/page/n74))
+
+<sub>This corrects what the Marathi dictionaries alone would suggest. Molesworth, Vaze, Tulpule and Date give ONLY Sanskrit river-of-heaven compounds for the Milky Way; Enthoven's ethnography turns up two names that are not rivers at all. Vastupurush is the recumbent cosmic man pegged out under a building plot in Indian architectural ritual — the galaxy read as that figure stretched across the sky.</sub>
+
+**ହାତିଦଣ୍ଡା · Hātidaṇḍā** — Odia (Odisha) · *folk* · confidence: certain
+
+Given by Praharaj as THE Odia name of the galaxy, in square brackets after the Sanskrit, Latin and Greek names, at the end of his article on the Chāyāpatha. The literal sense is described in detail under the headword ହାତି (p. 9088): these lanes run for hundreds of kos, about twenty feet wide and twenty feet high, so cleanly stripped that they look swept.
+
+> ସଂ. ନାମ—ସୋମଧାରା, ଦେବପଥ, ନଭଃସରିତ୍, ଆକାଶ ଗଙ୍ଗା, ହରିତାଳୀ। ଇଂ. ନାମ—The milky way; galaxy. ଲାଟିନ୍—Via Lactea. ଗ୍ରୀକ୍—Galaxis. [ଓଡ଼ିଆନାମ—ହାତିଦଣ୍ଡା ]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note item 63 ଛାୟା ପଥ, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>The exact counterpart of Assamese হাতীপটি hātīpaṭi (this file). Two dictionaries compiled independently in Cuttack and Gauhati record the same jungle metaphor for the galaxy in two languages — good evidence that it is a genuine eastern-Indian folk name and not a lexicographer's invention.</sub>
+
+**ହାଁଥିଧରସା (ହାଥି ଧର୍ସା) · Hāñthi dharasā (Hāti dhar-sā)** — Odia (Sambalpur (western Odisha)) · *folk* · confidence: certain
+
+The Sambalpuri form of the same name, entered twice with the same two senses in the same order — jungle elephant-track, then the galaxy.
+
+> ହାଁଥିଧରସା— Hāñthi dharasā ପ୍ରାଦେ (ସମ୍ବଲପୁର) ବି— 1। ହାତୀଦଣ୍ଡା; ଜଙ୍ଗଲରେ ହାତୀମାନଙ୍କ ପଥ—1. Elephant-track in jungles. 2। ଛୟାପଥ—2. The milky way.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ହାଁଥିଧରସା Hāñthi dharasā, p. 9036 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%B9%E0%AC%BE%E0%AC%81%E0%AC%A5%E0%AC%BF%E0%AC%A7%E0%AC%B0%E0%AC%B8%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>Duplicated at p. 9096 as ହାଥି ଧର୍ସା Hāti dhar-sā, same marking, same two senses. 'ଛୟାପଥ' at p. 9036 is a misprint for ଛାୟାପଥ.</sub>
+
+**Berā dā Ghās** — Punjabi (Multan and Dera Ghazi Khan (Multani/Saraiki, western Punjab)) · *folk* · confidence: likely
+
+A Muslim-inflected version of the straw image: the Ark is dragged across the sky and leaves a wake. beṛā is the ordinary Punjabi word for a raft or boat; ghās, 'grass/fodder', keeps the Persian straw connection alive under a Qur'anic story.
+
+> In Multání or Derawál the Milky Way is called Berá dá Ghas, The Path of (Noah's) Boat.
+> <br>— A. Jukes, 'Name for the Milky Way', Panjab Notes and Queries, vol. II (Aug. 1885), note 1027, p. 194 ([source](https://archive.org/details/pnq_v2))
+
+<sub>confidence likely because the literal analysis of ghās here is the compiler's; the contributor gives only the free translation. Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 26, repeats it as Panjabi: 'to the Panjabi it is known as Bera da ghas or the path of Noah's Ark'.</sub>
+
+**ig-yádowa-** — Andamanese (South Andaman (Aka-Bea and neighbouring tribes)) · *tribal* · confidence: likely
+
+Poetically described as the road used by the mòrowin-, the spirits Man renders 'angels'.
+
+> Their astronomical observations have, however, extended to the discovery of the milky way, which they call ig-yádowa-, and poetically describe as the road used by the angels (mòrowin-).
+> <br>— Man, On the Aboriginal Inhabitants of the Andaman Islands (1883), § 8, p. 118 ([source](https://archive.org/download/b24764413/b24764413_djvu.txt))
+
+<sub>The two Internet Archive scans of Man's paper print the name as 'ig-ydiowa-' and 'ig-gdlovrt-'; ig-yádowa- is the best reconstruction from them and the reading is unresolved pending a clean copy. The gloss 'road of the spirits' is secure and matches the road-reading of the galaxy found right across the Munda, Kurukh and Gond areas.</sub>
+
+**Sagur, Sagarpath, Dhor Sari, Murana Sagur, Pandhan, Hari, Sadak, Marg, Rasta** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Understood as the great path of animal migration.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Several of these words are Marathi or Hindi for 'road' (rasta, sadak, marg), which the authors note; Dhor Sari and Murana Sagur carry the animal-path sense. Same reading as Mundari gaiko hora and Kurukh gāy-chour bīnkō.</sub>
+
+**gāy-chour bīnkō** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+chour is the broad way for the cattle, from the skirts of the village up to the main road.
+
+> chour S. The broad way for the cattle, from the skirts of the village up to the main road. Gāy-chour, the milky way.
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. gāy, p. 256; s.v. chour, p. 166 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+**gaiko hora, gaiko hor, gaikoiḍ, caṭar** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The village cattle-road along which the herd is driven out a little before dawn and led back at night. Siṅgboṅga's cattle are driven along it by Lugu, his cowherd.
+
+> gaiko hor, gaiko hora sbst., the milky way : gaiko horare kub hupuri hupuri ipilko menakoa, in the milky way there are a great number of small stars.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. V, s.v. gaiko hor / gaiko hora, col. 1356; the account at vol. VII s.v. ipil, col. 1923 ([source](https://archive.org/download/in.ernet.dli.2015.14925/2015.14925.Encyclopedia-Mundarica-Vol-v-1932_djvu.txt))
+
+<sub>caṭar is the Sadani word for the village main road, haṭia the Mundari. Kurukh has the same image (gāy-chour bīnkō, the cattle-track) and Gondi likewise (Dhor Sari, the path of the animals) — a shared central-Indian reading of the galaxy that owes nothing to Ākāśagangā.</sub>
+
+**dāk-oal-kalahoiya; oal-kalahoiya** — Nicobarese (Central Nicobars (Nancowry group)) · *tribal* · confidence: certain
+
+> dāk-oal-kalahoiya, Milky way (lit. river in the sky).
+> <br>— Man, A Dictionary of the Central Nicobarese Language (1889), s.v. kalahoiya, p. 155; s.v. oal-kalahoiya, p. 125 ([source](https://archive.org/download/adictionarycent00mangoog/adictionarycent00mangoog_djvu.txt))
+
+<sub>kalahoiya is 'sky, heaven' in the same entry, which also gives keam-kalahoiya and chang-kalahoiya for the horizon. The Nicobarese are the one seafaring community here, and they alone read the galaxy as water rather than as a road — the same image as Sanskrit Ākāśagangā, arrived at independently.</sub>
+
+**Hat dahar** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+The Milky Way as the road people walk to the weekly hāṭ.
+
+> Hat dahar. Panjar dahar. The Milky-way.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Hat dahar / Panjar dahar, p. 223 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>hāṭ is the periodic village market, dahar the road. A road-of-traffic image, like the Mundari 'cattle road' and the Gondi 'path of the animals', and quite unlike Sanskrit Ākāśagangā, a river.</sub>
+
+**Panjar dahar** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+> Panjar dahar. The Milky-way.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Panjar dahar, p. 473 (also given s.v. Hat dahar, p. 223) ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>Given twice by Campbell, under Hat dahar and under Panjar 'a rib, the part of the body in which the ribs are'. The literal reading 'rib road' follows that headword, but Campbell does not gloss the compound.</sub>
+
+**অজবীথি · ajabīthi** — Bengali (Bengal) · *sanskritic* · confidence: disputed
+
+Marked '(rare)'. This is a semantic shift, not an inheritance: in the Sanskrit sources Ajavīthī is one of the nine vīthīs, a three-nakṣatra segment of the ecliptic belt (see sanskrit_db_id ajavithi), never the galaxy. Both Biswas for Bengali and the Chandrakanta Abhidhana for Assamese gloss it 'Milky Way', so the shift is shared across the eastern lexicographic tradition.
+
+> অজবীথি ajabīthi n. (rare) a chariot for gods; the Milky Way, the Galaxy.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. অজবীথি ajabīthi, p. 12 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%85%E0%A6%9C%E0%A6%AC%E0%A7%80%E0%A6%A5%E0%A6%BF&searchhws=yes&matchtype=exact))
+
+<sub>Flagged disputed because the identification is the lexicographers', and it contradicts the Sanskrit astronomical meaning of the word. The Assamese entry (Chandrakanta p. 10) keeps BOTH readings side by side: it glosses ajabīthi as হাতীপটি / ছায়াপথ 'milky way' and then, in the Assamese definition, correctly describes it as one of the three roads of the sun, moon and planets containing Mūlā, Pūrvāṣāḍhā and Uttarāṣāḍhā.</sub>
+
+**ছায়াপথ · chāyā-patha** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+The ordinary modern Bengali word for the galaxy, and the one used in Bengali popular science.
+
+> ~পথ n. galaxy, the Milky Way.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. ছায়া chāẏā, sub-lemma ~পথ, p. 379 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?page=379))
+
+**হরিতালী, হরিতালিকা · haritālī, haritālikā** — Bengali (Bengal) · *sanskritic* · confidence: likely
+
+Defined by its orientation: 'a white line running north-and-south across the path of the sky'. Praharaj's Odia entries for the same word (pp. 8972-8973) define it the same way and with the same orientation clause, and list it among the Sanskrit names of the Chāyāpatha at p. 4095.
+
+> হ̑রিতালী, হ̑রিতালিকা haritālī, haritālikā [সং] বি, আকাশমার্গে উত্তরদক্ষিণব্যাপী শ্বেত রেখা; ছায়াপথ; আকাশগঙ্গা; দুধপথ the milky-way.
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. হরিতালী, হরিতালিকা haritālī, haritālikā, p. 2133 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=2133))
+
+<sub>A real cross-language link: Bengali and Odia lexicography independently carry Haritālī as a Milky Way word with an orientation clause, and neither cites a Sanskrit source. Both mark it সং./ସଂ. I have found it in no Sanskrit lexicon, so sanskrit_db_id is null and confidence is likely, not certain. Dāsa's ̑ marks are his own vowel-length diacritics, reproduced as DSAL prints them.</sub>
+
+**आकास / آکاس · ākāś-gaṅgā (akkās gaṅgā)** — Hindi (Hindustani generally) · *sanskritic* · confidence: certain
+
+The Sanskrit name carried into Hindi with a vernacular first member (akkās for ākāśa). Recorded here because every other Milky Way name in this file is explicitly glossed against it - it is the reference point the folk names are measured from.
+
+> ākāś-gangā, s.f. The milky way (syn. kahkashāṅ)
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. ākās, p. 64 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=64))
+
+<sub>Compound printed in roman under the headword आकास / آکاس. Links to the Sanskrit database entry akashaganga.</sub>
+
+**ಆಕಾಶಗಂಗೆ · ākāśagaṅge** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಆಕಾಶಗಂಗೆ ākāśa-gaṅge. the celestial Ganges, the milky way (ಬಾಂಗೆಱೆ G.; My.). 2, a cascade (My.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಆಕಾಶಗಂಗೆ ākāśagaṅge, p. 146 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=146))
+
+<sub>The entry is worth having chiefly for its parenthesis: Kittel gives the Kannada equivalent ಬಾಂಗೆಱೆ from the nighaṇṭu he abbreviates G., which is how the vernacular name is reached. Same db id as Sanskrit Ākāśagaṅgā.</sub>
+
+**Akāsagaṅgā** — Konkani (South Kanara / Mangalore) · *sanskritic* · confidence: certain
+
+Maffei marks it Mr. Cn. — Marathi and Canarese — and says it is not used in Konkani
+
+> Mr. Cn., but not used in Konk.
+> <br>— A. F. X. Maffei, An English-Konkani Dictionary (Mangalore: Basel Mission Press, 1883), s.v. Galaxy, p. 202 ([source](https://archive.org/details/anenglishkonkan00bygoog))
+
+<sub>A NEGATIVE attestation, and the reason it is worth an entry: Maffei lists the pan-Indian Sanskrit name Ākāśagaṅgā only to rule it out of Konkani, tagging it as Marathi and Canarese. Konkani, on his evidence, calls the Milky Way a road and not a river — the opposite of the Marathi position. The form of the headword itself is badly OCR'd in the Google scan, which prints it as 'Eikagag&tiga' and the following words as 'bui nol used in Konk.'; the roman spelling of the headword given here is the standard one and not a transcription, and the quote gives the printed reading of Maffei's note. Marathi's Ākāśagaṅgā is db id 'akashaganga'.</sub>
+
+**സുരവാഹിനി · suravāhini** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+> സുരവാഹിനി the milky way AR.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. സുര sura, p. 1060 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=1060))
+
+<sub>Cited from Adhyātma Rāmāyaṇam (Malayalam). Not among the Milky Way synonyms collected in the Sanskrit database, which has Suradīrghikā and Svarnadī but not Suravāhinī — a Kerala-side addition to the Sanskrit synonym list.</sub>
+
+**ആകാശഗംഗ · ākāśagaṅga** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+> ആകാശഗംഗ milky way Bhg 5.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ആകാശം ākāśam, p. 70 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%86%E0%B4%95%E0%B4%BE%E0%B4%B6%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Cited from the Malayalam Bhāgavata. Gundert repeats it s.v. ഗം gam, p. 328: 'Also ആകാശ ഗംഗ the milky way.'</sub>
+
+**मंदाकिनी · mandākinī** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> मंदाकिनी mandākinī f S मंदाकिनीओघ m (Poetry) The current or stream of the celestial Ganges. The Galaxy or milky way. Ex. नीळ गगनावरी सुंदर मंदाकिनीवोघ दिसे शुभ्र.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. मंदाकिनी, p. 629 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BE%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A5%80&searchhws=yes&matchtype=exact))
+
+<sub>Molesworth's example line — 'on the blue sky the beautiful stream of the Mandākinī shows white' — is from Marathi poetry, marking this as the literary register.</sub>
+
+**आकाशगंगा · ākāśagaṅgā** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> आकाशगंगा ākāśagaṅgā f (S) आकाशनदी f (S) The Ganges or river of the sky, the galaxy or milky way.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. आकाशगंगा, p. 61 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%97%E0%A4%82%E0%A4%97%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>Every Milky Way name in Molesworth is a Sanskrit river-of-heaven compound — आकाशगंगा, आकाशनदी, देवनदी, मंदाकिनी, वियद्गंगा, सुरनदी, स्वर्गंगा, स्वर्नदी — and all are marked S. Not one folk name (no road, no path, no scattered grain) appears in any of the four Marathi dictionaries. This is a clean negative result.</sub>
+
+**ହରିତାଳୀ (ହରିତାଳିକା) · Haritāḻī (Haritāḻikā)** — Odia (Odisha) · *sanskritic* · confidence: likely
+
+Notable for its orientation clause, which none of the other Milky Way words in this file carry: the galaxy AS IT RUNS FROM SOUTH TO NORTH ACROSS THE SKY. Praharaj lists Haritāḻī among the Sanskrit names of the Chāyāpatha at p. 4095.
+
+> The milky way in the sky extending north to south. 3। ଭାଦ୍ର ଶୁକ୍ଳ ଚତୁର୍ଥୀ (ମତାନ୍ତରରେ ଶୁକ୍ଳତୃତୀୟା)—3. The 4th day of the bright fortnight of Bhādra (or, according to some, the 3rd day.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ହରିତାଳୀ Haritāḻī, p. 8973 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%B9%E0%AC%B0%E0%AC%BF%E0%AC%A4%E0%AC%BE%E0%AC%B3%E0%AD%80&searchhws=yes&matchtype=exact))
+
+<sub>Praharaj's three entries disagree with each other on direction: ହରିତାଳିକା p. 8972 and ହରିତାଲିକା p. 8973 both say 'extending from the south to the north', ହରିତାଳୀ p. 8973 says 'north to south'. Same thing, said twice, carelessly. I have not found the word as a Milky Way name in any Sanskrit lexicon, so the 'ସଂ. ନାମ' label at p. 4095 should be treated with reserve — hence sanskrit_db_id null.</sub>
+
+**நாகவீதி · nāka-vīti** — Tamil (Jaffna, Sri Lanka) · *sanskritic* · confidence: disputed
+
+A SEMANTIC DIVERGENCE worth recording. The word is Sanskrit Nāgavīthī, but in Tamil lexicography it denotes the Milky Way, whereas in the Sanskrit tradition Nāgavīthī is one of the nine star-roads (vīthī) of the ecliptic belt, not the galaxy at all.
+
+> நாகவீதி nāka-vīti , n. < nāka + vīthī. Milky Way; பால்வீதிமண்டலம். (யாழ். அக.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. நாகவீதி, vol. IV p. 2200, citing the Yāḻppāṇa Akarāti ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AF%80%E0%AE%A4%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>Marked disputed because the Tamil gloss contradicts the Sanskrit database entry 'nagavithi' (the Serpent-road, northernmost of the nine star-roads, a segment of the ecliptic belt). Either the Yāḻppāṇa Akarāti has confused vīthī 'road' with the pāl-vīti 'milk-street' of the galaxy, or a genuine Tamil re-application has occurred. The Lexicon's நட்சத்திரவீதி naṭcattira-vīti (p. 2135) shows the same slide, glossing it both '1. Moon's path in the zodiac' and '2. The Milky Way'. A caution for anyone joining the two databases on this id.</sub>
+
+**ஆகாசகங்கை · ākāca-kaṅkai** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+Sanskrit Ākāśagaṅgā in Tamil phonology; the whole Ganges-in-the-sky family enters Tamil intact.
+
+> *ஆகாசகங்கை ākāca-kaṅkai , n. < id. +. 1. The celestial Ganges; மந்தாகினி. 2. The Milky Way; பால்வீதிமண்டலம்.
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. ஆகாசகங்கை, vol. I p. 205 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%86%E0%AE%95%E0%AE%BE%E0%AE%9A%E0%AE%95%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88&searchhws=yes&matchtype=exact))
+
+<sub>Its Tamil companions in the same family are மந்தாகினி mantākiṉi (p. 3066, = Skt. Mandākinī, Sanskrit-database id mandakini), விண்டுநதி viṇṭu-nati 'Viṣṇu's river' (p. 3664, from the Yāḻppāṇa Akarāti), அமராபகை amarāpakai (Supplement p. S051, quoted from the Cintāmaṇi commentary) and சித்தகங்கை citta-kaṅkai 'the Siddhas' Ganges' (Supplement p. S274).</sub>
+
+**నక్షత్రవీధి · nakṣatra-vīdhi** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: likely
+
+> నక్షత్రవీధి nakshatra-vīdhi. n. The Milky Way.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. నక్షత్రము nakshatramu, p. 628 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=628))
+
+<sub>Brown gives only this Sanskrit compound for the Milky Way; his ఆకాశగంగ (p. 107) he glosses merely 'the river of heaven'. The vernacular Telugu names for the galaxy (pāla-punta etc.) are recorded only in the twentieth-century dictionaries — see the Gwynn entry.</sub>
+
+## Ursa Major (the Big Dipper)
+
+**Modern:** circumpolar figure — glossed 'the Big Bear' but described as a lizard-shaped chain ending at Polaris · Ursa Minor / Draco / Ursa Major  
+**Sanskrit database:** `saptarshi` — Saptarṣayaḥ / Ṛkṣāḥ (the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid)) ([entry](../star-names/star-names.json))  
+**Named in 19 languages:** Assamese, Bengali, Chhattisgarhi, Gondi, Hindi, Kannada, Kurukh, Malayalam, Marathi, Mundari, Odia, Punjabi, Santali, Sinhala, Tamil, Telugu, Toda, Tulu, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Assamese | গোধিকা | *godhikā* | 'the iguana / monitor lizard' (Assamese গুঁই guñi) | vernacular |
+| Hindi | रीछ / ريچهـ | *baṛā rīchh / chhoṭā rīchh* | 'the big bear' / 'the little bear' | vernacular |
+| Odia | ସାତଭାଇୟା | *Sātabhāiyā* | 'the seven brothers' | vernacular |
+| Punjabi | — | *haftwarang* | 'the seven ...' (Persian, from Avestan haptōiringa) | vernacular |
+| Tamil | செம்மீன் | *cem-mīṉ* | red star | vernacular |
+| Tamil | சிறுமீன் | *ciṟu-mīṉ* | small star | vernacular |
+| Tamil | சுடர்ச்சக்கரம் | *cuṭar-c-cakkaram* | wheel of light | vernacular |
+| Tamil | எழுமீன் | *eḻu-mīṉ* | seven-star, the seven stars | vernacular |
+| Tamil | உத்தரமீன் | *uttara-mīṉ* | northern star (Skt. uttara 'north' + Tamil mīṉ) | vernacular |
+| Tamil | வடமீன் | *vaṭa-mīṉ* | northern star | vernacular |
+| Tulu | ಹೊರಸಿನ್ಟ ನಕ್ಷತ್ರೊಳಿ ಕೂಟ | *horasinṭa nakṣatroḷi kūṭa* | 'the star-cluster of the cot' — ಹೊರಸು horasu 'a cot, a couch' (Kittel, Kannada-English Dictionary, p. 1771) + genitive + ನಕ್ಷತ್ರ nakṣatra 'star' + ಕೂಟ kūṭa 'assembly, cluster' | vernacular |
+| Urdu | بنات | *banātu'n-naʻsh* | 'the daughters of the bier' | vernacular |
+| Urdu | گردانك | *gardānak* | diminutive of gardān 'turner, that which turns' | vernacular |
+| Urdu | سہا | *suhā* | 'the forgotten one' (from Arabic sahw 'to be forgetful, to be overlooked') | vernacular |
+| Chhattisgarhi | — | *[no vernacular form printed] 'a cot with three thieves tied to it'* | — | folk |
+| Hindi | झुमका / جهمکا | *jhumkā (sāt sahelyoṅ kā jhūmkā)* | 'the bell-shaped ear-drop'; in full 'the ear-drop of the seven girl-friends' | folk |
+| Marathi | — | *Khatale and Bagale* | cot and bedstead | folk |
+| Marathi | खाटलें | *khāṭalēṃ* | a small bedstead, a cot | folk |
+| Marathi | खाटलें | *khāṭalēṃ* | a small bedstead, a cot | folk |
+| Marathi | खाटलें बाजलें | *khāṭalēṃ bājalēṃ* | cot-and-bedstead | folk |
+| Odia | ବାଜ୍ଖଟ୍ | *Bāj-khaṭ* | 'the bier' — the bamboo bedstead on which a corpse is carried to the burning-ground | folk |
+| Punjabi | — | *palang-pāwe* | 'the legs of the bedstead' | folk |
+| Punjabi | — | *traṅgar (traṅgaṛ)* | 'a wide-meshed net for carrying straw or fodder on pack animals' | folk |
+| Tamil | பெரியகரடி | *periya-karaṭi* | big bear | folk |
+| Urdu | پلنگ تين چور | *palang tīn ćor* | 'the bedstead and three thieves' | folk |
+| Gondi | — | *Kalher, Kalir, Kalhad; Muvir Kaler* | thieves; three thieves | tribal |
+| Gondi | — | *Katul; Sedona Katul* | a cot; the old woman's cot | tribal |
+| Kurukh | — | *khaṭī-pāwā bīnkō (the three outside stars: ḍhālbar)* | the cot-feet constellation; thieves | tribal |
+| Mundari | — | *topoḍ-akan parkom ipilko (printed 'topagara parkom ipilko')* | the bier stars | tribal |
+| Santali | — | *Buḍhi parkom ipil* | the old woman's cot star | tribal |
+| Toda | — | *Katikālmin* | — | tribal |
+| Assamese | অৰুন্ধতী | *arundhatī* | the wife of the sage Vasiṣṭha | sanskritic |
+| Bengali | সপ্তর্ষি (সপ্তর্ষিমণ্ডল) | *saptarṣi (saptarṣi-maṇḍala)* | 'the seven sages' | sanskritic |
+| Bengali | ঋক্ষমণ্ডল | *ṛkṣa-maṇḍala* | 'the bear-circle' | sanskritic |
+| Hindi | सप्त / سپت | *sapt-r̤ishi (sapt-rikh)* | 'the seven sages' | sanskritic |
+| Kannada | ಅರುನ್ಧತಿ | *arundhati* | — | sanskritic |
+| Kannada | ಚಿತ್ರಶಿಖಣ್ಡಿ | *citraśikhaṇḍi* | having bright crests | sanskritic |
+| Kannada | ಸಪ್ತರ್ಷಿ | *saptarṣi* | the seven sages | sanskritic |
+| Malayalam | സപ്തര്‍ഷികള്‍ | *saptarṣikaḷ* | 'the seven sages' | sanskritic |
+| Marathi | — | *Arundhati* | — | sanskritic |
+| Marathi | अरुंधती | *arundhatī* | — | sanskritic |
+| Marathi | सप्तऋषि | *saptaṛṣi* | the seven sages | sanskritic |
+| Marathi | — | *the seven seers* | — | sanskritic |
+| Odia | ଅକ୍ଷମାଳା | *Akshamāḻā* | 'the rosary, the string of beads' | sanskritic |
+| Odia | ଧ୍ରୁବ ଦର୍ଶକ | *Dhruba darṡaka* | 'the Dhruva-shower', that which points out the pole star | sanskritic |
+| Sinhala | අරුන්දති | *arundati* | — | sanskritic |
+| Sinhala | ඍෂියා | *r̥ṣiyā* | 'sage, ṛṣi' | sanskritic |
+| Tamil | சாலினி | *cāliṉi* | — | sanskritic |
+| Telugu | అరుంధతి | *arundhati* | — | sanskritic |
+| Telugu | చిత్రశిఖండి | *citra-śikhaṇḍi* | the bright-crested ones | sanskritic |
+| Telugu | సప్తర్షులు | *saptarṣulu* | the seven sages | sanskritic |
+
+**গোধিকা · godhikā** — Assamese (Assam) · *vernacular* · confidence: disputed
+
+A genuine Assamese sky-figure, and an old one: the dictionary supports it with a line from the Kīrttana (the Kīrttana-ghoṣā of Śaṅkaradeva, 16th c.) — 'গোধিকাৰ পুছ ভাগে দেখিয় অদ্যাপি', 'even today it is seen at the tail-end of the Godhikā'.
+
+> গোধিকা godhikā [সং.] বি. গুঁই; the iguana. 2। আকাশৰ উত্তৰ ফালে গুঁইৰ আকৱতিৰ নিচিনা হৈ শাৰী পাতি থকা কেতেবোৰ তৰা [তাৰ নেজৰ মূৰত ধ্ৰুব তৰা আছে।]; যেনে-"গোধিকাৰ পুছ ভাগে দেখিয় অদ্যাপি" (কীৰ্ত্তন); a number of stars in the north forming the figure of an iguana at the tail of which is situated the pole star; the "Big Bear" constellation.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. গোধিকা godhikā, p. 308 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%97%E0%A7%8B%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+<sub>The identification is internally inconsistent and I have graded it accordingly. The Assamese description — a row of stars in the north shaped like a monitor lizard, WITH DHRUVA AT THE TIP OF ITS TAIL — is the Purāṇic Śiśumāra, the circumpolar porpoise/reptile figure whose tail-tip is the pole star (Ursa Minor with Draco), not Ursa Major, whose stars are nowhere near the pole. The dictionary's own English gloss nevertheless says 'the Big Bear constellation'. I record the Assamese as printed and reject the English equation. Linked to shishumara on that reasoning; 'আকৱতিৰ' is DSAL OCR for আকৃতিৰ.</sub>
+
+**रीछ / ريچهـ · baṛā rīchh / chhoṭā rīchh** — Hindi (Hindustani generally) · *vernacular* · confidence: certain
+
+A calque, almost certainly of Arabic ad-dubb al-akbar / al-aṣghar rather than of English, since Fallon himself glosses sapt-rishī with 'A. dub-i-asgar'. The word rīchh is the inherited Indo-Aryan reflex of Sanskrit ṛkṣa, which in Sanskrit already meant both 'bear' and 'star' - so the calque lands on a word that was etymologically waiting for it.
+
+> H ريچهـ रीछ rīchh; E. bhālū , n. m. S. ऋक्ष Pr. richchho. A bear. Baṛā rīchh; Sant. buṛhī parkom, Ursa major. Chhoṭā rīchh. Ursa minor.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. rīchh, p. 722 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=722))
+
+<sub>Fallon repeats the equation at p. 703, s.v. rish'ī: 'sapt-rishī; H. baṛā rīchh; A. dub-i-asgar. lit. the seven saints. (Ast.) Ursamajor; Charles's Wain.' R. C. Temple reprints Fallon's data in Panjab Notes and Queries, vol. II, note 83, p. 13. Fallon's 'Sant. buṛhī parkom' is a Santali (Munda, not Indo-Aryan) form and is not claimed here.</sub>
+
+**ସାତଭାଇୟା · Sātabhāiyā** — Odia (Odisha) · *vernacular* · confidence: certain
+
+Given as THE Odia or native name of the group in Praharaj's systematic note, against Hindi ଖଟୋଲା khaṭolā (a cot). The seven ṛṣis have become seven brothers.
+
+> ଆକାର ଓ ତାରକା ସଂଖ୍ୟା—ଏ ତାରା 7ଟିକୁ ଯୋଗ କଲେ ଗୋଟିଏ ବେଣ୍ଟଲଗା କରଚୂଲି ପରି ହେବ। ଓଡ଼ିଆ ବା ଦେଶୀୟ ନାମ—ଓଡ଼ିଆ ସାତଭାଇୟା, ହିନ୍ଦି, ଖଟୋଲା। ପାଶ୍ଚାତ୍ୟ ନାମ—The Great Bear; the plough; charle's wain; the waggon; the Butcher's cleaver;
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note item 29 ସପ୍ତର୍ଷିମଣ୍ଡଳ, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>The shape metaphor in the same sentence is Odia too: joining the seven gives 'a karacūli with a handle', a long-handled ladle or scoop — independently the same idea as the English Dipper.</sub>
+
+**haftwarang** — Punjabi (Punjab) · *vernacular* · confidence: likely
+
+The Iranian name of the Bear, reported in the Panjab beside the Arabic ones; Dames follows Max Müller in equating it etymologically with Sanskrit saptarṣi.
+
+> Persian. Haftwarang, from the Zend Haftoiring, which is equivalent, according to Max Müller, to the Sanskrit Saptarshi.
+> <br>— M. Longworth Dames, 'Names for the Great Bear', Panjab Notes and Queries, vol. II (Feb. 1885), note 522, p. 84 ([source](https://archive.org/details/pnq_v2))
+
+<sub>Reported as Persian in Panjab use rather than as a Punjabi word; register is vernacular in the sense used here (Perso-Arabic astronomical vocabulary current in the region). Roman only in the source.</sub>
+
+**செம்மீன் · cem-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: disputed
+
+One Tamil name with three competing referents in the Caṅkam corpus itself. In Patiṟṟuppattu 31 it is a chaste woman's exemplar 'foremost among the women who move in the sky', i.e. Arundhatī among the ṛṣis' wives; in Puṟanāṉūṟu 60 it is a red star twinkling in the high sky.
+
+> விசும்புவழங்கு மகளிர் உள்ளும் சிறந்த செம்மீன் அனையள்நின் தொல்நகர்ச் செல்வி
+> <br>— Patiṟṟuppattu 31, ll. 26-28 (Fourth Ten, by Kāppiyāṟṟuk Kāppiyaṉār); Project Madurai e-text PM 0038 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0038.html))
+
+<sub>IDENTIFICATION GENUINELY DISPUTED, and the Tamil Lexicon itself records all three readings under one headword (s.v. செம்மீன், vol. III p. 1598, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AF%86%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact): '1. The star Arundhati … (பதிற்றுப். 31, 28). 2. Mars; செவ்வாய். செம்மீ னிமைக்கு மாக விசும்பின் (புறநா. 60, 2). 3. The 6th nakṣatra. See திருவாதிரை. (புறநா. 60, 2, உரை.)' — i.e. the Puṟanāṉūṟu line is read as Mars by the Lexicon and as Ārdrā (Betelgeuse) by the old commentary on the same line. The Puṟanāṉūṟu 60 context, verified at PM 0057, is 'முந்நீர் நாப்பண் திமில்சுடர் போலச், / செம்மீன் இமைக்கும் மாக விசும்பின்' — 'in the high sky where the red star twinkles like a fishing-boat's lamp in mid-ocean'. All three candidates (Mars, Betelgeuse, Antares by colour) are red; Arundhatī is not, which is why sense 1 is best explained as the fixed epithet transferred. HOMONYM: sense 4 of the same headword is a sperm whale. sanskrit_db_id given as arundhati for the Patiṟṟuppattu sense; for the Puṟanāṉūṟu sense the candidates are the planet Mars (no Sanskrit-database entry) or 'ardra'.</sub>
+
+**சிறுமீன் · ciṟu-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: likely
+
+The strongest Caṅkam identification of Arundhatī, because the poet gives the star's position as well as its name: 'the small star that shines in the northern quarter of the great good sky'.
+
+> பெருநல் வானத்து வடவயின் விளங்குஞ் சிறுமீன் புரையுங் கற்பி னறுநுதல்
+> <br>— Perumpāṇāṟṟuppaṭai ll. 302-303 (by Kaṭiyalūr Uruttiraṅkaṇṇaṉār); Project Madurai e-text PM 0069 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0069.html))
+
+<sub>The Tamil Lexicon (s.v. சிறுமீன், vol. III p. 1463) gives '1. The star Arundhati; அருந்ததி' and cites this line as பெரும்பாண். 303. HOMONYM: sense 2 of the same headword is 'Loach', a fish — சிறுமீன் is equally 'small fish'; here the preceding line 'in the northern quarter of the great sky' excludes it. Confidence 'likely' rather than 'certain' because 'the small star in the north' is a description that fits Alcor best but is not a proper name pinning it.</sub>
+
+**சுடர்ச்சக்கரம் · cuṭar-c-cakkaram** — Tamil (Tamil Nadu) · *vernacular* · confidence: likely
+
+A Tamil formation for the Great Bear conceived as the turning polar wheel; the commentary passage quoted makes it the reference circle against which the planets' positions are described.
+
+> சுடர்ச்சக்கரம் cuṭar-c-cakkaram , n. < id. +. The Great Bear, polar circle; துருவசக்கரம். சுடர்ச்சக்கரத்தைப் பொருந்திவரும் ஆதித்தன் முதலாக வருங் கோட்களது நிலைமையை (பரிபா. 19, 46, உரை).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. சுடர்ச்சக்கரம், vol. III p. 1502; quoting the commentary on Paripāṭal 19, 46 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AF%81%E0%AE%9F%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Lexicon equates it with துருவசக்கரம் turuva-cakkaram (p. 1984), 'The wheel of Dhruva, turning the heavens and causing the diurnal motions', whose sense 2 is likewise 'Ursa major'. The name therefore hovers between the Bear itself and the whole polar circle it turns on; confidence 'likely' for the identification with Ursa Major specifically.</sub>
+
+**எழுமீன் · eḻu-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The indigenous Tamil name of the Great Bear, from ஏழு ēḻu 'seven'. The Naṟṟiṇai simile — white sea-crows settling on the dark sea like the Seven Stars in a clear sky, 'in the manner of hands folded in worship' — shows the asterism was both named and venerated in Caṅkam Tamil.
+
+> மை அற விளங்கிய மணி நிற விசும்பில் கைதொழும் மரபின் எழு மீன் போல
+> <br>— Naṟṟiṇai 231, ll. 1-2 (Neytal, by Iḷanākaṉār); Project Madurai e-text PM 0296 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0296.html))
+
+<sub>The Tamil Lexicon (s.v. எழுமீன், vol. I p. 544, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'The seven principal stars of Ursa Major, Charles's Wain; சப்தரிஷிமண்டலம்' and cites this exact line as நற். 231. The Sanskritic equivalent in Tamil is சத்தரிஷிமண்டலம் catta-riṣi-maṇṭalam (p. 1249), 'Ursa major or the Great Bear, the seven chief stars of which are personified as saptaṛṣi', and ஸப்தர்ஷிமண்டலம் (p. 3905).</sub>
+
+**உத்தரமீன் · uttara-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A hybrid of the same idea as vaṭa-mīṉ, with the Sanskrit word for north. The Lexicon's definition is unusually precise about which star is meant.
+
+> *உத்தரமீன் uttara-mīṉ , n. < id. +. The star Arundhati in Ursa Major, the smaller of the two in Mizar, the central star in the tail; அருந்ததி நக்ஷத்திரம். உத்தரமீனின் கொண்கன் (சேதுபு. துத்தம. 6).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. உத்தரமீன், vol. I p. 408; quoting Cētupurāṇam, Tuttamai 6 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%89%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>'The smaller of the two in Mizar, the central star in the tail' is an unambiguous description of Alcor beside Mizar, ζ Ursae Majoris. This is the one Tamil entry that fixes Arundhatī on the sky beyond doubt, and it retro-justifies the identification of vaṭamīṉ and ciṟumīṉ. Beside it the Lexicon has குலமீன் kula-mīṉ 'clan-star' = Arundhatī (p. 1023, quoting Kallāṭam 73, 1).</sub>
+
+**வடமீன் · vaṭa-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: disputed
+
+The standard Caṅkam figure for a wife's chastity — 'the lady of gentle words whose chastity is like the northern star'. The comparison is to a star that never leaves its place.
+
+> வடமீன் புரையுங் கற்பின், மடமொழி,
+> <br>— Puṟanāṉūṟu 122, l. 8 (by Kapilar, on Malaiyamāṉ Tirumuṭikkāri); Project Madurai e-text PM 0057 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html))
+
+<sub>IDENTIFICATION DISPUTED. The Tamil Lexicon (s.v. வடமீன், vol. VI p. 3474, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%9F%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) reads it as Arundhatī — its sense 1 refers to அருந்ததி sense 2, 'the scarcely visible star Alcor of the great Bear', and sense 2 to Arundhatī the wife of Vasiṣṭha — and cites this line. Winslow agrees: 'வடமீன், s. A small star in Ursa Major, as அருந்ததி' (1862, p. 912). But the name means simply 'northern star', and the chastity-simile would work as well for the pole star; readers who take வடமீன் as Dhruva are not obviously wrong, and the Lexicon itself glosses அருந்ததி only as 'the scarcely visible star Alcor'. Kalittokai 2 has the same formula independently — 'வடமீன் போல் தொழுது ஏத்த வயங்கிய கற்பினாள்' (PM 0221) — and there the star is worshipped, which again fits either. Marked disputed for that reason.</sub>
+
+**ಹೊರಸಿನ್ಟ ನಕ್ಷತ್ರೊಳಿ ಕೂಟ · horasinṭa nakṣatroḷi kūṭa** — Tulu (South Canara (Tulu Nadu)) · *vernacular* · confidence: likely
+
+> Ursa, ಕರೊಡಿ; —major ಹೊರಸಿನ್ಟ ನಕ್ಷತ್ರೊಳಿ ಕೂಟ, ಸಪ್ತರ್ಷಿಗಳು.
+> <br>— Männer, English–Tuḷu Dictionary (Basel Mission Press, 1888), s.v. Ursa, p. 617 ([source](https://archive.org/download/tuluenglishengli02mnuoft/page/n624_w2400.jpg))
+
+<sub>The one indigenous constellation IMAGE recovered for either Tulu or Kodava: the Big Dipper seen as a cot or bedstead, not as a bear and not as seven sages. Männer's first gloss ಕರೊಡಿ karoḍi is simply the animal 'bear', and his alternative ಸಪ್ತರ್ಷಿಗಳು saptarṣigaḷu is the Sanskrit 'Seven Ṛṣis'. TRANSLITERATION CAVEAT: the conjunct in ಹೊರಸಿನ್_ is not fully legible even at 2400px — the subscript could be ṭa or sa — so the genitive is given as -nṭa on morphological grounds and the reading should be checked against the printed book. Note also that horasu is not a headword in Männer's Tulu→English direction, so the word is printed here but nowhere defined by him.</sub>
+
+**بنات · banātu'n-naʻsh** — Urdu (Urdu, from Arabic; reported as the usual name among educated Muslims in the Panjab) · *vernacular* · confidence: certain
+
+The classical Arabic reading: four stars form the naʻsh, a bier, and the three ahead of it are the mourning daughters. Structurally identical to palang tīn ćor - four stars of furniture, three figures at them - which is why the two coexist so easily.
+
+> banātuʼn-naʻsh, s.m. The constellation of the Greater or Lesser Bear (consisting of seven stars, four of which are conceived to bear the resemblance of a naʻsh or bier, and the remaining three to be the banāt or daughters preceding it).
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. banāt, p. 168 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=168))
+
+<sub>name_native gives only the headword بنات as Platts prints it; the compound itself he gives in roman. M. Longworth Dames, Panjab Notes and Queries, vol. II (Feb. 1885), note 522, p. 84: 'Educated Musalmans in the Panjáb generally use the name Bindtu'n-na'sh and not Dubb-i-Akbar' [OCR: Bināt-]. He adds that on his informant's usage dubb-i-akbar means the four stars and dubb-i-aṣghar the three, not the Little Bear.</sub>
+
+**گردانك · gardānak** — Urdu (Urdu, from Persian) · *vernacular* · confidence: certain
+
+Named for their function: the two stars that swing round the pole and point to it.
+
+> P گردانك gardānak (gardān+dim. aff. ak = S. क), s.f. The pointers (two stars in the Great Bear).
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. gardānak, p. 903 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=903))
+
+<sub>Also Shakespear (1834), p. 1441, in the same words. Identification as Dubhe and Merak is the standard sense of 'the Pointers' and is not stated by Platts.</sub>
+
+**سہا · suhā** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+The Arabic naked-eye test star, the faint companion of Mizar, taken into Urdu with its etymology intact - it is 'the one you overlook'. This is the exact functional counterpart of Sanskrit Arundhatī, likewise the tiny companion pointed out as a test.
+
+> A سہا suhā (v.n. fr. سہو 'to be forgetful,' &c.), s.m. A small dim star in the tail of Ursa Major.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. suhā, p. 704 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=704))
+
+<sub>Fallon, p. 799, s.v. su'hā, has the same: '(Ast.) The small star in the tail of the Great Bear.' The Sanskrit-side link is arundhati (Alcor).</sub>
+
+**[no vernacular form printed] 'a cot with three thieves tied to it'** — Chhattisgarhi (Chhattisgarh (Dhuri caste, rice-parchers)) · *folk* · confidence: certain
+
+The thieves came to steal the cot, which belonged to an old woman, but God caught them and tied them down there for ever.
+
+> They think that the constellation of the Great Bear is a cot with three thieves tied to it. The thieves came to steal the cot, which belonged to an old woman, but God caught them and tied them down there for ever
+> <br>— Russell & Hiralal, The Tribes and Castes of the Central Provinces of India (1916), vol. II, article 'Dhuri', p. 529 ([source](https://archive.org/download/in.ernet.dli.2015.175422/2015.175422.The-Tribes-And-Castes-Of-The-Central-Provinces-Of-India-Vol-ii_djvu.txt))
+
+<sub>Register folk, not tribal: the Dhuri are a Chhattisgarhi caste of rice-parchers, not an Adivasi community, and Russell prints no vernacular words — hence the bracketed name_roman. Included because it is the earliest printed attestation of the cot and three thieves, 1916, decades before the Gond fieldwork and independent of Grignard and Campbell, and because it shows the figure circulating outside the tribal communities too.</sub>
+
+**झुमका / جهمکا · jhumkā (sāt sahelyoṅ kā jhūmkā)** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+jhumkā is the pendant cluster of an ear-ring; applied to the sky it names both the Bear and the Pleiades, which is a genuine ambiguity in the sources and not a slip - Platts gives both senses in one entry. The full phrase sāt sahelyoṅ kā jhūmkā ('the seven girl-friends') fixes it on the Bear.
+
+> H جهمکا झुमका jhum'kā, jhūmkā , n. m. 1. A cluster; a bunch of flowers or fruit. 2. The bell-shaped pendant of an earring. 3. (sāt sahelyoṅ kā jhūmkā) Charles's wain; Ursa major. 4. A flower; Gloriosa superba.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. jhum'kā, p. 499 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=499))
+
+<sub>Independently confirmed for Urdu from the Panjab: L. Whyte King's list gives 'Urdu; jhamakkā, a cluster' for the Great and Lesser Bear, with the editor R. C. Temple adding '[This last is more commonly sāt sahelion ké jhamkā, the cluster of seven maidens.]' - Panjab Notes and Queries, vol. II (Feb. 1885), note 521, p. 84. Platts, p. 407, lists the same word for 'Charles's Wain, Ursa Major; the Pleiades'.</sub>
+
+**Khatale and Bagale** — Marathi (Bombay Presidency (Deccan and Konkan)) · *folk* · confidence: certain
+
+the four bowl-stars are a cot with a man asleep on it; the three handle-stars are thieves
+
+> The seven stars of the Great Bear are sometimes known as Khatale and Bagale. Four are thought to be a cot with a man asleep thereon, and the other three are thieves.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 64 ([source](https://archive.org/details/folkloreofbombay00reen/page/n66))
+
+<sub>The fullest telling of the cot-figure I found anywhere: not just a bed, but an occupied bed with three thieves creeping up on it. These are the same two words Molesworth records as खाटलें and बाजलें (1857, p. 202), but Enthoven prints them in roman only, in italic and WITHOUT diacritics — no Devanagari appears anywhere in the book — so name_native is left null here rather than back-supplied from Molesworth. Enthoven gives no community and no district for this name; the book is compiled from questionnaire returns and attributions in its sky chapter are regional at best.</sub>
+
+**खाटलें · khāṭalēṃ** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+> खाटलें khāṭalēm n (Dim. of खाट) A small bedstead or cot. 2 Charles's wain, the Bear. खाटल्यावर जाणें To commit incest (esp. with the mother).
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. खाटलें, p. 202 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%96%E0%A4%BE%E0%A4%9F%E0%A4%B2%E0%A5%87%E0%A4%82&searchhws=yes&matchtype=exact))
+
+<sub>The cot-figure: the Dipper's bowl is the frame of a string bed and the handle its legs or its trailing cords. This is the classic Indian vernacular alternative to the Seven Sages, and Marathi has it plainly. Contrast the bier-figure reported for other Indian languages: Molesworth's entries for 'bier' (ओकटें, ओखटें, किरडी) contain no astronomical sense at all.</sub>
+
+**खाटलें · khāṭalēṃ** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+> खाटलें khāṭalēm — न. १ लहान बाज; खाट. २ (कुण.) सप्तऋषी (आकाशांतील तारकापुंज, त्यांच्या आकृतीवरून). ३ बैलगाडी. ४ बाडबिछाना. [खाट]
+> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. खाटलें, p. 863 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%96%E0%A4%BE%E0%A4%9F%E0%A4%B2%E0%A5%87%E0%A4%82&searchhws=yes&matchtype=exact))
+
+<sub>Date confirms Molesworth and adds the reason — 'from their shape' — and a third sense, बैलगाडी 'bullock-cart', which is a second vehicle-figure for the same group and the exact counterpart of English Charles's Wain. Date tags both खाटलें and खाटलेंबाजलें '(कुण.)'; I could not verify the expansion of that abbreviation, as DSAL's front matter for the Maharashtra Sabdakosa is an un-OCRed image PDF. It is most plausibly कुणबी, the cultivator dialect, which would make the register agricultural.</sub>
+
+**खाटलें बाजलें · khāṭalēṃ bājalēṃ** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+> खाटलें khāṭalēm, बाजलें bājalēm n A vulgar term for Ursa Major, Charles's wain. 2 A term for the squares or divisions upon (female) garments.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. खाटलें बाजलें, p. 202 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%96%E0%A4%BE%E0%A4%9F%E0%A4%B2%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%B2%E0%A5%87%E0%A4%82&searchhws=yes&matchtype=exact))
+
+<sub>Reduplicated compound of two words for a string bed. Molesworth's 'vulgar' is a register label, not a judgement of obscenity — it marks the word as of the common people as against the learned सप्तऋषि.</sub>
+
+**ବାଜ୍ଖଟ୍ · Bāj-khaṭ** — Odia (Sambalpur (western Odisha)) · *folk* · confidence: certain
+
+Sense 1 of the same headword is the object itself. The Big Dipper as a bier is a real folk figure and reads the asterism the way Hindi khaṭolā and Arabic na'sh do — as a funeral cot, the four bowl stars the frame and the three handle stars the mourners.
+
+> ବାଜ୍ଖଟ୍— Bāj-khaṭ ପ୍ରାଦେ. (ସମ୍ବଲପୁର) ବି— 1। ମୁର୍ଦାର ବୁହା ଖଟିଆ; କୋକେଇ—1. A bamboo bedstead or stretcher for carrying a corpse. 2। ସପ୍ତର୍ଷିମଣ୍ଡଳ (ତାରାପୁଞ୍ଜ)—2. The Great Bear (group of stars).
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ବାଜ୍ଖଟ୍ Bāj-khaṭ, p. 5484 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%AC%E0%AC%BE%E0%AC%9C%E0%AD%8D%E0%AC%96%E0%AC%9F%E0%AD%8D&searchhws=yes&matchtype=exact))
+
+<sub>The bier reading is my gloss on the two senses standing in one entry; Praharaj does not spell out the connection. The parallel with Hindi khaṭolā 'small cot', which Praharaj himself cites for the same group at p. 4095, supports it.</sub>
+
+**palang-pāwe** — Punjabi (Jhang District, western Punjab) · *folk* · confidence: certain
+
+The Punjabi version cuts the asterism in two and names the halves separately - the four bowl stars as the four legs of a charpoy, the three handle stars as a net. Dames notes the identical Balochi usage khaṭ-phāḍhagh, 'the legs of the bedstead'.
+
+> Panjabi: As in Balochi the four stars are called palang-pāwe, the legs of the bedstead. The three stars are called trangar, the net. This is the usage of the Jhang District.
+> <br>— M. Longworth Dames, 'Names for the Great Bear', Panjab Notes and Queries, vol. II (Feb. 1885), note 522, p. 84 ([source](https://archive.org/details/pnq_v2))
+
+<sub>Quoted with the OCR's evident misreadings of long vowels normalised only in the diacritics; wording and word-order are Dames's. Roman only in the source, so name_native is null.</sub>
+
+**traṅgar (traṅgaṛ)** — Punjabi (Multan and Dera Ghazi Khan (Multani/Saraiki); Jhang District) · *folk* · confidence: certain
+
+A working object of the western Punjab plains - the loose net slung over a camel or donkey to carry straw - read into the sky. O'Brien makes it the whole Bear; Dames restricts it to the three handle stars and adds that the same word names the upper part of Orion, so it is a shape-word, not a fixed constellation name.
+
+> TRANGAR, s. m. - 1, a net of large meshes in which straw, grass, leaves, &c., are packed, to be loaded on camels, horses or donkeys; 2, the Great Bear constellation.
+> <br>— E. O'Brien, Glossary of the Multani Language compared with Punjábi and Sindhi (Lahore, 1881), s.v. trangar, p. 62 ([source](https://archive.org/details/glossarymultani00obrgoog))
+
+<sub>Dames, Panjab Notes and Queries, vol. II, note 522, p. 84: 'O'Brien, Multání Glossary, s. v. trangar, gives trangar as the name of the Great Bear, but I believe it refers only to the three stars. The upper part of Orion is also called trangar.' The Orion application is entered separately.</sub>
+
+**பெரியகரடி · periya-karaṭi** — Tamil (Puducherry) · *folk* · confidence: certain
+
+A LATE CALQUE, not indigenous: the European 'Great Bear' translated word for word into Tamil, recorded by the Lexicon's Supplement and marked 'Pond.', i.e. current at Pondicherry. Recorded here precisely so that it is not mistaken for old Tamil sky-lore.
+
+> பெரியகரடி periya-karaṭi , n. < பெரு-மை +. The Great Bear; சப்தரிஷிமண்டலம். Pond.
+> <br>— Tamil Lexicon Supplement (University of Madras, 1939), s.v. பெரியகரடி, p. S372, marked Pond. ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%95%E0%AE%B0%E0%AE%9F%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>Its pair சின்னக்கரடி ciṉṉa-k-karaṭi, 'The constellation Little Bear; ஒரு நக்ஷத்திரத்தொகுதி. Pond.' (Supplement p. S280), confirms the pattern: a bear-pair is a European constellation scheme, and the Tamil tradition otherwise counts these stars as seven ṛṣis or simply as eḻumīṉ 'the seven stars'. The French colonial context of Pondicherry is the obvious channel; the Lexicon does not say so and neither do I.</sub>
+
+**پلنگ تين چور · palang tīn ćor** — Urdu (marked dakh. (Deccani) by Shakespear on Harris's authority; unmarked in Platts and Fallon) · *folk* · confidence: certain
+
+The single best folk name in the whole file: the four-star bowl is a charpoy and the three handle stars are thieves creeping up on it. R. C. Temple (Panjab Notes and Queries II.83) thought the image reached Hindustani from Turki, where the Qazaq name is likewise 'the seven thieves' who try to steal a horse from the Little Bear.
+
+> پلنگ تين چور palang tīn chor (bedstead and three thieves), Charlesʼs wain (dakh. Harris).
+> <br>— John Shakespear, A Dictionary, Hindustani and English, 3rd ed. (London, 1834), s.v. palang, p. 1949 ([source](https://dsal.uchicago.edu/cgi-bin/app/shakespear_query.py?page=1949))
+
+<sub>Shakespear alone prints the phrase in the Urdu script. Platts, p. 268, s.v. palang (पलंग / پلنگ): 'palang tīn ćor, s.m. "The bed and three thieves," Charles's wain' - unmarked, i.e. northern too. Fallon, p. 366, adds the gloss 'S. सप्तऋषि', equating it with the saptarṣi.</sub>
+
+**Kalher, Kalir, Kalhad; Muvir Kaler** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+The three who mean to steal the old woman's cot the moment she sleeps. In one village the three are instead Poyi, a nobleman, his wife Poyatar and his kotwal, moving towards their salvation.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Muvir is 'three'. The variant with the nobleman comes from a single village and is kept because it shows the figure being re-read locally.</sub>
+
+**Katul; Sedona Katul** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+The four bowl stars are a cot whose four legs are of gold, silver, inferior silver and copper, counted anticlockwise. The old woman must never fall asleep, because thieves are waiting to take the cot; and if she sleeps — that is, if the Dipper sets — the world ends. Saptarshi is the reference point from which the Gonds locate everything else in the sky.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The 'she must not sleep' clause encodes circumpolarity, which held at this latitude until roughly 1000 BCE; the authors note this themselves and it should be read as their inference.</sub>
+
+**khaṭī-pāwā bīnkō (the three outside stars: ḍhālbar)** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+The quadrangle is the bed; the three stars outside it are ḍhālbar, thieves, after the bedstead.
+
+> Khaṭī-pāwā binko, lit. the cot-feet constellation, i. e. the Great Bear (or rather, the quadrangle in the Great Bear — the three outside stars being called ḍhālbar, or thieves) of the aforesaid bedstead.
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. khaṭī, p. 415 (thief: s.v. ḍhālbās, p. 403) ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+<sub>The single most widely shared indigenous figure in this compilation: cot plus three thieves, attested independently in Kurukh (Dravidian), Santali (Munda), Gondi (Dravidian) and among the Chhattisgarhi Dhuri. Grignard prints the plural ḍhālbar; his headword is ḍhālbās, 'a thief'.</sub>
+
+**topoḍ-akan parkom ipilko (printed 'topagara parkom ipilko')** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The cot doubles as the bier that carries a corpse to the grave; after the burial one side of the frame is broken and the bed left at the burial ground. The watchman on the threshing floor, waking cold before dawn, sees the broken frame in the north, and in Alioth and Mizar the mourners walking away from the grave.
+
+> The quadrangle with these sad associations is called topagara parkom ipilko, the bier stars.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>The first element is printed topagara/topogara in the two scans and could not be checked against its own alphabetical entry, since Encyclopaedia Mundarica vols. IX, XI and XIV-XVI are not on the Internet Archive; the reading of the first word is therefore unresolved and only 'the bier stars' is secure. Note how far this is from Saptarṣi — the same four stars, an entirely different mood.</sub>
+
+**Buḍhi parkom ipil** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+> Buḍhi parkom ipil. The four chief stars in the body of the "Great Bear."
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Buḍhi parkom ipil, p. 79 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>Campbell's neighbouring entries fix the elements: 'Budhi. An old woman'; parkom is the string cot. The same figure — an old woman's cot with the three handle stars as thieves — is recorded independently for Kurukh (khaṭī-pāwā bīnkō with ḍhālbar), for Gondi (Sedona Katul with Kalher) and for the Chhattisgarhi Dhuri (Russell 1916). Campbell does not name the three trailing stars.</sub>
+
+**Katikālmin** — Toda (Nilgiri hills, Tamil Nadu) · *tribal* · confidence: likely
+
+> A constellation of seven stars is called Katikālmin. From the description it appeared to be the Great Bear. This constellation was not visible, but when I made a drawing of its seven chief stars, it was at once recognised as Katikālmin.
+> <br>— Rivers, The Todas (1906), p. 594 ([source](https://archive.org/download/todas00rivegoog/todas00rivegoog_djvu.txt))
+
+<sub>Rivers' method — he drew the seven stars and had the drawing named — is unusually good practice for 1906 and is why this is graded likely rather than disputed. He gives no meaning for the name. Alone among the traditions here, the Toda Ursa Major is not a cot.</sub>
+
+**অৰুন্ধতী · arundhatī** — Assamese (Assam) · *sanskritic* · confidence: disputed
+
+Recorded here for its error, which is instructive. The Assamese definition is correct — Arundhatī is among the seven stars called the Saptarṣimaṇḍala, and Assamese brides are shown her at the wedding as the type of the faithful wife, and a person within six months of death cannot see her. The English gloss appended to it, 'the morning star; one of the pleiades', is wrong on both counts.
+
+> …কৰ্দ্দম ঋষিৰ কন্যা আৰু বশিষ্ঠৰ ভাৰ্য্যা; [এওঁ সতী-ধৰ্ম্মত থকাৰ কাৰণে স্বামীৰে সৈতে স্বৰ্গৰ 'সপ্তৰ্ষিমণ্ডল বোলা তৰা সাতোটাৰ মাজত আছে বুলি ভবা হয়; হিন্দু ছোবালীক বিয়াৰ সময়ত এই নক্ষত্ৰক মহাসতী বুলি দেখুওবা ৰীতি আছে]; পৰমায়ু শেষ হ'লে অৰুন্ধতী দেখা নেপায় বুলি কয়; wife of the sage Vȧśiṣṭha; the morning star; one of the pleiades.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. অৰুন্ধতী arundhatī, p. 48 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%85%E0%A7%B0%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A7%80&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM/ERROR WARNING. The English 'the morning star; one of the pleiades' contradicts the Assamese text of the same entry and every other source in this file. The Odia parallel is exact and correct: Praharaj (p. 570, and p. 54 s.v. ଅକ୍ଷମାଳା) makes Arundhatī the small star beside the 6th star of the Great Bear, i.e. Alcor, and preserves the Suśruta belief that one who will die within six months cannot see her. The Pleiades confusion has a traceable cause, given in Praharaj p. 4095: the other six ṛṣi-wives, unlike Arundhatī, were driven from their husbands' sides and became the Kṛttikās.</sub>
+
+**সপ্তর্ষি (সপ্তর্ষিমণ্ডল) · saptarṣi (saptarṣi-maṇḍala)** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+Biswas is the source that shows the modern Bengali equation of the group with the English 'Plough' as well as the Great Bear.
+
+> ~র্ষি n. the seven great ancient sages of India; (astr.) the Plough; (astr.) the Great Bear, the Ursa Major (also সপ্তর্ষিমন্ডল).
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. সপ্ত sapta, sub-lemma ~র্ষি, p. 981 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4&searchhws=yes&matchtype=exact))
+
+**ঋক্ষমণ্ডল · ṛkṣa-maṇḍala** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+Bengali keeps the old Vedic ṛkṣa 'bear ~ star' ambiguity live in a single dictionary entry: the headword is glossed 'the bear; a star; a constellation', and the compound is the Great Bear.
+
+> ঋক্ষ r̥kṣa n. (for. the bear; a star; a constellation. ~মণ্ডল n. (astr.) The Saptarshi, the Great Bear. ~রাজ, ঋক্ষেশ n. the moon (when personified).
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. ঋক্ষ r̥kṣa, sub-lemma ~মণ্ডল, p. 176 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%8B%E0%A6%95%E0%A7%8D%E0%A6%B7&searchhws=yes&matchtype=exact))
+
+<sub>'(for.' in the printed text is a truncated bracket in the DSAL transcription; the sense is unaffected.</sub>
+
+**सप्त / سپت · sapt-r̤ishi (sapt-rikh)** — Hindi (Hindustani generally) · *sanskritic* · confidence: certain
+
+The inherited Sanskrit name, retained unchanged; Platts and Fallon both file it as the standard learned equivalent of 'Charles's Wain'. Individual members keep their Sanskrit names in Hindi too: Platts s.v. marīćī (p. 1027) and vaśishṭh (p. 1194) each identify the sage with one of the seven stars.
+
+> The seven great saint-sages of the Hindūs; the seven principal stars in the constellation of Ursa Major (supposed to represent the seven sages), Charles's Wain
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. sapta, p. 634 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=634))
+
+<sub>Recorded to mark the sanskritic layer explicitly; the analytic interest is in the folk names that compete with it.</sub>
+
+**ಅರುನ್ಧತಿ · arundhati** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: likely
+
+> ಅರುನ್ಧತಿ arundhati. -ತೀ N. of the wife of Vasiṣṭha. (Ch. v. 8; Mr. 258; Bp. 4, 30; 11, 40; J. 13, 40). 2, N. of a star (My.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಅರುನ್ಧತಿ arundhati, p. 102 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=102))
+
+<sub>Kittel does not identify the star, so the modern_star here is supplied from the Sanskrit database rather than from him; hence 'likely'. He does not repeat Brown's 'in the Pleiades' error.</sub>
+
+**ಚಿತ್ರಶಿಖಣ್ಡಿ · citraśikhaṇḍi** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಚಿತ್ರಶಿಖಣ್ಡಿ citra-śikhaṇḍi. having bright crests. 2, the saptarṣis or seven great ṛiṣis (Marīci, Atri, etc.) as represented in the seven principal stars of the constellation of ursa major (ಋಷಿಯರ್ Mr. 39); the constellaiion itself.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಚಿತ್ರಶಿಖಣ್ಡಿ citraśikhaṇḍi, p. 646 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=646))
+
+<sub>COGNATE PAIR with Brown's Telugu చిత్రశిఖండి (p. 415), glossed identically. Both languages take the name over unchanged from Sanskrit.</sub>
+
+**ಸಪ್ತರ್ಷಿ · saptarṣi** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಸಪ್ತರ್ಷಿ sapta-ṛiṣi. = ಸಪ್ತಋಷಿ. the seven great ṛiṣis: Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu, and Vasiṣṭha … 2, the constellation Ursa major (the seven stars of which are supposed to be the seven great ṛiṣis, ಚಿತ್ರಶಿಖಣ್ಡಿ, ಋಷಿಯರ್ Mr. 39).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಸಪ್ತರ್ಷಿ saptarṣi, p. 1579 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1579))
+
+<sub>Kittel's Kannada gloss ಋಷಿಯರ್ ṛṣiyar 'the sages' (with the Kannada plural) is the closest thing to a vernacular form, and it is still the Sanskrit noun. No Dravidian name for the Dipper is recorded.</sub>
+
+**സപ്തര്‍ഷികള്‍ · saptarṣikaḷ** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+> സപ്തര്‍ഷികള്‍ Ursa Major (& സപ്ത ഋഷികള്‍ Bhg.)
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. സപ്തം saptam, p. 1036 (sub-entry സപ്തര്‍ഷികള്‍); the seven are named s.v. ഋഷി, p. 154 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=1036))
+
+<sub>Gundert's list of the seven under ഋഷി (p. 154) is Kaśyapa, Atri, Vasiṣṭha, Viśvāmitra, Gautama, Jamadagni, Bharadvāja — the Purāṇic set, not the Bṛhat Saṃhitā set used in the Sanskrit database. Sanskrit word with a native Malayalam plural in -kaḷ. No vernacular Malayalam name for the Great Bear turned up in any source searched.</sub>
+
+**Arundhati** — Marathi (Bombay Presidency (Deccan and Konkan)) · *sanskritic* · confidence: certain
+
+Konkan death-divination: a person who cannot make out the pole star will die within six months, and some substitute Arundhatī for the pole star
+
+> On the authority of the Mahakala Nirvan Tantra, some people in the Konkan believe that a person who cannot get a view of the pole-star will die within six months ; while others substitute the Arundhati star for the pole-star and determine the duration of life of a diseased person by the same process.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 68 ([source](https://archive.org/details/folkloreofbombay00reen/page/n70))
+
+<sub>The scan splits 'Tantra' as 'T antra'; the quote gives the printed reading. A Konkan-attributed use, and the only place in this whole compilation where a specific region is attached to a star belief in Enthoven. Compare, on the same page, the parallel omen taken from 'the dimmest star of the Great Bear group' — which is Alcor again, under a description rather than a name.</sub>
+
+**अरुंधती · arundhatī** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> अरुंधती arundhatī f S A small star in Ursa major, the wife of वशिष्टऋषि.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. अरुंधती, p. 43 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%82%E0%A4%A7%E0%A4%A4%E0%A5%80&searchhws=yes&matchtype=exact))
+
+<sub>Marathi keeps the Sanskrit name and the Vasiṣṭha-Arundhatī marriage association. No vernacular name for Alcor surfaced in any of the four Marathi dictionaries searched.</sub>
+
+**सप्तऋषि · saptaṛṣi** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> सप्तऋषि saptar̥ṣi m pl (S) The seven saints of the Brahmarshi order, contemporary with each Manu. The names of the several series differ; the names of the saints of the present Manwantara are कश्यप, अत्रि, भरद्वाज, विश्वामित्र, गौतम, जमदग्नि, वशिष्ठ, or, according to other authority, मरीचि, अत्रि, अंगिरस, पुलस्ति or स्त्या, पुलह, क्रतु, वशिष्ठ. These form, in astronomy, the asterism of Ursa major.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. सप्तऋषि, p. 820 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%8B%E0%A4%B7%E0%A4%BF&searchhws=yes&matchtype=exact))
+
+<sub>The learned name, marked S, standing alongside the folk खाटलें. Both are current; the split is one of register, not of region.</sub>
+
+**the seven seers** — Marathi (Dharwar district (Deshasth Brahman community, Marathi-speaking)) · *sanskritic* · confidence: disputed
+
+worshipped as seven cocoanuts by elderly women, married and widowed, on Ṛṣipañcamī, the bright fifth of Bhādrapada
+
+> On this day elderly women, whether married or widows, worship seven cocoanuts, calling them the seven seers Agasti, Angirasa, Atri, Bhrigu, Kashyap, Vasishth, and Vishvamitra, the seven chief stars in the Great Bear which have power to cleanse from sin.
+> <br>— Gazetteer of the Bombay Presidency, Vol. XXII: Dharwar (Bombay: Government Central Press, 1884), p. 71 ([source](https://archive.org/details/wbsl.15453))
+
+<sub>The archive.org scan garbles two words of the quoted sentence — it prints 'muarricd' for 'married' and 'Vishvdmitra' for 'Vishvámitra'; the readings given are the printed ones. Confidence 'disputed' because of the LIST, not the identification of the group. This roster of seven ṛṣis for the Big Dipper — Agasti, Aṅgirasa, Atri, Bhṛgu, Kaśyapa, Vasiṣṭha, Viśvāmitra — matches neither of the two lists Molesworth gives s.v. सप्तऋषि (p. 820), and it puts AGASTI, who is normally Canopus in the far south, among the seven northern stars. Local ritual practice has evidently reshuffled the sages; no per-star mapping can be recovered from it.</sub>
+
+**ଅକ୍ଷମାଳା · Akshamāḻā** — Odia (Odisha) · *sanskritic* · confidence: certain
+
+A second name for Arundhatī, and Praharaj gives the reason: the Saptarṣimaṇḍala encircles her like a rosary.
+
+> 3। ବଶିଷ୍ଠପତ୍ନୀ ଅରୁନ୍ଧତୀ —3. A name of the wife of sage Baṡishṭha. 4। ସପ୍ତର୍ଷିମଣ୍ଡଳର ପୁଚ୍ଛସ୍ଥ ମଧ୍ୟ ନକ୍ଷତ୍ର ବା 6ଷ୍ଠୀ ନକ୍ଷତ୍ର ପାଖରେ ଥିବା କ୍ଷୁଦ୍ର ତାରକା —4. Alcor; the small star near the 6th star of the constellation, Great Bear. [ଦ୍ର—ସପ୍ତର୍ଷିମଣ୍ଡଳ ଅରୁନ୍ଧତୀ ନକ୍ଷତ୍ରକୁ ମାଳାକାରରେ ବେଢ଼ିଥିବାରୁ ଅରୁନ୍ଧତୀର ଏହି ନାମ।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଅକ୍ଷମାଳା Akshamāḻā, p. 54 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%85%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%AE%E0%AC%BE%E0%AC%B3%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+**ଧ୍ରୁବ ଦର୍ଶକ · Dhruba darṡaka** — Odia (Odisha) · *sanskritic* · confidence: certain
+
+A functional name, and one the same dictionary explains: extend the line joining the two stars at the head of the group and it passes beside Dhruvatārā. Sense 2 of the same word is the mariner's compass.
+
+> ଧ୍ରୁବ ଦର୍ଶକ— Dhruba darṡaka ସଂ. ବି— 1। ସପ୍ତର୍ଷିମଣ୍ଡଳ —1. The constellation of the Ursa Major; the Great Bear. [ଦ୍ର—ଏହି ମଣ୍ଡଳର ମୁଣ୍ଡରେ ଥିବା ଦୁଇ ତାରାର ସଂଯୋଜକ ରେଖାକୁ ବଢ଼ାଇଲେ ତାହା ଧ୍ରୁବତାରା ପାଖ ଦେଇ ଯାଏ।] 2। ଜାହାଜିଆମାନଙ୍କର ଦିଗ୍ବାରଣ ଯନ୍ତ୍ର— 2. The mariner's compass.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଧ୍ରୁବ ଦର୍ଶକ Dhruba darṡaka, p. 4069 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A7%E0%AD%8D%E0%AC%B0%E0%AD%81%E0%AC%AC%20%E0%AC%A6%E0%AC%B0%E0%AD%8D%E0%AC%B6%E0%AC%95&searchhws=yes&matchtype=exact))
+
+<sub>At p. 4095 Praharaj glosses the English term directly: 'ଏ ଦୁଇ ତାରାକୁ The Pointers (ଧ୍ରୁବତାରାର ପ୍ରଦର୍ଶକ ବା ଧ୍ରୁବଦର୍ଶକ) ବୋଲାଯାଏ' — so the word may be a calque on the English Pointers rather than an inherited name.</sub>
+
+**අරුන්දති · arundati** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+Invoked by the bridegroom at marriage as the model wife (Carter, p. 61).
+
+> [Slw. P. Sk. arundhatī.]
+> <br>— Jayatilaka (ed.), A Dictionary of the Sinhalese Language (Royal Asiatic Society, Ceylon Branch, 1935– ), s.v. අරුන්දති arundati, p. 641 ([source](https://dsal.uchicago.edu/cgi-bin/app/jayatilaka_query.py?qs=Alcor&matchtype=default))
+
+<sub>Jayatilaka identifies the star modernly — Arundhatī as Alcor, and අරුන්ධතීනාථ arundhatī-nātha, 'the husband of Arundhatī, i.e. Vasiṣṭha', as Mizar (both p. 641). This matches the Sanskrit database exactly. WARNING for anyone using Carter: at p. 61 he glosses Arundhatī as 'Pleiades, හත්දින්න, (or one of the stars thereof)', which is wrong; Jayatilaka corrects it. Only the etymology bracket is quoted here because the surrounding Jayatilaka text is a long citation apparatus.</sub>
+
+**ඍෂියා · r̥ṣiyā** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+The living Sinhala reference to the Dipper is to the seven sages, not to a bear.
+
+> ඍෂියා r̥ṣiyā , n. H. saint or sage, sp. one of seven of exalted rank; in ast. the seven form the const. Ursa Major.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. ඍෂියා r̥ṣiyā, p. 132 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=Ursa&matchtype=default))
+
+<sub>The bear names in Carter are not vernacular at all but his own English-to-Sinhalese calques, and he flags them: සප්තර්ෂිය saptarṣiya 'const. Ursa Major, see Ursa, E. S.' (p. 651) and සප්ත·මූනී·චාරය 'Charles's-wain. E. S.' (p. 651), where 'E. S.' means Carter is citing his own English-Sinhalese volume. මහා·භල්ලී·රාශිය 'great bear' (p. 487) and ක්‍ෂුද්‍ර භල්ලී රාශිය 'ursa minor' (p. 195) are Sanskrit-built calques of the English. Carter also has චිත්‍ර·ශඛණ්‍ඩිනයෝ (p. 232), 'seven sages, represented by the seven stars of the Great Bear' — the Citraśikhaṇḍinaḥ of the Sanskrit database.</sub>
+
+**சாலினி · cāliṉi** — Tamil (Tamil Nadu) · *sanskritic* · confidence: likely
+
+A name for Arundhatī used in one of the most striking sky-passages in the Caṅkam corpus: of the seven women dwelling by the shining banyan in the northern quarter, one — the divine star Cāliṉi — abstains, and the other six partake, and so become the Pleiades who bear Murugan.
+
+> வடவயின், விளங்கு ஆல், உறை எழு மகளிருள் கடவுள் ஒரு மீன் சாலினி ஒழிய, அறுவர் மற்றையோரும் அந் நிலை அயின்றனர்;
+> <br>— Paripāṭal 5, ll. 43-45; Project Madurai e-text PM 0087 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0087.html))
+
+<sub>The Tamil Lexicon (s.v. சாலினி¹ sense 2, vol. III p. 1391) gives 'Wife of Vasiṣṭha. See அருந்ததி' and cites this exact line as பரிபா. 5, 44. It derives the word from Sanskrit śālinī. HOMONYM: சாலினி¹ sense 1 is a woman oracle possessed by a spirit (quoted from Cilappatikāram 12, 7), சாலினி² is a gourd and சாலினி³ a toddy-seller; only sense 2 is astronomical. Note the passage's own phrase கடவுள் ஒரு மீன், 'the one divine star' — Tamil mīṉ used of Arundhatī directly. Winslow s.v. சாலி also records 'A name of Arundhati … supposed to have become one of the stars in Ursa Major' (1862, p. 441). Confidence 'likely': the identification of Cāliṉi with Arundhatī rests on the commentarial tradition reported by the Lexicon rather than on anything in the verse itself.</sub>
+
+**అరుంధతి · arundhati** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: disputed
+
+Wedding ritual: the bridegroom invokes her and the star is pointed out to the couple.
+
+> అరుంధతి … A star in the Pleiades. A marriage ceremonies అరుంధతి is invoked by the bridegroom as a pattern of conjugal excellence and the star in the Pleiades which represents the wife of Vasishtha is pointed out to the bridal pair.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. అరుంధతి arundhati, p. 81 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=81))
+
+<sub>IDENTIFICATION CONFLICT, flagged rather than resolved, and Brown turns out to be defensible. The standard identification, and the one in the Sanskrit database (db id 'arundhati'), is Alcor beside Mizar in Ursa Major, since Arundhatī is Vasiṣṭha's wife and Vasiṣṭha is Mizar. But the marriage mantra Thurston prints (Castes and Tribes, vol. I, 'Brahman', p. 289) puts her in the Pleiades in the same breath as in Ursa Major: the couple are 'shown Druva and Arundathi (the pole star and Ursa major)', and the verse then addresses 'she, Arundathi, who stands first among the six Krithikas (Pleiads), may she the eighth one, who leads the conjunction of the (moon with the) six Krithikas … Thou art the pillar of the stars.' Brown's 'a star in the Pleiades' is therefore reporting the ritual text, not blundering. Thurston elsewhere has south Indian officiants calling Arundhatī the pole star outright — vol. I p. 143 (Balija, 'they gaze at the pole-star (Arundati)'), vol. III p. 238 (Kāpu), vol. VII p. 179 (Toreya) and p. 307 (Valluvan) — which is a third, distinct popular equation. All three circulate; none is corrected here.</sub>
+
+**చిత్రశిఖండి · citra-śikhaṇḍi** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+> చిత్రశిఖండి chitra-ṣikhanḍi. n. The constellation called the Great Bear.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. చిత్రము chitramu, p. 415 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=415))
+
+<sub>COGNATE PAIR: Kittel has the identical entry in Kannada, ಚಿತ್ರಶಿಖಣ್ಡಿ (p. 646), also glossed as Ursa Major. Both are Sanskrit tatsamas; the db has the same name under 'citrashikhandin'.</sub>
+
+**సప్తర్షులు · saptarṣulu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+> సప్తర్షులు means (1.) the "seven sages," viz., మరీచి, అత్రి, అంగీరుడు, పులస్త్యుడు, పులహుడు, క్రతువు, వసిష్ఠుడు; (or) కశ్యపుడు, అత్రి, భరద్వాజుడు, విశ్వామిత్రుడు, గౌతముడు, జమదగ్ని, వసిష్ఠుడు; (2) the constellation of the Great Bear.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ఋషి ṛishi, p. 178 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=178))
+
+<sub>NEGATIVE FINDING attached here: neither Brown nor Kittel records any Dravidian name for the Big Dipper — no plough, no cart, no bier, no seven sisters. Both give only saptarṣi and citraśikhaṇḍi. Searches of Brown and Kittel for 'Great Bear', 'Ursa', 'seven stars', 'plough' and 'wain' turned up nothing vernacular. This is the largest gap in the vernacular sky of both languages.</sub>
+
+## The Pleiades
+
+**Modern:** the Pleiades · M45, η Tauri (Alcyone) · Taurus  
+**Sanskrit database:** `krittika` — Kṛttikā (Alcyone (Pleiades)) ([entry](../star-names/star-names.json))  
+**Named in 18 languages:** Assamese, Bengali, Gondi, Hindi, Kannada, Kurukh, Malayalam, Marathi, Mundari, Nicobarese, Odia, Punjabi, Santali, Sinhala, Tamil, Telugu, Toda, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Assamese | মণ্ডল | *maṇḍala* | 'the circle, the ring' | vernacular |
+| Odia | କାର୍ତ୍ତିକପୁଞ୍ଜ (କାର୍ତ୍ତିକପୁଞ୍ଜା) | *Kārttikapun̄ja* | 'the Kārttika cluster' | vernacular |
+| Sinhala | හත්·දින්න | *hat·dinna* | 'seven-produced' — හත් hat 'seven' (the inherited numeral, beside Sanskritic සත්) + දින්න, which Carter derives from දිනි 'produced' | vernacular |
+| Tamil | அறுமீன் | *aṟu-mīṉ* | six-star, the six stars | vernacular |
+| Tamil | அறுவாய் | *aṟu-vāy* | six-part, six-mouthed | vernacular |
+| Tamil | எரிநாள் | *eri-nāḷ* | fire-star, the star of fire | vernacular |
+| Tamil | இறால் | *iṟāl* | — | vernacular |
+| Tamil | ஆறாமீன் | *āṟā-mīṉ* | six-star (variant of aṟu-mīṉ) | vernacular |
+| Telugu | కత్తెర | *kattera* | scissors | vernacular |
+| Telugu | మంగలకత్తిరూపు | *mangala-katti-rūpu* | shaped like a barber's razor | vernacular |
+| Urdu | پروين | *parvīn* | Persian name of the Pleiades | vernacular |
+| Urdu | ثريا | *s̤uraiyā* | diminutive of Arabic tharwā 'abundance' | vernacular |
+| Hindi | — | *(the seven sisters - no name recorded)* | — | folk |
+| Hindi | — | *baććē-wālī murġī* | 'the hen with chickens' | folk |
+| Hindi | गिचपिचिया / گچپچيا | *gić-pićiyā* | 'crowded/squeezed together' (variant of kac-pac) | folk |
+| Hindi | — | *guććhā tārā* | 'the cluster star' | folk |
+| Hindi | कचबचिया / کچ بچيا | *kachbach'iyā* | 'the jumbled ones' (kac-bac, variant of kac-pac) | folk |
+| Hindi | कचपचिया / کچپچيا | *kaćpaćiyā* | 'crowded together' | folk |
+| Marathi | — | *Gadli* | — | folk |
+| Marathi | विंचू | *viñcū* | scorpion | folk |
+| Marathi | विंचू | *viñcū* | scorpion | folk |
+| Odia | କଠଲା ତାରା | *Kaṭhalā tārā* | 'the mallet star' — Praharaj glosses kaṭhalā in this phrase as ବଢ଼େଇର ମୁଗୁର, the carpenter's mallet | folk |
+| Sinhala | නැකැත්·කෙළිය | *nækæt·keḷiya* | 'star-play' (Carter's own gloss) | folk |
+| Tamil | ஆறாமீனறவோட்டு | *āṟā-mīṉ-aṟa-v-ōṭṭu* | the running-through of the six stars | folk |
+| Urdu | گگن کي بچي والي مرغي | *gagaṇ ke bachche wālī murġhī* | 'the hen and chickens of the sky' | folk |
+| Gondi | — | *Kutpari, Mogari, Mongari, Thengari, Mundari* | a bat — the wooden bat used to beat grain out of the husk | tribal |
+| Kurukh | — | *lohrā-capuā bīnkō; capuā bīnkō; pārkī bīnkō* | the blacksmith's-bellows constellation | tribal |
+| Mundari | — | *cuṭu rapa ipilko* | the mouse-roasting stars | tribal |
+| Mundari | — | *muṅgaru ipilko (moṅgaru ipilko)* | the wooden-mallet stars | tribal |
+| Nicobarese | — | *tā-yan* | — | tribal |
+| Santali | — | *Sorenko* | the Soren people (a Santal sept name in the animate plural) | tribal |
+| Santali | — | *sɘren (ipil), sɘrenko* | the Soren stars | tribal |
+| Toda | — | *Kadsht* | — | tribal |
+| Bengali | সপ্তর্ষি | *saptarṣi* | 'the seven sages' | sanskritic |
+| Hindi | बहुला / بہلا | *bahulā* | 'the abundant/dense ones' | sanskritic |
+| Kannada | ಅಗ್ನಿದೇವೆ | *agnidēve* | she whose deity is Agni | sanskritic |
+| Kannada | ಬಹುಲೆಗಳ್ | *bahulegaḷ* | the many ones | sanskritic |
+| Kannada | ಕೃತ್ತಿಕೆ | *kṛttike* | — | sanskritic |
+| Malayalam | കാര്‍ത്തിക | *kārttika* | — | sanskritic |
+| Marathi | काथ्या | *kāthyā* | — | sanskritic |
+| Marathi | कात्या | *kātyā* | — | sanskritic |
+| Marathi | कात्या | *kātyā* | — | sanskritic |
+| Marathi | कृत्तिका | *kṛttikā* | — | sanskritic |
+| Punjabi | ਕਿਰ੍ਹਕਟੀ | *kirhkaṭí* | — | sanskritic |
+| Sinhala | බහුලාව | *bahulāva* | — | sanskritic |
+| Sinhala | කැති නැකත | *kæti nækata* | — | sanskritic |
+| Tamil | கார்த்திகை | *kārttikai* | — | sanskritic |
+| Tamil | வாகுலை | *vākulai* | — | sanskritic |
+
+**মণ্ডল · maṇḍala** — Assamese (Assam) · *vernacular* · confidence: likely
+
+Sense 7 of the polysemous headword মণ্ডল: 'the seven stars clustered near the sign Taurus'. Using the bare word maṇḍala, with no qualifier, for the Pleiades is an Assamese usage; Bengali and Odia both require a compound (কৃত্তিকা / କାର୍ତ୍ତିକପୁଞ୍ଜ).
+
+> 7। বৱষ ৰাশিৰ ওচৰত থোপা বান্ধি থকা সাতোটা তৰা; the Pleiades.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. মণ্ডল maṇḍala, sense 7, p. 735 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%B2&searchhws=yes&matchtype=exact))
+
+<sub>'বৱষ' is DSAL OCR for বৃষ 'Taurus'. Graded 'likely' rather than 'certain' only because the sense is one of eight in a crowded entry and is not separately illustrated.</sub>
+
+**କାର୍ତ୍ତିକପୁଞ୍ଜ (କାର୍ତ୍ତିକପୁଞ୍ଜା) · Kārttikapun̄ja** — Odia (Odisha) · *vernacular* · confidence: certain
+
+Marked ଦେ. (deśī), i.e. a native formation, not a tatsama: Odia has built its own compound on Kṛttikā rather than borrowing the Sanskrit name outright. Praharaj illustrates it with a ḍhaga (proverb): 'you pointed out the Kārttika cluster and I pointed out a gourd; whatever thief has got into my house, let him go out in front of me.'
+
+> କାର୍ତ୍ତିକପୁଞ୍ଜ— Kārttikapun̄ja ଦେ. ବି—(ସଂ. କୃତ୍ତିକା ଓ ପୁଞ୍ଜ) କୃତ୍ତିକା ନକ୍ଷତ୍ରପୁଞ୍ଜ— The constellation of the Pleiades. ତୁ ଦେଖାଇଲୁ କାର୍ତ୍ତିକ ପୁଞ୍ଜା ମୁଁ ଦେଖେଇଲି ଲାଉ; ମୋ ଘରେ ଯେଉଁ ଚୋର ପଶିଛି ସେ ମୋହରି ଆଗରେ ଯାଉ। ଢଗ।
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. କାର୍ତ୍ତିକପୁଞ୍ଜ Kārttikapun̄ja, p. 1538 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%95%E0%AC%BE%E0%AC%B0%E0%AD%8D%E0%AC%A4%E0%AD%8D%E0%AC%A4%E0%AC%BF%E0%AC%95%E0%AC%AA%E0%AD%81%E0%AC%9E%E0%AD%8D%E0%AC%9C&searchhws=yes&matchtype=exact))
+
+**හත්·දින්න · hat·dinna** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+> හත්·දින්න hat·dinna , n. (දින්න fr. දිනි produced), the const. Pleiads. Pleiades, කැතිනැකත.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. හත්·දින්න hat·dinna, p. 713 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=Pleiades&matchtype=default))
+
+<sub>The single clearest case in Sinhala of a sky-object that got a native name rather than a loan — and Carter parses it for us, so the etymology is the source's, not the compiler's. It coexists with the Eḷu loan කැති නැකත, to which Carter cross-refers it in both directions (p. 169, p. 713), and with the Sanskrit tatsama කෘත්තිකා (p. 182). Clough 1892 has it too, without gloss beyond the identification: 'Haddinna, s. the Pleiades' (p. 723). Jayatilaka cross-refers to it from ක්‍රිටික kriṭika, 'N. given to seven stars in the constellation Taurus; Pleiades', p. 3497.</sub>
+
+**அறுமீன் · aṟu-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The indigenous Tamil name of the Pleiades, formed from ஆறு āṟu 'six' + mīṉ 'star', and attested in the Caṅkam corpus. It is the Tamil counting-name, independent of the Sanskrit Kṛttikā, though the Lexicon glosses it with கார்த்திகை.
+
+> கண்டிசின் வாழியோ குறுமகள் நுந்தை அறுமீன் பயந்த அறம் செய் திங்கள்
+> <br>— Naṟṟiṇai 202, ll. 8-9 (Pālai, by Pālai Pāṭiya Peruṅkaṭuṅkō); Project Madurai e-text PM 0296 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0296.html))
+
+<sub>The Tamil Lexicon (s.v. அறுமீன், vol. I p. 181, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%85%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'Pleiades, as containing six stars; கார்த்திகை. (பிங்.)', citing the Piṅkala Nikaṇṭu. The Naṟṟiṇai line joins the six stars to the moon — the Kārttikai full moon — and belongs to the Murugan birth-cycle: the Lexicon's அறுமீன்காதலன் aṟumīṉ-kātalaṉ (p. 181) is Skanda 'as one brought up by the goddesses of the Pleiades'. Winslow, s.v. அறு, gives the same word as 'The pleiades regarded as six stars being the third lunar constellation of the Hindus' and marks it '(p.)', poetical.</sub>
+
+**அறுவாய் · aṟu-vāy** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A third Tamil counting-name for the Pleiades, from the same numeral ஆறு.
+
+> அறுவாய்² aṟu-vāy , n. < ஆறு³ +. The third nakṣatra, as consisting of six stars; கார்த்திகை. அறுவாய் நிறைந்த மதிப்புறத் தோவென (கல்லா. 90, 9).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. அறுவாய்², vol. I p. 182; quoting Kallāṭam 90, 9 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%85%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM: அறுவாய்¹ on the previous page, from அறு- 'to cut', means 'opening in a cut or wound' and 'vacant gap, as of the moon in its waxing phases' — and it is quoted from Tirukkuṟaḷ 1117 with the same collocation அறுவாய் நிறைந்த as the astronomical entry. The two senses can only be separated by context; here the moon is 'filled' beside the six stars.</sub>
+
+**எரிநாள் · eri-nāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A Tamil translation, not a borrowing: the Sanskrit Āgneya 'belonging to Agni' rendered with the native Tamil words எரி 'fire' and நாள் 'asterism'.
+
+> எரிநாள் eri-nāḷ , n. < எரி +. The third nakṣatra. See கார்த்திகை. (பிங்.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. எரிநாள், vol. I p. 531, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%8E%E0%AE%B0%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Beside it the Lexicon has the half-borrowed அங்கிநாள் aṅki-nāḷ (p. 22, < Skt. agni + Tamil nāḷ), 'the third nakṣatra' and also 'the thirteenth', and கனலிநாள் kaṉali-nāḷ (p. 836), 'fire-star' for the 13th. The Sanskrit database entry 'agneya' warns that Āgneya is Kṛttikā and not the star Agni; the same warning applies to eri-nāḷ.</sub>
+
+**இறால் · iṟāl** — Tamil (Tamil Nadu) · *vernacular* · confidence: likely
+
+A Tamil name of the Pleiades recorded by the Tivākaram, of obscure motivation.
+
+> இறால் iṟāl , n. prob. இறு¹-. 1. Shrimp, prawn, macroura; மீன்வகை. (பிங்.) 2. Bluish seer-fish, Cybium commersonii; வெள்ளிறால். 3. The third nakṣatra. See கார்த்திகை. (திவா.) 4. Bull; எருது. (பிங்.) 5. Honeycomb; தேன்கூடு.
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. இறால் sense 3, vol. I p. 363, citing the Tivākaram ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%87%E0%AE%B1%E0%AE%BE%E0%AE%B2%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM, and a bad one: the same headword is 'shrimp', 'seer-fish', 'bull' and 'honeycomb'. Only the Tivākaram-sourced sense 3 is astronomical. Winslow independently records the sense — 'The third lunar mansion, the pleiades, கார்த்திகைநாள்' (1862, p. 113) — which is why it is kept, but the motivation of the name is unrecoverable and no literary attestation in the astronomical sense was found. Confidence 'likely' reflects the identification's dependence on two dictionaries with no verse behind them.</sub>
+
+**ஆறாமீன் · āṟā-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A second form of the counting-name, and the one that carries the seamen's compound below.
+
+> ஆறாமீன் āṟā-mīṉ , n. < id. + id. +. Pleiades, as containing six stars; கார்த்திகை.
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. ஆறாமீன், vol. I p. 259 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%86%E0%AE%B1%E0%AE%BE%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Tamil tradition consistently counts six Pleiads, not seven as in the Sanskrit Kṛttikāḥ; hence the six presiding goddesses of கார்த்திகைத்தேவிமார் (p. 880) and வாகுலை (p. 3574).</sub>
+
+**కత్తెర · kattera** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+The Pleiades period as the farmer and almanac-user knows it; Brown attaches the solar season directly to the word.
+
+> కత్తెర [Tel.] n. Scissors. The constellation or sign called కృత్తిక. The period of time when the sun is between the signs భరణి, రోహిణి and కృత్తిక. … కత్తెరయెండ kattera-yeṇḍa. n. Fierce heat.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. కత్తెర kattera, p. 238 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=238))
+
+<sub>The cutting figure survives from Sanskrit kṛt- 'to cut' but is re-lexicalised on the native word kattera 'scissors'. The derived kattera-yeṇḍa 'fierce heat' shows the name doing seasonal work: the Kṛttikā period is the hot season in the Telugu country.</sub>
+
+**మంగలకత్తిరూపు · mangala-katti-rūpu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+A second, purely descriptive Telugu name for the Pleiades, from the shape of the cluster.
+
+> మంగల [Tel.] n. The barber caste. మంగలకత్తి mangala-katti. n. A razor, క్షురము. మంగలకత్తిరూపు the constellation called కృత్తికానక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. మంగల mangala, p. 937 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=937))
+
+<sub>This is one of a complete set of Telugu descriptive names for the lunar mansions that Brown records piecemeal under their first elements. They are formed X-cukka / X-rikka ('X-star') or X-rūpu-rikka ('X-shaped star'), and are entirely independent of the Sanskrit names, which Telugu also has. With kattera 'scissors' this makes two independent Telugu names for the Pleiades built on a cutting-blade image.</sub>
+
+**پروين · parvīn** — Urdu (Urdu, from Persian) · *vernacular* · confidence: certain
+
+The Persian counterpart of s̤uraiyā, equally at home in Urdu and equally common as a woman's name.
+
+> P پروين parvīn , s.m. The Pleiades.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. parvīn, p. 258 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=258))
+
+<sub>Also Fallon, p. 356, and Shakespear, p. 406. Panjab Notes and Queries II.521 (p. 84) records the Panjab Persian usage as 'Parvin or Paran'.</sub>
+
+**ثريا · s̤uraiyā** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+The central Arabic star name naturalised in Urdu, also as a woman's given name. The extended form ʻaqd-i-s̤uraiyā, 'the necklace of the Thurayyā', is what Fallon offers as the Arabic equivalent of Hindi guchchā tārā.
+
+> A ثريا s̤uraiyā (from ثرو), s.m. The Pleiades ( = ʻaqd-i-s̤uraiyā).
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. s̤uraiyā, p. 368 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=368))
+
+<sub>Platts prints no Devanagari for Arabic-origin headwords, so only the Urdu script is given. Also Fallon, p. 461 ('surai'yā, aqd-i-suraīyā ... The Pleiades (jhumkā)'), and Shakespear, p. 599. A Panjab list of Arabic/Persian sky names (Panjab Notes and Queries, vol. II, note 521, p. 84) gives it as 'Ssvayyá' [Thurayyā], 'diminutive of suru, plentiful, rich'.</sub>
+
+**(the seven sisters - no name recorded)** — Hindi (Oudh (Awadh), eastern United Provinces) · *folk* · confidence: certain
+
+An aetiological tale rather than a name: the seventh sister is left out of the sharing of a sesame seed and so sits a little apart in the sky. Recorded from Sitapur. It explains a naked-eye fact - the cluster's outlier - and shows that the 'seven sisters' reading of the Pleiades is independently present in Awadhi village lore alongside the Sanskrit six Kṛttikās.
+
+> The Pleiades were seven sisters. It happened on a day that one of them found a seed of the til (sesamum). She divided it among six, the seventh sat behind her and was forgotten. That is how she takes her place just a little apart from the others in the sky.
+> <br>— G. H. Roberts, 'Oudh - The Pleiades - Popular astronomy', Indian Notes and Queries [late Panjab Notes and Queries], vol. IV (1886-87), note 566 ([source](https://archive.org/details/inq_pnq_v4))
+
+<sub>No vernacular name is given in the note, hence name_roman is descriptive. Cited by note number, the standard locator for this journal.</sub>
+
+**baććē-wālī murġī** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+The commonest folk image for the cluster across Eurasia; here attached to the ordinary Hindi word for a young of any creature. Platts prints the compound in roman only, under the Devanagari/Urdu headword बच्चा / بچا.
+
+> baćće-wālī murg̠ī, s.f. lit. 'Hen with chickens'; the Pleiades.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. baććā, p. 135 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=135))
+
+<sub>name_native is left null because Platts gives no script form for the compound itself. Fallon, p. 230, s.v. bachchah, likewise glosses it only as 'The constellation of the Pleiades'. The expanded form with gagan is entered separately.</sub>
+
+**गिचपिचिया / گچپچيا · gić-pićiyā** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+A phonetic doublet of kaćpaćiyā with initial g-; the two forms sit on different pages of Platts and evidently belong to different speech areas, though he marks neither.
+
+> H گچپچيا गिचपिचिया gić-pićiyā [gic-pić = gać-pać, q.v.+Prk. इओ = S. इकः], s.m. The Pleiades.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. gić-pićiyā, p. 898 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=898))
+
+<sub>Also in Shakespear (1834), s.v. gich-pichiyā, p. 1436, printed there in the Urdu script only: گچ پچيا.</sub>
+
+**guććhā tārā** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+guććhā is the ordinary word for a bunch of flowers or fruit, a tassel, a skein; the Pleiades are simply 'the bunch'. Fallon gives the Arabic ʻaqd-i-suraiyā ('the necklace of the Thurayyā') as its equivalent, showing the two layers translating each other.
+
+> guććhā tārā, s.m. The Pleiades
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. guććhā, p. 898 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=898))
+
+<sub>Headword printed by Platts as गुच्छा / کچها. Fallon, p. 991, s.v. guch'chhā: 'guchchā tārā; A. aqd-i-suraiyā. (Ast.) Pleiades.' The compound itself is printed in roman by both, hence name_native null.</sub>
+
+**कचबचिया / کچ بچيا · kachbach'iyā** — Hindi (Hindustani generally (Fallon's dictionary is explicitly one of spoken idiom)) · *folk* · confidence: certain
+
+Fallon's spelling with -b- suggests contamination from bacca 'child/young one', which is also the base of the competing 'hen and chickens' name for the same cluster.
+
+> H کچ بچيا कचबचिया kachbach'iyā , n. m. The Pleiades.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. kachbach'iyā, p. 917 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=917))
+
+<sub>Competing form; see kaćpaćiyā and gić-pićiyā.</sub>
+
+**कचपचिया / کچپچيا · kaćpaćiyā** — Hindi (Hindustani generally; recorded without regional restriction by Platts, Fallon and Shakespear) · *folk* · confidence: certain
+
+Built on the Hindi echo-compound kac-pac 'jumbled, crowded together' with the agent suffix -iyā; it is a descriptive nickname for the huddled cluster, not a reflex of Kṛttikā. Still current: McGregor, Oxford Hindi-English Dictionary (1993), p. 155, has कचपचिया नक्षत्र and Braj/Awadhi कचपची.
+
+> H کچپچيا कचपचिया kaćpaćiyā [kaćpać, q.v.+iyā = S. इकः], s.m. lit. 'Crowded together'; the Pleiades.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. kaćpaćiyā, p. 818 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=818))
+
+<sub>Platts prints both Devanagari and the Urdu script (Nastaʿlīq in the original type); both are given above in that order. Corroborated by Shakespear, A Dictionary, Hindustani and English (1834), s.v. kachpach-iyā, p. 1327, and by Fallon's variant kachbach'iyā (separate entry).</sub>
+
+**Gadli** — Marathi (Bombay Presidency (Deccan and Konkan)) · *folk* · confidence: likely
+
+used to predict the rise and fall of the cotton market
+
+> The Rohini and Krittika constellations, popularly known as Gadli, are supposed to indicate the rise and fall in the cotton-market.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 68 ([source](https://archive.org/details/folkloreofbombay00reen/page/n70))
+
+<sub>A single folk name covering two adjacent asterisms — Aldebaran with the Hyades, and the Pleiades — i.e. roughly the head of Taurus. Confidence 'likely' rather than 'certain' because Enthoven names the pair but does not say where the group's boundaries fall, and gives no etymology; I could not establish the meaning of Gadli from any dictionary consulted (it is not in Molesworth, Vaze, Tulpule or Date under गडली, गाडली or गादली). Roman only, no script printed. The cotton-market use points to Gujarat or Khandesh, but Enthoven does not say so and I have not assumed it.</sub>
+
+**विंचू · viñcū** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+> विंचू viñcū m (वृश्र्चिक S or بچھو H) A scorpion. 2 The Pleiades. From the fancied resemblance to a scorpion. 3 A common term for the bits of cord which, in stringing a bedstead &c., are attached to the ends of the lines used in the work.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. विंचू, p. 756 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%9A%E0%A5%82&searchhws=yes&matchtype=exact))
+
+<sub>The single most striking non-Sanskrit sky-name in Marathi lexicography: the Pleiades seen as a SCORPION, not as the Kṛttikās. Independently confirmed by Date's Maharashtra Sabdakosa (p. 2824), which glosses sense 2 as 'कृत्तिकानक्षत्र (विंचवाच्या आकारावरून)' — 'the Kṛttikā nakṣatra, from the shape of a scorpion'. Note the homonym trap: विंचू is also the ordinary word for Scorpius/scorpion, so a bare attestation of विंचू in a text is NOT evidence for the Pleiades.</sub>
+
+**विंचू · viñcū** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+> विंचू viñcū — पु. १ एक अष्टपाद विषारी प्राणी. हा नांगींने दंश करतो. (अप.) विचुः विचु; इचु. २ कृत्तिकानक्षत्र (विंचवाच्या आकारावरून).
+> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. विंचू, p. 2824 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%9A%E0%A5%82&searchhws=yes&matchtype=exact))
+
+<sub>Second, independent attestation of the scorpion-figure for the Pleiades, seventy-five years after Molesworth. Retrieved through DSAL's combined Marathi search (marathi_query.py), because the standalone date_query.py endpoint returns empty pages.</sub>
+
+**କଠଲା ତାରା · Kaṭhalā tārā** — Odia (Sambalpur (western Odisha)) · *folk* · confidence: certain
+
+Given as the Sambalpuri name in Praharaj's systematic note on Kṛttikā, immediately after the general Odia name. The shape is argued for in the same entry: joining the six stars gives 'the shape of a dagger, or of a carpenter's wooden mallet'.
+
+> ଆକାର ଓ ତାରକା ସଂଖ୍ୟା—6 ଟି ତାରା; ଏମାନଙ୍କୁ ଯୋଗ କଲେ ଗୋଟିଏ କଟାର ବା ବଢ଼େଇର କାଠମୁଗୁରାର ଆକାର ହେବ … ଓଡ଼ିଆ ବା ଦେଶୀୟନାମ—କାର୍ତ୍ତିକପୁଞ୍ଜା; ସମ୍ବଲପୁରୀ ନାମ କଠଲା ତାରା (କଠଲା=ବଢ଼େଇର ମୁଗୁର)। ପାଶ୍ଚାତ୍ୟ ନାମ—ଇଂ—Hen and chickens; the Pleides.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note on the 3rd asterism କୃତ୍ତିକା, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>Praharaj's own headword କଠଲା (p. 1245) gives a different sense — a railed wooden seat strapped on an elephant — and does not record 'mallet'. The mallet gloss exists only here, inside the parenthesis, and is presumably the Sambalpuri sense. Worth flagging: a reader working from the headword alone would misread the star-name as 'the howdah-seat star'.</sub>
+
+**නැකැත්·කෙළිය · nækæt·keḷiya** — Sinhala (Sri Lanka) · *folk* · confidence: certain
+
+A festival at the full moon of Il (October–November) — the month in which the full moon stands near the Pleiades. Clough spells out the astronomy: 'when the moon is full near the Pleiades in the month ඉල් මස il-masa, (October-November)'.
+
+> නැකැත්·කෙළිය nækæt·keḷiya , n. lit. star-play: a festival observed at full moon in ඉල්මස (Oct.-Nov.).
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. නැකැත්·කෙළිය nækæt·keḷiya, p. 322; Clough, A Sinhalese-English Dictionary (1892), s.v. Nakat-keliya, p. 273 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=star-play&matchtype=default))
+
+<sub>The folk layer: an asterism doing calendrical work in village life rather than in an almanac. Structurally the counterpart of the Malayalam Tiruvātira and of the Kārttika full-moon reckoning; Jayatilaka's කාර්ත්තිකමාසය (p. 2916) makes the same Pleiades-full-moon definition for the month.</sub>
+
+**ஆறாமீனறவோட்டு · āṟā-mīṉ-aṟa-v-ōṭṭu** — Tamil (Tamil Nadu (coast)) · *folk* · confidence: certain
+
+A SEAMEN'S TERM — the clearest surviving trace in the lexica of Tamil coastal star-reckoning. The Pleiades segment of the zodiac marks the season of dangerous weather for boats.
+
+> ஆறாமீனறவோட்டு āṟā-mīṉ-aṟa-v-ōṭṭu , n. < id. +. Passage of the sun through the segment of the Zodiac occupied by Pleiades, regarded by seamen as a period when rough weather is to be anticipated; கார்த்திகையில் சூரியன் பிரவேசிக்குங்காலம். (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. ஆறாமீனறவோட்டு, vol. I p. 259, marked (W.) after Winslow ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%86%E0%AE%B1%E0%AE%BE%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AE%B1%E0%AE%B5%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81&searchhws=yes&matchtype=exact))
+
+<sub>Winslow's own entry, s.v. ஆறு, is independent confirmation: 'The transit of the sun through the pleiades, regarded by seamen, as a critical or disastrous season, when rough weather is to be looked for' (A Comprehensive Tamil and English Dictionary, 1862, p. 76, https://dsal.uchicago.edu/cgi-bin/app/winslow_query.py?qs=Pleiades&matchtype=default). The season is the north-east monsoon; compare ஐப்பசிக்குழப்பம் below.</sub>
+
+**گگن کي بچي والي مرغي · gagaṇ ke bachche wālī murġhī** — Urdu (marked dakh. (Deccani) by Shakespear; unmarked in Platts and Fallon, so also northern) · *folk* · confidence: certain
+
+The fuller form of the preceding, with gagan 'sky' prefixed. Shakespear's dakh. tag is a genuine regional flag: several of these furniture-and-farmyard sky names reach him through Deccani Urdu.
+
+> گگن کي بچي والي مرغي gagaṇ ke bachche wālī murg̠ẖ-ī (dakh.) The pleiades.
+> <br>— John Shakespear, A Dictionary, Hindustani and English, 3rd ed. (London, 1834), s.v. gagaṇ, p. 1451 ([source](https://dsal.uchicago.edu/cgi-bin/app/shakespear_query.py?page=1451))
+
+<sub>Shakespear prints the Urdu script only. Platts, p. 910, gives the same phrase in roman under गगण / گگن without any regional mark: 'gagaṇ-ke baćće-wālī murg̠ī, "The hen and chickens of the sky," the Pleiades'; Fallon, p. 1001, has it under gag'an.</sub>
+
+**Kutpari, Mogari, Mongari, Thengari, Mundari** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: likely
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The authors record several of these names as identifying either the Pleiades or Taurus depending on the village, so the identification is graded likely. A grain-beating implement thrown at the sky is the same class of object as the Mundari mallet.</sub>
+
+**lohrā-capuā bīnkō; capuā bīnkō; pārkī bīnkō** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+> Lohrā-capuā bīnkō, name of a constellation also called pārkī bīnkō.
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. bīnkō, p. 85; s.v. capuā, p. 128; s.v. lohrā, p. 465 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+<sub>Three entries agree that the bellows constellation is the Pleiades (s.v. capuā: 'Capuā-binko, the constellation of the Pleiades'). pārkī, given as a synonym, is elsewhere in Grignard a kind of dove — whether the same word is meant is not stated and is not assumed here.</sub>
+
+**cuṭu rapa ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+> cuṭu rapa ipilko sbst., ltly., the mouse roasting stars, i.e. the Pleiades.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. III, s.v. cuṭu rapa ipilko, col. 937 ([source](https://archive.org/download/in.ernet.dli.2015.14921/2015.14921.Encyclopedia-Mundarica-Vol-iii-1930_djvu.txt))
+
+<sub>A second Mundari name for the cluster, attaching it to the mice of the Orion tableau rather than to the mallet. Hoffmann does not mention it in the long ipil article; it comes from the alphabetical entry.</sub>
+
+**muṅgaru ipilko (moṅgaru ipilko)** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The mallet the ploughman flung at a dove on her nest, aimed too high; it fell where the Pleiades are. In a second version heard south of Ranchi it is Siṅgboṅga who was chiselling a yoke and a plough to teach men to plough, and who threw the mallet at the dove.
+
+> (6) moṅgaru ipilko, the wooden mallet flung by the ploughman, the Pleiads. These are a cluster of seven stars of which six are visible to the naked eye; but the Mundas have sharp eyes ... The man who pointed them out to us, saw seven of them
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Confirms Bodding's Santali gloss that the Pleiades are 'the mallet of the arar lalakko'. Hoffmann adds Ovid's quae septem dici, sex tamen esse solent, and notes his informant counted seven.</sub>
+
+**tā-yan** — Nicobarese (Central Nicobars (Nancowry group)) · *tribal* · confidence: certain
+
+> tā-yan, Pleiades.
+> <br>— Man, A Dictionary of the Central Nicobarese Language (1889), Nicobarese-English p. 207 s.v. tā-yan; English-Nicobarese p. 71 s.v. Pleiades ([source](https://archive.org/download/adictionarycent00mangoog/adictionarycent00mangoog_djvu.txt))
+
+<sub>Entered in both halves of the dictionary. Man gives no story and no calendrical use, and no other constellation name appears anywhere in the volume.</sub>
+
+**Sorenko** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+The totem of the Soren sept; the position of the cluster before dawn is used to tell the time of night. Campbell's illustrative sentence asks in which quarter of the sky the Pleiades stand at dawn.
+
+> Sorenko. The Pleiades, or seven stars in Taurus. The Pleiad is the totem of the Soren sept of Santals. Netar Sorenko do okare aligaakokana? Just now where (in what part of the heavens) are the Pleiades at dawn?
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Sorenko, p. 594 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>One of the twelve Santal septs is Soren; the cluster and the sept share the name, so the Pleiades are a clan totem rather than a calendrical mansion. Nothing in Campbell's entry derives from the nakshatra system.</sub>
+
+**sɘren (ipil), sɘrenko** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+Used to tell the hour of the night: 'the Pleiades have reached half down the western sky' marks roughly the position the sun holds at 3 p.m. Bodding also records the figure that joins the Pleiades to Orion: the cluster is the mallet belonging to the arar lalak.
+
+> s.ko do arar lalakko reak murgar kantakoa, the Pleiades are the mallet of the arar lalakko (three small stars near the belt of Orion)
+> <br>— Bodding, A Santal Dictionary, vol. V (1936), s.v. sɘren (ipil), p. 352 ([source](https://archive.org/download/in.ernet.dli.2015.31960/2015.31960.A-Santal-Dictionary--Vol5_djvu.txt))
+
+<sub>Bodding's headword is printed with a hooked vowel that the DjVu OCR renders as 'sgren'; the reading sɘren follows Campbell's Sorenko and the sept name Soren. The mallet-and-yoke figure is the one Hoffmann records at length for Mundari (muṅgaru ipilko), which is strong mutual confirmation across two independent lexicographers.</sub>
+
+**Kadsht** — Toda (Nilgiri hills, Tamil Nadu) · *tribal* · confidence: certain
+
+Held to be six stars, not seven: Kadsht had six men and Keirt only one, and Keirt broke the leg of one of the six, so that five now stand close together and one lags behind. Because of that quarrel the god ruled that Kadsht and Keirt must never be in the sky together. At one funeral the setting of Kadsht and the appearance of Keirt was the sign that the azaramkedr might begin.
+
+> The Pleiades are called Kadsht and the constellation is believed to be composed of six stars.
+> <br>— Rivers, The Todas (1906), ch. XXIV 'Constellations and Stars', pp. 593-594 ([source](https://archive.org/download/todas00rivegoog/todas00rivegoog_djvu.txt))
+
+<sub>One of very few traditions anywhere that counts the cluster as six rather than seven and has a story for the missing one.</sub>
+
+**সপ্তর্ষি · saptarṣi** — Bengali (Bengal (Calcutta/Serampore lexicography)) · *sanskritic* · confidence: disputed
+
+Recorded as a divergence, not as a name to be used. Ram Comul Sen renders the English headword Pleiades by সপ্তর্ষি, which in every other source in this file — Bengali, Assamese and Odia alike — is Ursa Major.
+
+> Pleiades বা Pleiads, n. s. Lat. Gr. সপ্তর্ষি।
+> <br>— Ram Comul Sen, A Dictionary in English and Bengalee, vol. 2, Serampore, 1834, s.v. Pleiades, p. 168 ([source](https://archive.org/download/in.ernet.dli.2015.195645/page/n174_w2400.jpg))
+
+<sub>Read directly from the page image. The error is worth keeping for the same reason as the Assamese অৰুন্ধতী entry: it is a recurring one, and it has a cause. Both the Pleiades and the Big Dipper are seven-star groups, and Purāṇic myth ties them — six of the seven ṛṣis' wives were driven from their husbands' sides and became the Kṛttikās (Praharaj p. 4095). A lexicographer reaching for 'the seven' can land on either. The correct Bengali is কৃত্তিকা, which Mendies's Companion to Johnson's Dictionary (1876) glosses simply 'the Pleiades; Karttika's nurse'.</sub>
+
+**बहुला / بہلا · bahulā** — Hindi (Hindustani generally) · *sanskritic* · confidence: certain
+
+Platts classes it H (Hindi), from Sanskrit bahulāḥ, an old alternative name for the Kṛttikās; his adjectival entry bahul (p. 190) even preserves the sense 'born under the Pleiades'.
+
+> H بہلا बहुला bahulā [S. बहुलास्], s.m. The Pleiades; name of a people.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. bahulā, p. 190 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=190))
+
+<sub>Links to the Sanskrit database entry bahula (Bahulā, alias of Kṛttikā).</sub>
+
+**ಅಗ್ನಿದೇವೆ · agnidēve** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಅಗ್ನಿದೇವೆ agni-dēve. the third lunar mansion, the Pleiades.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಅಗ್ನಿದೇವೆ agnidēve, p. 16 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=16))
+
+<sub>The deity-name type, matching Sanskrit Āgneya (db id 'agneya') and Telugu అగ్నినక్షత్రము (Brown p. 26, 'the Pleiades'). Present in both languages, borrowed in both.</sub>
+
+**ಬಹುಲೆಗಳ್ · bahulegaḷ** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಬಹುಲೆ bahule. a cow. 2, large cardamoms. 3, ಬಹುಲೆಗಳ್, the Pleiades or kṛittikās.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಬಹುಲೆ bahule, p. 1159 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1159))
+
+<sub>Sanskrit Bahulāḥ (db id 'bahula') with the Kannada plural. HOMONYM: the same headword is 'a cow' and 'large cardamoms', so only the third sense is astronomical.</sub>
+
+**ಕೃತ್ತಿಕೆ · kṛttike** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಕೃತ್ತಿಕೆ kṛittike. the third lunar mansion containing six stars called the Pleiades, who are considered to be the nurses of Kārttikēya. (B. 5, 308). 2, a vehicle, a cart. 3, N. of a utensil (ಬೀವು Mr. 207).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಕೃತ್ತಿಕೆ kṛttike, p. 491 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=491))
+
+<sub>Note sense 2, 'a vehicle, a cart' — a stray cart-word sitting in the Pleiades entry, presumably by contamination with Sanskrit kṛtti/śakaṭa; it is not offered here as a star-name. Kannada has no Dravidian Pleiades name in Kittel: the alternatives he gives (ಬಹುಲೆಗಳ್, ಅಗ್ನಿದೇವೆ) are both Sanskrit.</sub>
+
+**കാര്‍ത്തിക · kārttika** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Weather proverb: കാര്‍ത്തിക കഴിഞ്ഞാല്‍ മഴയില്ല, 'once Kārttika is past there is no more rain' — the Pleiades period marking the end of the north-east monsoon.
+
+> കാര്‍ത്തിക kār‍ttika kārtiγa S. ( കൃത്തിക ) The 3d constellation, the Pleiades; the 3rd day of the lunar month. കാര്‍ത്തികം = വൃശ്ചികം Oct. — Nov. കാര്‍ത്തിക ക ഴിഞ്ഞാല്‍ മഴയില്ല prov.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. കാര്‍ത്തിക kārttika, p. 240 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B5%8D%E2%80%8D%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%95&searchhws=yes&matchtype=exact))
+
+<sub>Gundert also records the Sanskrit form കൃത്തിക in Malayalam with the six-nurse legend, s.v. കൃത്തം p. 289: 'കൃത്തിക the 6 Pleiades ആറു കൃ. മാരും മുല നല്കി KR.' — 'the six Kṛttikās gave suck', to Kārttikeya. Malayalam has no attested native counting-name for the cluster of the Tamil aṟumīn 'six stars' type; the proverb is the vernacular layer.</sub>
+
+**काथ्या · kāthyā** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> काथ्या kāthyā f pl R The pleiades.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. काथ्या, p. 154 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%95%E0%A4%BE%E0%A4%A5%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>Aspirated doublet of कात्या, same Rajapur/southern-Konkan currency; Date p. 678 likewise marks it (राजा.). Homonym warning: काथ्या is also the everyday Marathi word for coir rope (Berntsen p. 23), and Molesworth carries the two as separate headwords on the same page.</sub>
+
+**कात्या · kātyā** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> कात्या kātyā f pl R The pleiades. Commonly कृत्तिका.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. कात्या, p. 154 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%95%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>Molesworth's mark R means, per his own preface (p. xvi), 'that the city and province of Rajapur and the country southwards are the seat especially of the currency of the word' — i.e. this is a southern-Konkan form, the Marathi of the Ratnagiri coast bordering the Konkani area. Date (p. 677) gives the derivation कृत्तिका > कृत्तिआ > कात्या, so this is a tadbhava of the Sanskrit name rather than an independent formation — hence 'sanskritic', but it is a REGIONAL sanskritic form, not the tatsama कृत्तिका.</sub>
+
+**कात्या · kātyā** — Marathi (Rajapur / southern Konkan) · *sanskritic* · confidence: certain
+
+कात्याचा पाऊस — the rain that falls under the Kṛttikā nakṣatra
+
+> कात्या kātyā — स्त्री. (अव.) (राजा.) कृत्तिका नक्षत्र [कृत्तिका -कृत्तिआ-कात्या] ॰चा पाऊस -पु. कृत्तिका नक्षत्राचा पाऊस.
+> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. कात्या, p. 677 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%95%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>Date marks the word (राजा.) = Rajapur, agreeing with Molesworth's R, and supplies both the etymology and the agricultural derivative कात्याचा पाऊस, 'the Kṛttikā rain'.</sub>
+
+**कृत्तिका · kṛttikā** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> कृत्तिका kṛttikā f (S) The third of the lunar mansions, Pleiades.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. कृत्तिका, p. 179 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>The tatsama, marked (S) by Molesworth. Representative of the borrowed nakṣatra set as a whole — see summary_findings; the remaining twenty-six are not itemised here.</sub>
+
+**ਕਿਰ੍ਹਕਟੀ · kirhkaṭí** — Punjabi (Punjab) · *sanskritic* · confidence: certain
+
+A strongly Punjabised reflex of Kṛttikā. The dictionary's second sense - a jewel in a nose-ring - repeats exactly the double life of Hindi jhumkā (ear-drop / star-cluster) and of bhalkā (morning star / gold star on a nose-ring): the same ornament vocabulary is used for both the sky and the face.
+
+> KIRHKAṬÍ ਕਿਰ੍ਹਕਟੀ s. f. The Pleiades; a jewel in a nose ring.
+> <br>— Bhai Maya Singh, The Panjabi Dictionary (Lahore, 1895), s.v. kirhkaṭí, p. 617 ([source](https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=617))
+
+<sub>Gurmukhi as printed. This is the only Punjabi Pleiades name found in Maya Singh.</sub>
+
+**බහුලාව · bahulāva** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+> බහුලාව bahulāva , n. indigo, නිල් අවරි; cardamoms, එන් සාල් Pleiades, කැතිනැකත.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. බහුලාව bahulāva, p. 444 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=Pleiades&matchtype=default))
+
+<sub>Sanskrit Bahulā, which the Sanskrit database carries as an Amarakośa synonym of Kṛttikā; Sinhala kept it, with the same indigo/cardamom homonyms Sanskrit has. Clough p. 418 likewise: 'Bahulá, s. indigo ... Pleiades; cow.'</sub>
+
+**කැති නැකත · kæti nækata** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+The ordinary name of the third asterism, and the one that fixes the month Il: Jayatilaka quotes 'käti-nakat lada hil-masa', 'in the month of il when the constellation Pleiades has dawned'.
+
+> (astro.) N. of one of the twenty-seven asterisms; constellation Pleiades: AbhdhSn 62 (p. 10); Ruv 635 ... [Cf. Sk. kṛttikā + nakṣatra.]
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. කැති නැකත kæti nækata, p. 169; and Jayatilaka (ed.), A Dictionary of the Sinhalese Language (Royal Asiatic Society, Ceylon Branch, 1935– ), s.v. කැතිනකත käti-nakata, p. 2994 ([source](https://dsal.uchicago.edu/cgi-bin/app/jayatilaka_query.py?qs=Pleiades&matchtype=default))
+
+<sub>Jayatilaka's etymology bracket settles the register: kṛttikā + nakṣatra, both loans, in Sinhala phonology. A trap to avoid: කැති kæti is separately the plural of කැත්ත 'billhook' (Carter p. 168), so the compound is homophonous with 'billhook asterism'; no source proposes that etymology and it should not be recorded as a literal meaning.</sub>
+
+**கார்த்திகை · kārttikai** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+Sanskrit Kṛttikā in Tamil phonology — asterism, month, and the lamp-festival of the Kārttikai full moon in one word, and by far the most alive of the Sanskritic star-names in Tamil.
+
+> கார்த்திகை kārttikai , n. < kṛttikā. 1. The constellation Pleiades, part of mēṭa-rāci and iṭapa-rāci; ஒரு நட்சத்திரம். (திவா.) 2. cf. kārttika. The eighth month of the Indian calendar; ஒரு மாதம். (சைவச. ஆசாரி. 79.) … 4. cf. kārttika. The full-moon day in the month of Kārttikai when every house is beautifully lit with lamps; கார்த்திகைமாதத்தில் வீடுதோறும் விளக்கேற்றிக் கொண்டாடும் பூர்ணிமை நாள்.
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. கார்த்திகை, vol. II p. 880 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AF%88&searchhws=yes&matchtype=exact))
+
+<sub>The lamp-festival is independently visible in the Caṅkam corpus: Naṭṭār's commentary on Akanāṉūṟu identifies the crowd of women raising lamps in a simile as the கார்த்திகை festival (Project Madurai PM 0490_01, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0490_01.html). The Lexicon also has திருக்கார்த்திகை (p. 1897), 'a festival celebrated in the month of Kārttikai on the day when the moon is in conjunction with Pleiades'.</sub>
+
+**வாகுலை · vākulai** — Tamil (Jaffna, Sri Lanka) · *sanskritic* · confidence: certain
+
+Sanskrit Vahulā (cf. Bahulā, a Sanskrit name of the Pleiades) in Tamil form, recorded from the Yāḻppāṇa Akarāti, the Jaffna Tamil dictionary.
+
+> வாகுலை vākulai , n. < Vahulā. The six presiding female deities of the Pleiades; அறு மீனாகிய கார்த்திகைப்பெண்கள். (யாழ். அக.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. வாகுலை, vol. VI p. 3574, citing the Yāḻppāṇa Akarāti ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AF%81%E0%AE%B2%E0%AF%88&searchhws=yes&matchtype=exact))
+
+<sub>The Lexicon's Tamil paraphrase uses அறுமீன் — 'the Kārttikai women who are the six stars' — so the Sanskritic name is defined by the vernacular one. Compare கார்த்திகைத்தேவிமார் (p. 880) and கார்த்திகைப்பெண்கள் (p. 880), the Tamil equivalents.</sub>
+
+## Comets
+
+**Modern:** comet  
+**Named in 18 languages:** Assamese, Bengali, Gondi, Hindi, Kannada, Khasi, Konkani, Kurukh, Malayalam, Marathi, Mundari, Odia, Punjabi, Santali, Sinhala, Tamil, Telugu, Tulu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Assamese | নেজাল তৰা | *nejāl tarā* | 'tailed star' — Bronson's Assamese gloss spells it out, নেজ লগা তৰা, 'a star with a tail attached' | vernacular |
+| Assamese | নেজাল তৰা | *nejāla tarā* | 'tailed star' | vernacular |
+| Kannada | ಬಾಲಚಿಕ್ಕಿ | *bāla-cikki* | the tail star | vernacular |
+| Malayalam | വാല്‍മീന്‍ | *vālmīn* | 'tail-star' (വാല്‍ tail + മീന്‍ star) | vernacular |
+| Malayalam | വാല്‍നക്ഷത്രം | *vālnakṣatram* | 'tail-star' (native വാല്‍ 'tail' + Sanskrit नक्षत्र) | vernacular |
+| Marathi | शेंडेनक्षत्र | *śēṇḍēnakṣatra* | the topknot star / crested asterism | vernacular |
+| Odia | ଲଞ୍ଜା ତାରା | *Lan̄jā tārā* | 'tail-star'; Praharaj adds the reason — 'because it has a line of light in it like a tail' | vernacular |
+| Sinhala | දුම්·කෙහෙලිය | *dum·keheliya* | 'smoke-banner' (දුම් dum 'smoke' + කෙහෙලි keheli 'banner, trophy of victory') | vernacular |
+| Tamil | புகைக்கொடி | *pukai-k-koṭi* | smoke-banner, streamer of smoke | vernacular |
+| Tamil | வால்மீன் | *vāl-mīṉ* | tail-star | vernacular |
+| Telugu | దుమగతికేతు | *duma-gati-kētu* | — | vernacular |
+| Telugu | తోకచుక్క | *tōka-cukka* | the tailed star | vernacular |
+| Tulu | ಬಾಲನಕ್ಷತ್ರ | *bālanakṣatra* | 'tail-star' | vernacular |
+| Bengali | ঝাঁটাতারা | *jhām̐ṭātārā* | 'the broom star' — Dāsa's own bracket says 'because it is shaped like a broom' | folk |
+| Hindi | झाड़ू / جهاڙو | *jhāṛū* | 'a broom, a besom' | folk |
+| Hindi | केत / کيت | *ket (dum kā tārā)* | 'tail star' | folk |
+| Malayalam | കുറക്കൊള്ളി | *kuṟakkoḷḷi* | 'defect-firebrand' (കുറ want, defect, blemish + കൊള്ളി firebrand) | folk |
+| Punjabi | — | *puchhalwālā tārā / dumdār sitārā* | 'the tailed star' (Indic and Perso-Arabic versions of the same phrase) | folk |
+| Gondi | — | *Kayshar, Kaysaar; Bahari, Bohari; Jhadani, Jhadu; Bhimal Saat* | a broom; Bhimal's sword | tribal |
+| Khasi | — | *'lur-dih-duma* | the tobacco-smoking star | tribal |
+| Kurukh | — | *calkī bīnkō; jhāl-bīnkō, jhālī-bīnkō* | the broom star | tribal |
+| Mundari | — | *joṅg ipil* | broom star | tribal |
+| Santali | — | *Candbol ipil* | tail star | tribal |
+| Bengali | কবন্ধ | *kabandha* | 'a headless trunk; a headless goblin' | sanskritic |
+| Kannada | ಧೂಮಕೇತು | *dhūmakētu* | whose banner is smoke | sanskritic |
+| Konkani | — | *dumaket* | — | sanskritic |
+| Malayalam | ധൂമകേതു | *dhūmakētu* | 'having smoke for its banner' | sanskritic |
+| Tamil | தூமம் | *tūmam* | smoke (< Skt. dhūma) | sanskritic |
+
+**নেজাল তৰা · nejāl tarā** — Assamese (Upper Assam (Sibsagar)) · *vernacular* · confidence: likely
+
+The 1867 attestation of the word the Candrakanta Abhidhana still carries in 1962 (p. 562), which makes it the best-dated vernacular star-word in this file. Bronson's neighbouring entries give the Assamese meteor vocabulary too: উল্কাপাত at p. 72 is glossed with পপিয়া তৰা, and ধুমকেতু at p. 308 is glossed as a meteor rather than a comet.
+
+> নেজাল তৰা, s. নেজ লগা তৰা বিসেস, a comet.
+> <br>— M. Bronson, A Dictionary in Assamese and English, Sibsagor: American Baptist Mission Press, 1867, s.v. নেজাল তৰা, p. 327 ([source](https://archive.org/download/dictionaryinassa00bronrich/page/n338_w1600.jpg))
+
+<sub>Graded likely, not certain, on a point of method: unlike the ভোটাতৰা entry I did not myself read this page image, and Bronson's Assamese cannot be checked against the OCR. The English gloss 'a comet' is confirmed present in the OCR at the corresponding point, and the Assamese form agrees exactly with the Candrakanta Abhidhana's নেজাল তৰা (p. 562). Also note Bronson p. 72, where the Assamese vernacular for a meteor is পপিয়া তৰা — the same word the Candrakanta prints as পপীয়া তৰা.</sub>
+
+**নেজাল তৰা · nejāla tarā** — Assamese (Assam) · *vernacular* · confidence: certain
+
+Glossed by the tatsama ধূমকেতু. The same 'tail-star' formation is the ordinary Odia word (ଲଞ୍ଜା ତାରା lañjā tārā, ଲାଙ୍ଗୁଡ଼ା ତାରା lāṅguṛā tārā, in this file); Praharaj's synonym column prints a Bengali cognate against it as well.
+
+> নেজাল তৰা nejāla, tarā বি. ধূমকেতু; এবিধ তৰা; a comet.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. নেজাল তৰা nejāla tarā, p. 562 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A6%BE%E0%A6%B2%20%E0%A6%A4%E0%A7%B0%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+<sub>Attested in Assamese as early as 1867: Bronson, A Dictionary in Assamese and English, p. 327, 'নেজাল তৰা, s. নেজ লগা তৰা বিসেস, a comet' (separate entry in this file). The tail-star formation is pan-eastern — Odia ଲଞ୍ଜା ତାରା and ଲାଙ୍ଗୁଡ଼ା ତାରା, Kurukh jhal binkō. Hoffmann's guess that the tail-word for a comet was 'first coined by Missionaries' (Encyclopaedia Mundarica VII, p. 1923) cannot hold for Indo-Aryan given this 1867 attestation and the Odia poetic citation from Rādhānātha.</sub>
+
+**ಬಾಲಚಿಕ್ಕಿ · bāla-cikki** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+Also ಬಾಲಚುಕ್ಕೆ bāla-cukke. The colloquial Kannada word.
+
+> — ಬಾಲಚಿಕ್ಕಿ. a comet (My.; ಧೂಮಕೇತು G.). … — ಬಾಲಚುಕ್ಕೆ. = ಬಾಲಚಿಕ್ಕಿ. (My.; Te. ವಾಲುಚುಕ್ಕೆ, the planet Venus, ಶುಕ್ರ).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಬಾಲ bāla, p. 1173 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1173))
+
+<sub>COGNATE PAIR with Telugu తోకచుక్క tōka-cukka. Note the trap in the same line: the Telugu compound Kittel cites as a parallel, vālu-cukke, does NOT mean comet — it is Venus (cf. Brown's చుక్కవాలు, p. 449). Kannada bāla and Telugu vālu are the same word 'tail', but the two languages built different objects out of it.</sub>
+
+**വാല്‍മീന്‍ · vālmīn** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+Gundert marks it V1 (Visscher/older vocabularies), i.e. attested in the earlier Malabar word-lists rather than only in literature.
+
+> വാല്‍നക്ഷത്രം, വാല്‍മീന്‍ a comet V1.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. വാല്‍ vāl, p. 938 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%B5%E0%B4%BE%E0%B4%B2%E0%B5%8D%E2%80%8D&searchhws=yes&matchtype=exact))
+
+<sub>Printed together with the hybrid വാല്‍നക്ഷത്രം (native വാല്‍ + Sanskrit നക്ഷത്രം), which is the form that has survived into modern standard Malayalam; വാല്‍മീന്‍ is the fully native member of the pair.</sub>
+
+**വാല്‍നക്ഷത്രം · vālnakṣatram** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+> വാല്‍നക്ഷത്രം, വാല്‍മീന്‍ a comet V1.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. വാല്‍ vāl, p. 938 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%B5%E0%B4%BE%E0%B4%B2%E0%B5%8D%E2%80%8D&searchhws=yes&matchtype=exact))
+
+<sub>Hybrid coinage: the compound is formed in Malayalam (Sanskrit uses ധൂമകേതു, केतु, not *पुच्छनक्षत्र), so it counts as vernacular formation even though the head noun is a loan. This is the ordinary word for comet in Malayalam today.</sub>
+
+**शेंडेनक्षत्र · śēṇḍēnakṣatra** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+> शेंडेनक्षत्र śēṇḍēnakṣatra, शेंड्येंनक्षत्र śēṇḍyēnnakṣatra n (शेंडी & नक्षत्र. A star with a crest or plume.) A comet.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. शेंडेनक्षत्र, p. 799 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B6%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%B0&searchhws=yes&matchtype=default))
+
+<sub>A Marathi compound on शेंडी, the tuft of hair left at tonsure — the comet as a star wearing the Hindu topknot. The Sanskrit धूमकेतु (Molesworth p. 443, marked S) sits beside it. Molesworth also records at शेंडी sense 3 'the tail of a comet'.</sub>
+
+**ଲଞ୍ଜା ତାରା · Lan̄jā tārā** — Odia (Odisha) · *vernacular* · confidence: certain
+
+Marked ଦେ. and illustrated from Rādhānātha Rāya's Yayāti. Variants and near-synonyms fill the same semantic field: ରଞ୍ଜା ତରା Rañjā tarā (p. 6955), ଲାଙ୍ଗୁଡ଼ା ତାରା Lāṅguṛā tārā (p. 7342), ନକ୍ଷତ୍ର ଲଞ୍ଜା Nakshatra lañjā (p. 4096), and ଲଞ୍ଜା alone (p. 7277).
+
+> ଲଞ୍ଜା ତାରା— Lan̄jā tārā ଦେ. ବି — (ସଂ. ଲଞ୍ଜ+ତାରା)—(ଏଥିରେ ଲାଞ୍ଜ ପରି ଗୁଡ଼ିଏ ଆଲୋକ ରେଖା ଥିବାରୁ)— ଧୂମକେତୁ — Comet. [ଉ—ସ୍କନ୍ଧେ ମହାଶୂଳ ଲଞ୍ଜାତାରା କି ସେ ନାଶିବାକୁ ବୈରି କୁଳ। ରାଧାନାଥ. ଯଯାତି।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଲଞ୍ଜା ତାରା Lan̄jā tārā, p. 7277 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%B2%E0%AC%9E%E0%AD%8D%E0%AC%9C%E0%AC%BE%20%E0%AC%A4%E0%AC%BE%E0%AC%B0%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>The tail-star formation is pan-eastern: Assamese নেজাল তৰা nejāla tarā (this file), and Praharaj's own synonym column gives Bengali and Hindi cognates against the Odia headwords. The Bengali cognate is printed inconsistently in the DSAL transcription (লেজেতারা at one duplicate headword, নেজান তারা at the other), so I have not made a Bengali entry from it.</sub>
+
+**දුම්·කෙහෙලිය · dum·keheliya** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+> දුම්·කෙහෙලිය dum·keheliya , n. comet, වල්ගාතරුව; fire, ගින්න.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. දුම්·කෙහෙලිය dum·keheliya, p. 292 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=comet&matchtype=default))
+
+<sub>A morpheme-for-morpheme Sinhala rendering of Sanskrit dhūma-ketu 'smoke-bannered', which Carter also carries unchanged as ධූම·කේතුව (p. 311). The same word in two registers on facing pages. Carter's cross-reference here uses the fully native වල්ගාතරුව valgā-taruva, while his own headword at p. 568 is the hybrid වල්ගා·තාරකාව valgā·tārakāva, 'tailed-star, viz. comet'.</sub>
+
+**புகைக்கொடி · pukai-k-koṭi** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A Tamil formation for a comet, from the Cilappatikāram's list of portents; the metaphor is a banner or creeper of smoke rather than a tailed star.
+
+> புகைக்கொடி pukai-k-koṭi , n. < id. +. Comet; தூமகேது. புகைக்கொடி தோன்றினும் (சிலப். 20, 102, அரும்.).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. புகைக்கொடி, vol. V p. 2743; quoting the aruñcolpporuḷ on Cilappatikāram 20, 102 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%9F%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>Its twin is கனற்கொடி kaṉaṟ-koṭi 'fire-banner' (Supplement p. S211, quoting Takkayākapparaṇi 457), also 'comet'. The Takkayākapparaṇi commentary at that same verse yields a small Tamil vocabulary of comet-types — அராளகி arāḷaki, அவ்வியக்தி avviyakti, அவீசி avīci (Supplement pp. S062, S071, S076), each glossed 'a kind of comet' — a classification the Lexicon does not further explain and which is not pursued here.</sub>
+
+**வால்மீன் · vāl-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The living Tamil word for a comet, formed on vāl 'tail' + mīṉ 'star'; வால்நட்சத்திரம் vāl-naṭcattiram is the same compound with the Sanskrit word for star, and is the commoner modern form.
+
+> வால்மீன் vāl-mīṉ , n. < வால்² + மீன்¹. See வால்நட்சத்திரம். (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. வால்மீன், vol. VI p. 3616, marked (W.) after Winslow; and s.v. வான்மீன்², p. 3626, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM CAUTION: the variant spelling வான்மீன்² vāṉ-mīṉ (p. 3626) is also 'comet' — the Lexicon derives it from வால் 'tail', not from வான் 'sky' — and sits immediately beside வான்மீன்¹ vāṉ-mīṉ 'star' from வான் 'sky'. Two identical spellings, opposite senses, one page. The head entry வால்நட்சத்திரம் is at p. 3615. Also in the family: வானட்சத்திரம் (p. 3626, Yāḻppāṇa Akarāti) and பாலநக்ஷத்திரம் (p. 2629).</sub>
+
+**దుమగతికేతు · duma-gati-kētu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: likely
+
+> దుమగతికేతు [Tel.] n. A star portending ill-luck. A comet, ధూమకేతువు.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. దుమగతికేతు duma-gati-kētu, p. 602 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=602))
+
+<sub>Brown marks it [Tel.] although it is visibly a Telugu-ised remaking of Sanskrit dhūmaketu (duma < dhūma 'smoke'). Registered vernacular on Brown's own labelling, with the caveat that the material is Sanskrit.</sub>
+
+**తోకచుక్క · tōka-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+The ordinary Telugu word for a comet, still current.
+
+> తోకచుక్క tōka-ṭsukka. n. A comet: a star with a tail. ధూమకేతువు.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. తోక tōka, p. 563 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=563))
+
+<sub>COGNATE PAIR: Kannada ಬಾಲಚಿಕ್ಕಿ bālacikki / ಬಾಲಚುಕ್ಕೆ bālacukke, also 'tail-star' (Kittel p. 1173). Two languages, the same compound, built from different native words for 'tail' (Te. tōka, Ka. bāla). Sanskrit uses dhūmaketu 'smoke-bannered', a different image; both dictionaries gloss the vernacular word with it.</sub>
+
+**ಬಾಲನಕ್ಷತ್ರ · bālanakṣatra** — Tulu (South Canara (Tulu Nadu)) · *vernacular* · confidence: likely
+
+> ಬಾಲನಕ್ಷತ್ರ balanakṣatra, s. A comet.
+> <br>— Männer, Tuḷu–English Dictionary (1886), s.v. ಬಾಲನಕ್ಷತ್ರ bālanakṣatra, p. 481 ([source](https://archive.org/download/tuluenglishdicti00mnrich/tuluenglishdicti00mnrich_djvu.txt))
+
+<sub>Hybrid on the Malayalam വാല്‍നക്ഷത്രം pattern: native 'tail' plus Sanskrit nakṣatra. Männer's English→Tulu volume gives the same word (spelt ಬೀಲನಕ್ಷತ್ರ, p. 75) alongside Sanskrit ಧೂಮಕೇತು dhūmakētu, which he also carries under ಧೂಮ 'smoke' (Tulu→English p. 337). Marked 'likely' on the transliteration, which comes from a garbled OCR line confirmed only in outline against the page.</sub>
+
+**ঝাঁটাতারা · jhām̐ṭātārā** — Bengali (Bengal (marked গ্রা◦, colloquial)) · *folk* · confidence: certain
+
+The Bengali folk comet-word, standing beside the learned ধূমকেতু, whose definition in the same dictionary (p. 1147) also reaches for the broom: 'a luminous body whose rays are shaped like a jhāṛu'.
+
+> ঝাঁটাতারা jhām̐ṭātārā [গ্রা◦। ঝাঁটার আকার বলিয়া] বি, ধুমকেতু।
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. ঝাঁটাতারা jhām̐ṭātārā, p. 882 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=882))
+
+<sub>Register folk on the dictionary's own authority: গ্রা◦ = গ্রাম্য, rustic/colloquial. Compare the eastern 'tail-star' words — Assamese নেজাল তৰা, Odia ଲଞ୍ଜା ତାରା / ଲାଙ୍ଗୁଡ଼ା ତାରା — all in this file. Bengali has reached for a different household object. Corroborated from outside lexicography: Lal Behari Day, Bengal Peasant Life, ch. VIII 'The Village Astrologer', p. 61 (ed. of 1916), reports a village astrologer's reputation made by predicting famine and pestilence "from the appearance in the heavens of a 'fiery broomstick,' as the people called the comet" — the English of the same figure, with no Bengali form printed. And the Mundas of Chota Nagpur call a comet jonọ ipil, the broom star (this file).</sub>
+
+**झाड़ू / جهاڙو · jhāṛū** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+A comet is simply a broom in the sky. The word is otherwise heavily charged in domestic usage - Fallon records the women's curse 'may the broom sweep through your house' - which suits the omen value comets carried.
+
+> H جهاڙو झाड़ू jhāṛū [rt. of jhāṛnā 'to sweep,'+ū = Prk. इडओ = S. (इ)तृ+कः], s.m. A broom, a besom, a whisk; — a comet
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. jhāṛū, p. 400 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=400))
+
+<sub>Also Fallon, p. 493, and Shakespear (1834), p. 653: 'A besom, broom, a comet.'</sub>
+
+**केत / کيت · ket (dum kā tārā)** — Hindi (Hindustani generally; the tail-star form marked dakh. (Deccani) by Shakespear) · *folk* · confidence: certain
+
+ket is the vernacular reduction of Sanskrit Ketu, the descending node and mythic tail; Fallon parses the word for his readers as 'lit. tail star', which is a folk etymology but tells us how it was heard. The transparent Hindustani phrase dum kā tārā says the same thing outright.
+
+> H کيت केत ket; Sant. chanḍbol ipil , (lit. tail star), n. m. S. केतु A comet.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. ket, p. 980 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=980))
+
+<sub>Shakespear (1834), p. 1996: 'دم کا تارا dum kā tārā, s. (dakh.) A comet (Harris)' - printed in the Urdu script and marked Deccani, like palang tīn cor. Platts (p. 526) has dum for a comet and (p. 527) the Persian sitāra-i-dumbāla-dār, 'a star having a tail'. Modern standard Hindi has पुच्छल तारा (McGregor 1993, p. 635).</sub>
+
+**കുറക്കൊള്ളി · kuṟakkoḷḷi** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *folk* · confidence: disputed
+
+An omen-word: Gundert glosses it 'a threatening meteor' and quotes a line meaning 'suddenly from the sky, the ku[ṟakkoḷḷi]'.
+
+> കുറക്കൊള്ളി a threatening meteor, comet (?) ആകാശത്തില്‍ നിന്നുടന്‍ കു. Sk.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. കുറ kuṟa, p. 270 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%95%E0%B5%81%E0%B4%B1&searchhws=yes&matchtype=exact))
+
+<sub>Gundert's own question mark: he is unsure whether the referent is a meteor or a comet. Registered here as disputed for that reason. The first element കുറ 'defect, blemish, disgrace' makes it an ill-omen term rather than a neutral astronomical label.</sub>
+
+**puchhalwālā tārā / dumdār sitārā** — Punjabi (Punjab (contributed from Ambala by Chaina Mall)) · *folk* · confidence: certain
+
+Both layers side by side in one sentence, with an attached practice: on the appearance of a comet subscriptions were raised and Brahmans and mendicants fed, because a comet foretold epidemic or famine.
+
+> All over the Panjab people of all sorts dread the appearance of a puchhalwálá tárá, or dumdár sitárá, or tailed star; i. e., comet, as foreboding evil to the country in the shape of epidemic or famine.
+> <br>— Chaina Mall, 'Panjab - Comets', Indian Notes and Queries, vol. IV (1886-87), note 424 ([source](https://archive.org/details/inq_pnq_v4))
+
+<sub>Roman only in the source. Quoted with OCR noise in the diacritics normalised.</sub>
+
+**Kayshar, Kaysaar; Bahari, Bohari; Jhadani, Jhadu; Bhimal Saat** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+A comet is the weapon of the great god Bhimal Pen, used to cleanse the sins of the world, and is therefore a good omen — the gods are sweeping away or cutting down the evil. In some villages Kayshar names the Pleiades instead.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The broom reading is shared with Mundari joṅg ipil and Kurukh calkī bīnkō. That the same word sometimes names the Pleiades and sometimes a comet is recorded by the authors and left unresolved.</sub>
+
+**'lur-dih-duma** — Khasi (Khasi and Jaintia hills, Meghalaya) · *tribal* · confidence: certain
+
+> 'lur-dih-duma, u, n. the comet.
+> <br>— Nissor Singh, Khasi-English Dictionary (1906), s.v. 'lur-dih-duma, p. 120 ([source](https://archive.org/download/khasienglishdict00singrich/khasienglishdict00singrich_djvu.txt))
+
+<sub>dih is 'to drink', used of smoking, and duma 'tobacco', both in the same dictionary — the comet is the star with a pipe. The only figurative star name Khasi yielded, and quite unlike the broom that the Munda, Kurukh and Gondi languages all use.</sub>
+
+**calkī bīnkō; jhāl-bīnkō, jhālī-bīnkō** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+The appearance of a comet is read as an omen: 'a comet has appeared; we may have this year a famine as well as a plenteous crop.'
+
+> Calkī S. 1. A special kind of grass, from which the Indian broom is made ... Calkī-bīnkō, comet.
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. calkī, p. 123; s.v. bīnkō, p. 85 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+**joṅg ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+Comets portend public calamities. The name is from joṅg, the broom the Mundas sweep their houses with.
+
+> They see a striking resemblance between them and the brooms, joṅg, with which they sweep their houses. A comet is therefore called joṅg ipil.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Hoffmann adds that caḍlom ipil, 'tail star', is also heard but 'seems to have been first coined by Missionaries'. Campbell's independent Santali Candbol ipil suggests otherwise. The broom image is shared with Kurukh (calkī bīnkō) and Gondi (kayshar, jhāḍani, bahārī).</sub>
+
+**Candbol ipil** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+> Candbol ipil. A comet.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Candbol ipil, p. 89 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>candbol is 'a tail' in Campbell (cf. 'Candbol tuthagetaea. His tail is short'). Hoffmann thought the matching Mundari caḍlom ipil 'tail star' was coined by missionaries; Campbell's independent Santali entry weakens that, though both men worked in mission circles.</sub>
+
+**কবন্ধ · kabandha** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+Beside the ordinary ধূমকেতু dhūmaketu (p. 544). The comet as a decapitated body is the same figure as the Rāhu/Ketu myth, and Biswas's entry runs the three senses together.
+
+> কবন্ধ kabandha n. a headless or truncated body; a headless or truncated goblin; the ascending node, the descending node; a comet.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. কবন্ধ kabandha, p. 202 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%95%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7&searchhws=yes&matchtype=exact))
+
+**ಧೂಮಕೇತು · dhūmakētu** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಧೂಮಕೇತು dhūma-kētu. whose sign is smoke : agni, fire (ಪಾವಕ, ಅಗ್ನಿ Nn. 33; ಸಪ್ತಾರ್ಚಿ Mr. 489). 2, a meteor, a falling star; a very portentous object; a comet (ಮಹೋತ್ಪಾದ, ಮಹೋತ್ಪಾತ 33; ಮಹೋತ್ಪಾತ 489).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಧೂಮಕೇತು dhūmakētu, p. 875 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=875))
+
+<sub>The learned counterpart of bāla-cikki, and the word both dictionaries use to gloss the vernacular one.</sub>
+
+**dumaket** — Konkani (South Kanara / Mangalore) · *sanskritic* · confidence: certain
+
+marked (H. K.), i.e. a Hindu Konkani word
+
+> Comet, s. dumaket, -ta, n.
+> <br>— A. F. X. Maffei, An English-Konkani Dictionary (Mangalore: Basel Mission Press, 1883), s.v. Comet, p. 73 ([source](https://archive.org/details/anenglishkonkan00bygoog))
+
+<sub>Sanskrit dhūmaketu in Konkani phonology. Maffei's (H. K.) tag — rendered '{U, K.}' by the scan — is his mark for vocabulary belonging to Hindu rather than Christian Konkani speakers, and it recurs on the Milky Way name dudavat and on Planet (p. 344, 'graha'). Konkani here simply has no separate Christian-register word, which is itself informative about how thin the sky vocabulary of this dictionary is.</sub>
+
+**ധൂമകേതു · dhūmakētu** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Gundert's citation is about the direction of its rising: 'ധൂ. പടിഞ്ഞാറു ഉദിക്ക' — the comet rises in the west (from Brahmāṇḍapurāṇam), an omen datum.
+
+> ധൂമകേതു having smoke for a sign (= fire); a comet ധൂ. പടിഞ്ഞാറു ഉദിക്ക Brhmd.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ധൂമം dhūmam, p. 521 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%A7%E0%B5%82%E0%B4%AE%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>The learned counterpart of വാല്‍മീന്‍. Gundert also records, s.v. വൈദ്യം p. 998, that 'some call a comet വൈധൃതി' — vaidhṛti, otherwise the name of an astrological yoga.</sub>
+
+**தூமம் · tūmam** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+The Caṅkam word for a comet as a portent, in the Puṟanāṉūṟu omen-triad beside Saturn and Venus.
+
+> 6. See தூமகேது. தூமந் தோன்றினும் (புறநா. 117).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. தூமம் sense 6, vol. IV p. 2018; quoting Puṟanāṉūṟu 117 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%82%E0%AE%AE%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Puṟanāṉūṟu 117 line was verified independently in the Project Madurai e-text (PM 0057, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html): 'மைம் மீன் புகையினும், தூமம் தோன்றினும்,'. HOMONYM: the same headword's senses 1-5 are smoke, perfume, censer, an astrological term, and a potter's kiln; sense 6 alone is the comet. The full form is தூமகேது tūma-kētu (p. 2018), 'Comet, one of four karantuṟaikōḷ' — 'the four hidden-and-appearing bodies', a Tamil classification of transient sky-objects.</sub>
+
+## Venus as morning star
+
+**Modern:** Venus  
+**Named in 17 languages:** Assamese, Bengali, Gondi, Hindi, Ho, Khasi, Kodava, Kurukh, Malayalam, Marathi, Mundari, Nicobarese, Odia, Punjabi, Sinhala, Tamil, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Assamese | ভোটাতৰা | *bhoṭātarā* | 'the big star' — the Assamese gloss opens বৰ তৰা, 'great star' | vernacular |
+| Assamese | পুবঁতী-তৰা | *pubantī-tarā* | 'the dawn star' (pubā 'to dawn, to break — of night') | vernacular |
+| Kodava | — | *boḷḷi mi·nï* | 'silver star' / 'white star' — boḷḷi 'silver' (< Dravidian *veḷ 'white') + mi·nï 'star' (< Dravidian *mīn) | vernacular |
+| Malayalam | പെരുമീന്‍ | *perumīn* | 'great star' (പെരു- big, great + മീന്‍ star) | vernacular |
+| Odia | କୁଆତରା | *Kuātarā* | a worn-down form of kāvya-tārā, 'the star of Kāvya' — Kāvya/Uśanas being Śukra, the preceptor of the asuras | vernacular |
+| Odia | ପାହାନ୍ତି ତାରା | *Pāhānti tārā* | 'the daybreak star' | vernacular |
+| Sinhala | දවහත්·තරුව | *davahat·taruva* | 'day-star' (Carter's own gloss) | vernacular |
+| Sinhala | පහන් තරුව / පහන්·තාරකාව | *pahan taruva / pahan·tārakāva* | 'dawn-star' — Carter's adjacent headword is 'පහන් pahan , a. pert. to light or morning' (p. 371) | vernacular |
+| Tamil | வைகுறுமீன் | *vaikuṟu-mīṉ* | daybreak-star (vaikuṟu 'to become dawn') | vernacular |
+| Tamil | வெடி | *veṭi* | — | vernacular |
+| Tamil | விடிவெள்ளி | *viṭi-veḷḷi* | dawn-white, the white one of daybreak | vernacular |
+| Telugu | వేగుచుక్క | *vēgu-cukka* | the dawn star | vernacular |
+| Bengali | পোয়াতে-তারা | *poẏāte-tārā* | 'the dawning star' — Dāsa derives it from প্রভাতিয়া prabhātiyā, 'of the dawn' | folk |
+| Hindi | भलका / بهلکا | *bhalkā* | 'daybreak' | folk |
+| Hindi | भुरका / بهرکا | *bhurkā* | 'the dawn one' (Platts derives it from S. vyuṣṭa 'daybreak'; cf. Hindi bhor 'dawn') | folk |
+| Hindi | — | *ujāle-kā tārā* | 'the star of the daylight' | folk |
+| Malayalam | കൊററി | *koṟṟi* | — | folk |
+| Marathi | बैलमाऱ्या | *bailamāṟyā* | bullock-killer | folk |
+| Odia | ଖଚୁଆ ତରା | *Khachuā tarā* | 'the tale-telling star', from khaca, an account or report | folk |
+| Odia | ଫୁକିଆ (ଫୁକିଆତରା) | *Phukiā (Phukiātarā)* | uncertain; Praharaj gives no derivation | folk |
+| Punjabi | — | *Tapt Tārā* | glossed by the contributor as 'the Galloping Star' | folk |
+| Tamil | சொக்கவெள்ளி | *cokka-veḷḷi* | pure/refined silver; hence the morning star | folk |
+| Gondi | — | *Jevan Sukum (Jevan Tara, Dohan Chandani); Pahat Sukum (Pahat Sukir, Pahat Tara)* | the dinner star; the dawn star | tribal |
+| Ho | — | *aṅgo ipil (printed 'ango ipil', 'anyo ipil')* | the dawn star | tribal |
+| Khasi | — | *'lur-shai* | the light star, the bright star | tribal |
+| Kurukh | — | *bijj-bīnkō (morning); ḍhurti-bīnkō (evening); bhurkā* | the dawn star; the dusk star | tribal |
+| Mundari | — | *Lugu ipil, mahara ipil, gaikohaṛ ipil* | Lugu's star; the cowherd's star | tribal |
+| Mundari | — | *aṅgo ipil* | the dawn star | tribal |
+| Nicobarese | — | *mi-sa-ha* | — | tribal |
+| Nicobarese | — | *mu-shāha* | — | tribal |
+
+**ভোটাতৰা · bhoṭātarā** — Assamese (Upper Assam (Sibsagar)) · *vernacular* · confidence: certain
+
+This fills the one gap the modern Assamese dictionary leaves: the Candrakanta Abhidhana has পুবঁতী তৰা for Venus as morning star but NO evening-star word at all. Bronson has both — the main entry gives the evening star, and the Addenda at the back of the volume add the morning star to the same headword.
+
+> ভোটাতৰা, s. বৰ তৰা, চাইউঁৰিয়া সকত তৰা, a large star, Venus, the evening star.
+> <br>— M. Bronson, A Dictionary in Assamese and English, Sibsagor: American Baptist Mission Press, 1867, s.v. ভোটাতৰা, p. 439 (with Addenda, p. 608) ([source](https://archive.org/download/dictionaryinassa00bronrich/page/n450_w1600.jpg))
+
+<sub>Transcribed by me directly from the page image linked above; the archive.org OCR of Bronson's Assamese fount is unusable noise and cannot be relied on for any headword in this dictionary. The second Assamese word in the gloss, চাইউঁৰিয়া, is legible but its sense is not clear to me and I have not guessed at it. The folio number is the scan's pagination (leaf n450). The Addenda entry, reported in the same scan, reads 'ভোটাতৰা, s. add …, also the morning star' — i.e. Bronson corrected himself, reaching the same conclusion Praharaj states for Odia, that the two apparitions are one body.</sub>
+
+**পুবঁতী-তৰা · pubantī-tarā** — Assamese (Assam) · *vernacular* · confidence: certain
+
+Given inside the entry for শুক্ৰ as the Assamese equivalent of the tatsama planet-name. This is the Assamese member of the eastern set of 'dawn-star' words for Venus — cf. Odia ପାହାନ୍ତି ତାରା pāhānti tārā and ପୁଆଁ ତରା puāñ tarā in this file.
+
+> শুক্ৰ śukra [সং.] বি. ভৱগু মুনিৰ পুতেক-দৈত্য-গুৰু; the preceptor of the Asuras. 2। ছয় সংখ্যাৰ গ্ৰহৰ নাম; পুবঁতী- তৰা; Venus, the morning star. 3। শুকুৰবাৰ Friday.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. শুক্ৰ śukra, p. 843 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%B6%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A7%B0&searchhws=yes&matchtype=exact))
+
+<sub>'ভৱগু' is DSAL OCR for ভৃগু. The dictionary has no entry for an evening-star word; that gap is recorded in summary_findings.</sub>
+
+**boḷḷi mi·nï** — Kodava (Kodagu (Coorg)) · *vernacular* · confidence: certain
+
+> Koḍ. ... boḷḷi silver ... boḷḷi mi·nï morning star
+> <br>— Burrow & Emeneau, A Dravidian Etymological Dictionary, entry 5496(a), Kodagu section (DSAL p. 499) ([source](https://dsal.uchicago.edu/cgi-bin/app/burrow_query.py?page=499))
+
+<sub>The single most valuable Kodava find: a fully native Dravidian name for Venus, built from two inherited roots. It is also the ONLY place in DEDR where Kodagu mi·nï 'star' appears at all — DEDR 4876, the *mīn entry, gives Kodagu only 'minn- to lighten, flicker' and gives Tulu no star word whatever, though it gives 'Ma. mīn star' and 'Ta. mīṉ star'. So Kodagu has kept the ancient Dravidian word for star only inside this one compound. DEDR romanizes only; no script is printed, so name_native is null. Burrow & Emeneau's 2nd edition (1984) is in copyright; the entry is quoted here as raw lexical data, minimally, for attestation.</sub>
+
+**പെരുമീന്‍ · perumīn** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+Specifically the morning apparition of Venus.
+
+> പെരുമീന്‍ 1. the morning star, Venus Vl. 2. the large sheat-fish B.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. പെരുക്കുക perukkuka, p. 701 (sub-entry പെരുമീന്‍) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AA%E0%B5%86%E0%B4%B0%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%95%2C+%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%81&searchhws=yes&matchtype=exact))
+
+<sub>The two senses in the single entry — 'morning star' and 'the large sheat-fish' — are the മീന്‍ homonymy in miniature. Malayalam thus distinguishes the morning star lexically (പെരുമീന്‍, കൊററി) from Venus generally (വെള്ളി, വെണ്മീന്‍); Gundert records no separate evening-star word.</sub>
+
+**କୁଆତରା · Kuātarā** — Odia (Odisha) · *vernacular* · confidence: certain
+
+Marked ଦେ., with the Sanskrit etymon given. Defined by the watch: the bright body that rises in the east with one prahara of night still to go.
+
+> କୁଆତରା— Kuātarā ଦେ. ବି. (ସଂ. କାବ୍ୟତାରା)— ପ୍ରଭାତ ହେବା ପୂର୍ବରୁ ରାତ୍ରି ଏକ ପ୍ରହର ଥାଇ ଯେଉଁ ଉଜ୍ଜ୍ୱଳ ଜ୍ୟୋତିଷ୍କ ପୂର୍ବଦିଗରେ ଉଦିତ ହୁଏ; ଶୁକ୍ରଗ୍ରହ—The morning star; Venus.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. କୁଆତରା Kuātarā, p. 1613 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%95%E0%AD%81%E0%AC%86%E0%AC%A4%E0%AC%B0%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>The tatsama it descends from is also in the dictionary: କାବ୍ୟତାରକା Kābytārakā, p. 1511, 'The morning star; Venus'. Odia thus has the same word twice, once learned and once worn down.</sub>
+
+**ପାହାନ୍ତି ତାରା · Pāhānti tārā** — Odia (Odisha) · *vernacular* · confidence: certain
+
+The general Odia term, and the one Praharaj uses to define all the others. His note is unusually careful: the morning star is NOT one body — at different times of year Mars, Jupiter, Venus and Saturn rise before dawn in the east, but Venus is the brightest of them and Jupiter next.
+
+> The morning star; the shining star seen in the eastern sky before dawn. [ଦ୍ର—ଏହା ଗୋଟିଏ ନୁହେଁ, ବର୍ଷର ଭିନ୍ନ ଭିନ୍ନ ସମୟରେ ଭିନ୍ନ ଭିନ୍ନ ଗ୍ରହ ଯଥା—ମଙ୍ଗଳ, ବୃହସ୍ପତି, ଶୁକ୍ର ଓ ଶନି ପାହାନ୍ତିଆ ସମୟରେ ପୂର୍ବଦିଗରୁ ଉଅଁନ୍ତି—କିନ୍ତୁ ସମସ୍ତଙ୍କ ମଧ୍ୟରେ ଶୁକ୍ର ଉଜ୍ଜ୍ୱଳତମ ଓ ତା ପରେ ବୃହସ୍ପତି।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ପାହାନ୍ତି ତାରା Pāhānti tārā, p. 4814 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%AA%E0%AC%BE%E0%AC%B9%E0%AC%BE%E0%AC%A8%E0%AD%8D%E0%AC%A4%E0%AC%BF%20%E0%AC%A4%E0%AC%BE%E0%AC%B0%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>This is the correct lexicographic position and it is worth flagging against the rest of this group: 'morning star' in Odia is a functional description, and only usually Venus. The doublet ପୁଆଁ ତରା Puāñ tarā (p. 4877, ଦେ., from ପ୍ରଭାତୀ ତାରା) is the worn-down form.</sub>
+
+**දවහත්·තරුව · davahat·taruva** — Sinhala (Sri Lanka) · *vernacular* · confidence: disputed
+
+> දවහත්·තරුව davahat·taruva , n. day-star, morning star, Venus, පහන්තාරකාව.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. දවහත්·තරුව davahat·taruva, p. 278 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=morning%20star&matchtype=default))
+
+<sub>Carter makes it the morning star; Jayatilaka quotes it in a classical simile as the EVENING star — 'tārā-gaṇayan kerehi arundhatī davahat-taru sē diliyeyi', s.v. අරුන්දති, p. 641. Clough (p. 236) lists it with no gloss at all: 'Dawahat-taruwa, s. star so called.' The word is certainly attested and certainly native; which apparition of Venus it names is not settled by the sources, hence 'disputed'.</sub>
+
+**පහන් තරුව / පහන්·තාරකාව · pahan taruva / pahan·tārakāva** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+> පහන් තරුව, පහන්·තාරකාව pahan taruva, pahan·tārakāva , n. morning star, Venus, Lucifer, සිකුරුතරුව.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. පහන් තරුව pahan taruva, p. 371 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=morning%20star&matchtype=default))
+
+<sub>The doublet පහන් තරුව / පහන් තාරකාව shows the two registers side by side in one headword: native තරුව taruva against Sanskrit තාරකා tārakā. Jayatilaka attests the native form in running text s.v. අස්තඞ්ගමය (p. 947).</sub>
+
+**வைகுறுமீன் · vaikuṟu-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The Caṅkam name for the morning star. In Akanāṉūṟu 17 the last silk-cotton blossoms scattered by the wind along a desert road are compared to it.
+
+> வைகுறு மீனிற் றோன்று
+> <br>— Akanāṉūṟu 17 (Pālai); text and commentary of Na. Mu. Vēṅkaṭacāmi Nāṭṭār, Project Madurai e-text PM 0490_01 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0490_01.html))
+
+<sub>Nāṭṭār's gloss in the same e-text reads 'வைகுறு மீனில் தோன்றும் - விடியற்காலத்தே வானத்தே காணப்படுகின்ற மீன் போன்று தோன்றுதற்கிடனான' — 'appearing like the star seen in the sky at dawn'. The Tamil Lexicon (s.v. வைகுறுமீன், vol. VI p. 3850) defines it 'Morning star; விடிவெள்ளி' and cites this line as அகநா. 17. Note that the verse itself says only 'the dawn star'; the equation with Venus specifically is the lexicographers'.</sub>
+
+**வெடி · veṭi** — Tamil (Tamil Nadu) · *vernacular* · confidence: likely
+
+A nikaṇṭu word for the morning star, recorded from the Piṅkala Nikaṇṭu.
+
+> வெடி⁴ veṭi , n. < வெடி³-. Venus, as the morning star; விடிவெள்ளி. (பிங்.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. வெடி⁴, vol. VI p. 3773, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>SEVERE HOMONYM: வெடி² on the same page runs to nineteen senses — explosion, noise, thunder, gun, fireworks, fissure, hate, ruin, fear, incense, perfume, stench, toddy, a dice-play cant term, and (marked Nāñ.) 'big lie'. வெடி⁴ 'Venus' is a separate headword with a separate etymology, attested only in a lexicographical work, with no literary quotation. Confidence 'likely' on that account. Also on the same page வெடி⁵ = 'open plain'.</sub>
+
+**விடிவெள்ளி · viṭi-veḷḷi** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The everyday modern Tamil name of the morning star, and the word the Lexicon uses to define all the others.
+
+> விடிவெள்ளி viṭi-veḷḷi , n. < விடி² +. Venus, as the morning star; பின்னிரவில் தோன்றுஞ் சுக்கிரன். (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. விடிவெள்ளி, vol. VI p. 3659, marked (W.) after Winslow ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>Its poetic doublet is விடிமீன் viṭi-mīṉ 'dawn-star' (p. 3658, quoting Kallāṭam 17, 12, 'விடிமீன் முளைத்த தரளம்'), and its morning/evening pair is காலைவெள்ளி kālai-veḷḷi 'morning-white' (p. 900) against மாலைவெள்ளி mālai-veḷḷi 'evening-white' (p. 3179). All four are Tamil formations on veḷḷi.</sub>
+
+**వేగుచుక్క · vēgu-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Also వేగురుచుక్క vēguru-cukka and వేకువచుక్క vēkuva-cukka. The standard Telugu name.
+
+> వేగుచుక్క, వేగురు చుక్క or వేకువచుక్క vēga-ṭsukka. n. The morning star, the planet Venus, శక్రుడు, వేగుజాము vēgu-dzāmu. n. The morning watch. రాత్రి నాలుగవజాము, వేకువజాము తెల్లవారుజాము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. వేగు vēgu, p. 1226 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1226))
+
+<sub>Independently attested from the Kannada side: Kittel cites it under ಬಯ್ಗು baygu (p. 1143) as 'Te. ವೇಗುಜುಕ್ಕೆ, the morning star', in a comparative note on Dravidian *vaikV- 'to dawn'. Brown's Telugu gloss శక్రుడు is a misprint for శుక్రుడు (Śukra = Venus).</sub>
+
+**পোয়াতে-তারা · poẏāte-tārā** — Bengali (Bengal) · *folk* · confidence: certain
+
+Illustrated from a work Dāsa abbreviates গ্রহ-নক্ষত্র ('Planets and Stars'): 'have you seen the poẏāte-tārā, or śuk-tārā?' — the citation itself glossing the folk word with the standard one.
+
+> পোয়াতে-তারা poẏāte-tārā [প্রভাতিয়া >] বি, শুকতারা। "তোমরা পা◦ তা◦ বা শুক তারাকে দেখিয়াছ কি?"-গ্রহ-নক্ষত্র।
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. পোয়াতে-তারা poẏāte-tārā, p. 1386 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=1386))
+
+<sub>This is the Bengali member of the eastern 'dawn-star' set: Assamese পুবঁতী তৰা, Odia ପାହାନ୍ତି ତାରା and ପୁଆଁ ତରା (the last also from প্রভাতী তারা). All four are independent worn-down reflexes of a 'dawn' word plus 'star'. DSAL's headword index encodes this lemma's য় as U+09DF.</sub>
+
+**भलका / بهلکا · bhalkā** — Hindi (eastern Hindi belt (Fallon marks the sense 'morning star' E., the nose-ring sense W.)) · *folk* · confidence: certain
+
+The same word means both 'the morning star' and 'a gold star or patch fixed on a nose-ring' - the ornament/star doubling seen also in jhumkā and in Punjabi kirhkaṭī.
+
+> H بهلکا भलका bhalkā , s.m. Dawn of day, morning ( = bhor); the morning star (syn. bhurkā); a gold star or patch fixed on a nose-ring.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. bhalkā, p. 191 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=191))
+
+<sub>The regional split is Fallon's, p. 300: '1. (E). The morning star (bhurkā). 2. A gold star hanging in a nose-ring. W.'</sub>
+
+**भुरका / بهرکا · bhurkā** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+A purely vernacular formation on the word for daybreak, with no Sanskrit or Persian star name behind it.
+
+> H بهرکا भुरका bhurkā [S. व्युष्ट+कः], s.m. The morning star (cf. bhor).
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. bhurkā, p. 186 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=186))
+
+<sub>Also Fallon, p. 304, s.v. bhur'kā. Platts's identification is 'the morning star' without naming Venus; the equation with Venus is secured by his own ujāle-kā tārā entry and by Fallon's.</sub>
+
+**ujāle-kā tārā** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+Named from the watch it belongs to: Platts's preceding sub-entry is ujāle-kā pahrā, 'the morning watch, the watch which begins at dawn'. The star is the one that stands in that watch.
+
+> ujāle-kā tārā, s.m. The morning star, the planet Venus.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. ujālā, p. 23 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=23))
+
+<sub>Headword printed as उजाला / اجالا; compound in roman only. Fallon, p. 37, s.v. ujā'lā, has the same.</sub>
+
+**കൊററി · koṟṟi** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *folk* · confidence: likely
+
+North Malabar dialect (Gundert's 'No.' = Northern). Used with the verb of rising: കൊററി ഉദിച്ചു 'the morning star has risen' — the phrase of a rural day beginning.
+
+> കൊററി (T. the goddess Durga) l. a young one. — a ewe; a stork. So. MC. ... 3. morning- star, കൊററി ഉദിച്ചു No.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. കൊററം koṟṟam, p. 309 (sub-entry കൊററി, sense 3) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%95%E0%B5%8A%E0%B4%B1%E0%B4%B1%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Marked 'likely' because Gundert says only 'morning star', without naming the body; the morning star is normally Venus but Jupiter and Mercury are so called too. The headword's other senses (Tamil Koṟṟavai, the war-goddess; a young animal; a stork) leave the motivation for the star sense unrecovered. This is the most purely local item in the Malayalam set — a North Malabar word with no Sanskrit counterpart at all.</sub>
+
+**बैलमाऱ्या · bailamāṟyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+a caravan name: travellers who start their cattle on the false dawn Jupiter announces
+
+> बैलमाऱ्या bailamāṟyā m (Bullock-killer.) A name amongst the वाणी & कुणबी classes for the planet Jupiter. (Because the rising of this planet being sometimes mistaken for that of Venus, and the dawn thus being judged to be approaching, travelers start off their cattle to encounter, it may be, long darkness with all its troubles and accidents).
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. बैलमाऱ्या, p. 592 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AC%E0%A5%88%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>A planet, not a star, but the best single specimen of Deccan folk sky-knowledge in Molesworth: attributed to named communities (Vāṇī traders and Kuṇbī cultivators), grounded in a practical error — confusing Jupiter's heliacal rising with Venus as morning star — and named for its cost in dead bullocks.</sub>
+
+**ଖଚୁଆ ତରା · Khachuā tarā** — Odia (Odisha) · *folk* · confidence: certain
+
+The best piece of sky-lore in Praharaj. Because the star is seen sometimes before dawn and sometimes for a watch after nightfall, people believe it goes ahead to Yama and reports the doings of the people of this world.
+
+> ଖଚୁଆ ତରା— Khachuā tarā ଦେ. ବି— ପାହାନ୍ତିଆ ତାରା— Morning Star. [ଦ୍ର—ଏ ତାରା କେତେକ ମାସ ରାତି ନ ପାହୁଣୁ ଓ କେତେକ ମାସ ରାତି ପହରକ ପର୍ଯ୍ୟନ୍ତ ଦେଖାଯିବାରୁ ଲୋକ ବିଶ୍ୱାସ ଯେ ଏ ପୃଥିବୀର ଲୋକଙ୍କ ନାମରେ ଯମ ଆଗରେ ଯାଇ ଖଚ କହେ।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଖଚୁଆ ତରା Khachuā tarā, p. 1890 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%96%E0%AC%9A%E0%AD%81%E0%AC%86%20%E0%AC%A4%E0%AC%B0%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>Note what the folk belief is doing: it is an explanation of Venus's alternation between morning and evening apparitions — the star is absent because it has gone to Yama's court to file its report. The literal meaning given here is my reading of khaca 'account, report' as used in the note itself.</sub>
+
+**ଫୁକିଆ (ଫୁକିଆତରା) · Phukiā (Phukiātarā)** — Odia (Garjat (the Odisha princely states)) · *folk* · confidence: certain
+
+Marked ପ୍ରାଦେ. (ଗଡ଼ଜାତ), provincial to the Garjat states. Defined by the clock and by the work it starts: the star that rises at 4 a.m., with the example sentence 'when Phukiā rises the fisherwomen begin husking chuṛā (flattened rice)'.
+
+> ଫୁକିଆ— Phukiā (ଫୁକିଆତରା—ଅନ୍ୟରୂପ) ପ୍ରାଦେ. (ଗଡ଼ଜାତ) ବି— ରାତି 4 ଟା ବେଳେ ଉଦିତ ହେବ ପାହାନ୍ତିଆ ତାରା; ଶୁକ୍ର ଗ୍ରହ— Morning star; the planet Venus rising in the early morning. (ଯଥା—ଫୁକିଆ ଉଠିଲେ କେଉଟୁଣିମାନେ ଚୁଡ଼ାକୁଟା ଆରମ୍ଭ କରନ୍ତି।)
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଫୁକିଆ Phukiā, p. 5239 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%AB%E0%AD%81%E0%AC%95%E0%AC%BF%E0%AC%86&searchhws=yes&matchtype=exact))
+
+<sub>A working-day marker rather than an agricultural-calendar marker: the star tells the hour, not the season. Paired with ଫୁକିଆ, note that the Sambalpuri name for the EVENING star is also a fisher word — କେଉଁଟି ତାରା, from keuṭa, the fisher caste.</sub>
+
+**Tapt Tārā** — Punjabi (Punjab (contributed from Kasur by Ghulam Hussain Khan)) · *folk* · confidence: likely
+
+Named for motion: Venus visibly shifts against the stars faster than any other bright object, and the name records the observation.
+
+> A common name for the planet Venus or the Morning Star is in the Panjab Tapt Tárá, the Galloping Star, from its quick movement.
+> <br>— Ghulam Hussain Khan, 'Panjab - Name for Venus - The Morning Star', Indian Notes and Queries, vol. IV (1886-87), note 363 ([source](https://archive.org/details/inq_pnq_v4))
+
+<sub>confidence likely: the first element is uncertain in the scanned type (Tapt / Ṭapaṭ) and the contributor's gloss 'galloping' does not obviously match Sanskrit tapta 'heated'; no script form is printed.</sub>
+
+**சொக்கவெள்ளி · cokka-veḷḷi** — Tamil (Nāñcilnāṭu (Kanniyakumari district)) · *folk* · confidence: certain
+
+A FOLK USE with a practical function: the Lexicon's illustrative sentence is a traveller's, 'The morning star has risen, so let us set out.' Marked Nāñ., i.e. the Nāñcilnāṭu dialect of the far south.
+
+> சொக்கவெள்ளி cokka-veḷḷi , n. < சொக்கம்¹ +. 1. [K. cokkabeḷḷi, Tu. cokkaboḷḷi.] See சொக்கக்கட்டிவெள்ளி. Colloq. 2. Morning star; விடிவெள்ளி. சொக்கவெள்ளி உதயமாகிவிட்டதாற் புறப்படுவோம். Nāñ.
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. சொக்கவெள்ளி sense 2, vol. III p. 1646, marked Nāñ. ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AF%8A%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM within the entry: sense 1, marked Colloq. and with Kannada and Tulu cognates, is refined silver bullion. The metal sense and the planet sense are the same metaphor running in two directions, which is exactly the veḷḷi trap. The star sense is fixed by the illustrative sentence — one does not set out on a journey because bullion has risen.</sub>
+
+**Jevan Sukum (Jevan Tara, Dohan Chandani); Pahat Sukum (Pahat Sukir, Pahat Tara)** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Jevan is the meal: the star that rises in the east in the evening and says it is time to eat, also the star that says it is time to milk the cow. Pahat Sukum stands overhead at 4 a.m. and says it is time to start work.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The authors note that Gond informants recognise the evening and morning stars as the same body, which implies a working notion of a planet; but apart from Venus they identified no other moving star.</sub>
+
+**aṅgo ipil (printed 'ango ipil', 'anyo ipil')** — Ho (Kolhan, Singhbhum, Jharkhand) · *tribal* · confidence: certain
+
+> anyo ipil (n. a.) morning star
+> <br>— Burrows, Ho Grammar, with Vocabulary (1915), English-Ho vocabulary s.v. 'morning star', and Ho-English vocabulary s.v. anyo ipil ([source](https://archive.org/download/hogrammarwithvoc00burruoft/hogrammarwithvoc00burruoft_djvu.txt))
+
+<sub>Directly cognate with Mundari aṅgo ipil. Burrows' scan carries no usable page numbers in its OCR, so the citation is by headword only. Ho is the one Munda language of the three for which no dictionary on Hoffmann's or Bodding's scale exists, and Burrows records no constellation names at all.</sub>
+
+**'lur-shai** — Khasi (Khasi and Jaintia hills, Meghalaya) · *tribal* · confidence: certain
+
+> 'lur-shai, u, n. the morning star.
+> <br>— Nissor Singh, Khasi-English Dictionary (1906), s.v. 'lur-shai, p. 120 ([source](https://archive.org/download/khasienglishdict00singrich/khasienglishdict00singrich_djvu.txt))
+
+<sub>shai is 'light, bright' in the same dictionary.</sub>
+
+**bijj-bīnkō (morning); ḍhurti-bīnkō (evening); bhurkā** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+> bhurkā s. The star Venus. Bhurkā-bīnkō. — Syn. Bijj-bīnkō (morning star), ḍhurti-bīnkō (evening star.)
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. bijj-bīnkō, p. 82; s.v. bhurkā, p. 114; s.v. bīnkō, p. 85 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+<sub>bijj- is the same element as bijj-ghaṛī 'dawn, peep of day' and bijjnā 'to dawn'. bhurkā is cognate with the Mundari Sadan loan burka ipil (< Hindi bhor kā tārā).</sub>
+
+**Lugu ipil, mahara ipil, gaikohaṛ ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+Lugu is the cowherd in Siṅgboṅga's service, and is visible only when, like the maharas on earth, he drives the cattle out a little before dawn.
+
+> Lugu ipil or mahara ipil is no other than the Morning star.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Cross-entered at vol. V col. 1357: 'gaikohaṛ-ipil syn. of mahara ipil'. Hoffmann observes that the Mundas make no distinction between stars and planets and never noticed that planets do not twinkle.</sub>
+
+**aṅgo ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The star that heralds dawn; aṅgo-dipli is 'at dawn, at daybreak'.
+
+> aṅgo-ipil syn. of burkaipil, sbst., the morning star, i. e., Mars, Saturn, Jupiter and Venus when they happen to rise a little before dawn.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. I, s.v. aṅgo-ipil ([source](https://archive.org/download/dli.ernet.14919/14919-Encyclopedia%20Mundarica%20Vol-i%20%281950%29_djvu.txt))
+
+<sub>Hoffmann's ipil article gives two further names for the morning star: burka ipil, which he says is a corruption of Hindi bhor kā tārā and so a Sadan loan, and a compound meaning 'the star which drives home the thieves, warning them that the light of day is coming', whose Mundari form is too badly OCR'd in both scans to record — its first element is evidently kumbuṛu, 'thief'.</sub>
+
+**mi-sa-ha** — Nicobarese (Car Nicobar) · *tribal* · confidence: certain
+
+> mi-sa-ha, the morning Star.
+> <br>— Whitehead, Dictionary of the Car-Nicobarese Language (1925), s.v. mi-sa-ha ([source](https://archive.org/download/dictionaryofcarn0000whit/dictionaryofcarn0000whit_djvu.txt))
+
+<sub>Cognate with Man's Central Nicobarese mu-shāha, from an independent dictionary of a different island and a different Nicobarese language. Whitehead also has mi-letü-chö, 'a certain star; perhaps the morning star', cross-referred to Sa-nim-pi-radi, 'the evening star'; he identifies neither, and they are recorded here only in this note.</sub>
+
+**mu-shāha** — Nicobarese (Central Nicobars (Nancowry group)) · *tribal* · confidence: certain
+
+> Morning-star, mu-shāha.
+> <br>— Man, A Dictionary of the Central Nicobarese Language (1889), English-Nicobarese p. 60 s.v. Morning-star; also p. 90 s.v. Star ([source](https://archive.org/download/adictionarycent00mangoog/adictionarycent00mangoog_djvu.txt))
+
+<sub>Man also gives an evening-star and a falling-star term at p. 90, but both are too badly OCR'd in the Internet Archive scan to record.</sub>
+
+## Orion
+
+**Modern:** Orion · Orion  
+**Sanskrit database:** `mriga` — Mṛga (Prajāpati) (the celestial deer = Orion) ([entry](../star-names/star-names.json))  
+**Named in 16 languages:** Assamese, Bengali, Chhattisgarhi, Gondi, Hindi, Kannada, Malayalam, Marathi, Mundari, Odia, Punjabi, Sinhala, Tamil, Telugu, Toda, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Assamese | কালপুৰুষ | *kālapuruṣa* | 'the man of Kāla / of Death' | vernacular |
+| Bengali | কালপুরুষ | *kālapuruṣa* | Dāsa parses it 'Kāla (= Yama), his puruṣa (= assistant)', a genitive tatpuruṣa; but his second sense reads Kāla as TIME — 'the star-cluster that measures kāla, i.e. the rains and the other seasons' | vernacular |
+| Bengali | কালপুরুষ | *kālapuruṣa (Kālpuruṣ)* | 'the man of Kāla' — Kāla being both Time and Death (Yama); hence 'the Time-man / the black man', Yama's envoy | vernacular |
+| Odia | କାଳପୁରୁଷ | *Kāḻapurusha* | 'the man of Kāla / Death' — Praharaj's gloss makes the body black: 'the black bodied hideous messenger of the God of Death' | vernacular |
+| Odia | କାଳପୁରୁଷର ଡାହାଣ ଖୁଆ ମୁଣ୍ଡି | *Kāḻapurushara ḍāhāṇa khuā muṇḍi* | 'the knob of Kālapuruṣa's right shoulder' | vernacular |
+| Tamil | மும்மீன் | *mu-m-mīṉ* | three-star, the three stars | vernacular |
+| Telugu | జాబిలిరిక్క | *jābili-rikka* | the moon's star | vernacular |
+| Telugu | పగడపురిక్క | *pagaḍapu-rikka* | the coral star | vernacular |
+| Urdu | جبار | *jabbār* | 'the giant, the mighty one' | vernacular |
+| Urdu | جوزا | *jauzā* | Arabic al-jawzāʼ | vernacular |
+| Chhattisgarhi | — | *[no vernacular form printed] 'the plough left by one of the Pandava brothers'* | — | folk |
+| Hindi | — | *harinā-harin* | 'the stag and the hind' | folk |
+| Kannada | ಆರಿದ್ರ | *āridra* | — | folk |
+| Marathi | मृगशितळाई | *mṛgaśitaḷāī* | the Mṛga-coolness | folk |
+| Odia | ଅଦ୍ରାବଳି | *Adrābaḻi* | 'the Ārdrā-row' — the string of stars containing Ārdrā | folk |
+| Punjabi | — | *traṅgar* | 'the wide-meshed pack-net' | folk |
+| Gondi | — | *Topli, Topali* | a basket | tribal |
+| Mundari | — | *cuṭu gutu'keḍ ipil* | the one who has spitted the mice | tribal |
+| Mundari | — | *cuṭu ipilkiŋ* | the two mice stars | tribal |
+| Mundari | — | *nahel ipil* | the plough star | tribal |
+| Mundari | — | *siṭan ipil* | the ploughing star | tribal |
+| Toda | — | *Pŏdimīn* | porcupine star | tribal |
+| Bengali | ইলবলা (also ইলবকা) | *ilabalā (ilabakā)* | Ilvala, the asura brother of Vātāpi | sanskritic |
+| Kannada | ಇಲ್ವಲೆಗಳ್ | *ilvalegaḷ* | — | sanskritic |
+| Kannada | ಆಗ್ರಹಾಯಣಿ | *āgrahāyaṇi* | she who begins the year | sanskritic |
+| Malayalam | — | *Tiruvatira (Ardra star)* | — | sanskritic |
+| Malayalam | ഇന്വകകള്‍ | *invakakaḷ* | — | sanskritic |
+| Malayalam | മകയിരം | *makayiram* | — | sanskritic |
+| Malayalam | ആതിര / തിരുവാതിര | *ātira / tiruvātira* | തിരു- is the honorific 'sacred, holy' | sanskritic |
+| Marathi | — | *Mrig* | — | sanskritic |
+| Marathi | मृग | *mṛga* | deer, antelope | sanskritic |
+| Odia | ମୟୂରତୁଣ୍ଡ | *Mayūratuṇḍa* | 'the peacock's beak' | sanskritic |
+| Odia | ସୌମ୍ୟ | *Sa̲u̲mya* | 'belonging to Soma' | sanskritic |
+| Sinhala | — | *Muwa-sirasa (muvasirasa)* | 'deer's head' — Clough parses it, 'මුව and සිරස head' | sanskritic |
+| Tamil | திருவாதிரை | *tiru-v-ātirai* | holy Ātirai (Skt. ārdrā), with the Tamil honorific tiru- | sanskritic |
+
+**কালপুৰুষ · kālapuruṣa** — Assamese (Assam) · *vernacular* · confidence: certain
+
+Assamese has the same Orion-figure as Bengali and Odia. What is distinctively Assamese is the reckoning: the dictionary defines the figure as 'the group containing seven very bright stars' (সাতোটা অতি উজ্জ্বল নক্ষত্ৰ থকা ৰাশি), i.e. Orion counted as seven bright stars rather than by its parts.
+
+> কালপুৰুষ kālapuruṣa বি. সুৰুতি ব্ৰহ্মৰ্ষিৰ ভেশ ধৰি ৰামচন্দ্ৰক স্বৰ্গলৈ নিবলৈ অহা এজন পুৰুষৰ নাম … 2। সাতোটা অতি উজ্জ্বল নক্ষত্ৰ থকা ৰাশি; the constellation Orion. 3। মৱত্যু-দেবতা।
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. কালপুৰুষ kālapuruṣa, p. 210 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A7%B0%E0%A7%81%E0%A6%B7&searchhws=yes&matchtype=exact))
+
+<sub>The DSAL transcription of this dictionary renders the Assamese vowel sign ৃ as ৱ throughout (মৱত্যু for মৃত্যু, কৱত্তিকা for কৃত্তিকা). The headword কালপুৰুষ itself is unaffected. In sense 1 the Assamese tradition additionally identifies Kālapuruṣa as the figure who came in the guise of the brahmarṣi Suruti to take Rāmacandra to heaven — a Rāmāyaṇa episode, not the Yama-messenger of the Bengali and Odia dictionaries.</sub>
+
+**কালপুরুষ · kālapuruṣa** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+The second and better Bengali source for the prize word. Dāsa gives the alternative name অগ্রহায়ণী Agrahāyaṇī, and appends an English note describing the belt: 'one of the constellations containing seven very bright stars, three of which in a straight line, form Orion's belt'.
+
+> কালপুরুষ kālapuruṣa [কাল (যম) তার পুরুষ (সহকারী)-6 তৎ] বি, যমকিঙ্কর; যমের ভৃত্য। 2 পুরুষাকৃতি নক্ষত্রপুঞ্জ; কাল- (বর্ষাদি ঋতু) পরিমাপক নক্ষত্রপুঞ্জ; ইহার নামান্তর অগ্রহায়ণী the constellation Orion […] 3 শুভাশুভ জ্ঞাতার্থে জন্মলগ্নাদি কল্পিত দ্বাদশ রাশি।
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. কালপুরুষ kālapuruṣa, p. 512 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=512))
+
+<sub>This entry settles the 'Time-man' question: Bengali lexicography itself reads kāla BOTH ways, as Death in the etymology and as season-time in the astronomical sense — 'the cluster by which the seasons are measured'. The seven-bright-star count in the English note is the same reckoning the Assamese dictionary gives (Candrakanta p. 210), and the alternative name Agrahāyaṇī is the same one Praharaj gives for Odia (p. 1552). The three dictionaries are describing one eastern tradition.</sub>
+
+**কালপুরুষ · kālapuruṣa (Kālpuruṣ)** — Bengali (Bengal (standard literary Bengali)) · *vernacular* · confidence: certain
+
+The ordinary modern Bengali word for Orion; it is the name under which the figure is taught in Bengali schoolbooks and popular astronomy, and it has no counterpart in the Sanskrit star-lists, where Orion is Mṛga/Prajāpati and only its parts (Mṛgaśiras, Ārdrā, Iṣus trikāṇḍā) are named.
+
+> কালপুরুষ kālapuruṣa n. (myth.) an attendant or envoy of Yama, the god of death; (astr.) the Orion.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. কালপুরুষ kālapuruṣa, p. 231 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7&searchhws=yes&matchtype=exact))
+
+<sub>This is the flagship entry for this database: a constellation figure named in the modern eastern NIA languages and not inherited as a constellation name from Sanskrit. In Sanskrit, kālapuruṣa is (a) Yama's black-bodied messenger and (b) in jyotiṣa the 'zodiacal man' on whose body the twelve rāśis are laid out; neither is the constellation Orion. The transfer of the name to Orion is shared by Bengali, Odia and Assamese (see the Odia and Assamese entries here) and is therefore an eastern-Indian innovation, not a Bengali one alone. Praharaj's Odia entry preserves the 'black-bodied' gloss that Biswas's English shortens to 'attendant or envoy of Yama'.</sub>
+
+**କାଳପୁରୁଷ · Kāḻapurusha** — Odia (Odisha) · *vernacular* · confidence: certain
+
+The Odia entry is the one that preserves the colour term the Bengali dictionary drops, and it also anatomises the figure: head = Mṛgaśirā, one shoulder = Ārdrā, waist-belt = the three stars Ilwaḻā; another name Agrahāyaṇī.
+
+> କାଳପୁରୁଷ— Kāḻapurusha ସଂ. ବି— 1। କୃଷ୍ଣବର୍ଣ୍ଣ ଶରୀରବିଶିଷ୍ଟ ବିକଟାକାର ଯମଙ୍କ କିଙ୍କର… — 1. The black bodied hideous messenger of the God of Death who comes to dying people with J̄ama's order to take them. 2। ଯମ—2. The God of Death. 3। ପୁରୁଷାକୃତ ନକ୍ଷତ୍ରପୁଞ୍ଜ— 3. The constellation Orion. [ଦ୍ର—ଏହାର ମସ୍ତକ ମୃଗଶିରା ଓ ଗୋଟିଏ ଖୁଆମୁଣ୍ଡି ଆର୍ଦ୍ରା; ଏହାର କଟିବନ୍ଧ ଇଲ୍ୱଳା ତାରକାତ୍ରୟ। ଏହାର ଅନ୍ଯ ନାମ ଅଗ୍ରହାୟଣୀ।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. କାଳପୁରୁଷ Kāḻapurusha, p. 1552 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%95%E0%AC%BE%E0%AC%B3%E0%AC%AA%E0%AD%81%E0%AC%B0%E0%AD%81%E0%AC%B7&searchhws=yes&matchtype=exact))
+
+<sub>Praharaj marks the headword ସଂ. (Sanskrit) — that is a statement about the morphemes, not about the constellation sense, which is sense 3 and has no Sanskrit precedent. Sense 4 is the jyotiṣa 'zodiacal man', the genuinely Sanskrit meaning, and Praharaj keeps the two apart.</sub>
+
+**କାଳପୁରୁଷର ଡାହାଣ ଖୁଆ ମୁଣ୍ଡି · Kāḻapurushara ḍāhāṇa khuā muṇḍi** — Odia (Odisha) · *vernacular* · confidence: certain
+
+Given as the Odia or native name of Ārdrā — that is, the sixth nakṣatra is identified for an Odia reader not by a Sanskrit epithet but by its place on the Kālapuruṣa figure. The same note names Mṛgaśirā 'ଓଡ଼ିଆ ବା ଦେଶୀୟ ନାମ—କାଳପୁରୁଷର ମୁଣ୍ଡ', the head of Kālapuruṣa.
+
+> ଆକାର ଓ ତାରକା ସଂଖ୍ୟା—ଗୋଟିଏ ହଳଦିଆ ଉଜ୍ଜ୍ୱଳ ତାରା। ଓଡ଼ିଆ ବା ଦେଶୀୟ ନାମ—କାଳପୁରୁଷର ଡାହାଣ ଖୁଆ ମୁଣ୍ଡ। ପାଶ୍ଚାତ୍ୟ ନାମ—Betelgeus.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note on the 6th asterism ଆର୍ଦ୍ରା, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>This is the analytically important point about Odia: the Kālapuruṣa figure is not an ornament added on top of the nakṣatra system, it is the frame the nakṣatras of that part of the sky are described BY.</sub>
+
+**மும்மீன் · mu-m-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A Tamil counting-name, from மூ 'three', for the asterism the Sanskrit tradition calls 'the deer's head'. Recorded by the Tivākaram, the oldest surviving Tamil glossary.
+
+> மும்மீன் mu-m-mīṉ , n. < id. + மீன்¹. The fifth nakṣatra. See மிருகசீருடம். (திவா.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. மும்மீன், vol. V p. 3272, citing the Tivākaram ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>CAUTION against a natural misreading: 'three stars' in Orion suggests the Belt to a modern eye, but the fifth nakṣatra is the head-group λ, φ¹, φ² Orionis, and the Tamil Lexicon refers the word to மிருகசீருடம் (p. 3201, < Skt. mṛga-śīrṣa). Winslow independently describes the mansion as 'containing three stars in Orion, and figured by an antelope's head' (1862, s.v. மிருகம், p. 869) — the same three stars, the head not the belt. NEGATIVE FINDING: no Tamil name for Orion's Belt as a separate figure was found in either lexicon. The Lexicon's other name for the fifth nakṣatra is மதிநாள் mati-nāḷ 'moon-star' (p. 3057, Piṅkala Nikaṇṭu), Soma being its presiding deity.</sub>
+
+**జాబిలిరిక్క · jābili-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Built on jābili, the native Telugu word for the moon.
+
+> జాబిల్లి or జాబిలి [Tel. జాను+పిల్లి, i.e., చెవులపిల్లి.] n. The moon. చంద్రుడు. … జాబిలిరిక్క the constellation called మృగశీర్ష.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. జాబిల్లి ḍzābilli, p. 481 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=481))
+
+<sub>This is one of a complete set of Telugu descriptive names for the lunar mansions that Brown records piecemeal under their first elements. They are formed X-cukka / X-rikka ('X-star') or X-rūpu-rikka ('X-shaped star'), and are entirely independent of the Sanskrit names, which Telugu also has. Motivation uncertain: possibly because Mṛgaśiras is the mansion in which the moon's month Mārgaśīrṣa is full, or from the deer that the Sanskrit name and the Telugu word for the moon (jābili, glossed by Brown from the hare in the moon) share.</sub>
+
+**పగడపురిక్క · pagaḍapu-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+A colour name.
+
+> పగడపు జిట్ట n. A kind of bird. పక్షివిశేషము. పగడపురిక్క pagaḍapu-rikka. n. The constellation called అర్ద్రానక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. పగడపు జిట్ట pagaḍapu-jiṭṭa, p. 695 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=695))
+
+<sub>This is a genuine observational name and not a translation of anything Sanskrit. Ārdrā is Betelgeuse, one of the two reddest bright stars in the sky, and pagaḍamu is coral, i.e. red. Brown corroborates the equation coral = bright star at మెరుగు p. 1031, where merugu-rikka is glossed both 'Coral' and 'A bright star'.</sub>
+
+**جبار · jabbār** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+Arabic al-jabbār, the giant - one of the two Arabic names of Orion that Urdu inherits. Platts files it in the same entry as the divine epithet 'Omnipotent', which is how the word is otherwise met in Urdu.
+
+> A جبار jabbār (superl. or intens. fr. جبر), adj. & s.m. Omnipotent, mighty; — a conqueror; a revenger; a tall palm tree; Orion.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. jabbār, p. 375 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=375))
+
+<sub>Also Shakespear (1834), p. 611. The Panjab list in Panjab Notes and Queries II.521 (p. 84) gives 'Orion. Arabic: An-nasaq, the row; al Jabbár, the giant.'</sub>
+
+**جوزا · jauzā** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+In Urdu jauzā covers both the zodiac sign Gemini and the constellation Orion - the classical Arabic ambiguity carried over whole. Fallon (p. 1072) gives it as the Arabic equivalent of Hindi mithun, Gemini.
+
+> A جوزا jauzā , s.m. The sign Gemini; — Orion.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. jauzā, p. 397 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=397))
+
+<sub>Also Shakespear (1834), p. 647, in identical terms.</sub>
+
+**[no vernacular form printed] 'the plough left by one of the Pandava brothers'** — Chhattisgarhi (Chhattisgarh (Dhuri caste, rice-parchers)) · *folk* · confidence: certain
+
+> Orion is the plough left by one of the Pandava brothers after he had finished tilling the heavens.
+> <br>— Russell & Hiralal, The Tribes and Castes of the Central Provinces of India (1916), vol. II, article 'Dhuri', p. 529 ([source](https://archive.org/download/in.ernet.dli.2015.175422/2015.175422.The-Tribes-And-Castes-Of-The-Central-Provinces-Of-India-Vol-ii_djvu.txt))
+
+<sub>The plough reading of Orion again, here fused with epic material — the ploughman is a Pandava. Russell gives no Chhattisgarhi word.</sub>
+
+**harinā-harin** — Hindi (North-Western Provinces (Mirzapur/Saharanpur region; recorded by Pandit Ram Gharib Chaube for Crooke's journal)) · *folk* · confidence: disputed
+
+A children's sky-name taught by mothers, with a Brahmā-and-Purvacitti pursuit myth attached in which Śiva takes the form of the Ārdrā asterism to help the hind. The living folk survival of the Vedic Mṛga/Prajāpati story, still located in Orion.
+
+> Hindu mothers teach their children to point to the sky as they say these stars are the Stag and the Hind. Near them is a constellation which looks like a hunter armed with a bow and arrows.
+> <br>— Pandit Ram Gharib Chaube, 'The Harina Harin Stars', North Indian Notes and Queries, vol. V (1895-96), note 517 ([source](https://archive.org/details/ninq_v5))
+
+<sub>confidence disputed: the note names no individual stars. The location in Orion is secured by the myth's use of the Ārdrā asterism (Betelgeuse) as Śiva's form; on the Sanskrit precedent the 'hunter with a bow and arrows' would be the Belt-as-arrow with Sirius as Mṛgavyādha the hunter, but the note does not say so, and no vernacular name for that figure is given.</sub>
+
+**ಆರಿದ್ರ · āridra** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *folk* · confidence: certain
+
+SEASONAL. The Ārdrā period is July-August in Kittel's reckoning, and an insect is named from it.
+
+> ಆರಿದ್ರ āridra. Tbh. of ಆರ್ದ್ರೆ. the sixth lunar mansion (My.; Mhr. ಆರದ್ರಾ. -ಆರಿದ್ರಪುಱು. the insect called lady-bird or maybug, so called because it appears in July and August, which season is called Ārdre (Te. ಆರುದ್ರೆಪುರುಗು, ಆರ್ದ್ರೆ; R.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಆರಿದ್ರ āridra, p. 168 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=168))
+
+<sub>The clearest Kannada case of a nakṣatra name in ordinary rural use: the ladybird is the 'Ārdrā-worm' because it comes out in the Ārdrā rains. Kittel gives the Telugu equivalent ఆరుద్రపురుగు in the same breath, so the usage is shared across both languages — a genuine Telugu/Kannada folk pair. Registered folk rather than sanskritic because the reference is to the season, not the star.</sub>
+
+**मृगशितळाई · mṛgaśitaḷāī** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+the damp chill at the break of the monsoon, under the Mṛga rains
+
+> मृगशितळाई mṛgaśitaḷāī, मृगशितळी mṛgaśitaḷī f The dampness and chilliness of weather that prevails at the beginning of the monsoon, during the falling of the rain of the मृगनक्षत्र.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. मृगशितळाई, p. 663 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AE%E0%A5%83%E0%A4%97%E0%A4%B6%E0%A4%BF%E0%A4%A4%E0%A4%B3%E0%A4%BE%E0%A4%88&searchhws=yes&matchtype=default))
+
+<sub>A weather-word built on a star-name — Marathi formation on मृग + शीतळ.</sub>
+
+**ଅଦ୍ରାବଳି · Adrābaḻi** — Odia (Odisha (rustic/colloquial)) · *folk* · confidence: certain
+
+Marked ଗ୍ରା. (grāmya, rustic). The variants ଆର୍ଦ୍ରାବଳି Ārdrābaḻi (p. 814, marked ଦେ. deśī, sense 4 'The constellation of orion') and ଅରାବଳି Arābaḻī (p. 564, ଦେ. 'ଆର୍ଦ୍ରାବଳି; କାଳପୁରୁଷ ନକ୍ଷତ୍ରପୁଞ୍ଜ — The constellation of Orion') give the same word at three degrees of erosion.
+
+> ଅଦ୍ରାବଳି— Adrābaḻi ଗ୍ରା. ବି. (ସଂ. ଆର୍ଦ୍ରା)— … 3। (ସଂ. ଆର୍ଦ୍ରା+ଆବଳି)—ଆର୍ଦ୍ରାନକ୍ଷତ୍ର ସମନ୍ୱିତ କାଳପୁରୁଷ ନାମକ ନକ୍ଷତ୍ର ପୁଞ୍ଜ — 3. The constellation of Orion. ପୂର୍ବେ ଅଦ୍ରାବଳୀ ପଶ୍ଚିମେ ରୋଇ / ନାଥ ବୋଲେ ପୁତାରେ ନିଶ୍ଚେ ଯିବ ଧୋଇ। ଡାକବଚନ।
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଅଦ୍ରାବଳି Adrābaḻi, p. 236 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%85%E0%AC%A6%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%AC%E0%AC%B3%E0%AC%BF&searchhws=yes&matchtype=exact))
+
+<sub>CAUTION ON THE PROVERB. The Ḍākabacana couplet appended here ('Adrābaḻī in the east, Roi in the west — Nātha says, my son, it will surely be washed away') is printed by Praharaj under THREE different headwords, and under two of them the word means a RAINBOW, not Orion: ଆର୍ଦାବଳି p. 813 (ଗ୍ରା., 'ଇନ୍ଦ୍ରଧନୁ — Rainbow') and ଆର୍ଦ୍ରାବଳି p. 814 sense 1 ('Rainbow'), and ରୋଇ is itself a straight rainbow (see ଋଜୁରୋହିତ p. 1080). The couplet is therefore a rain-prognostic about rainbows east and west; it is NOT evidence that Orion was an agricultural marker. I record it because Praharaj attached it to the Orion sense, and I flag the attachment as wrong.</sub>
+
+**traṅgar** — Punjabi (Jhang District and Multan, western Punjab) · *folk* · confidence: disputed
+
+The same net-word applied to a second star-group. Which part of Orion is meant is not specified beyond 'the upper part', so the identification is deliberately loose here.
+
+> The upper part of Orion is also called trangar.
+> <br>— M. Longworth Dames, 'Names for the Great Bear', Panjab Notes and Queries, vol. II (Feb. 1885), note 522, p. 84 ([source](https://archive.org/details/pnq_v2))
+
+<sub>confidence disputed because 'the upper part of Orion' is not resolved to named stars; it may be the shoulders (Betelgeuse-Bellatrix) with the head, or the whole quadrilateral read as a net.</sub>
+
+**Topli, Topali** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: disputed
+
+The basket of seed used for sowing the fields that Tipan has ploughed.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Placed at Lepus in some villages and at γ and β Orionis in others.</sub>
+
+**cuṭu gutu'keḍ ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+The ploughman's small son, who has skewered the two mice on a splinter of bamboo to roast them; the three stars lie on a straight line.
+
+> cuṭu gutu'keḍ ipil sbst., the star which holds the pinned mice, the harder and more southern of the three stars in Orion's dagger.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. III, s.v. cuṭu gutu'keḍ ipil, col. 936 ([source](https://archive.org/download/in.ernet.dli.2015.14921/2015.14921.Encyclopedia-Mundarica-Vol-iii-1930_djvu.txt))
+
+<sub>'harder' in the scan is an OCR corruption, most probably for 'harder to see' or 'larger'.</sub>
+
+**cuṭu ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+Mice turned up by the ploughshare in the tableau; roasted mice are a much-coveted delicacy.
+
+> cuṭu ipilkiŋ, sbst., the two mice stars, the two smaller stars visible in Orion's dagger.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. III, s.v. cuṭu ipilkiŋ, col. 936; also vol. VII s.v. ipil col. 1920 ([source](https://archive.org/download/in.ernet.dli.2015.14921/2015.14921.Encyclopedia-Mundarica-Vol-iii-1930_djvu.txt))
+
+<sub>The dual suffix -kiŋ is grammatical: exactly two stars. Hoffmann calls them fifth-magnitude stars 'in Orion's dagger'; he gives no Bayer letters and none are supplied here.</sub>
+
+**nahel ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+In the version heard in villages south of Ranchi, where the belt is the yoke Siṅgboṅga was chiselling, the plough itself is Rigel.
+
+> the yoke is represented by the three Kings (the three stars in Orion's belt), and the plough, nahel ipil, by Rigel.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Printed 'naVal ipil' in the better of the two scans; nahel is the ordinary Mundari and Santali word for a plough and the gloss 'the plough' is Hoffmann's own, so the reading is secure enough to record.</sub>
+
+**siṭan ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+Rigel is the ploughman himself, standing a little behind his team; Hoffmann notes the four stars form an elongated isosceles triangle with Rigel at the apex, which is what suggested the ploughman's stance.
+
+> sitan-ipil sbst., the ploughing star, i.e., Rigel. Sitan ipilko, the ploughing stars, i.e., the group formed by the ploughman Rigel and his team, the three stars in Orion's belt (araṛd ipilko).
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Quoted from the separate headword at Encyclopaedia Mundarica vol. XIII col. 4011 (https://archive.org/download/dli.ernet.14932/), which confirms the reading given in the ipil article.</sub>
+
+**Pŏdimīn** — Toda (Nilgiri hills, Tamil Nadu) · *tribal* · confidence: certain
+
+The sword stars are a porcupine, and the three stars of the belt are trying to escape from it.
+
+> A group of stars called Pŏdimīn, or porcupine star, corresponds to the stars in the sword of Orion. They are regarded as a porcupine from which the three stars of the belt are trying to escape.
+> <br>— Rivers, The Todas (1906), p. 594 ([source](https://archive.org/download/todas00rivegoog/todas00rivegoog_djvu.txt))
+
+<sub>Two Internet Archive scans print the name as 'Pbdimin' and 'PbdimiUy'; the reading Pŏdimīn is supported by Katikālmin, where -mīn is evidently 'star', and by Rivers' own glossary, which gives podi for the porcupine (p. 267) and mul for its quills. Note that this reverses the Munda and Gondi reading of the same region of sky: for them the belt is a plough or a yoke and the sword is mice or a hunter's kill.</sub>
+
+**ইলবলা (also ইলবকা) · ilabalā (ilabakā)** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+Haughton marks both as feminine and 'used in the plural only' — the Vedic plural Ilvalāḥ preserved intact in a Bengali dictionary of 1833.
+
+> ইলবকা s. (f. used in the plural only) Stars in the head of Orion. See ইলবলা. — ইলবলা s. (f. used in the plural only) Stars in the head of Orion.
+> <br>— Sir Graves Champney Haughton, A Dictionary, Bengáli and Sanskrit, explained in English, London: printed by J. L. Cox and Son, 1833, s.v. ইলবকা / ইলবলা, p. 419 ([source](https://archive.org/download/dictionarybengal1687haug/page/leaf252_w2400.jpg))
+
+<sub>THE POINT OF THIS ENTRY IS THE CONTRAST. Bengali keeps Ilvalā where Sanskrit had it, on Orion's HEAD (compare the Sanskrit database entry ilvala, from the Taittirīya tradition). Odia has moved the same word down to Orion's BELT — Praharaj s.v. ଇଲ୍ୱଳା p. 876, and again at pp. 1552 and 4106. Two neighbouring languages, one inherited word, two different asterisms. Transcribed from the page image, which I read directly: Haughton's fount cuts র as ৰ throughout, and the headwords are printed with plain ব, ইলবকা / ইলবলা, not the conjunct ল্ব of the Odia form.</sub>
+
+**ಇಲ್ವಲೆಗಳ್ · ilvalegaḷ** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: likely
+
+> ಇಲ್ವಲೆಗಳ್ ilvalegaḷ. (Sk. ಇಲ್ವಲಾಃ). the five stars in Orion's head.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಇಲ್ವಲೆಗಳ್ ilvalegaḷ, p. 206 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=206))
+
+<sub>The Sanskrit Ilvalāḥ / Invakāḥ with the Kannada plural -gaḷ, which is why the register is sanskritic but the form is Kannada. Kittel says five stars; the Vedic and later tradition, and the Sanskrit database entries 'ilvala' and 'invaka', give three (λ, φ¹, φ² Orionis). The discrepancy is recorded, not resolved; modern_star follows the standard three-star identification.</sub>
+
+**ಆಗ್ರಹಾಯಣಿ · āgrahāyaṇi** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಆಗ್ರಹಾಯಣಿ āgrahāyaṇi. N. of a lunar mansion, Mṛigaśiras (Orion).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಆಗ್ರಹಾಯಣಿ āgrahāyaṇi, p. 151 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=151))
+
+<sub>The one place either dictionary names Orion as a constellation rather than a mansion, and it does so through a Sanskrit word. Neither Brown nor Kittel has any vernacular Orion or Orion's-Belt name; searches for 'Orion', 'three stars' and 'belt' in both dictionaries returned nothing indigenous. A significant negative finding.</sub>
+
+**Tiruvatira (Ardra star)** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Ethnographic confirmation that the asterism, not merely the festival name, is what Kerala reckons by: Thurston lists it among the Nambūtiri Brahman observances of the year, fixed to the month of Dhanu, preceded by seven days of pre-dawn bathing and kept as a night vigil by husband and wife.
+
+> (5) Tiruvatira or Ardra star. — In the month of Dhanu. This is a day of universal festivity and rejoicing.
+> <br>— Thurston & Rangachari, Castes and Tribes of Southern India (Madras, 1909), vol. V, s.v. Nambutiri Brahman, pp. 194–195 ([source](https://archive.org/download/castestribesofso05thuruoft/castestribesofso05thuruoft_djvu.txt))
+
+<sub>Thurston romanizes only; no Malayalam script is printed, so name_native is left null. Across all seven volumes of Thurston, searched electronically, no Malayalam vernacular star name appears at all: the words Pleiades, Orion, Canopus, Sirius, Arcturus, pole star and Milky Way do not occur once in the whole work.</sub>
+
+**ഇന്വകകള്‍ · invakakaḷ** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: likely
+
+> ഇന്വകകള്‍ invakakaḷ‍ invaγaγaḷ Tdbh. ഇല്വക S. 5 Stars in the head of Orion.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഇന്വകകള്‍ invakakaḷ, p. 108 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%B5%E0%B4%95%E0%B4%95%E0%B4%B3%E0%B5%8D%E2%80%8D&searchhws=yes&matchtype=exact))
+
+<sub>A striking survival: Gundert marks it a tadbhava of Sanskrit ilvakā (Vedic Ilvalāḥ / Invakāḥ, the old name of Mṛgaśiras), a word that is archaic even in Sanskrit. Malayalam keeps it with a native plural in -kaḷ. Gundert's count of five differs from the three or five usually given for the Vedic asterism; 'likely' rather than 'certain' for that reason.</sub>
+
+**മകയിരം · makayiram** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+> മകയിരം makayiram maγairam & മകയിര്യം (S. മൃഗ ശീര്‍ഷം). The 5th constellation, head of Orion. മകീരം മുന്നല്‍ നടന്ന കന്നിയില്‍ (astrol.).
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. മകയിരം makayiram, p. 769 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AE%E0%B4%95%E0%B4%AF%E0%B4%BF%E0%B4%B0%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>A heavy phonological reshaping of mṛgaśīrṣa — mṛga- → maka-, -śīrṣa → -yiram — with a further contracted form മകീരം makīram quoted from an astrological text. Malayalam thus names Orion's head twice over, here and at ഇന്വകകള്‍.</sub>
+
+**ആതിര / തിരുവാതിര · ātira / tiruvātira** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: likely
+
+The most socially prominent asterism in Kerala. Tiruvātira in Dhanu is a women's festival of Śiva; the Tiruvātira ñāṟṟu at the start of Mithunam is the planting period at the burst of the south-west monsoon (Gundert s.v. ഞാറു, p. 412).
+
+> ആതിര ātira āδira T. M. & തിരുവാതിര (S. ആ ര്‍ദ്രാ ) The 6th Asterism, star in Gemini.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ആതിര ātira, p. 79 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%86%E0%B4%A4%E0%B4%BF%E0%B4%B0&searchhws=yes&matchtype=exact))
+
+<sub>Gundert marks it 'T. M.', i.e. shared Tamil-Malayalam, not a fresh Sanskrit loan; and he places the star in Gemini, where Ārdrā is standardly Betelgeuse in Orion. The Kerala school's own texts put Ārdrā at Betelgeuse, so Gundert's 'Gemini' is treated here as loose — hence 'likely'. Thurston's account of the Nāyars (Castes and Tribes of Southern India, vol. V) heads the festival section 'Tiruvatira or Ardra star', confirming the asterism identification outside the dictionary.</sub>
+
+**Mrig** — Marathi (Bombay Presidency (Deccan and Konkan)) · *sanskritic* · confidence: certain
+
+reaches the zenith at midnight on a fixed day, which is how the lunar months are named
+
+> The constellation of Mrig consists of seven stars, four like the legs of a cot and three others under them in a line.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 64 ([source](https://archive.org/details/folkloreofbombay00reen/page/n66))
+
+<sub>IMPORTANT CAUTION for anyone reading cot-figures across Indian languages: on this one page Enthoven applies the cot image to TWO different groups — Orion here, and the Great Bear eight lines later. A bare report that 'the cot' is a folk constellation therefore does not identify a star group by itself. The seven stars of Mrig here are evidently the Belt plus the four corner stars of Orion (Betelgeuse, Bellatrix, Saiph, Rigel), which is not the classical Mṛgaśīrṣa (the three faint stars of the deer's head, λ φ¹ φ² Orionis) — the folk figure has absorbed the whole of Orion.</sub>
+
+**मृग · mṛga** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+Pr. मृगाचे अधीं पेरावें आणि बोंबेचे अधीं पळावें — 'sow before Mṛg, run before the shout'; the onset of the monsoon in Maharashtra is dated to this asterism
+
+> मृग mṛga m (S) A deer, an antelope. 2 The fifth नक्षत्र or lunar mansion: also the rain that falls under it. Pr. मृगाचे अधीं पेरावें आणि बोंबेचे अधीं पळावें.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. मृग, p. 663 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AE%E0%A5%83%E0%A4%97&searchhws=yes&matchtype=exact))
+
+<sub>The name is Sanskrit; the USE is thoroughly vernacular. मृग is the single most important star-word in the Marathi agricultural calendar — the official revenue year मृगसाल and the Deccan फसलीसाल both begin with it (Molesworth, s.v. मृगसाल p. 663 and फसलीसाल p. 550), and Molesworth's derivatives मृगबार, मृगशितळाई and मृगाचा किडा all key crop, weather and insect to it.</sub>
+
+**ମୟୂରତୁଣ୍ଡ · Mayūratuṇḍa** — Odia (Odisha) · *sanskritic* · confidence: likely
+
+Stars 9-13 of Praharaj's Orion diagram, identified in the same entry as σ, 42, θ, ι and υ Orionis and as 'Orion's dagger'.
+
+> 9। 10।11।12।13 ମୟୂରତୁଣ୍ଡ … 9. 10 11. 12. 13 Orion's dagger
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note item 36 କାଳପୁରୁଷ ପୁଞ୍ଜ, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>I have not traced Mayūratuṇḍa as a star-name in any Sanskrit text; it may be Praharaj's own tradition or his own coinage for the western 'dagger'. Graded likely for that reason. Rigel is ବାଣରାଜ Bāṇarāja 'king Bāṇa' in the same list — the father of Uṣā, so the whole southern half of the figure is read as the Uṣā-Aniruddha story.</sub>
+
+**ସୌମ୍ୟ · Sa̲u̲mya** — Odia (Odisha) · *sanskritic* · confidence: likely
+
+Praharaj counts five stars on the top of the figure where the Sanskrit sources count three.
+
+> A name given to the 5 stars (in plural) situate on the top of the Orion constellation; the Orion's head.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ସୌମ୍ୟ Sa̲u̲mya, p. 8756 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%B8%E0%AD%8C%E0%AC%AE%E0%AD%8D%E0%AD%9F&searchhws=yes&matchtype=exact))
+
+<sub>Linked to the Sanskrit database entry saumya (= Meissa / Mṛgaśīrṣa). The feminine ସୌମ୍ୟା at the same page is glossed 'The Orion's head (constellation)'. The count of five rather than three is Praharaj's.</sub>
+
+**Muwa-sirasa (muvasirasa)** — Sinhala (Sri Lanka) · *sanskritic* · confidence: likely
+
+> Muwa-sirasa, s. (මුව and සිරස head) fifth lunar asterism, figured by the head of a deer; Elu form of මෘගශිරස mriga-siras, which see.
+> <br>— Clough, A Sinhalese-English Dictionary (Colombo, 1892), s.v. Muwa-sirasa, p. 493 ([source](https://archive.org/stream/sinhaleseenglish00clourich/sinhaleseenglish00clourich_djvu.txt))
+
+<sub>Half-translated rather than merely sound-shifted: the first element මුව muva 'deer' is inherited Sinhala (Clough p. 492: 'Muwa, s. deer ... Elu form of'), the second සිරස sirasa is Sanskrit śiras. Clough's own tag is 'Elu form', so it is filed here as sanskritic, but it is the nearest the nakshatra list comes to a native re-coinage. Clough's djvu.txt OCR of the Sinhala script is unusable, so name_native is left null: only Clough's romanization is recorded. Carter uses the same word inside definitions (ආග්‍රහායර්‍ණය, p. 87, 'the const. Orion, මුවසිරස') but does not carry it as a headword.</sub>
+
+**திருவாதிரை · tiru-v-ātirai** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+The only Tamil word the Lexicon's English side returns for a search on 'Orion'. It is the Sanskrit Ārdrā with the Tamil honorific prefixed, and it carries a Śaiva festival and a girl's pre-marriage rite with it.
+
+> திருவாதிரை tiru-v-ātirai , n. < id. + ārdrā. 1. The 6th nakṣatra, part of Orion; ஆறாவது நட்சத்திரம். (பிங்.) 2. A festival in the month of Mārkaḻi. See ஆருத்திராதரிசனம். 3. A special ceremony observed on the day of āruttirā-taricaṉam before a girl's marriage when she is given a bath and decorated … Nāṭ. Cheṭṭi. (E. T. v, 264.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. திருவாதிரை, vol. IV p. 1917, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%88&searchhws=yes&matchtype=exact))
+
+<sub>ETHNOGRAPHIC CROSS-REFERENCE: sense 3 is sourced by the Lexicon to 'E. T. v, 264' — Edgar Thurston, Castes and Tribes of Southern India, vol. V — and attributed to the Nāṭṭukkōṭṭai Chettis. This is the Tamil Lexicon itself citing the ethnography, and is the only place in this compilation where a star-derived Tamil term is anchored to a named community practice. Sense 2 is the Mārkaḻi Ārudrā-darśana festival. See also the disputed reading of செம்மீன் above, where an old commentary makes Puṟanāṉūṟu 60's 'red star' this asterism.</sub>
+
+## Meteors and shooting stars
+
+**Modern:** meteor  
+**Sanskrit database:** `tara` — Tārā (star (generic)) ([entry](../star-names/star-names.json))  
+**Named in 15 languages:** Assamese, Bengali, Gondi, Hindi, Kannada, Kurukh, Malayalam, Marathi, Mundari, Santali, Sinhala, Tamil, Telugu, Tulu, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Bengali | নক্ষত্রপাত | *nakṣatra-pāta* | 'star-fall' | vernacular |
+| Bengali | তারাপতন, তারাপাত | *tārā-patana, tārā-pāta* | 'star-fall' | vernacular |
+| Malayalam | കൊളളിമീന്‍ | *koḷḷimīn* | 'firebrand-star' (കൊളളി firebrand + മീന്‍ star) | vernacular |
+| Marathi | अस्मानतारा | *asmānatārā* | sky-star | vernacular |
+| Tamil | விண்வீழ்கொள்ளி | *viṇ-vīḻ-koḷḷi* | sky-falling firebrand | vernacular |
+| Tamil | வீழ்மீன் | *vīḻ-mīṉ* | falling star | vernacular |
+| Tulu | ಆಕಾಶೊಡ್ಡು ಬೂರ್ದಿ ಕಲ್ಲ್ | *ākāśoḍḍu būrdi kallụ* | 'the stone that fell from the sky' | vernacular |
+| Urdu | شہاب | *shihāb (vulg. shahāb)* | 'a firebrand, a flame' | vernacular |
+| Assamese | পপীয়া-তৰা | *papīẏā-tarā* | 'the sinful star' (পপীয়া < Skt. pāpa 'sin') | folk |
+| Bengali | তারা খসা | *tārā khasā* | 'a star slipping loose' | folk |
+| Hindi | — | *ākās-agan-golā* | 'sky-fire-ball' | folk |
+| Telugu | ఆదోకపాటు | *ādōka-pāṭu* | falling like a cow's tail | folk |
+| Gondi | — | *Sukum, Sukir, Huko, Tara; Sukum Pelkta, Huko Pelkat, Tara Urungta* | star; star excreta | tribal |
+| Kurukh | — | *chir'u bīnkō; cherkā bīnkō* | — | tribal |
+| Mundari | — | *ipilko ic'* | the excrements of the stars | tribal |
+| Santali | — | *Ipil ic'* | star excrement | tribal |
+| Kannada | ಉಲ್ಕಾಪಾತ | *ulkāpāta* | the falling of a firebrand | sanskritic |
+| Malayalam | ഉല്ക | *ulka* | 'firebrand' | sanskritic |
+| Marathi | तारा | *tārā* | star | sanskritic |
+| Sinhala | උල්කාව | *ulkāva* | 'firebrand' | sanskritic |
+
+**নক্ষত্রপাত · nakṣatra-pāta** — Bengali (Bengal (stated by the dictionary to be the usage of 'this country')) · *vernacular* · confidence: certain
+
+Recorded because of the explicit statement of regional usage in the parenthesis: 'in this country a meteor-fall is called nakṣatrapāta'. The same entry supplies the colloquial Bengali pronunciations of নক্ষত্র — নোক্খোত্তোর, নখতর, নোখতা.
+
+> ̃পাত [নক্ষত্র-পাত (পতন), 6তৎ] ক্রি-বি, ভূতলে নক্ষত্রের পতন (এ দেশে উল্কাপাতকে নক্ষত্রপাত বলে)। 2 [কাব্যা- লঙ্কারে] নক্ষত্রের আকাশ হতে পতনের ন্যায় উচ্চপদ হতে মানী ব্যক্তির অধঃপতন; মহাত্মার দেহপাত।
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. নক্ষত্র nakṣatra, sub-lemma ̃পাত, p. 1157 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=1157))
+
+<sub>The second sense is a figure of speech in living use — the death of a great man, illustrated from what the newspapers wrote on Keshab Chandra Sen's death: 'today a star has fallen'.</sub>
+
+**তারাপতন, তারাপাত · tārā-patana, tārā-pāta** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+Sub-lemmas under তারা. The learned word উল্কা ulkā is at p. 172 ('an aerolite or aerolith, a shooting star, a meteor'); তারাপতন is the transparent Bengali compound beside it.
+
+> ~পতন, ~পাত n. the fall of a meteor. ~পথ n. the stellar course; the sky, the welkin. … ~মণ্ডল n. the stellar region or orbit; a constellation.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. তারা tārā, sub-lemmas ~পতন, ~পাত, p. 458 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+**കൊളളിമീന്‍ · koḷḷimīn** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+Used with the verb വീഴുക 'to fall': കൊളളിമീന്‍ വീഴുക 'a meteor falls'. Gundert also records അശനിക്കൊളളിമീന്‍ 'thunderbolt-firebrand-star' from Kṛṣṇagāthā, in a list of portents alongside earthquake.
+
+> കൊളളിമിന്നല്‍ lightning. കൊളളിമീന്‍ വീഴുക meteor.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. കൊളളി koḷḷi, p. 310 (also s.v. മീന്‍, p. 822) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%95%E0%B5%8A%E0%B4%B3%E0%B4%B3%E0%B4%BF&searchhws=yes&matchtype=exact))
+
+<sub>Wholly native: both elements are Dravidian, and the same compound type recurs in കൊളളിമിന്നല്‍ 'lightning' and കൊളളിയന്‍ 'a demon with a torch, ignis fatuus'. Malayalam therefore has a native meteor word beside the Sanskrit ഉല്ക.</sub>
+
+**अस्मानतारा · asmānatārā** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+> अस्मानतारा asmānatārā m (آسمان کا تارا H) A star. 2 A falling star, a meteor. v तुट. 3 A term of praise for a very fine horse, or accomplished rider, writer, singer, musician &c.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. अस्मानतारा, p. 56 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>A Persian-via-Hindustani loan, āsmān kā tārā, naturalised in Marathi — vernacular in the sense of not Sanskrit, but the source is Indo-Persian, not indigenous. Molesworth prints the Persian original in Arabic script.</sub>
+
+**விண்வீழ்கொள்ளி · viṇ-vīḻ-koḷḷi** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The standard Tamil term for a meteor, and the word the Lexicon uses to define the Sanskrit uṟkam and tūmakētu. Entirely Tamil in its elements.
+
+> விண்வீழ்கொள்ளி viṇ-vīḻ-koḷḷi , n. < விண்¹ + வீழ்- +. Meteor; shooting star; விண்ணினின்று விழும் நட்சத்திரம்போன்ற சுடர். (சூடா.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. விண்வீழ்கொள்ளி, vol. VI p. 3666, citing the Cūṭāmaṇi Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%B5%E0%AF%80%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>The Tamil definition is careful — 'a light like a star, falling from the sky' — i.e. Tamil lexicography distinguishes the meteor from a star proper. The Sanskrit-derived equivalents in Tamil are உற்கம் uṟkam (p. 478, < ulkā) and ஆகாசபலம் ākāca-palam (p. 205).</sub>
+
+**வீழ்மீன் · vīḻ-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The -mīṉ form of the same idea, and the one attested in the commentary tradition on the Tolkāppiyam.
+
+> வீழ்மீன் vīḻ-mīṉ , n. < id. + மீன்¹. Meteor; விண்வீழ்கொள்ளி. (தொல். பொ. 91, உரை.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. வீழ்மீன், vol. VI p. 3762; quoting the commentary on Tolkāppiyam, Poruḷatikāram 91 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AF%80%E0%AE%B4%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The variant விழுமீன்¹ viḻu-mīṉ (p. 3723) is glossed 'Meteor. See வீழ்மீன்' — and immediately beside it விழுமீன்² is the hilsa fish, one more mīṉ homonym. The citation is to the commentary on the Tolkāppiyam, not to the sūtra itself: the mūlam of the Tolkāppiyam names no sky-object, as recorded in summary_findings.</sub>
+
+**ಆಕಾಶೊಡ್ಡು ಬೂರ್ದಿ ಕಲ್ಲ್ · ākāśoḍḍu būrdi kallụ** — Tulu (South Canara (Tulu Nadu)) · *vernacular* · confidence: likely
+
+> Meteorite, Meteorolite, s. ಆಕಾಶೊಡ್ಡು ಬೂರ್ದಿ ಕಲ್ಲ್.
+> <br>— Männer, English–Tuḷu Dictionary (1888), s.v. Meteorite, p. 327 ([source](https://archive.org/download/tuluenglishengli02mnuoft/page/n334_w1400.jpg))
+
+<sub>A descriptive Tulu phrase rather than a name — everything but ಆಕಾಶ ākāśa 'sky' is native. Compare the Sinhala තරුගල tarugala 'star-stone', which is also only a gloss and not a headword. Männer's word for the phenomenon itself is Sanskrit: ಉಲ್ಕಾಪಾತ ulkāpāta, 'The falling of meteors, which is considered a bad sign. 2. an omen' (Tulu→English p. 74).</sub>
+
+**شہاب · shihāb (vulg. shahāb)** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+Qur'anic in origin - the shihāb thāqib hurled at eavesdropping jinn. Crooke found the word alive as a name for eerie lights in Rohilkhand and western Oudh, where the Shahaba over battlefield burial-grounds is a phantom army.
+
+> A شہاب shihāb, vulg. shahāb (v.n. fr. شہب 'to be or become gray,' &c.), s.m. Flame (of fire); a firebrand; a brightly-shining star; a shooting or falling star; a meteor.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. shihāb, p. 738 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=738))
+
+<sub>Fallon (p. 104) gives 'A. shahāb-i-sāqib' as the Arabic for Hindi ākās agan golā. For the will-o'-the-wisp sense see Crooke, The Popular Religion and Folk-lore of Northern India (1896), II. 198.</sub>
+
+**পপীয়া-তৰা · papīẏā-tarā** — Assamese (Assam) · *folk* · confidence: certain
+
+The everyday Assamese word: the dictionary's own definition of উল্কা ulkā (p. 140) ends by equating it with পপীয়া তৰা. A meteor is bad luck made visible, and the name says so.
+
+> পপীয়া papīẏā [সং. পাপ] বিণ. পাপী; অধৰ্ম্মী; sinful. পপীয়া-তৰা বি. উল্কা; a meteor; a shooting-star.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. পপীয়া papīẏā, sub-lemma পপীয়া-তৰা, p. 575 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%AA%E0%A6%AA%E0%A7%80%E0%A7%9F%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+<sub>The DSAL headword index encodes this lemma's য় with the precomposed BENGALI LETTER YYA (U+09DF); the source_url above uses that encoding, and a query typed with য + nukta returns nothing. The lemma is also absent from DSAL's page-level browse of p. 575. Also attested a century earlier, in the same spelling minus the long ī: Bronson (1867), p. 72, glosses উল্কাপাত with পপিয়া তৰা. Bronson's Assamese can only be read off the page images; the archive.org OCR of this dictionary's script is noise.</sub>
+
+**তারা খসা · tārā khasā** — Bengali (Bengal) · *folk* · confidence: certain
+
+Dāsa defines the Sanskrit উল্কাপাত by this ordinary Bengali phrase and by nothing else.
+
+> ̃পাত -বি, তারা খসা। ̃পিণ্ড-বি, উল্কাশ্ম meteor.
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. উল্কা ulkā, sub-lemma ̃পাত, p. 349 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=349))
+
+<sub>খসা is the verb used of a thing coming unfastened and slipping down; the same verb is used of a miscarriage (গা খসা). Bengali has no 'falling' in the phrase, only 'coming loose'.</sub>
+
+**ākās-agan-golā** — Hindi (Hindustani generally) · *folk* · confidence: certain
+
+A three-word descriptive compound, entirely vernacular in its material. Beside it Platts records the simple idiom tārā ṭūṭnā, 'a star to shoot' (p. 304), and the Hindi luk (p. 958, from S. ulkā) 'a fiery phenomenon in the sky; meteor; falling star'.
+
+> ākās-agan-gola, s.m. Meteor, shooting-star
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. ākās, p. 64 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=64))
+
+<sub>Compound in roman only. On the beliefs attached: Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 82, reports that a falling star means a great man's soul is passing through the air, and that people thrust five fingers into their mouths to keep their own souls from joining it.</sub>
+
+**ఆదోకపాటు · ādōka-pāṭu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *folk* · confidence: certain
+
+Not a name for a body but the idiom for the motion: a meteor falls 'cow-tail-wise', i.e. slanting and tapering.
+
+> ఆదోకగా [Tel. ఆవు+తోక] adv. Like a cow's tail. Slanting, in a slanting form, taperingly; conical, pyramidical A. iii. 30. నక్షత్రము ఆదోకపాటుగా పడుచున్నది the shooting star passes in a slanting direction.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ఆదోకగా ādōka-gā, p. 114 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=114))
+
+<sub>Included because it is a genuinely observational vernacular usage rather than a nomenclature item; the head-word is ādōka-gā, and ādōka-pāṭu is the form in the illustrative sentence. Brown's etymology āvu + tōka 'cow + tail' is printed in the entry.</sub>
+
+**Sukum, Sukir, Huko, Tara; Sukum Pelkta, Huko Pelkat, Tara Urungta** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Meteors are the excrement of the stars, or in some villages souls falling back from their holy places in the sky.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The star-excrement idiom is shared verbatim with Santali (ipil ic') and Mundari (ipilko ic'), across a Dravidian/Munda language boundary.</sub>
+
+**chir'u bīnkō; cherkā bīnkō** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+> Chir'u. Chir'u binko, shooting star
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. chir'u, p. 164; s.v. bīnkō, p. 85 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+<sub>Kurukh does not share the Munda 'star excrement' idiom for meteors; Grignard's other phrase is simply 'there, a star is shooting'.</sub>
+
+**ipilko ic'** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+Most noticeable about the middle of November, when the threshing floors are made and must be watched at night. 'Tonight the stars have many evacuations.'
+
+> They call them ipilko ic', the excrements of the stars! ... Remember that the stars are living beings, the children of the moon.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+**Ipil ic'** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+> Ipil ic'kedae. The star voided excrement. (A shooting star is regarded as the excrement of another star.)
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Ic', p. 244 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>The identical explanation is recorded for Mundari (ipilko ic', Hoffmann) and for Gondi (sukum pelkta, Vahia & Halkare). It follows from the belief that the stars are living beings.</sub>
+
+**ಉಲ್ಕಾಪಾತ · ulkāpāta** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಉಲ್ಕಾಪಾತ ulkā-pāta. falling of a star, meteor-shoot. (My.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಉಲ್ಕಾಪಾತ ulkāpāta, p. 257 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=257))
+
+<sub>No vernacular Kannada meteor word surfaced. Telugu, by contrast, has the folk idiom ādōka-pāṭu 'falling cow-tail-wise' (Brown p. 114).</sub>
+
+**ഉല്ക · ulka** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+> ഉല്ക ulka ulγa S. Meteor, firebrand.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഉല്ക ulka, p. 144 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%89%E0%B4%B2%E0%B5%8D%E0%B4%95&searchhws=yes&matchtype=exact))
+
+<sub>Exactly parallel in sense to native കൊളളിമീന്‍ / കൊളളി — both languages built the meteor word on 'firebrand'.</sub>
+
+**तारा · tārā** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+तारे तुटणें, 'the stars break off', is the Marathi idiom for meteors
+
+> तारा tārā m S A star. 2 The pupil of the eye. 3 A meteor, a falling star. v तुट. 4 A firework, a kind of rocket.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. तारा, p. 377 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>The Sanskrit word, but Molesworth's idiom तारे तुटणें is Marathi and shows the vernacular conception of a meteor as a star snapping loose.</sub>
+
+**උල්කාව · ulkāva** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+> උල්කාව ulkāva , n. flame, firebrand, විලක්කුව, උල්පන් දම; meteor.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. උල්කාව ulkāva, p. 128; Jayatilaka (ed.), A Dictionary of the Sinhalese Language (Royal Asiatic Society, Ceylon Branch, 1935– ), s.v. උල්කාව ulkāva, p. 1909 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=meteor&matchtype=default))
+
+<sub>Sanskrit ulkā, the same word Malayalam has as ഉല്ക, and with the same 'firebrand' base sense. The native counterpart survives only as a gloss, not a headword: Carter's උල්කා ගල 'meteorite' (p. 128) is glossed with Sinhala තරුගල tarugala, literally 'star-stone', which is not itself a Carter headword. Carter also records the omen term දික්·හදාය dik·hadāya, 'fiery meteor, regarded as one of the five evil omens of the sky' (p. 284).</sub>
+
+## 'Star' as a word
+
+**Modern:**   
+**Sanskrit database:** `tara` — Tārā (star (generic)) ([entry](../star-names/star-names.json))  
+**Named in 12 languages:** Hindi, Ho, Kannada, Khasi, Konkani, Kurukh, Malayalam, Odia, Sinhala, Tamil, Telugu, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kannada | ಅಱಿಲ್ | *aṟil* | — | vernacular |
+| Kannada | ಚಿಕ್ಕಿ | *cikki* | spot, speck, dot | vernacular |
+| Kannada | ಮೀನ್ | *mīn* | fish | vernacular |
+| Malayalam | മീന്‍ | *mīn* | 'fish'; also 'that which glitters' (Gundert derives it from മിന്‍ 'to glitter') | vernacular |
+| Odia | ତରା / ତାରା | *tarā / tārā* | 'star' | vernacular |
+| Sinhala | තරුව | *taruva* | also 'tree' and 'pupil of the eye' | vernacular |
+| Tamil | மீன் | *mīṉ* | 'the shining one', from miṉṉu- 'to flash, glitter' | vernacular |
+| Tamil | விண்மீன் | *viṇ-mīṉ* | sky-star | vernacular |
+| Telugu | చుక్క | *cukka* | dot, spot, drop | vernacular |
+| Telugu | మెరుగురిక్క | *merugu-rikka* | the shining star | vernacular |
+| Urdu | ستاره | *sitāra* | 'star'; by extension 'fortune, destiny' | vernacular |
+| Ho | — | *ipil (dual ipilkiŋ, plural ipilko)* | star | tribal |
+| Khasi | — | *khlur (abbreviated 'lur)* | star | tribal |
+| Kurukh | — | *bīnkō* | star | tribal |
+| Hindi | तारा / تارا | *tārā* | 'star'; also 'the pupil of the eye' | sanskritic |
+| Kannada | ತಾರಗೆ | *tārage* | — | sanskritic |
+| Kannada | ಉಡು | *uḍu* | — | sanskritic |
+| Konkani | — | *neketru* | — | sanskritic |
+| Tamil | தாரகை | *tārakai* | — | sanskritic |
+| Tamil | உடு | *uṭu* | — | sanskritic |
+| Telugu | తార | *tāra* | — | sanskritic |
+
+**ಅಱಿಲ್ · aṟil** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+A second, purely Dravidian, classical Kannada star-word; obsolete in the modern language and known mainly from the old lexicons Kittel cites.
+
+> ಅಱಿಲ್ ar̤il. 1. = ಅಱಲು. a star (ನಕ್ಷತ್ರ Śmd. II; ಮೀನ್, ತಾರಗೆ, ನಕ್ಷತ್ರ Kk. 10 b.; ಮೀನ್, ನಕ್ಷತ್ರ 80; ಮೀನ್, ತಾರೆಗೆ, ತಾರೆ, ತಾರಕೆ Śm. 16. 106). -ಅಱಿಲ್ವಟ್ಟೆ. -ಬಟ್ಟೆ the star-road: the sky (ಮೀನ್ವಟ್ಟೆ etc., ಆಕಾಶ Kk. 12; ಅಮ್ಬರ, ಬಾನ್, ಎಲರ್ವಟ್ಟೆ, ಆಗಸ, ಸಗ್ಗಿಗವಟ್ಟೆ Śm. 14).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಅಱಿಲ್ aṟil 1, p. 105 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=105))
+
+<sub>HOMONYM: Kittel's very next headword ಅಱಿಲ್ 2 is 'mud, clay'. The compound aṟil-vaṭṭe 'star-road = sky' is the Kannada twin of Telugu cukkala-teruvu.</sub>
+
+**ಚಿಕ್ಕಿ · cikki** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+The colloquial modern Kannada word (also ಚುಕ್ಕಿ cukki, ಚುಕ್ಕೆ cukke, ಚಿಕ್ಕೆ cikke), cognate with Telugu cukka.
+
+> ಚಿಕ್ಕಿ cikki. 2. = ಚಿಕ್ಕೆ, ಚುಕ್ಕಿ, ಚುಕ್ಕೆ. a spot, a speck, a dot, as that of a cat, of a leopard, of a horse, of a cloth, etc. (C.). 2, a star (C.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಚಿಕ್ಕಿ cikki 2, p. 643 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=643))
+
+<sub>COGNATE PAIR with Telugu చుక్క cukka, and with the same dot/star polysemy in both languages. Kittel's parallel entry ಚುಕ್ಕೆ cukke (p. 653) reads 'a small mark, a dot, etc. (My.; Te.; T. ಚುಕ್ಕೈ, a star)' — i.e. he marks the star sense as Tamil and Telugu, the dot sense as the Kannada default.</sub>
+
+**ಮೀನ್ · mīn** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+The classical Kannada word for a star is the word for a fish. Kittel's own guess at the motivation is printed in the entry.
+
+> ಮೀನ್ mīn. 2. (= ಮೀನ್ 1, a fish of the sky-ocean ?). = ಮೀಮ್ 2. a star (ನಕ್ಷತ್ರ Śmd. II; ತಾರಗೆ Ct. I, 46; ಅಱಿಲ್, ತಾರಗೆ, ನಕ್ಷತ್ರ Kk. 10b; ಅಱಿಲ್, ನಕ್ಷತ್ರ 80; ಅಱಿಲ್, ತಾರಗೆ, ತಾರೆ Śm. 16; ಭಗಣ 99 …) 2, glittering … — ಮೀನ್ಗಳೆಱೆಯ. -ಎಱೆಯ. the moon … — ಮೀನ್ವಟ್ಟೆ. -ಬಟ್ಟೆ. the sky (ಆಕಾಶ Kk. 12).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಮೀನ್ mīn 2, p. 1328 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1328))
+
+<sub>The most important non-Sanskrit sky-word in Kannada. It is the same mīn that Tamil uses for star, and it has no Sanskrit counterpart at all — the Sanskrit db id given is only the semantic equivalent nakṣatra, which is how Kittel's Kannada nighaṇṭu sources gloss it. Telugu kept mīnu strictly as 'fish': Brown p. 996 gives no astronomical sense for it except in the compound mīnu-rūpu-rikka (Revatī).</sub>
+
+**മീന്‍ · mīn** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+The inherited Dravidian word for a star. It is the productive element in the vernacular sky vocabulary: കൊളളിമീന്‍ meteor, വാല്‍മീന്‍ comet, വെണ്മീന്‍/വെഴ്മീന്‍/പെരുമീന്‍ Venus.
+
+> മീന്‍ mīn‍ mīǹ 5. (VN. of മിന്‍ ) glittering, sparkling. 1. A fish ... 2. a star. മീ. വീഴുക a meteor.
+> <br>— Gundert, A Malayalam and English Dictionary (Mangalore, 1872), s.v. മീന്‍ mīn, p. 822 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AE%E0%B5%80%E0%B4%A8%E0%B5%8D%E2%80%8D&searchhws=yes&matchtype=exact))
+
+<sub>Homonymy of 'fish' and 'star' is pan-Dravidian and is the semantic engine behind almost every native Malayalam sky-name below. Gundert's own etymology ties both senses to മിന്‍ 'glitter', so the star sense need not be metaphorical from the fish.</sub>
+
+**ତରା / ତାରା · tarā / tārā** — Odia (Odisha) · *vernacular* · confidence: certain
+
+Odia distinguishes the worn-down ତରା tarā, which is what all the folk compounds in this file are built on (khachuā tarā, phukiā tarā, keuñṭi tārā, lañjā tārā), from the tatsama ତାରକା tārakā, whose second sense is 'comet' — ଲଞ୍ଜା ତାରା.
+
+> ସଂ. ବି. ସ୍ତ୍ରୀ (ତାରକ+ସ୍ତ୍ରୀ. ଆ)— 1। ନକ୍ଷତ୍ର— 1. Star. 2। ଲଞ୍ଜା ତାରା—2. Comet. 3। ଚକ୍ଷୁର ତାରା; କନୀନିକା— 3. The pupil of the eye.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ତାରକା Tārakā, p. 3445 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A4%E0%AC%BE%E0%AC%B0%E0%AC%95%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+**තරුව · taruva** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+The productive native element in the Sinhala sky vocabulary: පහන් තරුව morning star, ඉරබටු තරුව evening star, කළමුනිදුතරුව Canopus, වල්ගාතරුව comet, තරුගල 'star-stone' meteorite.
+
+> තරුව taruva , n. tree, ගහ; star, තාරකාව; pupil of the eye, කළු ඉංගිරියාව; pl. තරු.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. තරුව taruva, p. 253 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=star%2C%20%E0%B6%AD%E0%B6%BB%E0%B7%94%E0%B7%80&matchtype=default))
+
+<sub>Sinhala's answer to Malayalam മീന്‍: the inherited word that does the compounding work while the Sanskrit synonym තාරකා tārakā stays learned. Carter's native constellation words are built on it — තරු·වැළ taru·væḷa 'cluster or string of stars, constellation' and තරු·පොකුර taru·pokura 'cluster of stars, asterism' (both p. 253).</sub>
+
+**மீன் · mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The ordinary Tamil word for star from the Caṅkam period to the present, and the base of nearly every indigenous Tamil star-name. Winslow adds the colloquial மீன் முளைத்திருக்கிறது 'stars appear', marked 'Vulgar usage', and the proverb மதியை மீன் சூழ்ந்ததுபோல 'as the stars surround the moon'.
+
+> மீன்¹ mīṉ , n. < மின்னு-. [K. mīn.] 1. Star; நட்சத்திரம். பதியிற் கலங்கிய மீன் (குறள், 1116).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. மீன்¹, vol. VI p. 3214; quoting Tirukkuṟaḷ 1116 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM, the central one for this file. The Lexicon prints two separate headwords on the same page: மீன்¹ mīṉ 'star', derived from the Tamil verb மின்னு- 'to flash', and மீன்² mīṉ 'fish; Pisces of the zodiac; shark', which it derives from Sanskrit mīna. Burrow and Emeneau keep them apart on the same principle but treat both as Dravidian: DEDR 4876 gives Ta. miṉ 'flash, glitter, lightning' … mīṉ 'star', with Ma. mīn, Ko. mi·n, To. mi·n, Ka. mīn, Kur. bīnkō, Malt. bínḍke 'star'; DEDR 4885 gives Ta. mīṉ 'fish' with cognates in every Dravidian branch, i.e. the fish-word is not a Sanskrit loan either. The two are homophones of independent Dravidian origin. Every -mīṉ entry below therefore needs its astronomical sense shown from context, and the fish sense excluded; the Lexicon's own definitions do that here. Verified at https://dsal.uchicago.edu/cgi-bin/app/burrow_query.py?page=435 and .../burrow_query.py?page=436. Senses 2 and 3 of மீன்¹ also make the bare word a name for the 14th nakṣatra (Cittirai) and the 13th (Attam).</sub>
+
+**விண்மீன் · viṇ-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The standard modern Tamil word for a star, distinguishing it unambiguously from mīṉ 'fish'. The Lexicon records the colloquial contraction விம்மீன் vimmīṉ, marked 'Loc.'
+
+> விண்மீன் viṇ-mīṉ , n. < id. + மீன்¹. Star; நட்சத்திரம். (சூடா.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. விண்மீன், vol. VI p. 3665, citing the Cūṭāmaṇi Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Parallel formations with the same sense: வான்மீன்¹ vāṉ-mīṉ 'heaven-star' (p. 3626, from the aruñcolpporuḷ commentary on Puṟanāṉūṟu) and மோட்டுமீன் mōṭṭu-mīṉ (p. 3383, citing Cīvakacintāmaṇi 2325). வான்மீன்¹ must not be confused with வான்மீன்² = வால்மீன் 'comet' on the same page — the difference is வான் 'sky' against வால் 'tail'.</sub>
+
+**చుక్క · cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+The ordinary Telugu word for a star, and the second element of most of the language's own star-names (X-cukka). Brown lists the astronomical sense third, after 'mark' and 'drop'.
+
+> చుక్క [Tel.] n. Any small mark; a dot or spot: a drop, a small quantity of liquid. బొట్టు. The round mark (తిలకము) worn on the forehead by Hindus. A star, నక్షత్రము. The planet Venus, శుక్రుడు. A pip on the dice or cards. A comet. తోకచుక్క.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. చుక్క ṭsukka, p. 449 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=449))
+
+<sub>HOMONYM WARNING. cukka is 'dot / spot / drop' before it is 'star', and in ordinary Telugu prose the non-astronomical sense is far commoner (cukka-boṭṭu 'forehead mark', cukkani 'rudder'). Brown's entry is quoted at length precisely because the string 'A star, నక్షత్రము. The planet Venus, శుక్రుడు' inside it is what fixes the astronomical sense. Kannada ಚುಕ್ಕೆ cukke / ಚಿಕ್ಕಿ cikki is the exact cognate and carries the same ambiguity.</sub>
+
+**మెరుగురిక్క · merugu-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: likely
+
+> మెరుగురిక్క or మెరుగుడురిక్క merugu-rikka. n. Coral. పగడము. A bright star, కాంతిగలచుక్క.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. మెరుగు merugu, p. 1031 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1031))
+
+<sub>Not an identified object. Recorded because it corroborates pagaḍapu-rikka (Ārdrā, 'the coral star'): Brown here has one word meaning both 'coral' and 'a bright star', which shows that in Telugu the coral image and stellar brilliance were interchangeable.</sub>
+
+**ستاره · sitāra** — Urdu (Urdu, from Persian) · *vernacular* · confidence: certain
+
+The Persian counterpart of tārā, cognate with it through Indo-Iranian - Platts gives the etymology explicitly. It carries the fortune-telling vocabulary: sitāra-shinās 'astrologer', sitāra chamaknā 'for one's star to shine'. Alongside it Urdu has Arabic najm and kaukab and Persian aḵẖtar, all glossed simply 'a star; constellation'.
+
+> P ستاره sitāra [Pārsī śtār, śtāra; Pehl. śtār, śtārak; Zend śtare; S. स्तर्], s.m. A star; fortune, fate, destiny ... sitāre-o-burj, s.m. The constellations and the fixed stars.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. sitāra, p. 637 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=637))
+
+<sub>aḵẖtar at Platts p. 29, najm at p. 1125, kaukab at p. 863; burj, 'a sign of the zodiac; asterism, constellation', at p. 145, and in Punjabi as ਬੁਰਜ burj (Maya Singh 1895, p. 174).</sub>
+
+**ipil (dual ipilkiŋ, plural ipilko)** — Ho (Kolhan, Singhbhum, Jharkhand) · *tribal* · confidence: certain
+
+Burrows uses the word as his paradigm for the animate noun class, alongside 'man'.
+
+> ipil - a star, ipilking - two stars, ipilko - three or more stars ; but daru - one or more trees
+> <br>— Burrows, Ho Grammar, with Vocabulary (1915), on the animate and inanimate noun classes ([source](https://archive.org/download/hogrammarwithvoc00burruoft/hogrammarwithvoc00burruoft_djvu.txt))
+
+<sub>Included because it is grammatical evidence for the belief the ethnographers record separately: in Ho, as in Mundari and Santali, stars belong to the animate class along with people and animals, while trees do not. The dual in the Mundari star names (cuṭu ipilkiŋ, jarom ipilkiŋ) is the same category at work.</sub>
+
+**khlur (abbreviated 'lur)** — Khasi (Khasi and Jaintia hills, Meghalaya) · *tribal* · confidence: certain
+
+> Khlur, u, n. a star.
+> <br>— Nissor Singh, Khasi-English Dictionary (1906), s.v. Khlur, p. 33; s.v. 'lur, p. 120 ([source](https://archive.org/download/khasienglishdict00singrich/khasienglishdict00singrich_djvu.txt))
+
+**bīnkō** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+> bīnkō S. star.
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. bīnkō, p. 85 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+**तारा / تارا · tārā** — Hindi (Hindustani generally) · *sanskritic* · confidence: certain
+
+The workhorse word, and the base of most compound names in this file (guććhā tārā, quṭbī tārā, ujāle-kā tārā, dhurū tārā, dum kā tārā, tapt tārā). Platts's sub-entries are a small ethnography in themselves: tārā ṭūṭnā 'a star to shoot', tāre ginnā 'to count the stars, to get no sleep', tāroṅ-kī chān 'daybreak', din-ko tāre dikhānā 'to show one stars by daylight, to beat severely'.
+
+> H تارا तारा tārā [S. तार (for स्तार)+कं; and S. तारा fem.], s.m. A star; planet; falling star, meteor; the pupil of the eye
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. tārā, p. 304 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=304))
+
+<sub>Punjabi ਤਾਰਾ tárá, 'A star', in Maya Singh (1895), p. 1106.</sub>
+
+**ತಾರಗೆ · tārage** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+Tadbhava of tārakā, thoroughly naturalised; forms the compound tārage-vaṭṭe 'the starry path, the sky'.
+
+> ತಾರಗೆ tārage. Tbh. of ತಾರಕೆ. a star (ಮೀನ್ Ct. I, 46; ತಾರಕಿ II, 13; ಮೀನ್, ಅಱಿಲ್, ನಕ್ಷತ್ರ Kk. 10b; ಮೀನ್, ಅಱಿಲ್, ತಾರೆ Śm. 16 …). 2, one of the lunar mansions (ಮೃಗ, ನಕ್ಷತ್ರ Nn. 81). 3, another lunar mansion (ಪುಷ್ಯ, ನಕ್ಷತ್ರಭೇದ 130). -ತಾರಗೆಯಾಳ್ಮ. -ಆಳ್ಮ. the moon (Śm. 15). -ತಾರಗೆವಟ್ಟೆ. -ಬಟ್ಟೆ. the starry path, the sky (ಆಗಸ Śmd. II; Kk. 88).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ತಾರಗೆ tārage, p. 752 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=752))
+
+<sub>Kittel records that some nighaṇṭus use ತಾರಗೆ as a name for particular nakṣatras — Mṛgaśiras in one, Puṣya in another. Those secondary uses are unusual and are not treated here as separate entries.</sub>
+
+**ಉಡು · uḍu** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಉಡು uḍu. a star. 2, water. (My.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಉಡು uḍu 6, p. 225 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=225))
+
+<sub>HOMONYM: Kittel has six headwords ಉಡು on this page — 'to wrap round the waist', 'the waist', 'iguana' and so on. Only the sixth is the star.</sub>
+
+**neketru** — Konkani (South Kanara / Mangalore) · *sanskritic* · confidence: certain
+
+> Star, s, neketru, -ra, «., pr. fg.
+> <br>— A. F. X. Maffei, An English-Konkani Dictionary (Mangalore: Basel Mission Press, 1883), s.v. Star, p. 455 ([source](https://archive.org/details/anenglishkonkan00bygoog))
+
+<sub>Sanskrit nakṣatra in Konkani phonology, the ordinary word for a star. The '«' is an OCR artefact for 'n.' (neuter); 'pr. fg.' is Maffei's mark for a word used both properly and figuratively. Maffei's entry for Constellation (p. 85) is built on the same stem: 'Constellation, s. neketra[ñ]chi ras' — nakṣatra + rāśi — where the scan garbles the genitive plural.</sub>
+
+**தாரகை · tārakai** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+Sanskrit tārakā in Tamil form; the collective தாராகணம் tārā-kaṇam and தாரகாகணம் tārakā-kaṇam are the Tamil terms for a constellation or star-cluster.
+
+> தாரகை¹ tārakai , n. < tārakā. 1. Star; நட்சத்திரம். நாப்பண்வண் டாரகைபோல் (திருக்கோ. 116). 2. Apple of the eye; கண்மணி. (யாழ். அக.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. தாரகை¹, vol. III p. 1843; quoting Tirukkōvaiyār 116 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%95%E0%AF%88&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM: sense 2 is 'apple of the eye', and தாரகை² is 'earth'. For 'constellation, cluster of stars' the Lexicon gives தாராகணம் (p. 1844, quoting Nāṉmukaṉ Tiruvantāti 63) and தாரகாகணம் (p. 1843).</sub>
+
+**உடு · uṭu** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+Sanskrit uḍu in Tamil phonology, a learned word of the nikaṇṭus rather than of speech. Winslow glosses it simply 'A star, விண்மீன்'.
+
+> * உடு³ uṭu , n. < uḍu. Star; நட்சத்திரம். (பிங்.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. உடு³, vol. I p. 399, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%89%E0%AE%9F%E0%AF%81&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM warning: the Lexicon prints six உடு headwords on the same page — 'ditch, moat', 'goat, sheep' (< huḍu), 'arrow, arrow-head, feather of an arrow, boatman's pole' (< huḍa), and a tree. Only உடு³ is astronomical, and the Lexicon marks it with an asterisk as a Sanskrit loan.</sub>
+
+**తార · tāra** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+The learned word beside native cukka; the derivative tārā-pathamu 'starry path' is the standard Telugu word for the firmament.
+
+> తార [Skt.] n. A star. నక్షత్రము. The pupil of the eye, కనుగ్రుడ్డు, కనీనిక. … తారాపథము tārā-pathamu. n. The starry path, i.e., the firmament. ఆకాశము. తారావళి tārā-vaḷi. n. A constellation, or set of stars. The starry firmament.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. తార tāra, p. 523 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=523))
+
+<sub>Telugu tārā-pathamu is the direct counterpart of Sanskrit tārāpatha (db id 'tarapatha'). Brown flags the word [Skt.], i.e. tatsama.</sub>
+
+## Venus
+
+**Modern:** Venus  
+**Sanskrit database:** `tara` — Tārā (star (generic)) ([entry](../star-names/star-names.json))  
+**Named in 12 languages:** Bengali, Hindi, Kannada, Kodava, Malayalam, Marathi, Mundari, Tamil, Telugu, Toda, Tulu, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Bengali | শুকতারা | *śukatārā (Śuktārā)* | 'Śukra-star' — a worn-down compound of Śukra (Venus) + tārā (star) | vernacular |
+| Kannada | ಬೆಳ್ಳಿ | *beḷḷi* | silver | vernacular |
+| Kodava | ಬೊಳ್ಳಿಳಾಚೆ | *boḷḷiáche* | 'Venus-day' (boḷḷi + ಆಚೆ áche 'a day') | vernacular |
+| Malayalam | വെള്ളി | *veḷḷi* | 'silver' | vernacular |
+| Malayalam | വെണ്മീന്‍ | *veṇmīn* | 'white star' (വെണ്‍ white + മീന്‍ star) | vernacular |
+| Marathi | चटकचांदणें | *caṭakacāndaṇēṃ* | brilliant moonlight | vernacular |
+| Tamil | வெள்ளி | *veḷḷi* | the white one, the silver one (from veṇ-mai 'whiteness') | vernacular |
+| Tamil | வெண்மீன் | *veṇ-mīṉ* | white star | vernacular |
+| Tulu | ಬೊಳ್ಳಿ | *boḷḷi* | 'silver' — from the Dravidian root *veḷ 'white' | vernacular |
+| Urdu | زهره | *zǒhra* | 'the shining one' | vernacular |
+| Telugu | చుక్కవాలు | *cukka-vālu* | — | folk |
+| Toda | — | *Pili* | — | tribal |
+| Hindi | सूक / سوک | *sūk (also suk)* | vernacular reflex of Sanskrit Śukra | sanskritic |
+| Kannada | ಚುಕ್ಕಿ | *cukki* | — | sanskritic |
+| Mundari | — | *Sukura and Sukurani; lagan ipilkiŋ, logon ipilkiŋ* | Sukra and Sukrani; the two stars that fix the marriage date | sanskritic |
+
+**শুকতারা · śukatārā (Śuktārā)** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+Biswas glosses it 'the vesper', i.e. the EVENING star, although in ordinary Bengali speech শুকতারা is most often the MORNING star and সন্ধ্যাতারা the evening one. Praharaj, listing Bengali equivalents for his Odia headwords, prints শুকতারা against BOTH ପାହାନ୍ତି ତାରା (morning) and ପହରିକିଆ ତାରା (evening). The divergence is real and old; the underlying object is the same planet.
+
+> শুকতারা śukatārā n. the vesper; (astr.) Venus.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. শুকতারা śukatārā, p. 950 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%B6%E0%A7%81%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+<sub>Contrast the tatsama শুক্র śukra at the same page, glossed '(astr.) the Venus; the vesper'. শুকতারা is the tadbhava household form.</sub>
+
+**ಬೆಳ್ಳಿ · beḷḷi** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+The everyday Kannada name for Venus is simply the word for silver.
+
+> ಬೆಳ್ಳಿ beḷḷi. the white metal: silver … Tu. ಬೊಳ್ಳಿ; T., M. ವೆಳ್ಳಿ, ಬೆಳ್ಳೈ ವೆಳ್ಳೆ; Te. ವೆಲ್ಲೆ, ವೆಣ್ಡಿ). … 2, the planet Venus (My.; T., M. ವೆಳ್ಳಿ).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಬೆಳ್ಳಿ beḷḷi, p. 1217 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1217))
+
+<sub>The most clearly Dravidian planet-name in this file: Kittel's own comparative note shows the star sense is shared with Tamil and Malayalam veḷḷi. Telugu, per Kittel's same note, kept only the metal sense (వెల్లి / వెండి) and names Venus instead with vēgu-cukka or with reflexes of Śukra. So this is a Dravidian sky-word that Kannada kept and Telugu lost — the mirror image of the mīn case.</sub>
+
+**ಬೊಳ್ಳಿಳಾಚೆ · boḷḷiáche** — Kodava (Kodagu (Coorg)) · *vernacular* · confidence: likely
+
+The Kodava weekday name, in a list where Sunday and Monday are likewise built on native words for sun and moon while Tuesday, Wednesday, Thursday and Saturday are Sanskrit planet-names.
+
+> ನಾರಾಚೆ nárắche, Sunday. ತಿಂಗಳಾಚೆ tingaḷáche, Monday. ಚೊವುಳಚೆ chovuáche, Tuesday. ಪೊದನಾಚೆ podanáche, Wednesday. ಬೇಳಾಚೆ béḷáche, Thursday. ಬೊಳ್ಳಿಳಾಚೆ boḷḷiáche, Friday. ಚನಿಳಚೆ chaniáche, Saturday.
+> <br>— Cole, An Elementary Grammar of the Coorg Language (Bangalore, 1867), 'Days', p. 136 ([source](https://archive.org/download/CoorgGrammar/Coorg%20Grammar_djvu.txt))
+
+<sub>Cole glosses the first two names himself — nárắche from nárayaṇa 'a name of the deity used also for the sun', tingaḷáche from tingaḷu 'the moon' — but does not gloss boḷḷi; the Venus sense comes from DEDR 5496, where every close cognate (Ta. veḷḷi, Ka. beḷḷi, To. piḷy, Ko. veyḷ) means 'silver, Venus, Friday' together. Marked 'likely' for that inferential step and because the OCR of Cole's Kannada is poor: the romanizations are Cole's own, the script as reconstructed from the scan. Cole's grammar contains NO Kodava word for 'star' anywhere, including its vocabulary (pp. 51–71).</sub>
+
+**വെള്ളി · veḷḷi** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+Simultaneously 'silver', 'Venus' and 'Friday' — the planet names the weekday, as in വെള്ളിയാഴ്ച Friday, which Gundert notes is the day 'when women & cows must not journey'.
+
+> വെള്ളി veḷḷi veḷḷi T. M. C. (Tu. boḷḷi, Te. veṇḍi). 1. Silver ... 2. Venus; Friday = ശൂക്രന്‍.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. വെള്ളി veḷḷi, p. 987 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF&searchhws=yes&matchtype=exact))
+
+<sub>Gundert gives the Dravidian cognate set in the same line — Tamil/Malayalam/Kannada veḷḷi, Tulu boḷḷi, Telugu veṇḍi — establishing the word as inherited, not borrowed. The 'silver' → 'Venus' → 'Friday' chain is independent of Sanskrit śukra, which Malayalam also has (ശുക്രന്‍, p. 1017) as a learned doublet. Gundert's line is evidence for the Tulu form boḷḷi in the sense 'silver'; he does not there assign Tulu the planet sense.</sub>
+
+**വെണ്മീന്‍ · veṇmīn** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+> വെണ്മീന്‍ V2. Venus = വെള്ളി .
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. വെണ്‍ veṇ, p. 981 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=981))
+
+<sub>A second native Venus name, transparently 'the white star', marked V2 (an older Malabar vocabulary). Gundert prints a further variant വെഴ്മീന്‍ veḻmīn at the end of the വെള്ളി article, p. 987: 'വെഴ്മീന്‍ = വെള്ളി 2., V1.'</sub>
+
+**चटकचांदणें · caṭakacāndaṇēṃ** — Marathi (Maharashtra) · *vernacular* · confidence: likely
+
+> चटकचांदणें caṭakacāndaṇēm n Bright moon-shine. 2 Applied often to the shining of Venus.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. चटकचांदणें, p. 268 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%9A%E0%A4%9F%E0%A4%95%E0%A4%9A%E0%A4%BE%E0%A4%82%E0%A4%A6%E0%A4%A3%E0%A5%87%E0%A4%82&searchhws=yes&matchtype=exact))
+
+<sub>The nearest Marathi comes to a distinct name for Venus as an object of ordinary observation. Note what is NOT in Molesworth: no morning-star or evening-star name at all. A full-text search of the dictionary for 'morning star' and 'evening star' returns nothing; Venus appears only as the planet शुक्र (p. 795), its corrupt form सूक (p. 865, 'Corr. of शुक्र S'), and the technical rising/setting vocabulary पूर्वोदय, पश्चिमास्त etc.</sub>
+
+**வெள்ளி · veḷḷi** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+THE central Caṅkam sky-word. Venus quitting its proper station and moving to the southern quarter is the standard Tamil omen of drought and failed kingship; Puṟanāṉūṟu 35 makes the good king's land yield even so.
+
+> அலங்குகதிர்க் கனலி நால்வயின் தோன்றினும், இலங்குகதிர் வெள்ளி தென்புலம் படரினும்,
+> <br>— Puṟanāṉūṟu 35, ll. 6-7 (by Veḷḷaikkuṭi Nākaṉār, on Cōḻaṉ Kuḷamuṟṟattut Tuñciya Kiḷḷivaḷavaṉ); Project Madurai e-text PM 0057 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html))
+
+<sub>HOMONYM, and one the discipline requires flagging. The Tamil Lexicon (s.v. வெள்ளி¹, vol. VI p. 3794, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact) prints ten senses on one headword: '1. Whiteness … 2. Silver, Argentum … 3. A silver coin … 4. Star; நட்சத்திரம் … 5. The planet Venus; சுக்கிரனென்னுங் கோள். இலங்கு கதிர் வெள்ளி தென்புலம் படரினும் (புறநா. 35) … 6. Śukra, the priest of the Asuras … 7. Friday … 9. Ignorance … 10. Semen virile.' Sense 1 is itself quoted from Puṟanāṉūṟu 41 and sense 7 from Cilappatikāram, so the word is ambiguous within the same corpus; the astronomical sense here is fixed by இலங்குகதிர் 'bright-rayed' and by the parallel with கனலி, the sun, in the preceding line. The Lexicon's ஊதுவாரம் (p. 496) makes the pun explicit: 'the Tamil word veḷḷi connoting the metal silver as well as the planet Venus'. Two further Puṟanāṉūṟu attestations of the same omen were verified in the same e-text: 388, l. 1 'வெள்ளி தென்புலத்து உறைய, விளைவயல் / பள்ளம், வாடிய பயன்இல் காலை' (Venus dwelling in the south, the fields withered), and 397, l. 1 'வெள்ளியும் இருவிசும்பு ஏர்தரும்' (Venus rising in the dark sky at dawn). No Sanskrit-database counterpart: the planets are not individually in that database.</sub>
+
+**வெண்மீன் · veṇ-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The opening words of Paṭṭiṉappālai, and the same drought-omen as veḷḷi: 'even if the blameless-famed shining white star should turn from its quarter and go south'.
+
+> வசையில்புகழ் வயங்குவெண்மீன் திசைதிரிந்து தெற்கேகினும்
+> <br>— Paṭṭiṉappālai ll. 1-2 (by Kaṭiyalūr Uruttiraṅkaṇṇaṉār); Project Madurai e-text PM 0077 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0077.html))
+
+<sub>Nacciṉārkkiṉiyar's commentary on these lines glosses the phrase unambiguously: 'வயங்கு வெண்மீன் திசை திரிந்து தெற்கு ஏகினும் - விளங்குகின்ற வெள்ளியாகியமீன் தான் நிற்றற்குரிய வடதிசையினில்லாமல் தென்றிசைக்கண்ணே போகினும்' — 'the shining star that is Veḷḷi, even if it goes to the south instead of standing in its proper northern quarter' (U. Vē. Cāminātaiyar's edition, Project Madurai PM 0479, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0479.html). The Tamil Lexicon (s.v. வெண்மீன், vol. VI p. 3782) glosses it 'Venus; சுக்கிரன்' and cites the line as பட்டினப். 14; the Project Madurai text and Nacciṉārkkiṉiyar's own numbering both place it at ll. 1-2, i.e. the poem's opening couplet, so the Lexicon's line-number appears to follow a different edition or is an error. Recorded as an edition discrepancy rather than silently corrected.</sub>
+
+**ಬೊಳ್ಳಿ · boḷḷi** — Tulu (South Canara (Tulu Nadu)) · *vernacular* · confidence: certain
+
+The ordinary Tulu word for a star; also 'silver', 'three annas' and 'a gray ox'.
+
+> ಬೊಳ್ಳಿ bolli, s. A star. 2. silver. 3. three annas. 4. a gray ox. —ನೂಲು silver thread or girdle.
+> <br>— Männer, Tuḷu–English Dictionary (Mangalore, Basel Mission Press, 1886), s.v. ಬೊಳ್ಳಿ boḷḷi, p. 502 ([source](https://archive.org/download/tuluenglishdicti00mnrich/tuluenglishdicti00mnrich_djvu.txt))
+
+<sub>THE Tulu star-word, and the only native one. Burrow & Emeneau confirm it independently at DEDR 5496(a), whose Tulu section lists boḷḷi in the senses 'star, silver' among the reflexes of *veḷ 'white' (DSAL p. 499). The cognate set — Ta. veḷḷi 'silver, star, planet Venus, Friday', Ka. beḷḷi 'silver, planet Venus', To. piḷy, Ko. veyḷ, Ma. വെള്ളി — makes 'silver / Venus / Friday' a single inherited Dravidian complex, and Tulu belongs to it. Männer's romanization is 'bolli'; the printed Kannada script has the retroflex ḷ. The OCR of the Kannada in Männer is unusable, so the script here was read from the page image.</sub>
+
+**زهره · zǒhra** — Urdu (Urdu, from Persian/Arabic) · *vernacular* · confidence: certain
+
+The standard Urdu name of the planet, from the same root as the compliment zǒhra-rū, 'Venus-faced'. Its Persian doublet is nāhīd (Platts p. 1120, from Avestan Anāhitā), and the Persian poets' irreverent name for it, lūlī-i-falak, 'heaven's dancing-girl', is also in Platts (p. 970).
+
+> P زهره zǒhra (for A. زهرة zǒharat, v.n. fr. زهر 'to shine,' &c.), s.f. (m. ?), The planet Venus: — zǒhra-rū, adj. Like Venus in countenance.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. zǒhra, p. 619 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=619))
+
+<sub>The Panjab list in Panjab Notes and Queries II.521 (p. 84) confirms the split usage: 'Evening Star. Arabic: Zuhrah (evening); náhid, girl with swelling breasts. Persian: Lúlí-i-falak, heaven's fille de joie.'</sub>
+
+**చుక్కవాలు · cukka-vālu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *folk* · confidence: likely
+
+Travel omen: a journey begun with this star facing you will go badly.
+
+> చుక్కవాలు ṭsukka-vālu. n. An evil planet or unlucky star. Particularly of Venus (ఛ?ుక్క, i.e., శుక్రః) for the Hindus believe that every journey will turn out ill if on setting out this star faces them.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. చుక్క ṭsukka, p. 449 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=449))
+
+<sub>Brown's parenthesis is garbled in the DSAL text ('ఛ?ుక్క'); the point he is making is that cukka here is a reshaping of Śukra. Compare Kittel s.v. ಬಾಲ (p. 1173), who cites 'Te. ವಾಲುಚುಕ್ಕೆ, the planet Venus, ಶುಕ್ರ' — the same compound with the elements reversed. Brown's own related sub-entry చుక్కయెదురు 'a star full in front' names the same omen.</sub>
+
+**Pili** — Toda (Nilgiri hills, Tamil Nadu) · *tribal* · confidence: certain
+
+> The Todas know Venus, which they call Pili, and they also speak of the "morning star."
+> <br>— Rivers, The Todas (1906), p. 593 ([source](https://archive.org/download/todas00rivegoog/todas00rivegoog_djvu.txt))
+
+**सूक / سوک · sūk (also suk)** — Hindi (Hindustani generally; the proverb marked Hin. (Hindu usage) by Fallon) · *sanskritic* · confidence: certain
+
+A tadbhava, not a tatsama: Prakrit sukko > Hindi sūk, which also names Friday. Fallon attaches a working rule to it - nothing auspicious is begun while Venus is set (i.e. during its heliocentric conjunction), a piece of practical astrology still observed at weddings.
+
+> H سوک सूक sūk; E. sukh; A. zohrā , n. m. S. शुक्र The planet Venus. Sūk ḍūbe shubh kāraj nahīṅ karte. Hin. When Venus sets no work should be done.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. sūk, p. 794 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=794))
+
+<sub>Platts has both suk (p. 663) and sūk (p. 699), each 'The planet Venus; — Friday'. Maya Singh, The Panjabi Dictionary (1895), p. 1075, gives Punjabi ਸੂਕ súk and p. 1076 ਸੁੱਕਰ sukkar for the same planet.</sub>
+
+**ಚುಕ್ಕಿ · cukki** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+A trap for the unwary: Kittel has two homographic headwords ಚುಕ್ಕಿ. The one meaning 'star/dot' is Dravidian; this one, meaning the planet Venus, is a tadbhava of Sanskrit Śukra.
+
+> ಚುಕ್ಕಿ cukki. Tbh. of ಶುಕ್ರ. Śukra, the planet Venus and the preceptor of the daityas or rākṣasas (My.; ರಕ್ಕಸರ ಓಜ, ಅಸುರ ಗುರು Si. 17). see Prv. s. ತುರುಕ. -ಚುಕ್ಕಿಗುವರ. -ಕುವರ. a son or pupil of Śukra: a daitya
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಚುಕ್ಕಿ cukki 2, p. 653 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=653))
+
+<sub>HOMONYM WARNING, and the reason this database tags register rather than assuming it. Kannada ಚುಕ್ಕಿ cukki 'star' (Dravidian, = Telugu cukka) and ಚುಕ್ಕಿ cukki 'Venus' (< Skt. Śukra) are separate words that fell together. Kittel keeps them as separate numbered headwords on the same page; the Sanskrit-derived one must NOT be counted as a vernacular Venus name. The genuinely vernacular Kannada Venus name is ಬೆಳ್ಳಿ beḷḷi, entered separately.</sub>
+
+**Sukura and Sukurani; lagan ipilkiŋ, logon ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *sanskritic* · confidence: likely
+
+In the Hasada country and the Karra police subdivision their close conjunction is read by animists as a very favourable omen for marriages contracted in that month or year — the stars are said to be loving and kissing each other. Elsewhere in Nagpur they are unknown, as is the logon-tol ceremony itself.
+
+> two stars, Sukura and Sukurani, also called lagan ipilkiŋ, logon ipilkiŋ, which are an evident loan from the Sadans or the Hinduized aborigines, and present the only little touch of astrology discoverable in the star lore of the Mundas
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Flagged sanskritic on Hoffmann's own analysis. He notes that Sukrani exists in no Hindu system: for the Mundas she is whatever bright star or planet happens to sit near Venus in a given year. This is the only astrology Hoffmann found in the whole of Munda sky-lore, and he is emphatic that the Munda 'neither knows, nor cares to know, what a horoscope is'.</sub>
+
+## Ursa Minor
+
+**Modern:** Ursa Minor · α–η Ursae Minoris · Ursa Minor  
+**Sanskrit database:** `dhruva` — Dhruva (Polaris (the pole star)) ([entry](../star-names/star-names.json))  
+**Named in 11 languages:** Bengali, Gondi, Hindi, Kannada, Malayalam, Marathi, Odia, Sinhala, Tamil, Telugu, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | ध्रुवमत्स्य | *dhruvamatsya* | the pole-fish | vernacular |
+| Marathi | मेढ | *mēḍha* | a forked stake used as a post | vernacular |
+| Urdu | فرقدان | *farqadān* | 'the two calves' (dual of farqad 'a calf') | vernacular |
+| Urdu | جدي | *jadī* | 'the kid, the young he-goat' | vernacular |
+| Urdu | قطبي | *quṭbī tārā* | 'the polar star' | vernacular |
+| Kannada | ಧ್ರುವಪಾಶ | *dhruvapāśa* | the pole-star rope | folk |
+| Marathi | मेढेमत | *mēḍhēmata* | the doctrine of the pole-star | folk |
+| Bengali | ধ্রুব | *dhruba* | 'the fixed one' | sanskritic |
+| Gondi | — | *Dhruva Tara; Mout Tara* | Dhruva's star; the umbilical star | sanskritic |
+| Hindi | धुरू / دهرو | *dhurū tārā (dhruv-tārā)* | 'the fixed star' | sanskritic |
+| Kannada | ಔತ್ತಾನಪಾದಿ | *auttānapādi* | son of Uttānapāda | sanskritic |
+| Kannada | ಧ್ರುವ | *dhruva* | fixed, immovable | sanskritic |
+| Malayalam | ധ്രുവം / ധ്രുവന്‍ | *dhruvam / dhruvan* | 'the fixed one' | sanskritic |
+| Malayalam | ഋക്ഷം | *ṛkṣam* | 'bear' | sanskritic |
+| Marathi | ध्रुव | *dhruva* | fixed, immovable | sanskritic |
+| Marathi | धुरु | *dhuru* | — | sanskritic |
+| Odia | ସୌମ୍ୟ ଧ୍ରୁବ / ଯାମ୍ୟ ଧ୍ରୁବ | *Sa̲u̲mya dhruba / J̄āmya dhruba* | 'the northern Dhruva' and 'the southern (Yama's) Dhruva' | sanskritic |
+| Sinhala | ධ්‍රැව·තාරකාව | *dh‍ræva·tārakāva* | 'the fixed star' | sanskritic |
+| Tamil | துருவம் | *turuvam* | — | sanskritic |
+| Telugu | ధ్రువనక్షత్రము | *dhruva-nakṣatramu* | the fixed star | sanskritic |
+
+**ध्रुवमत्स्य · dhruvamatsya** — Marathi (Maharashtra) · *vernacular* · confidence: likely
+
+> ॰मत्स्य -पु. (ज्यो.) लघुऋक्ष किंवा लघुऋक्षांतील दोन मुख्य तार्‍यांपैकीं एक. दुसरा मुख्य तारा ध्रुव होय.
+> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. ध्रुव (compound ॰मत्स्य), p. 1770 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact))
+
+<sub>A 20th-century Marathi constellation vocabulary rather than village usage: Date's own supporting quotation is from a teacher-training manual listing ध्रुवमत्स्य beside सप्तर्षि, नरतुरंगम ('man-horse' = Sagittarius) and ययाति as figures to teach children. Register 'vernacular' in the sense of Marathi-formed, but the milieu is the modern classroom, not folk tradition. Date is also internally unsure whether the word names Ursa Minor as a whole or one of its two bright stars.</sub>
+
+**मेढ · mēḍha** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+> मेढ mēḍha f A forked stake. Used as a post. Hence a short post generally whether forked or not. Pr. हातीं लागली चेड आणि धर मांडवाची मेढ. 2 The polar star.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. मेढ, p. 664 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AE%E0%A5%87%E0%A4%A2&searchhws=yes&matchtype=exact))
+
+<sub>The best vernacular find for the pole star: an ordinary farmyard word — the forked post that holds up a booth — used for Polaris, the peg the sky is pinned to. It answers the Sanskrit मेढी 'threshing-post' as an image of the pole, but मेढ is the live Marathi noun and Molesworth marks it with no S. Corroborated independently by Vaze (1911), p. 464: 'मेढ mēḍha f A forked stake. The polar star.'</sub>
+
+**فرقدان · farqadān** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+The Arabic al-farqadān, the pair that circles close to the pole. Shakespear (1834, p. 1258) muddles them as 'Two stars near the pole, the greater and lesser bears'; Platts has the identification right.
+
+> A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. farqadān, p. 779 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779))
+
+<sub>Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'.</sub>
+
+**جدي · jadī** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+The Arabic al-jady, the same word as the zodiac sign Capricorn, used for the pole star itself - a name that pins the star rather than the constellation.
+
+> A جدي jadī , s.m. A kid; a young he-goat; the sign Capricorn; the star a of Ursa minor, the pole-star.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. jadī, p. 378 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=378))
+
+<sub>Platts's next entry, جدي judai, is the diminutive, glossed simply 'The pole-star'.</sub>
+
+**قطبي · quṭbī tārā** — Urdu (Urdu, from Arabic/Persian) · *vernacular* · confidence: certain
+
+A hybrid: Arabic quṭb 'pivot, pole' with the Indic word tārā 'star'. The naked Arabic quṭb alone is also used for the pole star (Platts p. 792; Fallon p. 888).
+
+> P قطبي qut̤bī (rel. n. fr. qut̤b), adj. Of or relating to the north pole; polar: — qut̤bī tārā, s.m. The polar star.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. quṭbī, p. 792 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=792))
+
+<sub>Platts prints only the headword قطبي in script; the compound is roman. Still standard modern Hindi/Urdu (McGregor 1993, p. 204, s.v. क़ुतुब).</sub>
+
+**ಧ್ರುವಪಾಶ · dhruvapāśa** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *folk* · confidence: certain
+
+COSMOLOGY. The earth is held up by a rope tied to the pole star.
+
+> ಧ್ರುವಪಾಶ dhruva-pāśa. the rope by which the earth is suspended from the polar star (My.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಧ್ರುವಪಾಶ dhruvapāśa, p. 877 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=877))
+
+<sub>Registered folk because it is a popular cosmological belief rather than a name for anything, and because Kittel sources it to the Mysore colloquial (My.). It is the Kannada version of the pan-Indian image the Sanskrit database has as meḍhī / medhībhūta, 'the threshing-post to which the sky is tethered' (db id 'medhi') — but reversed: here it is the earth that hangs from the sky.</sub>
+
+**मेढेमत · mēḍhēmata** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+the name of a non-Brahman astrological sect and of its practitioners (मेढेजोशी)
+
+> मेढेमत mēḍhēmata n (मेढ Polar star, मत Dogma or sect.) A persuasion or an order or a set of tenets and notions amongst the Shúdra-people. Founded upon certain astrological calculations proceeding upon the North star. Hence मेढेजोशी or डौरीजोशी.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. मेढेमत, p. 665 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AE%E0%A5%87%E0%A4%A2%E0%A5%87%E0%A4%AE%E0%A4%A4&searchhws=yes&matchtype=exact))
+
+<sub>Not a star-name but the strongest evidence that मेढ 'pole star' was a living, socially embedded word: a whole non-Brahman divinatory tradition, and a caste-title of village astrologers, is named from it.</sub>
+
+**ধ্রুব · dhruba** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+The entry keeps both the Purāṇic prince and the star in one lemma, and the adjectival sense 'sure, certain, fixed' alongside them.
+
+> ধ্রুব dhruba n. (myth.) a prince famous for his incomparable devotion to God Hari (হরি); the Pole Star, the Polaris, the North Star, the cynosure, ☐ a. sure, certain; fixed; firm, deep-seated (ধ্রুববিশ্বাস); constant; actual, real (ধ্রুব সত্য).
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. ধ্রুব dhruba, p. 548 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%A7%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AC&searchhws=yes&matchtype=exact))
+
+**Dhruva Tara; Mout Tara** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *sanskritic* · confidence: disputed
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Reported in only three of fifteen villages and under a Sanskrit name, which the authors read as a late addition; several villages denied that any such star exists, and one placed it rising at 4 a.m., which Polaris does not do. A useful counterweight to the assumption that every Indian community orients by the pole star — the Mundas ignore it too, and Hoffmann says so explicitly.</sub>
+
+**धुरू / دهرو · dhurū tārā (dhruv-tārā)** — Hindi (Hindustani generally; the ritual is reported for Punjabi Hindus) · *sanskritic* · confidence: certain
+
+Fallon's headword form dhurū is the vernacular reduction of Sanskrit dhruva, and he equates it directly with Arabic quṭb - the two layers glossing each other on one line. Ethnographically the star carries a vow: a Punjabi Hindu who salutes Dhrū for forty nights with his turban round his neck is said to learn of his death forty days in advance and to be joined to Dhrū's world after it.
+
+> H دهرو धुरू dhur'ū; A. qutb , n. m. S. ध्रुव Pole (of the earth). Dhurū tārā. The polar star.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. dhur'ū, p. 656 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=656))
+
+<sub>The forty-night vow: Chaina Mall, 'Pole Star - Dhru', Panjab Notes and Queries, vol. II, note 735. Platts, p. 543, gives the tatsama dhruv / dhruv-tārā. The Dhruva legend as told in the North-Western Provinces is summarised by Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 24-25.</sub>
+
+**ಔತ್ತಾನಪಾದಿ · auttānapādi** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಔತ್ತಾನಪಾದಿ auttānapādi. (fr. ಉತ್ತಾನಪಾದ). N. of Dhruva, grandson of the first Manu. 2, the polar star.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಔತ್ತಾನಪಾದಿ auttānapādi, p. 344 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=344))
+
+<sub>Kittel's separate headword ಉತ್ತಾನಪಾದ (p. 230) is glossed 'N. of a star in the little bear', i.e. he distinguishes the father-star from the son-star; the Sanskrit database keeps the same pair ('uttanapada' as a Śiśumāra position, 'auttanapadi' as the pole).</sub>
+
+**ಧ್ರುವ · dhruva** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+Also ಧ್ರುವನಕ್ಷತ್ರ dhruva-nakṣatra, same page.
+
+> ಧ್ರುವ dhruva. = ದರುವು, ಧೃವ. fixed, firm, fast, immovable … 3, the polar star; the north pole. 4, the trunk of a lopped tree; a post, stake. 5, a wooden roller used in an oil-mill …
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಧ್ರುವ dhruva, p. 877 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=877))
+
+<sub>HOMONYM: senses 4 and 5 (post, stake, oil-mill roller) are the ordinary Kannada uses; only sense 3 is the star. The shared image of the pole as a fixed post is the same one behind the Sanskrit meḍhī 'threshing-post' in the db.</sub>
+
+**ധ്രുവം / ധ്രുവന്‍ · dhruvam / dhruvan** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+ധ്രുവം കൂട്ടുക is a technical phrase 'to make an astrological calculation'.
+
+> ധ്രുവം dhruvam dhruvam S. ( ധൃ ) 1. Fixed, abiding; sure ... 3. the polar star ധ്രുവത്തിന്‍റെ പേര്‍ ജലജോയം astrol. ധ്രുവം കൂട്ടുക B. to make an astrological calculation. ധ്രുവന്‍ 1. the polar-star, personified
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ധ്രുവം dhruvam, p. 523 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=523))
+
+<sub>Purely Sanskrit; Gundert records no Dravidian pole-star name for Malayalam. (Thurston, Castes and Tribes of Southern India, vol. I p. 108, records a Dravidian one for the Nilgiri Badagas — 'Aranjoti (the pole-star)', shown to the couple at a wedding — but Badaga is outside this compilation.) The astrological gloss ജലജോയം is obscure.</sub>
+
+**ഋക്ഷം · ṛkṣam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: disputed
+
+Used in the compound ജന്മര്‍ക്ഷദിനം 'the day of one's birth-asterism'.
+
+> ഋക്ഷം r̥kṣam ṛkšam S. (G. 'rktos) 1. Bear, Ursa minor. 2. constellation in general ജന്മര്‍ക്ഷദി നം Bhg.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഋക്ഷം ṛkṣam, p. 153 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%8B%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Gundert glosses the Bear as Ursa MINOR, where Sanskrit ṛkṣāḥ is standardly Ursa Major (the Saptarṣis) — as Gundert himself has it under സപ്തം. The discrepancy is his, not the language's; flagged disputed. Sense 2, 'constellation in general', is the ordinary Malayalam usage.</sub>
+
+**ध्रुव · dhruva** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> ध्रुव dhruva m (S) The polar star; also the north pole. 2 The twelfth of the twenty-seven astronomical Yog. 3 The introductory stanza of a song.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. ध्रुव, p. 446 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact))
+
+<sub>The tatsama, and the ordinary modern word (Berntsen, Marathi Teaching Materials, p. 74: 'ध्रुव m. 1. the north star. 2. pole.').</sub>
+
+**धुरु · dhuru** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> धुरु dhuru m An officer employed in the customs. 2 A caste or an individual of it. 3 (Corr. from ध्रुव S) The polar star.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. धुरु, p. 442 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A7%E0%A5%81%E0%A4%B0%E0%A5%81&searchhws=yes&matchtype=exact))
+
+<sub>The Marathi tadbhava of ध्रुव. Attested far earlier than Molesworth: Tulpule & Feldhaus, A Dictionary of Old Marathi, p. 358, s.v. धुरु, cite it from 13th-14th-century texts — 'ना ना ते केवळ धुरुमंडळ: प्रकाशरूप तेजाची झळाळ RS. 1920; कां ढळे धुरु । उनमळौ पडे मेरु UH. 1652' — so the vernacular form has roughly seven centuries of continuous use.</sub>
+
+**ସୌମ୍ୟ ଧ୍ରୁବ / ଯାମ୍ୟ ଧ୍ରୁବ · Sa̲u̲mya dhruba / J̄āmya dhruba** — Odia (Odisha) · *sanskritic* · confidence: certain
+
+A pair coined to hold a fact European astronomy supplied: there are two poles, and only the northern one is visible from India. For the southern, Praharaj records the working substitute — since we cannot see it, the southernmost bright star of the Triśaṅku group above the south pole point is taken to be the south pole star.
+
+> ଯାମ୍ୟ ଧ୍ରୁବ— J̄āmya dhruba … ବି— ଦକ୍ଷଣ ମେରୁ ଉପରେ ଥିବା ଧ୍ରୁବ ତାରା— The pole star on the south pole. [ଦ୍ର—ଏ ତାରାକୁ ଆମ୍ଭେମାନେ ଦେଖି ପାରୁ ନାହିଁ ବୋଲି ଦକ୍ଷିଣ ଧ୍ରୁବ ବିନ୍ଦୁର ଉପରକୁ ଥିବା ତ୍ରିଶଙ୍କୁ ମଣ୍ଡଳର ଦକ୍ଷିଣତମ ଉଜ୍ଜ୍ୱଳ ତାରାକୁ ଦକ୍ଷିଣ ଧ୍ରୁବ ତାରା ବୋଲି ଧରାଯାଏ।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଯାମ୍ୟ ଧ୍ରୁବ J̄āmya dhruba, p. 6820 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%AF%E0%AC%BE%E0%AC%AE%E0%AD%8D%E0%AD%9F%20%E0%AC%A7%E0%AD%8D%E0%AC%B0%E0%AD%81%E0%AC%AC&searchhws=yes&matchtype=exact))
+
+<sub>The Triśaṅku group is in the Sanskrit database (id trishanku) as the king fixed head-downward in the southern sky; Praharaj is using it as a real region of sky with a determinable southernmost member. ସୌମ୍ୟ ଧ୍ରୁବ is at p. 8756, ଧ୍ରୁବ ତାରା at p. 4068, ଉତ୍ତରଧ୍ରୁବ at p. 947.</sub>
+
+**ධ්‍රැව·තාරකාව · dh‍ræva·tārakāva** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+> ධ්‍රැව·තාරකාව dh‍ræva·tārakāva , n. the pole star.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. ධ්‍රැව·තාරකාව dh‍ræva·tārakāva, p. 312 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=pole%20star&matchtype=default))
+
+<sub>Sinhala kept the Sanskrit word entire and coined nothing native for the pole star — the same result as Malayalam ധ്രുവം. Carter's other pole-star names are all Sanskrit too: ධ්‍රැවය (p. 312), උත්තර ධ්‍රැව තාරකාව (p. 117), ග්‍රහා·ධාරයා 'sustainer of the planets and stars' (p. 222), ජ්‍යෝතී·රථය (p. 245), නක්‍ෂත්‍ර·නාභිය 'star-navel' (p. 312). Clough p. 272 has 'Druwa, s. polar star or north pole itself'. A search for a native form returned nothing in any of the three dictionaries.</sub>
+
+**துருவம் · turuvam** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+Sanskrit Dhruva in Tamil phonology. No indigenous Tamil name for the pole star was found in either the Tamil Lexicon or Winslow — every Tamil term for it is built on this loan.
+
+> Pole Star; துருவநட்சத்திரம். (W.) 5. The pole of any great circle of the sphere, especially the celestial poles; பூசக்கர முனை. (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. துருவம் sense 4, vol. IV p. 1984, marked (W.) after Winslow ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>NEGATIVE FINDING recorded here: searching the English side of the Lexicon for 'pole star' returns only Sanskrit-derived compounds — சிம்சுமாரசக்கரம் cimcumāra-cakkaram (p. 1422, < Śiṃśumāra, the Sanskrit celestial porpoise), துருவபதம், துருவமண்டலம், துருவன் 'the son of King Uttānapāda believed to have become the pole-star', நட்சத்திரநேமி — and no Tamil formation at all. The Śiṃśumāra figure enters Tamil too: சிம்சுமாரப்ரஜாபதி (Supplement p. S276), 'the region of the Pole Star beyond the nakṣatra-pada', quoted from a Vaiṣṇava commentary.</sub>
+
+**ధ్రువనక్షత్రము · dhruva-nakṣatramu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+> ధ్రువుడు or ధ్రువనక్షత్రము dhruvuḍu. n. The name of the North Pole: the Pole Star.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ధ్రువుడు dhruvuḍu, p. 626 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=626))
+
+<sub>No vernacular Telugu pole-star name is recorded by Brown; the Sanskrit name is used unaltered. Note the DSAL headword for this page is misprinted as ధ్యానము. Same situation in Kannada (ಧ್ರುವ, Kittel p. 877).</sub>
+
+## Canopus
+
+**Modern:** Canopus · α Carinae · Carina  
+**Sanskrit database:** `agastya` — Agastya (Canopus) ([entry](../star-names/star-names.json))  
+**Named in 11 languages:** Bengali, Hindi, Kannada, Malayalam, Marathi, Mundari, Odia, Sinhala, Tamil, Telugu, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Sinhala | කළමුනිදුතරුව | *kaḷamunin̆du-taruva* | — | vernacular |
+| Tamil | பொதியில் முனிவன் | *potiyil muṉivaṉ* | the sage of the Potiyil hill | vernacular |
+| Urdu | سہيل | *suhail (corr. suhel)* | Arabic Suhayl, diminutive-form of sahl 'level, easy' | vernacular |
+| Hindi | — | *agast* | vernacular contraction of Agastya | folk |
+| Mundari | — | *jilu-atiŋ ipil* | the star under which the game grazes | tribal |
+| Bengali | অগস্ত্য | *agastya* | the sage Agastya | sanskritic |
+| Kannada | ಅಗಸ್ತ್ಯ | *agastya* | — | sanskritic |
+| Malayalam | അഗസ്തി | *agasti* | the sage Agastya | sanskritic |
+| Marathi | — | *Agastya* | — | sanskritic |
+| Marathi | अगस्ति | *agasti* | — | sanskritic |
+| Odia | ଅଗସ୍ତି | *Agasti* | the sage Agastya | sanskritic |
+| Odia | ଲୋପାମୁଦ୍ରା | *Lopā mudrā* | Lopāmudrā, wife of the sage Agastya | sanskritic |
+| Tamil | அகத்தியன் | *akattiyaṉ* | Agastya (the sage), in Tamil form | sanskritic |
+| Telugu | అగస్త్యనక్షత్రము | *agastya-nakṣatramu* | — | sanskritic |
+
+**කළමුනිදුතරුව · kaḷamunin̆du-taruva** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+Attested in the classical poem Sasadāvata: the rising of this star is what makes turbid water run clear. That belief — Agastya's heliacal rising as the moment water purifies — is the same one Sanskrit attaches to Agastya, but here it is carried by a Sinhala word.
+
+> කළමුනිදුතරුව kaḷamunin̆du-taruva , s., a brilliant star that dawns in the southern sky, the star canopus of which the sage Agasti is supposed to be the regent: vimal kärä sihil kaḷamunin̆du taru nän̆gīmen by the rising of the star canopus making water purified, Sas 82.
+> <br>— Jayatilaka (ed.), A Dictionary of the Sinhalese Language (Royal Asiatic Society, Ceylon Branch, 1935– ), s.v. කළමුනිදුතරුව kaḷamunin̆du-taruva, p. 2536 ([source](https://dsal.uchicago.edu/cgi-bin/app/jayatilaka_query.py?qs=canopus&matchtype=default))
+
+<sub>A Jayatilaka-only find; Carter has no such headword and gives only the Sanskrit personal name (අගස්ති, p. 6: 'a rishi so named ... is the regent of the star Canopus'), as does Clough. The final element තරුව taruva is the native Sinhala word for star. Jayatilaka's separate entry අගති agati (p. 41) records the water-purifying belief again.</sub>
+
+**பொதியில் முனிவன் · potiyil muṉivaṉ** — Tamil (Tamil Nadu (Potiyil/Podigai hills)) · *vernacular* · confidence: likely
+
+A TAMIL LOCALISATION of the Canopus-sage: Agastya named not by his Sanskrit name but by the southern Tamil mountain he is said to dwell on. The verse describes him cleaving the high ridge and reaching Gemini — the star's heliacal position in a datable sky-description.
+
+> பொதியில் முனிவன் புரை வரைக் கீறி மிதுனம் அடைய, விரி கதிர் வேனில்
+> <br>— Paripāṭal 11, ll. 11-12 (by Nallantuvaṉār); Project Madurai e-text PM 0087 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0087.html))
+
+<sub>The identification with Canopus is the commentary's, not the verse's: the Tamil Lexicon s.v. அகத்தியன் quotes the urai on this very line (பரிபா. 11, 11, உரை) as 'the star called Akattiyaṉ, passing beyond its high station, joining Gemini'. The mūlam text quoted here is verified independently at Project Madurai. The whole of Paripāṭal 11, ll. 1-12 is a sky-description with Venus in Aries (உருகெழு வெள்ளி வந்து ஏற்றியல் சேர, l. 4) and other planetary placements, so a star is what is meant. Confidence 'likely' because the epithet 'sage of Potiyil' names Agastya, and only the commentary makes Agastya the star here. The Lexicon's own headword பொதியில் (vol. V) gives only 'public hall' and the mountain, not the star, so this name is not lexicalised as an astronomical term.</sub>
+
+**سہيل · suhail (corr. suhel)** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+The second-brightest star and, like Agastya, a low southern star whose heliacal rising is a season marker. It has entered Hindi verse: McGregor records सुहेल suhel as Avadhi for Canopus.
+
+> A سہيل suhail , corr. suhel (v.n. dim. form fr. سہل; see sahl), s.m. The star Canopus.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. suhail, p. 707 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=707))
+
+<sub>COMPETING IDENTIFICATION: Fallon, p. 801, s.v. suhail', suhel, glosses it 'The dog star', i.e. Sirius. That is an error - Platts (1884), Shakespear (1834, p. 1131) and Fallon's own entry at p. 115 (s.v. agas'ti, 'The star Canopus; Argo Navis (A. suhail...)') all make it Canopus. Recorded here because it is the only place in these dictionaries where Sirius is even approached.</sub>
+
+**agast** — Hindi (Bihar (Bhojpuri- and Magahi-speaking districts); the couplet is ascribed to the peasant weather-prophet Ghāgh) · *folk* · confidence: certain
+
+Not a learned citation but a farmer's calendar marker: the heliacal rising of Canopus, paired with the flowering of kās grass, announces that the rains are over. This is the Sanskrit Agastya name doing agricultural work in a peasant couplet.
+
+> Uge agast ban phule kás, / Ab náhin barkha ke as. — The appearance of the star Canopus and the flowering of the kás grass in the forest are signs of the end of the rains.
+> <br>— G. A. Grierson, Bihar Peasant Life (Calcutta, 1885), §1091, p. 283 ([source](https://archive.org/details/cu31924072688025))
+
+<sub>Grierson prints the couplet in Devanagari above the transliteration; the Devanagari is badly mangled in the scanned text, so only his transliteration and translation are quoted and name_native is left null.</sub>
+
+**jilu-atiŋ ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+Deer are believed to graze only while this star is above the horizon — a hunter's star, from the days when the forests were denser and game was an important part of the daily food.
+
+> jilu-atiŋ-ipil sbst., Canopus. Game is believed to graze only whilst this star is above the horizon.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. jilu-atiŋ ipil, col. 2065; the story at cols. 1920-1921 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>jilu now means game in general in Mundari; Hoffmann notes its Santali cognate jel is still restricted to deer. Sanskrit Agastya is the same star but an entirely unrelated figure, the sage.</sub>
+
+**অগস্ত্য · agastya** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+The entry carries into modern Bengali the Agastya-yātrā observance keyed to the star's heliacal rising in Bhādra.
+
+> অগস্ত্য agastya n. a mythological sage of India; (astrol.) the Canopus. ~যাত্রা n. the first day of the month of Bhadra (ভাদ্র) when the sage Agastya asked the bending Vindhyas to wait till he came back and he never came back (this day has since been regarded by the Hindus as extremely inauspicious to set out on a journey…)
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. অগস্ত্য agastya, p. 6 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%85%E0%A6%97%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AF&searchhws=yes&matchtype=exact))
+
+**ಅಗಸ್ತ್ಯ · agastya** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಅಗಸ್ತ್ಯ agastya. N. of a ṛiṣi (= ಅಗಸ್ತಿ No. 1; Bp. 19, 26). 2, the star Canopus or its regent. 3, = ಅಗಸೆ 1, q. v.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಅಗಸ್ತ್ಯ agastya, p. 12 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=12))
+
+<sub>Also ಅಗಸ್ತಿ agasti (p. 12), 'the regent of the star Canopus'. As in Telugu, no vernacular name.</sub>
+
+**അഗസ്തി · agasti** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+> അഗസ്തി agasti agasti S. 1. = അഗസ്സ്യന്‍ N. pr. A Rishi celebrated for passing the Vindhya mountains and leading the Brahmans into the Deccan. 2. the star Canopus.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. അഗസ്തി agasti, p. 6 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%85%E0%B4%97%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B4%BF&searchhws=yes&matchtype=exact))
+
+<sub>Marked S. (Sanskrit) by Gundert, with the sage-legend intact. No native Malayalam name for Canopus is recorded, though it is a conspicuous southern star from Kerala's latitude.</sub>
+
+**Agastya** — Marathi (Bombay Presidency (Deccan and Konkan)) · *sanskritic* · confidence: certain
+
+a heliacal-rising marker: every Brahman must worship it within seven days of its first appearance, on pain of seven months' pollution
+
+> Every Brahman must offer arghyas to, and worship, the Agastya constellation, in a hut of Darbha (Eragrostis cynosuroides) and Kasada (Cassia occidentalis) within seven days from the date of its appearance.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 67 ([source](https://archive.org/details/folkloreofbombay00reen/page/n69))
+
+<sub>The name is Sanskrit but the practice is the point: Canopus is used as a seasonal marker, its heliacal rising in the Deccan falling in late August or early September and closing the first half of the monsoon. The archive.org OCR renders the name 'Agasiya'; the printed page reads Agastya.</sub>
+
+**अगस्ति · agasti** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> अगस्ति agasti m (S) The name of a saint. He is the Regent of the star Canopus. 2 The star Canopus. 3 Applied appellatively to a Glutton or great eater: because the saint अगस्ति swallowed up the ocean.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. अगस्ति, p. 7 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%85%E0%A4%97%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF&searchhws=yes&matchtype=exact))
+
+<sub>Purely Sanskritic; no vernacular Marathi name for Canopus turned up in Molesworth, Vaze, Tulpule or Date, even though Canopus is conspicuous from the Deccan in winter.</sub>
+
+**ଅଗସ୍ତି · Agasti** — Odia (Odisha) · *sanskritic* · confidence: certain
+
+The seasonal function is the whole point of the Odia entry: the star rises in śarat, and because river water clears in śarat, Hindus take the rising of Agasti to be the CAUSE of the clearing. The companion entry ଅଗସ୍ତ୍ୟୋଦୟ (p. 75) dates it to the 7th of Bhādra and glosses it as the beginning of Indian autumn.
+
+> 2। ଦକ୍ଷିଣାକାଶର ଉଜ୍ଜଳ ନକ୍ଷତ୍ରବିଶେଷ— A bright star in the southern sky; Canopus; Argus Alpha; Argo Navis. [ଦ୍ର—ଏହା ଶରତ୍କାଳରେ ଉଦିତ ହୁଏ; ଶରତ୍କାଳରେ ନଦ୍ୟାଦିର ଜଳ ନିର୍ମଳ ହେବାରୁ ଅଗସ୍ତି ନକ୍ଷତ୍ରର ଉଦୟକୁ ଜଳର ନିର୍ମଳତାର କାରଣ ବୋଲି ହିନ୍ଦୁମାନେ ବିଶ୍ୱାସ କରନ୍ତି।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଅଗସ୍ତି Agasti, p. 74 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%85%E0%AC%97%E0%AC%B8%E0%AD%8D%E0%AC%A4%E0%AC%BF&searchhws=yes&matchtype=exact))
+
+<sub>Praharaj adds at p. 4095 that Canopus was the southern pole star 14,000 years ago — a precession calculation, and a sign that this dictionary is drawing on European positional astronomy as well as on jyotiṣa.</sub>
+
+**ଲୋପାମୁଦ୍ରା · Lopā mudrā** — Odia (Odisha) · *sanskritic* · confidence: unidentified
+
+Recorded twice: as a headword, and in the Canopus note at p. 4095 ('the small star to its south-east is Agastya's wife Lopāmudrā').
+
+> 2। ଅଗସ୍ତି ନାମକ ତାରାର ଦକ୍ଷିଣ ପୂର୍ବ ପାଖରେ ଅବସ୍ଥିତ ଏକ କ୍ଷୁଦ୍ର ତାରା (ହି. ଶ.) (ନକ୍ଷତ୍ର ତଳେ ନୋଟ ଦେଖ) —2. A small star to the south east of Canopus (star).
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଲୋପା ମୁଦ୍ରା Lopā mudrā, p. 7452 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%B2%E0%AD%8B%E0%AC%AA%E0%AC%BE%20%E0%AC%AE%E0%AD%81%E0%AC%A6%E0%AD%8D%E0%AC%B0%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>DELIBERATELY LEFT UNIDENTIFIED. No candidate is named and 'small star south-east of Canopus' does not resolve: the plausible naked-eye options in that direction are several. sanskrit_db_id is null on purpose — the Sanskrit database's lopamudravallabha is 'Lopāmudrā's beloved', i.e. Agastya, i.e. CANOPUS ITSELF, a different star from this one. Recording them as the same entry would be an error. Praharaj credits the sense to the Hindī Śabdasāgara (ହି. ଶ.), so it may not be independently Odia.</sub>
+
+**அகத்தியன் · akattiyaṉ** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+The Tamil form of Agastya, both the sage credited with the first Tamil grammar and the star of which he is the regent. The Lexicon's quotation is from the commentary on Paripāṭal and calls it plainly 'the star named Agastiyaṉ'.
+
+> 2. The star Canopus, of which Agastya is the regent; அகஸ்திய நக்ஷத்திரம். அகத்திய னென்னு மீன் உயர்ந்த தன்னிடத்தைக் கடந்து மிதுனத்தைப் பொருந்த (பரிபா. 11, 11, உரை).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. அகத்தியன் sense 2, vol. I p. 10; quoting the commentary on Paripāṭal 11, 11 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%85%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Lexicon also has the fully Sanskritic அகஸ்தியநட்சத்திரம் (p. 16), 'The star Canopus'. The commentary phrase அகத்தியன் என்னும் மீன் — 'the star called Akattiyaṉ' — again uses the Tamil word mīṉ for a named star.</sub>
+
+**అగస్త్యనక్షత్రము · agastya-nakṣatramu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+The heliacal rising (agastyōdayamu) is an almanac event in the Telugu country.
+
+> అగస్త్యశాకము the leaves of a leguminous tree which are dressed and eaten, అనిసెచెట్టు; అగస్త్యనక్షత్రము the star Canopus. అగస్త్యచారము the cource of Canopus. అగస్త్యాదయము the rise of Canopus.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. అగస్త్యుడు agastyuḍu, p. 24 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=24))
+
+<sub>No vernacular name for Canopus in either dictionary — the Sanskrit sage-name is used in both languages (Kannada ಅಗಸ್ತ್ಯ, Kittel p. 12). Given the star's importance in the southern sky this is a real negative finding.</sub>
+
+## The lunar mansions as a system
+
+**Modern:** Gienah · γ Corvi · Corvus  
+**Sanskrit database:** `nakshatra-generic` — Nakṣatra (star / asterism (generic)) ([entry](../star-names/star-names.json))  
+**Named in 10 languages:** Gujarati, Hindi, Kannada, Malayalam, Marathi, Punjabi, Sinhala, Tamil, Telugu, Tulu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Malayalam | നാള്‍ | *nāḷ* | 'day' | vernacular |
+| Tamil | ஐம்மீன் | *ai-m-mīṉ* | five-star, the five stars | vernacular |
+| Tamil | கடைமீன் | *kaṭai-mīṉ* | last star, the star at the end | vernacular |
+| Tamil | காற்றுமுந்துநாள் | *kāṟṟu-muntu-nāḷ* | the star that the wind-star precedes | vernacular |
+| Tamil | மகவெண்மீன் | *maka-veṇ-mīṉ* | the Magha white-star | vernacular |
+| Tamil | மருத்துவநாள் | *maruttuva-nāḷ* | physician-star, the star of the physicians | vernacular |
+| Tamil | மாரிநாள் | *māri-nāḷ* | rain-star, the star of the rains | vernacular |
+| Tamil | நடுநாள் | *naṭu-nāḷ* | the middle star | vernacular |
+| Tamil | நாள் | *nāḷ* | day | vernacular |
+| Tamil | நாண்மீன் | *nāṇ-mīṉ* | day-star | vernacular |
+| Tamil | நீர்நாள் | *nīr-nāḷ* | water-star, the star of the waters | vernacular |
+| Telugu | గుర్రపుచుక్క | *gurrapu-cukka* | the horse's star | vernacular |
+| Telugu | జన్నపుచుక్క | *jannapu-cukka* | the sacrifice star | vernacular |
+| Telugu | జోడువేల్పులరిక్క | *jōḍu-vēlpula-rikka* | the star of the paired gods | vernacular |
+| Telugu | కొనరిక్క | *kona-rikka* | the end star, the last star | vernacular |
+| Telugu | కుమ్మరసారెచుక్క | *kummara-sāre-cukka* | the potter's-wheel star | vernacular |
+| Telugu | కార్తె | *kārte* | — | vernacular |
+| Telugu | మద్దెలరూపురిక్క | *maddela-rūpu-rikka* | the drum-shaped star | vernacular |
+| Telugu | ముక్కంటిచుక్క | *mukkaṇṭi-cukka* | the three-eyed one's star | vernacular |
+| Telugu | ముప్పదిరెంటి గుంపు | *muppadi-reṇṭi gumpu* | the group of thirty-two | vernacular |
+| Telugu | ముత్తెపురిక్క | *muttepu-rikka* | the pearl star | vernacular |
+| Telugu | మీనురూపురిక్క | *mīnu-rūpu-rikka* | the fish-shaped star | vernacular |
+| Telugu | నీటిరిక్క | *nīṭi-rikka* | the water star | vernacular |
+| Telugu | నీటిరేనిరిక్క | *nīṭi-rēni-rikka* | the water-king's star | vernacular |
+| Telugu | పెతరులచుక్క | *petarula-cukka* | the ancestors' star | vernacular |
+| Telugu | పొదరిండ్ల చుక్క | *podariṇḍla cukka* | the star of the bowers | vernacular |
+| Telugu | పొట్లపూచుక్క | *poṭla-pū-cukka* | the snake-gourd-flower star | vernacular |
+| Telugu | రిక్క | *rikka* | — | vernacular |
+| Telugu | సప్పపుచుక్క | *sappapu-cukka* | the serpent's star | vernacular |
+| Telugu | సాముకంటిచుక్క | *sāmu-kaṇṭi-cukka* | — | vernacular |
+| Telugu | సోకుచుక్క | *sōku-cukka* | the demon's star | vernacular |
+| Telugu | తొలురిక్క | *tolu-rikka* | the first star | vernacular |
+| Hindi | हथिया / ﮩتيا | *hathiyā* | 'the hand' (vernacular reflex of Sanskrit hasta) | folk |
+| Hindi | — | *nakhat / nachhattr / nichhattr* | vernacular reflexes of Sanskrit nakṣatra | folk |
+| Kannada | ಹುಬ್ಬೆ | *hubbe* | — | folk |
+| Kannada | ಮಖೆ | *makhe* | — | folk |
+| Marathi | वळवा | *vaḷavā* | the turned ones | folk |
+| Marathi | वाफ | *vāpha* | the fit state of the ground for sowing; hence the sowing season | folk |
+| Telugu | — | *Rohini Karte (and the rest of the 27 kārte)* | — | folk |
+| Telugu | అసిలేరు | *asilēru* | — | folk |
+| Telugu | బరణిచుక్క | *baraṇi-cukka* | the casket star | folk |
+| Telugu | పునాస | *punāsa* | — | folk |
+| Gujarati | — | *Kritika, Rohini, Arudra, Mragshir, Revti* | — | sanskritic |
+| Gujarati | — | *nakshatra* | lunar mansion | sanskritic |
+| Kannada | ಭರಣಿ | *bharaṇi* | — | sanskritic |
+| Kannada | ಚಿತ್ತೆ | *citte* | — | sanskritic |
+| Kannada | ಧನಿಷ್ಠೆ | *dhaniṣṭhe* | the very rich one | sanskritic |
+| Kannada | ನಕ್ಷತ್ರ | *nakṣatra* | — | sanskritic |
+| Malayalam | അശ്വതി, ഭരണി, കാര്‍ത്തിക, രോഹിണി, മകയിരം, തിരുവാതിര, പുണര്‍തം, പൂയം, ആയില്യം, മകം, പൂരം, ഉത്രം, അത്തം, ചിത്ര, ചോതി, വിശാഖം, അനുഴം, തൃക്കേട്ട, മൂലം, പൂരാടം, ഉത്രാടം, തിരുവോണം, അവിട്ടം, ചതയം, പൂരുരുട്ടാതി, ഉത്രട്ടാതി, ഇരവതി | *aśvati, bharaṇi, kārttika, rōhiṇi, makayiram, tiruvātira, puṇartam, pūyam, āyilyam, makam, pūram, utram, attam, citra, cōti, viśākham, anuḻam, tṛkkēṭṭa, mūlam, pūrāṭam, utrāṭam, tiruvōṇam, aviṭṭam, catayam, pūruruṭṭāti, utraṭṭāti, iravati* | — | sanskritic |
+| Malayalam | നക്ഷത്രം | *nakṣatram* | — | sanskritic |
+| Marathi | नक्षत्र | *nakṣatra* | — | sanskritic |
+| Punjabi | ਮੱਘਾ | *magghá* | — | sanskritic |
+| Punjabi | ਨਛੱਤ੍ | *nachhattar* | Punjabi reflex of Sanskrit nakṣatra | sanskritic |
+| Sinhala | අස්විද, බෙරණය, කැති නැකත, රෙහෙණ, මුවසිරස, අදේ, පුනාවස, පුසේ·නැකත, අස්ලිස, මා·නැකත, පුවපල්, උතුරුපල්ගුන, හත, සිත, සාය, විසා·නැකත, අනුර, දෙට, මුළ, පුව·සළ, උතුරු සළය, සුවණය, දෙනට, සිය·වස, පුවපුටුපේ, උතුරු පුටුපය, රේවතිය | *asvida, beraṇaya, kæti nækata, reheṇa, muvasirasa, adē, punāvasa, pusē-nækata, aslisa, mā-nækata, puvapal, uturupalguna, hata, sita, sāya, visā-nækata, anura, deṭa, muḷa, puva-saḷa, uturu saḷaya, suvaṇaya, denaṭa, siya-vasa, puvapuṭupē, uturu puṭupaya, rēvatiya* | — | sanskritic |
+| Sinhala | නැකත | *nækata* | — | sanskritic |
+| Tamil | நட்சத்திரம் | *naṭcattiram* | — | sanskritic |
+| Telugu | నక్షత్రము | *nakṣatramu* | — | sanskritic |
+| Telugu | పుబ్బ | *pubba* | — | sanskritic |
+| Telugu | ఉడువు | *uḍuvu* | — | sanskritic |
+| Tulu | ನಕ್ಷತ್ರ | *nakṣatra* | — | sanskritic |
+
+**നാള്‍ · nāḷ** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+The everyday Malayalam word for a person's birth-star, and the one that does the social work: Gundert's illustrative phrase is നാളും പൊരുത്തവും നോക്കി നിശ്ചയിക്ക, 'to settle [a marriage] after examining the nāḷ and the compatibility'. He also records the classification of the asterisms as ആണ്‍നാള്‍ 'male nāḷ' and പെണ്‍നാള്‍ 'female nāḷ' (cf. s.v. പെണ്‍, p. 699), and മുന്നാള്‍ 'the 3rd asterism from that of the nativity' (s.v. മുന്‍, p. 837).
+
+> നാള്‍ nāḷ‍ nāḷ T. M. ... 1. A day of 24 hours ... 2. the astrological day & the നക്ഷത്രം that governs it ( ആണ്‍നാ., പെണ്‍നാ . etc.). നാളും പൊരുത്ത വും നോക്കി നിശ്ചയിക്ക Anach. (for marriage).
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. നാള്‍ nāḷ, p. 547 (sense 2) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=547))
+
+<sub>The register point of the whole Malayalam set: the twenty-seven asterisms are Sanskrit, but the word Malayalam actually uses for them in daily speech is the inherited Dravidian nāḷ 'day' — the same word as Tamil nāḷ. Sanskrit നക്ഷത്രം is the learned register; നാള്‍ is the lived one. Gundert marks it 'T. M.' with Kannada and Telugu cognates.</sub>
+
+**ஐம்மீன் · ai-m-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A Tamil counting-name from ஐ 'five', and the Lexicon states the reason: the asterism has five principal stars — the quadrilateral of Corvus with its fifth.
+
+> ஐம்மீன் ai-m-mīṉ , n. < id. +. 1. The 13th nakṣatra, so called because of its five principal stars. See அத்தம்⁸. (பிங்.) 2. The fourth nakṣatra. See உரோகிணி. (வீமேசுர. 15.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. ஐம்மீன், vol. I p. 579, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%90%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Sense 2, 'the fourth nakṣatra' = Rohiṇī, comes from a different source and reflects the five bright Hyades; the Lexicon prints both without adjudicating, so the counting-name is genuinely ambiguous between two five-star groups. Its calque-twin is கைம்மீன் kai-m-mīṉ 'hand-star' (p. 1112, Tivākaram), a straight Tamil translation of Sanskrit hasta 'hand'. The Lexicon locates the thirteenth s.v. அத்தம்⁸ (p. 65) as 'the constellation Corvus'.</sub>
+
+**கடைமீன் · kaṭai-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A positional Tamil name — Revatī named simply as the last of the twenty-seven. It pairs with ātimīṉ and talaināḷ, 'first star', for Aśvinī.
+
+> கடைமீன் kaṭai-mīṉ , n. < id. +. The 27th nakṣatra from its being the last of the asterisms. See இரேவதி. (திவா.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. கடைமீன், vol. II p. 680, citing the Tivākaram ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%9F%E0%AF%88%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Its -nāḷ counterpart is கடைநாள் kaṭai-nāḷ (p. 679, Cūṭāmaṇi Nikaṇṭu), sense 4, 'the 27th nakṣatra, from its being the last asterism' — whose senses 1-3 are 'the last day', 'the day of one's death' and 'the last day of the world', a homonym worth noting. Further Tamil names for the same asterism: பெருநாள் peru-nāḷ (p. 2877) and புருடநாள் puruṭa-nāḷ (p. 2775); the Sanskritic one is இரவிநாள் iravi-nāḷ 'sun-star' (p. 316).</sub>
+
+**காற்றுமுந்துநாள் · kāṟṟu-muntu-nāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+THE PUREST VERNACULAR FORMATION IN THIS FILE. Viśākhā is named neither by its deity nor by its shape but purely by its place in the Tamil sequence — the asterism that comes after kāṟṟiṉāḷ. Nothing in Sanskrit corresponds.
+
+> காற்றுமுந்துநாள் kāṟṟu-muntu-nāḷ , n. < id. +. Višākha, the 16th nakṣatra, as succeeding kāṟṟiṉāḷ; காற்றைத் தேவதையாகக்கொண்ட சுவாதியை முற்பட்டநாளாகவுடைய விசாகநட்சத்திரம். (சூடா.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. காற்றுமுந்துநாள், vol. II p. 909, citing the Cūṭāmaṇi Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Printed immediately after காற்றினாள் on the same Lexicon page, which is how the relation is meant to be read. The formation presupposes a fixed Tamil ordering of the asterisms in which position alone can name a star — evidence that the Tamil nakshatra sequence was learned as a Tamil list, not merely translated item by item.</sub>
+
+**மகவெண்மீன் · maka-veṇ-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+THE ONE INDIGENOUS CONSTELLATION-FIGURE recovered by this compilation. Nacciṉārkkiṉiyar, glossing this compound, says the Magha asterism 'has the shape of a bent yoke' — the Sickle of Leo seen as a crooked ox-yoke, which is why the poet uses it as a simile for the curving bank of a temple tank.
+
+> (கு -பு) மகவெண்மீன் - மகநக்ஷத்திரம்; அது முடநுகம்போன்ற வடிவமுடையதாதலின், கரைக்கு உவமையாயிற்று.
+> <br>— Paṭṭiṉappālai ll. 34-35, with Nacciṉārkkiṉiyar's commentary (ed. U. Vē. Cāminātaiyar); Project Madurai e-text PM 0479 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0479.html))
+
+<sub>The mūlam lines were verified separately in the plain e-text (PM 0077, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0077.html): 'மழைநீங்கிய மாவிசும்பின் / மதிசேர்ந்த மகவெண்மீன்' — 'in the great sky from which the rain has withdrawn, the Magha white-star joined to the moon'. Nacciṉārkkiṉiyar's running gloss on ll. 34-38 renders it 'மதியைச் சேர்ந்த மகமாகிய வெள்ளியமீனினது வடிவு' — 'the shape of the white star that is Magha, joined to the moon'. முடநுகம் muṭa-nukam is 'bent yoke'. The Sickle of Leo — α, η, γ, ζ, μ, ε Leonis — does form a hooked line answering to a yoke, and the figure is not the Sanskrit one (Sanskrit Maghā is a house or a whip). The compound is not a Tamil Lexicon headword; it exists only in this text and its commentary, which is why the citation is literary rather than lexicographical. HOMONYM caution: வெண்மீன் alone means Venus (see above); here மக- fixes it as the asterism.</sub>
+
+**மருத்துவநாள் · maruttuva-nāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A Tamil TRANSLATION of the deity rather than a borrowing of the name: the Aśvins are the physicians of the gods, and Tamil renders them with the native word maruttuvar 'physicians'.
+
+> மருத்துவநாள் maruttuva-nāḷ , n. < மருத்துவர் +. The first nakṣatra; அச்சுவினி நாள். (பிங்.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. மருத்துவநாள், vol. V p. 3092, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The same asterism also has the positional Tamil names தலைநாள் talai-nāḷ 'head-day, first star' (p. 1780, Piṅkala Nikaṇṭu) and ஆதிமீன் āti-mīṉ 'first star' (p. 229, quoting Cētupurāṇam, Kantamātaṉa 17: 'ஆதிமீன் றோணி யீறு'), and the fully Sanskritic ஐப்பசி (see the month entry). The Sanskrit-database counterpart naming the same idea is 'ashvinidaivata'.</sub>
+
+**மாரிநாள் · māri-nāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: likely
+
+An AGRICULTURAL star-name: the twelfth asterism named for the rain. It is the only asterism in the Lexicon named for a season rather than a deity, a shape or a number.
+
+> மாரிநாள் māri-nāḷ , n. < மாரி¹ +. The 12th nakṣatra. See உத்தரம்². (பிங்.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. மாரிநாள், vol. V p. 3173, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Lexicon gives no reason for the name, so the agricultural reading is an inference from the transparent meaning of māri 'rain, rainy season' — flagged as such, and confidence set to 'likely' for that reason. The same asterism's other Tamil names are கதிர்நாள் katir-nāḷ (p. 713) and செங்கதிர்நாள் ceṅ-katir-nāḷ (p. 1578), both 'sun-ray star', which the Lexicon does explain: 'whose presiding deity is the Sun'.</sub>
+
+**நடுநாள் · naṭu-nāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A TAMIL NAME WITH NO SANSKRIT MODEL: Citrā named purely by its position, the fourteenth of twenty-seven, the exact midpoint of the series. Nothing about the deity or the appearance enters into it.
+
+> நடுநாள் naṭu-nāḷ , n. < id. +. 1. Midday; நண்பகல். 2. Midnight; இடையாமம். பழவிறன் மூதூர் பாயல்கொ ணடுநாள் (மணி. 7, 63). 3. The 14th nakṣatra. See சித்திரை. (சூடா.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. நடுநாள் sense 3, vol. IV p. 2143, citing the Cūṭāmaṇi Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>HOMONYM: senses 1 and 2 of the same word are 'midday' and 'midnight' — 'the middle of the day' and 'the middle asterism' share one form, and the Maṇimēkalai citation belongs to the midnight sense. The pun is presumably deliberate on the nikaṇṭu-maker's part. The bare word மீன் mīṉ is also given for this asterism (s.v. மீன்¹ sense 2), as is நெய்வான்மீன் ney-vāṉ-mīṉ (p. 2343, Tivākaram), whose first element is opaque.</sub>
+
+**நாள் · nāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The commonest Tamil term for a lunar asterism, and the second element of the whole -nāḷ class of Tamil asterism-names recorded below. The semantic bridge is the day named by the asterism the moon is in.
+
+> 7. Lunar asterism; நட்சத்திரம். திங்களு நாளு முந்துகிளந் தன்ன (தொல். எழுத். 286).
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. நாள் sense 7, vol. IV p. 2232; quoting Tolkāppiyam, Eḻuttatikāram 286 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Tolkāppiyam line quoted — 'as when the moon and the nāḷ were mentioned before' — puts the sense in the oldest surviving Tamil grammar. Sense 8 extends it to the lunar day, the period of the moon's passage through one asterism.</sub>
+
+**நாண்மீன் · nāṇ-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The Caṅkam term for the lunar mansions collectively, explicitly opposed by the Lexicon to கோண்மீன் kōṇmīṉ 'planet'. The Kalittokai image is of the moon ringed by the asterisms.
+
+> நாள்மீன் வாய் சூழ்ந்த மதி போல், மிடை மிசைப்
+> <br>— Kalittokai 104, l. 27 (Neytaṟkali); Project Madurai e-text PM 0221 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0221.html))
+
+<sub>The Project Madurai text prints நாள்மீன்; the Tamil Lexicon headword is நாண்மீன் (nasal assimilation) and cites this same line as கலித். 104, 27, glossing 'The lunar asterism; அசுவதி முதலிய நட்சத்திரப்பொது' (s.v. நாண்மீன், vol. IV p. 2212, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact). The Lexicon also uses நாண்மீன் in its own Tamil definition of நட்சத்திரம், 'the twenty-seven nāṇmīṉ'.</sub>
+
+**நீர்நாள் · nīr-nāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+A Tamil translation of the deity — Pūrvāṣāḍhā's presiding power is the Waters (Āpas) — with the native word nīr.
+
+> நீர்நாள் nīr-nāḷ , n. < id. +. The 20th nakṣatra. See பூராடம். (பிங்.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. நீர்நாள், vol. IV p. 2303, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Tamil deity-translation habit runs right through: கடல் kaṭal 'sea' is given as the 24th nakṣatra Catayam, 'so called from Varuṇa the Sea-god being the deity of the constellation' (p. 660); அசுரநாள் acura-nāḷ is Mūlam (p. 33); தருமநாள் taruma-nāḷ is Paraṇi (p. 1770); மித்திரநாள் mittira-nāḷ is Anuṭam (p. 3198); விசுவநாள் vicuva-nāḷ is Uttirāṭam (p. 3646); குருநாள் kuru-nāḷ and சுரர்குருநாள் curar-kuru-nāḷ 'the star of the gods' preceptor' are Pūcam (pp. 1017, 1526); அதிதிநாள் atiti-nāḷ is Puṉarpūcam (p. 74); பகவதிநாள் pakavati-nāḷ is Pūram (p. 2382); இசைநாள் icai-nāḷ is Pūraṭṭāti and Uttiraṭṭāti (p. 273).</sub>
+
+**గుర్రపుచుక్క · gurrapu-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+A translation, not a borrowing: the Sanskrit name is 'the two horsemen', and Telugu renders the horse with its own word gurramu.
+
+> గుర్రపు వాసము gurrapu-vāsamu. n. A prop in the roof of a house. గుర్రపుచుక్క a certain star అశ్వినీనక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. గుర్రము gurramu, p. 381 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=381))
+
+<sub>This is one of a complete set of Telugu descriptive names for the lunar mansions that Brown records piecemeal under their first elements. They are formed X-cukka / X-rikka ('X-star') or X-rūpu-rikka ('X-shaped star'), and are entirely independent of the Sanskrit names, which Telugu also has. Here the calque is transparent: Aśvinī 'the Aśvins, horsemen' → gurrapu-cukka 'horse star'.</sub>
+
+**జన్నపుచుక్క · jannapu-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+A ritual-calendar name: the asterism at whose appearance the yajñas fall due.
+
+> జన్నము [from Skt. యజ్ఞము.] n. A sacrifice, a ceremony, in which oblations are presented. యజ్ఞము, వేలిమి. జన్నపుచుక్క a star or constellation on whose appearance sacrifices (యజ్ఞములు) are to be performed. మఘానక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. జన్నము ḍzannamu, p. 476 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=476))
+
+<sub>Second Telugu name for Maghā. jannamu is the tadbhava of yajña; the compound is Telugu. Note that Maghā is also called Makha in Sanskrit, and makha means 'sacrifice' — so this name may be a re-motivation of that variant rather than an independent observation.</sub>
+
+**జోడువేల్పులరిక్క · jōḍu-vēlpula-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> జోడు [Tel.] n. A pair, or couple, a pair of shoes or sandals. Junction, conjunction. … జోడువేల్పులరిక్క the double star called విశాఖ.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. జోడు ḍzōḍu, p. 485 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=485))
+
+<sub>A calque on the deity: Viśākhā's devatā is the dual Indrāgnī, and vēlpu is the native Telugu word for a god. Second Telugu name for the same mansion, built on the dual deity where kummara-sāre-cukka is built on the shape.</sub>
+
+**కొనరిక్క · kona-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> కొన [Tel.] n. The end, extremity, termination, point, tip. చివర. … adj. Last. కొనవాడు the last man. … కొనరిక్క a certain constellation: రేవతీనక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. కొన kona, p. 319 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=319))
+
+<sub>The positional counterpart of tolu-rikka 'the first star' (Aśvinī). The pair tolu-rikka / kona-rikka brackets the whole vernacular list and shows it was handled as an ordered sequence in Telugu, not just borrowed name by name.</sub>
+
+**కుమ్మరసారెచుక్క · kummara-sāre-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> కుమ్మర [Tel.] n. The potter's caste. … కుమ్మరసాన, or కుమ్మరసారె kummara-sāna n. A potter's wheel. కుమ్మరసారె చుక్క kummara-sārc-ṭsukka. n. The The name on the constellation called విశాఖానక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. కుమ్మర kummara, p. 296 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=296))
+
+<sub>A shape name with no Sanskrit model: Viśākhā means 'forked/branched'. The Telugu sees a potter's wheel. Brown's line has two typographical faults ('sārc' for sāre, 'The The name on the constellation'), reproduced verbatim above.</sub>
+
+**కార్తె · kārte** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+AGRICULTURAL. The unit of the Deccan farming calendar: the roughly thirteen days the sun spends in each of the 27 asterisms. Brown marks it [Tel.], not [Skt.].
+
+> కార్తె [Tel.] n. The particular constellation out of the 27, in which the Sun happens to be. ఇరువైయేడు కార్తెలు అనగా అశ్విని మొదలైన నక్షత్రములలో సూర్యుడు ఉండే దినాలు.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. కార్తె kārte, p. 276 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=276))
+
+<sub>The single most consequential vernacular sky-word in either language, because sowing, weeding and harvest are timed by it. The word is the Telugu/Kannada Deccan development of Sanskrit kārttika; Kittel has no ಕಾರ್ತೆ headword, but the same system is documented for Kannada-speaking Bellary by Thurston (entered separately). Telugu also compounds it directly with an asterism name: svāti-karti (Brown p. 1384).</sub>
+
+**మద్దెలరూపురిక్క · maddela-rūpu-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> మద్దెల [from Skt. మృదంగ.] n. A small drum. మృదంగము. మద్దెలరూపురిక్క maddela-rūpu-rikka. n. A constellation called ధనిష్ఠానక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. మద్దెల maddela, p. 955 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=955))
+
+<sub>A shape name that agrees with the pan-Indian iconography of Dhaniṣṭhā as a drum, but built with the Telugu word maddela (< mṛdaṅga) and the Telugu formant -rūpu-rikka 'shaped star'. Compare mīnu-rūpu-rikka for Revatī below: -rūpu-rikka is a productive Telugu pattern for shape-named asterisms.</sub>
+
+**ముక్కంటిచుక్క · mukkaṇṭi-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> ముక్కంటి [Tel. from ముక్కన్ను (మూడు + కన్ను.] n. The three-eyed one; a title of Siva. త్రినేత్రుడు, త్రిలోచనుడు. ముక్కంటిచుక్క muk-kanṭi-ṭsukka. n. A constellation called ఉత్తరభద్రపద.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ముక్కంటి muk-kanṭi, p. 999 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=999))
+
+<sub>A calque on the deity: Uttara-Bhādrapadā's devatā is Ahirbudhnya, identified with Śiva/Rudra. mukkaṇṭi is a wholly Dravidian formation (mūḍu 'three' + kannu 'eye').</sub>
+
+**ముప్పదిరెంటి గుంపు · muppadi-reṇṭi gumpu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+A star-count name: Revatī is reckoned at 32 stars.
+
+> ముప్పది [Tel. మూడు + పది.] n. Thirty. త్రింశత్. ముప్పదిరెంటి గుంపు an epithet applied to a lunar mansion called రేవతీనక్షత్రము
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ముప్పది mup-padi, p. 1013 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1013))
+
+<sub>Third Telugu name for Revatī, and the only star-count name in the vernacular set. The figure 32 for Revatī is the standard Indian one.</sub>
+
+**ముత్తెపురిక్క · muttepu-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: likely
+
+The month Caitra is named from it: muttepu-rikka-nela.
+
+> ముత్తెము, ముత్తియము or ముత్యము [from Skt. మౌక్తికము.] n. A pearl. … ముత్తెపురిక్క నెల muttepu-rikka-nela. n. An epithet applied to the month, చైత్రమాసము. ముత్తెపుసవతు muttepu-savatu. n. The lunar mansion called చిత్రానక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ముత్తెము muttemu, p. 1008 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1008))
+
+<sub>A colour/brilliance name and an excellent one — Spica is the brightest star of Virgo and is white. Brown gives the star itself as ముత్తెపుసవతు muttepu-savatu (savatu 'co-wife'), and only the month as muttepu-rikka-nela; the star-name muttepu-rikka is inferred from the month form. Both are recorded here under the -rikka form with the savatu variant quoted.</sub>
+
+**మీనురూపురిక్క · mīnu-rūpu-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> మీను [Tel. A Drav: word common to all South Indian languages.] n. A fish. చేప. మీనురూపురిక్క a constellation called రేవతీ నక్షత్రము. plu. మీలు. మీనము mīnamu. [borrowed by Skt. from the Drav. languages.] n. A fish, మత్స్యము. The sign Pisces. మీనరాశి.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. మీను mīnu, p. 996 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=996))
+
+<sub>The one place Telugu mīnu touches the sky. Brown's headnote — 'A Drav: word common to all South Indian languages' — is the same word that in Kannada means 'star' outright (ಮೀನ್, Kittel p. 1328). Here Telugu uses it only for the shape of Revatī, i.e. Pisces. That contrast, mīn = 'star' in Kannada but only 'fish' in Telugu, is one of the sharper Telugu/Kannada differences in this file.</sub>
+
+**నీటిరిక్క · nīṭi-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> నీటియిక్క nīṭi-yikka. n. A jewel worn on the breast of Vishṇu. కాస్తుభము. నీటిరిక్క nīṭi-rikka. n. The constellation called పూర్వాషాఢా నక్షత్రము. నీటిరేడు or నీటిరాయుడు nīṭi-rēḍu. n. Varuna, the god of the Ocean. నీటిరేనిరిక్క nīṭi-rēni-rikka. n. The constellation called శతభిత్తు.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. నీరు nīru, p. 670 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=670))
+
+<sub>A calque on the deity: Pūrvāṣāḍhā's devatā is Āpas, the Waters. The db has the parallel Sanskrit individual-star entry 'apas'. Note that Brown gives the water-king's star (nīṭi-rēni-rikka = Śatabhiṣaj, deity Varuṇa) in the very next line, so the two water-mansions are systematically distinguished in Telugu by 'water' vs 'water-king'.</sub>
+
+**నీటిరేనిరిక్క · nīṭi-rēni-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> నీటిరేడు or నీటిరాయుడు nīṭi-rēḍu. n. Varuna, the god of the Ocean. నీటిరేనిరిక్క nīṭi-rēni-rikka. n. The constellation called శతభిత్తు.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. నీరు nīru, p. 670 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=670))
+
+<sub>A calque on the deity Varuṇa, using the native compound nīṭi-rēḍu 'king of the waters' which Brown himself defines two words earlier. The db has the Sanskrit aliases 'varuna-shatabhishaj' and 'pracetas-shatabhishaj' for the same equation. Note Brown's spelling శతభిత్తు for Śatabhiṣaj — the popular Telugu form.</sub>
+
+**పెతరులచుక్క · petarula-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> పెతరులు [from Skt. పితృలు.] n. plu. Forefathers or ancestors. పితృదేవతలు. పెతరులసామి the lord of the ancestors, i.e., Yama, యముడు. పెతరులచుక్క the constellation called మఘానక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. పెతరులు petarulu, p. 793 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=793))
+
+<sub>A calque on the presiding deity: Maghā's devatā is the Pitṛs, and petarulu is the Telugu tadbhava of pitṛ. The Telugu name is thus semantically transparent where the Sanskrit Maghā ('the bounties') is not.</sub>
+
+**పొదరిండ్ల చుక్క · podariṇḍla cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> పొదరిల్లు po ar-illu. (పొదరు+ఇల్లు.) n. A bower or arbour. నికుంజము. పొదరు Same as పొద. పొదరిండ్ల చుక్క the constellation called పునర్వసు నక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. పొద poda, p. 813 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=813))
+
+<sub>This is one of a complete set of Telugu descriptive names for the lunar mansions that Brown records piecemeal under their first elements. They are formed X-cukka / X-rikka ('X-star') or X-rūpu-rikka ('X-shaped star'), and are entirely independent of the Sanskrit names, which Telugu also has. podaru-illu is 'bush-house, arbour'; the plural genitive gives 'star of the arbours'. Motivation unexplained by Brown.</sub>
+
+**పొట్లపూచుక్క · poṭla-pū-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+The month name is formed from the same base: poṭla-pū-rikka-nela = Pauṣa.
+
+> పొట్ల [Tel. lit: that which has spots. పొడలుకలది. cf. Tamil పొడలంగాయ.] n. The snake gourd, Momordica charantia. … పొట్లపూచుక్క poṭla-pū-ṭsukka. n. The constellation called పుష్యమి, పొట్లపూరిక్క నెల the month called పుష్యమాసము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. పొట్ల poṭla, p. 809 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=809))
+
+<sub>This is one of a complete set of Telugu descriptive names for the lunar mansions that Brown records piecemeal under their first elements. They are formed X-cukka / X-rikka ('X-star') or X-rūpu-rikka ('X-shaped star'), and are entirely independent of the Sanskrit names, which Telugu also has. Brown spells the star with -cukka and the month with -rikka in the same line, which shows the two star-words were freely interchangeable in these compounds.</sub>
+
+**రిక్క · rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+The other native Telugu star-word, used almost exclusively as the second element of compound asterism names (baṇḍi-rikka, tāṭi-rikka, nīṭi-rikka …). Rarer than cukka as a free word.
+
+> రిక్క [Tel.] n. A star. నక్షత్రము. A constellation, a lunar mansion. A peculiar noise made in driving cattle. పశువులను తోలునపుడు చేయు ధ్వని. A pustule, weal, blister. బొబ్బ.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. రిక్క rikka, p. 1085 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1085))
+
+<sub>sanskrit_db_id deliberately left null. rikka descends from Sanskrit ṛkṣa through a Middle-Indic rikkha, but the only ṛkṣa entry in the Sanskrit database (id 'rksha') is the Vedic asterism = Ursa Major, which is not what Telugu rikka means. HOMONYM: Brown's same headword also covers a cattle-driving call and a blister.</sub>
+
+**సప్పపుచుక్క · sappapu-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> సప్పము [from Skt. సర్పము.] n. A serpent. సప్పపుచుక్క sappapu-ṭsukka. n. The star called అశ్లేష.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. సప్పము sappamu, p. 1304 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1304))
+
+<sub>A calque on the presiding deity rather than on the name: Āśleṣā's devatā is the Sarpas, and the db has the Vedic alias 'sarpa' for exactly this asterism. sappamu is the tadbhava of sarpa, so the name is half-Sanskrit; registered 'vernacular' because the compound itself is Telugu.</sub>
+
+**సాముకంటిచుక్క · sāmu-kaṇṭi-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: likely
+
+> సాముకంటిచుక్క sāmu-kanṭi-ṭsukka. n. The name of a constellation called పుబ్బా or పూర్వఫల్గునీనక్షత్రము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. సాము sāmu, p. 1331 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1331))
+
+<sub>Literal meaning uncertain and therefore left null rather than guessed: Brown's headword సాము carries three unrelated senses on the same page ('a half', 'bodily exercise / fencing'), and he does not say which underlies the star-name. kaṇṭi is 'eye'.</sub>
+
+**సోకుచుక్క · sōku-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Mūla is the most inauspicious of the mansions in popular Telugu reckoning, and the name says so.
+
+> సోకు [Tel.] v. n. To touch, come in contact with. … To be possessed by a demon, to be affected by the evil influence of stars or demons, గ్రహమావేశించు. … n. … An evil spirit, a demon, రాక్షసుడు, పిశాచము. … సోకుచుక్క the constellation called మూలనక్షత్రము. … సోకులరేడు sōkularēḍu. n. The regent of the S. W. region నైరృతి, మూలరేడు.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. సోకు sōku, p. 1366 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1366))
+
+<sub>Internally consistent and self-verifying: Mūla's presiding deity is Nirṛti, and Brown's own next-but-one sub-entry glosses సోకులరేడు 'lord of the demons' as నైరృతి / మూలరేడు 'lord of Mūla'. So the Telugu name is a calque on the deity, made with the native word sōku 'evil spirit'.</sub>
+
+**తొలురిక్క · tolu-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Names the mansion by its position at the head of the list.
+
+> తొలురిక్క the first constellation, i.e., Asvini. తొలువేలుపు the first god, i.e., Brahma సురజ్యేష్ఠుడు
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. తొలుత toluta, p. 562 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=562))
+
+<sub>This is one of a complete set of Telugu descriptive names for the lunar mansions that Brown records piecemeal under their first elements. They are formed X-cukka / X-rikka ('X-star') or X-rūpu-rikka ('X-shaped star'), and are entirely independent of the Sanskrit names, which Telugu also has.</sub>
+
+**हथिया / ﮩتيا · hathiyā** — Hindi (eastern Hindi belt - Bhojpuri and Awadhi districts; Fallon's proverbs are marked Bhoj.) · *folk* · confidence: certain
+
+The single most important star name in Hindi-belt village life: not an object to look at but a rain season to reckon by. Grierson notes it is the longest of the asterisms, sixteen lunar days, and that cultivators said the rains used to end in Swati but now end in Hathiya. It is personified as Hathi rāni, 'Queen Hathiya', who announces herself by thunder.
+
+> ﮩتيا हथिया hath'iyā, hasth , n. m. S. हस्त The 13th mansion of the moon; Corvus. 1. Hathiyā barse tīn hot haiṅ, shakkar, shālī, māsh, Hathiyā barse tīn jāt haiṅ, tillī, kodo, kapās.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. hath'iyā, p. 1197 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=1197))
+
+<sub>Fallon translates: 'When in the thirteenth mansion rain doth fall / Rice, sugarcane, and pulse, these three thrive all, / But cotton, kodo, sesamum, all three / The rains destroy beyond all remedy.' Grierson, Bihar Peasant Life (1885), §1082 p. 271 and §1084 p. 273, and §1090 pp. 281-82 for the Queen Hathiya couplet: 'Maggha lagáwe ghaggha, swáti láwas tati, / Kahtari Hathi rani, ham hun awat hati.' Platts, p. 1219, adds the second sense 'the end (or breaking up) of the rains'.</sub>
+
+**nakhat / nachhattr / nichhattr** — Hindi (Bihar (Bhojpuri/Magahi); the same forms in Fallon for Hindustani generally) · *folk* · confidence: certain
+
+The word survives in the countryside as a unit of the farming year, not of astronomy: twenty-seven unequal periods, each governing a specific operation, ranging from about thirteen lunar days in the dry months to sixteen for Hathiya. Grierson's list of their vernacular names - Rohni, Mirgsira, Aradra, Punarbas, Pukh, Maggha, Purba/Utra Phaguni, Hast or Hathiya, Chitra, Bināti or Siwāti, Bisākha, Anurādha, Jeshtha, Mul, Purba Khārh, Utra Khārh - is the vernacular register of the whole nakṣatra series in one place.
+
+> Besides the above, another important division of the year must be noticed, — that into lunar asterisms (nakhat, nachhattr, or nichhattr). There are 27 of these in each year ... Each asterism is not of equal length. The longest is hathiya, which is 16 lunar days. ... Every agricultural operation commences in a certain asterism, and so it is necessary to know when they occur.
+> <br>— G. A. Grierson, Bihar Peasant Life (Calcutta, 1885), §1082, p. 271, with the table of asterisms pp. 272-73 ([source](https://archive.org/details/cu31924072688025))
+
+<sub>Grierson prints each name in Devanagari beside the transliteration, but the Devanagari is unrecoverable from the scanned text, so name_native is left null. Fallon, p. 1157, s.v. nichhat'tar, nachhattar (नछत्तर), gives the same generic word for Hindustani; Platts, p. 1148, notes the tatsama nakshatra with the vernacular naććhattar and 'corr. H. निक्षत्र nikshatr'.</sub>
+
+**ಹುಬ್ಬೆ · hubbe** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *folk* · confidence: certain
+
+AGRICULTURAL. Kittel prints two Kannada proverbs on the Hubbe rains under the headword — the whole entry is quoted below.
+
+> ಹುಬ್ಬೆ hubbe. = ಉಬ್ಬೆ, ಪುಬ್ಬೆ. Tbh. of ಪೂರ್ವೆ. the eleventh Nakṣatra. (Śmd. 356; C.). ಹುಬ್ಬೇ ಮಳೆ ಗುಬ್ಬೀ ತಲೆ ನೆನೆಯುವುದಿಲ್ಲ. - ಹುಬ್ಬೇ ಮೞೆ ಅಬ್ಬೇ ಹಾಲು (Prv.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಹುಬ್ಬೆ hubbe, p. 1745 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1745))
+
+<sub>The name itself is a tadbhava of Pūrvā and so sanskritic in origin, but it is entered here as folk because what Kittel actually records is proverbial rain-lore, not the almanac term: the first proverb says the Hubbe rain will not wet even a sparrow's head, the second calls it a mother's milk — the two verdicts sitting side by side, as proverbs about weather do. COGNATE PAIR with Telugu పుబ్బ pubba (Brown p. 774), the identical worn form.</sub>
+
+**ಮಖೆ · makhe** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *folk* · confidence: certain
+
+AGRICULTURAL. Also ಮಘೆ maghe (p. 1256), which carries a second rain proverb.
+
+> ಮಖೆ makhe. = ಮಘೆ. (My.). the tenth nakṣatra. ಮಖೆಮೞೆ ಆದರೆ ಮೊಗ ತೊಳೆಯುವದಕ್ಕೆ ಆಗದೇ? (Prv.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಮಖೆ makhe, p. 1254 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1254))
+
+<sub>Second Kannada rain-star proverb: if the Makhe rain falls, will it not do at least to wash one's face with? — i.e. the Maghā rain is slight. Kittel's parallel headword ಮಘೆ (p. 1256) prints ಮಘೇ ನೀರು ಮೊಗೇಲಿಡು !, on the same theme. Together with Hubbe these show that in Kannada the rain-lore attaches to the tadbhava asterism names themselves, where Telugu instead built a separate word, kārte, for the solar period.</sub>
+
+**वळवा · vaḷavā** — Marathi (Maharashtra) · *folk* · confidence: likely
+
+वळवाचा पाऊस, the late-monsoon rain that comes from the east
+
+> वळवा vaḷavā f pl (वळणें To turn. The wind and rain having turned and begun to come from the east.) A term for those nakshatras of the rainy months which follow पूर्वा. वळवाचा पाऊस The rain which falls under those nakshatras: also, figuratively, a person of whom there is no calculating whither he will turn.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. वळवा, p. 740 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B5%E0%A4%B3%E0%A4%B5%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>A vernacular label for a BLOCK of asterisms rather than a single one — Molesworth defines it only as 'those which follow पूर्वा', so it cannot be pinned to particular stars. Left with no sanskrit_db_id and no modern star for that reason. Still current in Marathi as वळवाचा पाऊस for pre- and post-monsoon thundershowers.</sub>
+
+**वाफ · vāpha** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+the sowing seasons are named by asterism: मृगाची-हत्तीची-चित्राची-कृत्तिकेची-रोहिणीची वाफ
+
+> वाफ vāpha f (वाप S) The fit state of the ground for sowing (see वापसा): also, by meton., the season or fit time for sowing; as मृगाची-हत्तीची-चित्राची-कृत्तिकेची-रोहिणीची वाफ.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. वाफ, p. 748 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B5%E0%A4%BE%E0%A4%AB&searchhws=yes&matchtype=exact))
+
+<sub>Not a star-name but the frame that makes the star-names matter: the Marathi cultivator's sowing calendar is indexed by asterism — the Mṛga, Hasta, Citrā, Kṛttikā and Rohiṇī 'vāphs'. Note that हत्तीची वाफ uses the folk elephant-form of Hasta, not हस्त.</sub>
+
+**Rohini Karte (and the rest of the 27 kārte)** — Telugu (Bellary district, Deccan (Kannada- and Telugu-speaking Lingāyat cultivators)) · *folk* · confidence: certain
+
+AGRICULTURAL. Which crop is sown on which asterism's rain, and which asterism must not bring wind or lightning. Recorded for Lingāyat cultivators of Bellary.
+
+> Rain in Rohini Karte (one of the twenty-seven asterisms in which rain falls) is good for sowing, and that in Mrugasira and Ardra appropriate. These three asterisms are suited for sowing cholam. Showers in Punarvasu, Pushya, and Aslesha are suitable for sowing korra, saju and savi. Rain in Pubba and Wuttara is favourable to cotton, korra and horse gram, and that in Hasta and Chitta to wheat, cholam, Bengal gram and kusumulu (oil-seed). … In Magha, weeding, either by the hand or by bullocks, should not be done. Wind should not blow in Wuttara. … There should be no lightning flashes in Swati. … Rain in Visakha destroys worms, and is good for pulses. Rain in Anuradha spoils them.
+> <br>— Thurston, E. (assisted by K. Rangachari), Castes and Tribes of Southern India (Madras: Government Press, 1909), vol. IV, article 'Lingāyat', p. 290 ([source](https://archive.org/download/castestribesofso04thuriala/castestribesofso04thuriala_djvu.txt))
+
+<sub>name_native is null: Thurston prints these romanised only, and back-transliterating into Telugu or Kannada script would be inventing evidence — the district is bilingual and the informants were Lingāyats of Bellary, so it is not even certain which script would be right. The forms are the vernacular ones (Pubba, Wuttara, Chitta), not the Sanskrit ones. This passage is the best single demonstration that the nakṣatra list in the Deccan is a working agricultural instrument rather than a borrowed literary ornament.</sub>
+
+**అసిలేరు · asilēru** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *folk* · confidence: certain
+
+Brown labels the register himself.
+
+> అసిలేరు [Tel.] n. A vulgar name for అశ్లేష the ninth lunar mansion.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. అసిలేరు asilēru, p. 103 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=103))
+
+<sub>The only place in either dictionary where the compiler explicitly grades a star-name for register. 'Vulgar' in Brown's usage means colloquial/rustic, hence 'folk' here. A worn-down popular form of Āśleṣā, not a new coinage.</sub>
+
+**బరణిచుక్క · baraṇi-cukka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *folk* · confidence: likely
+
+The Sanskrit name Bharaṇī has been reshaped in Telugu onto the native word baraṇi 'casket, jewel-box', and Brown enters the asterism under that word.
+
+> బరణి … A casket, small jewel-case, snuff box, pill box. కటాటము. పాచికలబరిణ a dice-box. బరణిచుక్క or భరణి bharaṇi-ṭsukka. n. The second lunar mansion consisting of three stars in a triangle.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. బరణి baraṇi, p. 873 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=873))
+
+<sub>A folk-etymological reshaping rather than an independent formation: registered 'folk' for that reason. Brown's separate Sanskrit headword భరణి (p. 924) gives the same gloss, 'three stars in a triangle'.</sub>
+
+**పునాస · punāsa** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *folk* · confidence: certain
+
+AGRICULTURAL. The asterism name has become the name of a crop: the early, inferior grain crop of the year sown in the Punarvasu period.
+
+> పునాస or పునాసలు [from Skt. పునర్వసు, the name of a star or constellation.] n. The first crop of the year which consists of grain of an inferior kind, కొర్రలు, బొబ్బర్లు మొదలగు ధాన్యము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. పునాస punāsa, p. 773 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=773))
+
+<sub>Registered 'folk' because the word has left the sky entirely: in ordinary Telugu punāsa is a kind of harvest, and Brown has to supply the etymology to explain that it is a star at all. The clearest single instance in either language of a star-name naturalised into the agricultural vocabulary.</sub>
+
+**Kritika, Rohini, Arudra, Mragshir, Revti** — Gujarati (Gujarat) · *sanskritic* · confidence: certain
+
+each asterism carries a dated window and a rain omen: e.g. only a drizzle while the moon is in Kṛttikā (8-21 May) means partial failure of the rains
+
+> The year will be one of partial failure of rain if there is only a drizzle during the time the moon remains in the Kritika star chamber.
+> <br>— Gazetteer of the Bombay Presidency, Vol. IX Part I: Gujarát Population, Hindus (Bombay: Government Central Press, 1901), pp. 352-353 ([source](https://archive.org/details/in.ernet.dli.2015.281420))
+
+<sub>The Gujarati shapes of the asterism names as the Gazetteer romanises them — Kritika, Rohini, Arudra, Mragshir, Revti — with the Gazetteer's own rendering of nakṣatra as 'star chamber'. Every one is the Sanskrit name in Gujarati phonology; not a single independent Gujarati star-name appears in this chapter or in the volume's separate 'Stars' section (pp. 405-406), which treats stars generically as divine beings, records saying 'Shiv Shiv' at the sight of a meteor, and the showing of the pole star to a newly married couple. Roman only; no Gujarati script is printed anywhere in the Gazetteer.</sub>
+
+**nakshatra** — Gujarati (Ahmedabad district, Gujarat) · *sanskritic* · confidence: certain
+
+rain in mṛg is believed to breed insects; rain in punarvasu to breed a stalk-borer in the millets
+
+> With reference to this, as in all the ordinary affairs of life, the cultivators pay great attention to the nakshatras, or twenty-seven lunar mansions of the Hindu zodiac.
+> <br>— Gazetteer of the Bombay Presidency, Vol. IV: Ahmedabad (Bombay: Government Central Press, 1879), p. 61 ([source](https://archive.org/details/wbsl.19319))
+
+<sub>The clearest statement that Gujarati cultivators use the Sanskrit twenty-seven, unrenamed. The passage continues (OCR damaged, reading from context): rain during 'the mrig nakshatra which commences on the 5th June' preludes an abundance of insects, and rain in 'the punarvasu nakshatra which commences fourteen or fifteen days afterwards' brings a tiny animal generated inside the millet stalk. Compare the Marathi position, where exactly this cultivators' weather-lore produced a parallel set of NEW names (उंदऱ्या, अडवण्या, म्हातारा …). Gujarat, on this evidence, kept the Sanskrit names and attached the lore to them directly.</sub>
+
+**ಭರಣಿ · bharaṇi** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಭರಣಿ bharaṇi. = ಬರಣಿ. a china jar or vase. 2, the second nakṣatra (My.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಭರಣಿ bharaṇi, p. 1237 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1237))
+
+<sub>COGNATE PAIR, and the same folk etymology in both languages: Kittel equates ಭರಣಿ with ಬರಣಿ 'a china jar or vase', exactly as Brown enters the Telugu asterism under బరణి 'a casket, jewel-case'. The container reading of Bharaṇī is therefore a shared Deccan vernacular development, not a Telugu quirk.</sub>
+
+**ಚಿತ್ತೆ · citte** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+The naturalised Kannada form; Kittel's tatsama headword ಚಿತ್ರೆ citre (p. 647) is the one that carries the identification 'spica virginis'.
+
+> ಚಿತ್ತೆ citte. Tbh. of ಚಿತ್ರೆ. the fourteenth lunar mansion. (C.; Te.). [ಚಿತ್ತೆಯ ಸರಿಯನ್ತೆಱಗಿ ಪೋದುದಮರ ಸಮಾಜಂ Ap. 14, 147].
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಚಿತ್ತೆ citte, p. 646 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=646))
+
+<sub>REPRESENTATIVE FORM for the tadbhava series. Kittel marks it 'C.; Te.', i.e. common Kannada and shared with Telugu — and indeed Brown has చిత్త citta (p. 414) for the same mansion. The pair citte/citta is a good specimen of the shared Deccan vernacular shape of the nakṣatra list.</sub>
+
+**ಧನಿಷ್ಠೆ · dhaniṣṭhe** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+Kittel notes the mansion is held unlucky and prints a proverb on it.
+
+> ಧನಿಷ್ಠೆ dhaniṣṭhe. (a very rich female); the twenty-third lunar mansion, (considered to be connected with ill-luck). ಅರಸನಿಗೂ ಧನಿಷ್ಠೆ, ನನಗೂ ಧನಿಷ್ಠೆ (Prv.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಧನಿಷ್ಠೆ dhaniṣṭhe, p. 868 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=868))
+
+<sub>The proverb — Dhaniṣṭhā for the king and Dhaniṣṭhā for me too — turns on the mansion's ill luck falling on rich and poor alike. Compare the Telugu vernacular name for the same mansion, మద్దెలరూపురిక్క 'the drum-shaped star'; Kannada keeps the Sanskrit name and attaches the folklore to it instead.</sub>
+
+**ನಕ್ಷತ್ರ · nakṣatra** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+The almanac and horoscope word; Kittel glosses it with the two Dravidian words, ಅಱಿಲ್ and ಮೀನ್.
+
+> ನಕ್ಷತ್ರ nakṣatra. a star. (ಅಱಿಲ್, ಮೀನ್ Kk. 80). 2, a constellation, an asterism in the moon's path, a lunar mansion, of which 27 (or 28) are enumerated and regarded as the wives of the moon and daughters of Dakṣa. 3, the number 27 (ಇಪ್ಪತ್ತೇೞ್ Mr. 348).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ನಕ್ಷತ್ರ nakṣatra, p. 879 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=879))
+
+<sub>This entry is the source for the summary statement that Kannada carries the full 27-fold nakṣatra system: Kittel gives all 27 as separate headwords in Kannada phonological shape.</sub>
+
+**അശ്വതി, ഭരണി, കാര്‍ത്തിക, രോഹിണി, മകയിരം, തിരുവാതിര, പുണര്‍തം, പൂയം, ആയില്യം, മകം, പൂരം, ഉത്രം, അത്തം, ചിത്ര, ചോതി, വിശാഖം, അനുഴം, തൃക്കേട്ട, മൂലം, പൂരാടം, ഉത്രാടം, തിരുവോണം, അവിട്ടം, ചതയം, പൂരുരുട്ടാതി, ഉത്രട്ടാതി, ഇരവതി · aśvati, bharaṇi, kārttika, rōhiṇi, makayiram, tiruvātira, puṇartam, pūyam, āyilyam, makam, pūram, utram, attam, citra, cōti, viśākham, anuḻam, tṛkkēṭṭa, mūlam, pūrāṭam, utrāṭam, tiruvōṇam, aviṭṭam, catayam, pūruruṭṭāti, utraṭṭāti, iravati** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Malayalam uses the full 27-nakshatra series and it still governs birth-star reckoning, name-giving, marriage-matching and festival dates. Gundert's ജന്മനക്ഷത്രം is 'the asterism, under which one is born' (p. 403), and അനുജന്മനക്ഷത്രം 'the 10th and 19th asterisms after the ജന്മനക്ഷത്രം' (p. 28) shows the derived reckoning already lexicalised in 1872.
+
+> നക്ഷത്രം ... 2. a lunar asterism (27 or 28), of which 2¼ are counted upon one month
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.vv. അശ്വതി p. 64, ഭരം (ഭരണി) p. 759, കാര്‍ത്തിക p. 240, രോഹം (രോഹിണി) p. 889, മകയിരം p. 769, ആതിര p. 79, പുണര്‍ (പുണര്‍തം) p. 673, ആയിലിയം p. 85, മകം p. 769, ഉത്രം (also ഉത്രാടം, ഉത്രട്ടാതി) p. 129, അത്തം p. 22, ചിത്ര p. 361, ചോതി p. 396, വിശരി (വിശാഖ) p. 961, അനുഴം p. 27, കേട്ട p. 293, മൂലം p. 853, പൂരണം (പൂരാടം) p. 693, ഓണം p. 184 / തിരുവോണം p. 459, അവിട്ടം p. 62, ചതയം p. 343, ഇരവതി p. 109 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=524))
+
+<sub>Recorded as one entry, deliberately, because these are the Sanskrit names in Malayalam phonology and are not the point of this compilation. Gundert marks most of them 'Tdbh.' (tadbhava) and several 'T. M.' (common Tamil-Malayalam), i.e. inherited through the southern tradition rather than freshly borrowed: അത്തം < hasta, ഇരവതി < revatī, ഓണം < śrāvaṇa, ചോതി < svātī, ചതയം < śatabhiṣaj, അവിട്ടം < śraviṣṭhā, മകം < maghā, അനുഴം < anurādhā. Gundert's star identifications, where he gives them, are mostly the standard ones; two are odd — അത്തം 'Coma Berenices' (p. 22; Hasta is standardly in Corvus) and അനുഴം 'Lupus and scorpion's head' (p. 27) — and should not be relied on.</sub>
+
+**നക്ഷത്രം · nakṣatram** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Also the everyday word for a person's birth-star: ജന്മനക്ഷത്രം, 'the asterism under which one is born' (Gundert s.v. ജന്മം, p. 403).
+
+> നക്ഷത്രം nakṣatram nakšatram S. ( നക്ഷ് to come up). 1. A star, (vu. നച്ചത്രം, നസ്ക്യേതിരം ), ശൂലാ ഗ്രേ ന'ങ്ങള്‍ എണ്ണിക്കൊള്‍ക PT. 2. a lunar asterism (27 or 28), of which 2¼ are counted upon one month
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. നക്ഷത്രം nakṣatram, p. 524 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=524))
+
+<sub>The vulgar forms Gundert records in parentheses — നച്ചത്രം naccatram and നസ്ക്യേതിരം naskyētiram — are the register point in miniature: the Sanskrit word ground down by ordinary Malayalam mouths. നാള്‍ nāḷ 'day' is the common colloquial substitute for the birth-star.</sub>
+
+**नक्षत्र · nakṣatra** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+नक्षत्रासारखा, 'brilliant as a constellation'; नक्षत्र पडणें (हातावर) 'to have itching hands, be given to thieving'
+
+> नक्षत्र nakṣatra n (S) A star. 2 An asterism in the moon's path; a lunar mansion. Twenty-seven are enumerated; viz. अश्विनी, भरणी, कृत्तिका, रोहिणी, मृग or मृगशीर्ष, आर्द्रा, पुनर्वसु, पुष्य, आश्लेषा (or असाळका), मघा, पूर्वा, उत्तरा, हस्त, चित्रा, स्वाती, विशाखा, अनुराधा, ज्येष्ठा, मूल, पूर्वाषाढा, उत्तराषाढा, श्रवण, धनिष्ठा, शततारका, पूर्वाभाद्रपदा, उत्तराभाद्रपदा, रेवती, अभिजित्.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. नक्षत्र, p. 454 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%B0&searchhws=yes&matchtype=exact))
+
+<sub>This is the entry that settles the framing question for Marathi: the standard twenty-seven are taken over wholesale from Sanskrit, with only light Marathi phonology (आश्लेषा 'or असाळका', पूर्वा/उत्तरा for the Phalgunīs, मृग for मृगशीर्ष). The interesting Marathi material is not here but in the cultivators' renamings recorded above.</sub>
+
+**ਮੱਘਾ · magghá** — Punjabi (Punjab) · *sanskritic* · confidence: certain
+
+Punjabi phonology on the Sanskrit name, with the gemination characteristic of the language. Maya Singh's first sense - a small earthen water-and-buttermilk pot - is a homonym, and shows the star name sitting inside ordinary domestic vocabulary.
+
+> MAGGHÁ ਮੱਘਾ s. m. A small earthen vessel used for holding water and butter milk; the fifteenth of the twenty-seven (according to later reckoning twenty-eight) lunar mansions known to Hindu Astrology.
+> <br>— Bhai Maya Singh, The Panjabi Dictionary (Lahore, 1895), s.v. magghá, p. 695 ([source](https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=695))
+
+<sub>Maya Singh's ordinal 'fifteenth' counts from Śraviṣṭhā/Dhaniṣṭhā, as in his own list s.v. nachhattar; in the Aśvinī-first order Maghā is the tenth. In Bihar the same asterism appears as Maggha in the rain proverbs (Grierson 1885, p. 281).</sub>
+
+**ਨਛੱਤ੍ · nachhattar** — Punjabi (Punjab) · *sanskritic* · confidence: certain
+
+Maya Singh prints the complete list of the twenty-seven (twenty-eight with Abhijit) under this headword in their Sanskrit forms, and notes that the Punjabi month names Māgh, Phaggun, Chet, Vaisākh, Jeth, Hār, Sāwan, Bhādroṅ, Assū, Kattak, Magar and Poh are derived from them. This is the entry that licenses the statement that Punjabi simply takes over the Sanskrit twenty-seven.
+
+> NACHHATTAR ਨਛੱਤ੍ s. m. Corrupted from the Sanskrit word Nakshatra. A star, a horoscope; a lunar mansion or constellation in the moon's path; an asterism ... The names of various months are derived from these Nachhattars, thus Magh, Phaggun, Chet, Vaisakh, Jeth, Har, Sawan, Bhadron, Assu, Kattak, Magar and Poh.
+> <br>— Bhai Maya Singh, The Panjabi Dictionary (Lahore, 1895), s.v. nachhattar, p. 786 ([source](https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=786))
+
+<sub>This one entry stands for the whole Sanskrit twenty-seven in Punjabi; they are deliberately not itemised here.</sub>
+
+**අස්විද, බෙරණය, කැති නැකත, රෙහෙණ, මුවසිරස, අදේ, පුනාවස, පුසේ·නැකත, අස්ලිස, මා·නැකත, පුවපල්, උතුරුපල්ගුන, හත, සිත, සාය, විසා·නැකත, අනුර, දෙට, මුළ, පුව·සළ, උතුරු සළය, සුවණය, දෙනට, සිය·වස, පුවපුටුපේ, උතුරු පුටුපය, රේවතිය · asvida, beraṇaya, kæti nækata, reheṇa, muvasirasa, adē, punāvasa, pusē-nækata, aslisa, mā-nækata, puvapal, uturupalguna, hata, sita, sāya, visā-nækata, anura, deṭa, muḷa, puva-saḷa, uturu saḷaya, suvaṇaya, denaṭa, siya-vasa, puvapuṭupē, uturu puṭupaya, rēvatiya** — Sinhala (Sri Lanka) · *sanskritic* · confidence: likely
+
+These are the working names of the Sinhala almanac and of nekata reckoning — the choice of auspicious moments that still governs Sri Lankan New Year observances, first ploughing, and the naming of children.
+
+> අස්විද asvida , n . E. of අශ්විනි .
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.vv. අස්විද p. 84, බෙරණය p. 454, කැති නැකත p. 169, රෙහෙණ p. 542, අදේ p. 25, පුසේ·නැකත p. 400, අස්ලිස p. 83, මා·නැකත p. 491, උතුරුපල්ගුන p. 116, හත p. 713, සාය p. 673, විසා·නැකත p. 604, අනුර p. 37, දෙට p. 297, මුළ p. 507, පුව·සළ p. 399, උතුරු සළය p. 117, සුවණය p. 694, දෙනට p. 297, සිය·වස p. 682, පුවපුටුපේ p. 399, උතුරු පුටුපය p. 116, රේවතිය p. 542; Clough (1892) s.vv. Muwa-sirasa p. 493, Punáwasa p. 364, Puwapal p. 368 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=%E0%B6%85%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B7%92%E0%B6%AF&matchtype=default&searchhws=yes))
+
+<sub>THE COMPARATIVE RESULT. Every one of the twenty-seven is a Sanskrit/Pali name in Sinhala phonology, and the dictionaries say so themselves rather than leaving it to inference: Carter's formula is literally 'X, n. E. of Y' — Eḷu of — as at අස්විද 'E. of අශ්විනි' (p. 84), දෙනට 'E. of ධනිෂ්ඨ' (p. 297), බෙරණය 'E. of භරණිය' (p. 454), අස්ලිස 'E. of අශේල්ෂාව' (p. 83); Clough's independent formula is 'Elu form of', as at 'Punáwasa ... Elu form of පුනර්වසු' (p. 364) and 'Má-nekat ... Elu form of මඝා maghá' (p. 479). Sinhala replaced NONE of them. Its native coinages — hat-dinna for the Pleiades, ahas-gaṅga for the Milky Way, irabaṭu-taruva and pahan-taruva for Venus, dum-keheliya for a comet, uḷu and taruva for 'star' — all lie OUTSIDE the nakshatra list, in the everyday sky. The one apparent exception is Carter's parse of සිය·වས as '(සිය 100 වස stars)' (p. 682), a native numeral compound for Śatabhiṣaj 'the hundred physicians', and the half-calque මුවසිරස 'deer's head'. Marked 'likely' rather than 'certain' because the numbering is not consistent across sources — Carter counts anura 17th and svāti 15th, Clough counts visākhā 16th, and Carter is internally inconsistent about the 20th/21st (pp. 399, 403, 118). No number has been silently normalised. Sita (Citrā) is the weakest link: it appears in the sources only as Sanskrit චිත්‍තාව, not as an attested Eḷu headword.</sub>
+
+**නැකත · nækata** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+The everyday Sinhala word for the asterisms and for astrological time-reckoning generally; it is what the almanac and the nekatiyā (astrologer) work with.
+
+> නැකත nækata , n. star, තරුව; planet, ග්‍රහතාරකාව; lunar mansion or asterism in the moon's path: see නක්‍ෂත්‍රය.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. නැකත nækata, p. 322 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=star%2C%20%E0%B6%AD%E0%B6%BB%E0%B7%94%E0%B7%80&matchtype=default))
+
+<sub>The Eḷu (Sinhala-phonology) reflex of Sanskrit nakṣatra / Pali nakkhatta, beside the learned tatsama නක්‍ෂත්‍රය nakṣatraya (p. 312). Exactly parallel to Malayalam നക്ഷത്രം ~ vulgar നച്ചത്രം. Clough p. 305: 'Nekata, s. star in general, planet; asterism in the moon's path or lunar mansion, of which twenty eight distinct in name, figure, and number, are enumerated in Sinhalese astronomy.'</sub>
+
+**நட்சத்திரம் · naṭcattiram** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+THE COMPACT RECORD OF THE SANSKRITIC LAYER. This one entry carries the canonical Tamil forms of all 27 nakshatras as the Tamil Lexicon prints them, so that the rest of this file can be spent on names that are not Sanskrit.
+
+> 2. (Astron.) Lunar constellation, 27 in number, viz., acuviṉi, paraṇi, kārttikai, urōkiṇi, mirukacīriṭam, tiruvātirai, puṉarpūcam, pūcam, āyiliyam, makam, pūram, uttiram, astam, cittirai, cuvāti, vicākam, aṉuṣam, kēṭṭai, mūlam, pūrāṭam, uttirāṭam, tiruvōṇam, aviṭṭam, cataiyam, pūraṭṭāti, uttiraṭṭāti, irēvati; அசுவனி, பரணி, கார்த்திகை, உரோகிணி, மிருகசீரிடம், திருவாதிரை, புனர்பூசம், பூசம், ஆயிலியம், மகம், பூரம், உத்திரம், அஸ்தம், சித்திரை, சுவாதி, விசாகம், அனுஷம், கேட்டை, மூலம், பூராடம், உத்திராடம், திருவோணம், அவிட்டம், சதையம், பூரட்டாதி, உத்திரட்டாதி, இரேவதி என்னும் இருபத்தேழு நாண்மீன்.
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. நட்சத்திரம் sense 2, vol. IV p. 2135 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Each of these is the corresponding Sanskrit nakshatra name in Tamil phonology, and each maps one-to-one onto an id in the Sanskrit database: acuviṉi = ashvini, paraṇi = bharani, kārttikai = krittika, urōkiṇi = rohini, mirukacīriṭam = mrigashirsha, tiruvātirai = ardra, puṉarpūcam = punarvasu, pūcam = pushya, āyiliyam = ashlesha, makam = magha, pūram = purva-phalguni, uttiram = uttara-phalguni, astam = hasta, cittirai = chitra, cuvāti = svati, vicākam = vishakha, aṉuṣam = anuradha, kēṭṭai = jyeshtha, mūlam = mula, pūrāṭam = purva-ashadha, uttirāṭam = uttara-ashadha, tiruvōṇam = shravana, aviṭṭam = dhanishtha, cataiyam = shatabhishaj, pūraṭṭāti = purva-bhadrapada, uttiraṭṭāti = uttara-bhadrapada, irēvati = revati. The Lexicon's own Tamil paraphrase calls them 'the twenty-seven nāṇmīṉ', i.e. it defines the Sanskrit term with the vernacular one. Individual Tamil entries elsewhere in the Lexicon locate several of them on the modern sky: அத்தம்⁸ attam 'the 13th nakṣatra, the constellation Corvus' (p. 65), அவிட்டம் aviṭṭam 'the 23rd nakṣatra, the constellation Dolphin' (p. 157), உரோகிணி urōkiṇi 'the 4th nakṣatra, Hyades, part of Taurus' (p. 453), திருவோணம் tiruvōṇam 'the 22nd nakṣatra, constellation of Aquila' (p. 1922), உத்தரட்டாதி uttaraṭṭāti 'the 26th nakṣatra, part of the constellations of Pegasus and Andromeda' (p. 407), திருவாதிரை tiruvātirai 'the 6th nakṣatra, part of Orion' (p. 1917), கேட்டை kēṭṭai 'the 18th nakṣatra, part of Scorpio' (p. 1092), அனுஷம் aṉuṣam 'the 17th nakṣatra, part of Scorpio' (p. 197), சித்திரை cittirai 'the 14th nakṣatra, part of Virgo' (p. 1391).</sub>
+
+**నక్షత్రము · nakṣatramu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+The almanac word. Brown glosses it back into the vernacular with చుక్క, which is the neatest single demonstration that the two registers are in use side by side.
+
+> నక్షత్రము [Skt.] n. A star. చుక్క. A constellation. The name of any one of the twenty lunar mansions. అశ్విని మొదలగు నక్షత్రములు. … నక్షత్రేశుడు lit: the lord of the stars, i.e., the moon. చుక్కలరేడు. … నక్షత్రవీధి nakshatra-vīdhi. n. The Milky Way.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. నక్షత్రము nakshatramu, p. 628 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=628))
+
+<sub>'twenty' is a misprint in Brown for twenty-seven. Note that Brown twice supplies a vernacular equivalent for a Sanskrit compound (nakṣatra = cukka; nakṣatreśuḍu = cukkala-rēḍu).</sub>
+
+**పుబ్బ · pubba** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+The everyday Telugu form of the name, marked [Tel.] by Brown against the tatsama పూర్వఫల్గుని.
+
+> పుబ్బ [Tel.] n. The name of the eleventh lunar mansion.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. పుబ్బ pubba, p. 774 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=774))
+
+<sub>COGNATE PAIR: Kannada has the identical worn form ಪುಬ್ಬೆ pubbe / ಹುಬ್ಬೆ hubbe, which Kittel derives 'Tbh. of ಪೂರ್ವೆ' (p. 1053, 1745). Sanskritic in origin, but the shape is the shared Deccan vernacular one, and Brown flags it [Tel.] for that reason.</sub>
+
+**ఉడువు · uḍuvu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *sanskritic* · confidence: certain
+
+Poetic register only.
+
+> ఉడువు … A lunar mansion, a star. నక్షత్రము. ఉడుపతి or ఉడుపుడు uḍu-pati n: The lord of the stars, i.e., the moon చంద్రుదు. ఊడుగణము uḍu-gaṇamu. n. A constellation. ఉడువీధి. The heavens. ఉడుతతి uḍu-tati. n. The constellations.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ఉడువు uḍuvu, p. 153 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=153))
+
+<sub>Telugu uḍuvu = Sanskrit uḍu with the Telugu nominative suffix.</sub>
+
+**ನಕ್ಷತ್ರ · nakṣatra** — Tulu (South Canara (Tulu Nadu)) · *sanskritic* · confidence: certain
+
+> ನಕ್ಷತ್ರ nakṣatra, s. A star, planet. 2. a constellation or lunar mansion.
+> <br>— Männer, Tuḷu–English Dictionary (1886), s.v. ನಕ್ಷತ್ರ nakṣatra, p. 348 ([source](https://archive.org/download/tuluenglishdicti00mnrich/tuluenglishdicti00mnrich_djvu.txt))
+
+<sub>Tulu takes the whole learned apparatus straight from Sanskrit as tatsamas, without the Eḷu-style phonological reshaping Sinhala applies or the tadbhava reduction Malayalam applies: ತಾರ tāra (p. 278), ಉಡು uḍu (p. 67), ಜ್ಯೋತಿ jyoti (p. 255), ಕೃತಿಕೆ kṛtikè 'the Pleiades' (p. 157), ಮೃಗಶಿರ mṛgaśira 'head of Orion' (p. 560), ಸ್ವಾತಿ svāti 'Arcturus' (p. 668), ಶುಕ್ರ śukra 'Venus' (p. 618), ಧ್ರುವನಕ್ಷತ್ರ dhruvanakṣatra 'pole star' (English→Tulu p. 406), and the individual nakṣatra names. Männer's 'Star' entry in the English→Tulu volume (p. 537) heads the list with native ಬೊಳ್ಳಿ boḷḷi and then gives ನಕ್ಷತ್ರ, ತಾರ, ಉಡು.</sub>
+
+## Figures with no secure modern identification
+
+**Modern:** the stars  
+**Named in 10 languages:** Andamanese, Gondi, Hindi, Khasi, Kodava, Kurukh, Santali, Sinhala, Telugu, Toda
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Sinhala | තරු·වැළ | *taru·væḷa* | 'string of stars' | vernacular |
+| Hindi | — | *(the stars as kine, the moon their shepherd)* | — | folk |
+| Kodava | — | *Gulika (also Mrityu Gulika)* | — | folk |
+| Andamanese | — | *Catlo (the larger stars); Katan (the smaller)* | a finely marked beetle; the common fire-fly | tribal |
+| Gondi | — | *Irukna Mara, Irukmara* | the mahua tree | tribal |
+| Gondi | — | *Khala* | the grain-crushing circle | tribal |
+| Khasi | — | *'lur-mangkara; mangkara* | — | tribal |
+| Kurukh | — | *mugrā (sense 2)* | a mallet | tribal |
+| Santali | — | *Kaemaiya* | — | tribal |
+| Santali | — | *Sin boṅga reak hopon ko (the sun-god's children)* | — | tribal |
+| Telugu | — | *Chukkamusti* | star-… | tribal |
+| Telugu | — | *Sukka* | star | tribal |
+| Toda | — | *Keirt* | — | tribal |
+
+**තරු·වැළ · taru·væḷa** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+> තරු·වැළ taru·væḷa , n. cluster or string of stars, constellaion.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. තරු·වැළ taru·væḷa, p. 253 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=cluster%20of%20stars&matchtype=default))
+
+<sub>'constellaion' as printed. Beside it Carter has තරු·පොකුර taru·pokura 'cluster of stars, asterism' and the native උළු කැන uḷu kæna, against the Sanskrit තාරකා·පංක්තිය tārakā·paṅktiya (p. 256). Sinhala thus has three native words for 'constellation' where Malayalam has none and must use നക്ഷത്രം.</sub>
+
+**(the stars as kine, the moon their shepherd)** — Hindi (Upper India (North-Western Provinces and Oudh)) · *folk* · confidence: certain
+
+Not a name but a cosmology, transmitted by women to children, and the closest thing in this material to a systematic non-Sanskritic picture of the night sky.
+
+> Native women are very fond of telling their children that the stars are kine and the moon their shepherd.
+> <br>— W. Crooke, 'Kine as Stars', North Indian Notes and Queries, vol. IV (1894-95), note 279 ([source](https://archive.org/details/ninq_v4))
+
+<sub>Crooke repeats it in The Popular Religion and Folk-lore of Northern India (1896), I. 25. No vernacular wording is recorded, so name_roman is descriptive.</sub>
+
+**Gulika (also Mrityu Gulika)** — Kodava (Kodagu (Coorg)) · *folk* · confidence: unidentified
+
+Every Coorg house owed it an annual sacrifice — fowls, coconuts and a little brandy at a stone laid at the foot of a tree with milky juice. A second Gulika, Mṛtyu Gulika 'the Gulika of death', was worshipped where deaths in a family were frequent.
+
+> This is an invisible constellation or star, belonging both to the order of planets and to that of the zodiacal stars. It is, as the people say, a son of S'ani or Saturn. No mortal eye sees it. The astrologer only knows the Gulika and its power, especially over the sick.
+> <br>— Rice, Mysore and Coorg: A Gazetteer, vol. III (Bangalore, 1878), 'Gulika', p. 263; also Richter, Gazetteer of Coorg (1870), pp. 165–167 ([source](https://archive.org/download/cu31924071131605/cu31924071131605_djvu.txt))
+
+<sub>Unidentified by definition — the sources insist the object is invisible. The name is the Sanskrit astrological Gulika (Māndi), the shadowy 'son of Saturn' of Indian horoscopy, so the word is a loan; what is Coorg-specific is that it received a household blood sacrifice at a stone under a tree. Included as the only Kodava sky-cult recorded in the public-domain gazetteers. Richter's independent testimony that Coorg horoscopy at marriage was 'evidently an innovation' suggests this cult sat outside, and predated, the Brahmanical astrology later grafted on.</sub>
+
+**Catlo (the larger stars); Katan (the smaller)** — Andamanese (North Andaman (Aka-Cari, Aka-Jeru)) · *tribal* · confidence: certain
+
+The sun is the wife of the moon and the stars are their children; the big children are named for a beetle and the little ones for the firefly.
+
+> their children the stars are Catlo, the larger ones, and Katan the smaller. Catlo is the name of a species of finely marked beetle, and katan is the name of the common fire-fly. Individual stars or constellations are not recognized.
+> <br>— Radcliffe-Brown, The Andaman Islanders (1922), ch. IV, p. 141 ([source](https://archive.org/download/andamanislanders00radc/andamanislanders00radc_djvu.txt))
+
+<sub>A first-class negative: the North Andamanese sort the stars by brightness into two named kinds of luminous insect and name no individual star at all. Radcliffe-Brown warns at the head of the same chapter that flatly contradictory statements are given by the same informant and both believed — a caution on the chapter as a whole, not on this sentence.</sub>
+
+**Irukna Mara, Irukmara** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: unidentified
+
+Its appearance at 3 a.m. marks the season for collecting mahua flowers (Madhuca longifolia).
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. No modern identification is offered by the authors. A pure work-calendar star: it says when to go out and gather.</sub>
+
+**Khala** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: unidentified
+
+The animal-powered threshing floor, where a bullock walks a circle round a centre post — a bright star at the centre with fainter ones around it.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Placed against the tail of Scorpius in the paper's summary table but described in the village notes as lying next to Tipan; the authors do not resolve this and neither does this entry.</sub>
+
+**'lur-mangkara; mangkara** — Khasi (Khasi and Jaintia hills, Meghalaya) · *tribal* · confidence: unidentified
+
+> 'lur-mangkara, u, n. the brightest star.
+> <br>— Nissor Singh, Khasi-English Dictionary (1906), s.v. 'lur-mangkara, p. 120; s.v. Mangkara, p. 127 ([source](https://archive.org/download/khasienglishdict00singrich/khasienglishdict00singrich_djvu.txt))
+
+<sub>Entered twice by Nissor Singh but never identified with a particular star. Whether mangkara is connected with Sanskrit makara is not stated in the dictionary and is not assumed here.</sub>
+
+**mugrā (sense 2)** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: unidentified
+
+*No quotation: Grignard, An Oraon-English Dictionary (1924), s.v. mugrā, sense 2 is in copyright and is paraphrased only.*
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. mugrā, sense 2 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+<sub>Grignard's second sense of mugrā 'a mallet' is 'Name of a constellation', followed by a Kurukh name that the Internet Archive scan renders unreadably (printed 'Ahi^ta-binko'); the page number is likewise lost in that stretch of bad OCR, so no quote is given. Flagged rather than dropped, because Mundari names the Pleiades muṅgaru ipilko, 'the mallet stars', and Santali says the Pleiades are the mallet of the yoke — a Kurukh mallet constellation is very likely the same figure, but this could not be verified.</sub>
+
+**Kaemaiya** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: unidentified
+
+> Kaemaiya. A constellation so named.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Kaemaiya, p. 289 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>Recorded deliberately. Campbell gives no identification and cross-refers only to kaumau 'to make a loud noise'. Nothing in Bodding vol. V or in Hoffmann answers to it. An honest gap rather than a guess.</sub>
+
+**Sin boṅga reak hopon ko (the sun-god's children)** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+Cosmological frame rather than a star name: the sun-god is male, his wife is the moon, and the stars are their children.
+
+> Sin boṅga, is male, his wife being Aindą condo, the moon, the stars being their children. (Muṇḍari sin boṅga.)
+> <br>— Bodding, A Santal Dictionary, vol. V (1936), s.v. Sin boṅga, p. 283 ([source](https://archive.org/download/in.ernet.dli.2015.31960/2015.31960.A-Santal-Dictionary--Vol5_djvu.txt))
+
+<sub>name_roman here is a descriptive phrase, not a lexical headword; the entry is included because this belief is what licenses the shooting-star-as-excrement idiom in both Santali and Mundari. Bodding adds that the old gurus say the Santals have confused Sin boṅga with God, 'whose name they have forgotten'.</sub>
+
+**Chukkamusti** — Telugu (Vizagapatam Agency hills (Konda Dora)) · *tribal* · confidence: certain
+
+The office, not the object: among the hill Konda Doras the Chukkamusti fixes the day and the hour of a wedding.
+
+> On an auspicious day fixed by the Chukkamusti (star-gazer), the bride is conducted to the home of the bridegroom. … On the same day, or the following morning, at a time settled by the Chukkamusti, the bridegroom, under the direction of a caste elder, ties the sathamanam (marriage badge) on the bride's neck.
+> <br>— Thurston, E. (assisted by K. Rangachari), Castes and Tribes of Southern India (Madras: Government Press, 1909), vol. III, article 'Konda Dora', p. 352 ([source](https://archive.org/download/castestribesofso03thuriala/castestribesofso03thuriala_djvu.txt))
+
+<sub>name_native is null — Thurston romanises only, and the second element is not securely identifiable (musti 'fist' is the obvious candidate but Thurston does not analyse it), so no Telugu spelling is supplied here. The first element is unmistakably cukka 'star'. This is the clearest tribal-register attestation of the word found: cukka doing astronomical work outside both the Sanskrit almanac and the plains dictionary.</sub>
+
+**Sukka** — Telugu (Telugu country (Uppu Yerukala / Korava)) · *tribal* · confidence: likely
+
+One of the intiperu (house/sept names) given by Uppu Yerukalas; the list also contains Bandi 'cart' and Thoka 'tail'.
+
+> As examples of intiperu, or exogamous septs, the following, which were given by Uppu Yerukalas, may be cited: — … Dasari, Vaishnavite mendicant. Sukka, star. Kampa, bush of thorns. Avula, cows. Thoka, tail. Kanaga (Pongamia glabra). Bandi, cart.
+> <br>— Thurston, E. (assisted by K. Rangachari), Castes and Tribes of Southern India (Madras: Government Press, 1909), vol. III, article 'Korava (Yerukala)', p. 452 ([source](https://archive.org/download/castestribesofso03thuriala/castestribesofso03thuriala_djvu.txt))
+
+<sub>name_native null: Thurston romanises only. Sukka is the Yerukala form of Telugu cukka. Confidence 'likely' rather than certain because the sept name may equally reflect the 'dot/mark' sense; Thurston's own gloss is 'star', which is what is recorded. Not a name for any particular object.</sub>
+
+**Keirt** — Toda (Nilgiri hills, Tamil Nadu) · *tribal* · confidence: unidentified
+
+Feared above all after childbirth; its evil influence is keirtpudrtviti, and the whole seclusion-hut procedure is designed to avert it. Said to be always near the sun, and never in the same part of the sky as the Pleiades.
+
+> I think it most probable that this mysterious inhabitant of the sky is not a star at all, but a being allied to the Hindu Ketu.
+> <br>— Rivers, The Todas (1906), pp. 593-594 (and ch. XIV, pp. 269, 326) ([source](https://archive.org/download/todas00rivegoog/todas00rivegoog_djvu.txt))
+
+<sub>Recorded precisely because it resists identification. Rivers could get no one to point it out and no account of where in the sky it stands, and concludes it is probably Ketu under a Badaga name — yet at one funeral its 'appearance' was used as a timing signal, which he admits looks like a real body. Left unidentified.</sub>
+
+## Aldebaran
+
+**Modern:** Aldebaran · α Tauri · Taurus  
+**Sanskrit database:** `rohini` — Rohiṇī (Aldebaran) ([entry](../star-names/star-names.json))  
+**Named in 10 languages:** Gondi, Malayalam, Marathi, Mundari, Odia, Punjabi, Santali, Tamil, Telugu, Toda
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Telugu | బండిరిక్క | *baṇḍi-rikka* | the cart star | vernacular |
+| Gondi | — | *Medi; Kotela* | Kotela: the bat used to beat grain out of the husk | tribal |
+| Mundari | — | *jarom ipilkiŋ* | the two egg stars | tribal |
+| Mundari | — | *putam ipil* | the dove star | tribal |
+| Toda | — | *tudrvalmokh (with a companion star)* | the young of the tūdrval bird | tribal |
+| Malayalam | രോഹിണി | *rōhiṇi* | 'the red one' | sanskritic |
+| Marathi | — | *Rohini* | — | sanskritic |
+| Marathi | शकट | *śakaṭa* | a cart | sanskritic |
+| Odia | ରୋହିଣୀ ଶକଟ | *Rohiṇī ṡakaṭa* | 'Rohiṇī's cart' | sanskritic |
+| Punjabi | ਰੋਹਣੀ | *rohṉí* | 'the red one' (Sanskrit rohiṇī) | sanskritic |
+| Santali | — | *ruhni* | — | sanskritic |
+| Tamil | சகடம் | *cakaṭam* | cart, wagon | sanskritic |
+
+**బండిరిక్క · baṇḍi-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Named from the V of the Hyades, seen as a bullock cart.
+
+> బండి [Tel.] n. A cart, gig, carriage, coach, waggon, శకటము. … బండిమొగ్గరము banḍi-moggaramu. n. A certain military evolution called శకటవ్యూహము, which is shaped like a cart. బండిరిక్క banḍi-rikka. n. The star called రోహిణి.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. బండి banḍi, p. 864 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=864))
+
+<sub>The single best Telugu-Sanskrit correspondence in this file. The Sanskrit database has the same figure under 'rohini-shakata' (Rohiṇī-śakaṭa / Prājāpatya śakaṭa, 'the Wain of Rohiṇī' = the Hyades V with Aldebaran). Brown's Telugu word for it is baṇḍi, the ordinary Dravidian word for a bullock cart, not a rendering of śakaṭa; his own gloss for the military formation śakaṭa-vyūha on the same line shows he knew the two words were equivalents. Telugu preserved the cart independently.</sub>
+
+**Medi; Kotela** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: disputed
+
+Medi is described as a bright star at the centre of a ring of fainter ones, likened to the set-up for crushing grain with a bullock (khala). It rises between 9 and 10 pm in the season from Kartik to Maho.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The authors themselves say the constellation association of Medi is unclear, and that Kotela is 'most probably the Pleiades (but it could be Taurus)'. Recorded as disputed rather than forced.</sub>
+
+**jarom ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+The two eggs left in the dove's nest. Hoffmann remarks that there are never more than two eggs in a dove's nest, which is why the dual is right.
+
+> (8) jarom ipilkiŋ, the two eggs in the dove's nest, two small stars of the fourth magnitude close together, North of Aldebaran, E. S. E. of the Pleiads.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>No Bayer letters given by Hoffmann; none supplied here.</sub>
+
+**putam ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The dove flushed off her nest by the ploughman's mallet, which alighted a little way off to wait until the enemy had gone.
+
+> (7) putam ipil, the dove started from her nest, Aldebaran, one of the Hyades, the star counted ninth in brightness.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Santali potam is the imperial pigeon (Campbell). Hoffmann uses this entry to correct M.B. Bhaduri's paper in Man in India, which had taken his informant's rohṛa — the name of a beetle that appears for two or three days at the end of May — for Hindi Rohiṇī, i.e. Aldebaran.</sub>
+
+**tudrvalmokh (with a companion star)** — Toda (Nilgiri hills, Tamil Nadu) · *tribal* · confidence: likely
+
+A bird with young was left by its mother while she went for food; a snake climbed the tree, and the nestlings called to Kudursami, who took them up into the sky. The tūdrval still sings 'Kudursami trrrrrrr'. In another version the bird had offended Swami, who took its young as a punishment.
+
+> The name of the bird was tūdrval, and so one star is called tudrvalmokh.
+> <br>— Rivers, The Todas (1906), p. 595 ([source](https://archive.org/download/todas00rivegoog/todas00rivegoog_djvu.txt))
+
+<sub>Rivers names a pair; the second name is printed 'Tidiishti' in both Internet Archive scans and could not be resolved, so it is not given here. The Bayer letters are Rivers' own conjecture ('probably γ and ε Tauri'). He considers the story a recent acquisition from Indian folk-tale — worth weighing against the fact that the same bird-and-nestlings figure turns up in Santali, Mundari and Gondi at other stars.</sub>
+
+**രോഹിണി · rōhiṇi** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Aṣṭamirōhiṇi, the eighth lunar day falling in Rohiṇi in the month Ciṅṅam, is Kṛṣṇa's birthday and a fast day in Kerala.
+
+> the 4th Nakšatra, with Aldebaran ചിങ്ങമാം മാസ വും അഷ്ടമിരോ. നാള്‍ Bhg. CG. K/?/šṇa's birthday.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. രോഹം rōham, p. 889 (sub-entry രോഹിണി) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=889))
+
+**Rohini** — Marathi (Bombay Presidency (Deccan and Konkan)) · *sanskritic* · confidence: certain
+
+thunder in Rohiṇī portends a Boterun — seventy-two days without rain; lightning from a clear sky in the same asterism causes Rohini-tap, 'the burning heat of Rohiṇī'
+
+> Thunder during the Rohini nakshatra is a bad omen : it foreshadows either a famine, or a Boterun, i. e. complete cessation of rains for seventy-two days, after the thunder-claps are heard.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 78 ([source](https://archive.org/details/folkloreofbombay00reen/page/n80))
+
+<sub>Boterun and Rohini-tap are both vernacular formations built on the asterism name; Rohini-tap is Rohiṇī + ताप 'burning heat'. The archive.org OCR mangles both words (it prints 'seventy-t wo' and 'Rohini-t^azf' where the italic type sits); the readings given here follow the printed page. On the same page Enthoven adds the counterpart for Hasta: 'Thunder or lightning in the Hasta nakshatra foretells good harvests and a prosperous year.'</sub>
+
+**शकट · śakaṭa** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> शकट śakaṭa m (S) A cart. 2 The figure of a cart formed by the five stars composing the fourth lunar asterism. 3 fig. A clog, a person or business that hangs on and impedes.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. शकट, p. 779 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B6%E0%A4%95%E0%A4%9F&searchhws=yes&matchtype=exact))
+
+<sub>Marked S, so this is the Sanskrit रोहिणीशकट carried over, not a Marathi invention; but Molesworth's 'five stars' makes it a genuine star-figure statement and it is the only Marathi name I found for the Hyades. Molesworth also carries शकटभेद (p. 779), 'Division of the cart-form asterism called रोहिणी by the moon or a planet passing through it' — the classic Rohiṇī-śakaṭa-bheda omen.</sub>
+
+**ରୋହିଣୀ ଶକଟ · Rohiṇī ṡakaṭa** — Odia (Odisha) · *sanskritic* · confidence: certain
+
+Given as the Odia or native name of the 4th asterism. The omen attached to it is recorded in the same note: when the moon is seen to pierce the Rohiṇī-cart, calamity is feared.
+
+> 5 ଗୋଟି ତାରା, ଏ 5 ତାରାକୁ ଯୋଗକଲେ ଗୋଟିଏ ସମଦ୍ୱିବାହୁ ତ୍ରିଭୁଜ ବା ଶଗଡ଼ଦଣ୍ଡାର ଆକାର ହେବ। ଓଡ଼ିଆ ବା ଦେଶୀୟ ନାମ—ରୋହିଣୀ ଶକଟ। ପାଶ୍ଚାତ୍ୟ ନାମ—Hyades. … ଚନ୍ଦ୍ର ଯେବେ ରୋହିଣୀ— ଶକଟକୁ ଭେଦ କରିବାର ଦେଖାଯାଏ ତେବେ ଅନିଷ୍ଟ ଆଶଙ୍କା କରାଯାଏ।
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note on the 4th asterism ରୋହିଣୀ, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>The shape word ଶଗଡ଼ଦଣ୍ଡା śagaṛa-daṇḍā (the pole/shaft of a bullock cart) is Odia, and is what makes the Sanskrit śakaṭa figure legible to an Odia reader.</sub>
+
+**ਰੋਹਣੀ · rohṉí** — Punjabi (Punjab) · *sanskritic* · confidence: certain
+
+Attached to a Punjabi weather proverb, which is what makes it more than a transliteration: the brighter Rohṇī shows on the eleventh of the dark half of Sāwan, the better the harvest.
+
+> ROHṈÍ ਰੋਹਣੀ s. m. The fourth lunar mansion, which comprises Aldebaran and four other stars in Taurus:—Sáwaṉ badí ekádsí, joṭhí rohṉí hoe, etá samá parakhye maṉ báṇchhat phal hoi.
+> <br>— Bhai Maya Singh, The Panjabi Dictionary (Lahore, 1895), s.v. rohṉí, p. 971 ([source](https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=971))
+
+<sub>Maya Singh translates: 'Understand that the more the star Rohṇí shows on the eleventh dark half of Sáwaṉ, the more there will be produce to delight your heart.—Prov.' The 'four other stars in Taurus' are the Hyades; cf. Sanskrit database entry rohini-shakata, the Wain of Rohiṇī.</sub>
+
+**ruhni** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *sanskritic* · confidence: certain
+
+Not used by Santals as a star at all but as the sowing week: the 13th of Jeṭ and the six days following. Paddy, maize, pumpkins and beans sown in Ruhni are said to come up strong. A cow-dung streak is drawn round the house wall on the first day to keep snakes off, and the ojha begins teaching his disciples.
+
+> ruhni, n. The 13th day of the month of jeṭ and the following six days, in all seven days ... The ruhni is considered the proper and lucky time for sowing paddy, also Indian corn and pumpkins, beans, etc.
+> <br>— Bodding, A Santal Dictionary, vol. V (1936), s.v. ruhni, p. 133 ([source](https://archive.org/download/in.ernet.dli.2015.31960/2015.31960.A-Santal-Dictionary--Vol5_djvu.txt))
+
+<sub>Flagged sanskritic because the word is Rohiṇī and Bodding says so, adding the Puranic genealogy from his own reading. What is interesting is the direction of the borrowing: the nakshatra has entered Santali as an agricultural week, not as a star. No Santal informant in Bodding identifies ruhni with Aldebaran.</sub>
+
+**சகடம் · cakaṭam** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+The V of the Hyades seen as a bullock-cart. Sanskrit śakaṭa in Tamil form, but the figure itself is the shared South Asian one; the Tamil Lexicon lists the asterism sense among the ordinary cart senses without comment.
+
+> சகடம்¹ cakaṭam , n. < šakaṭa. 1. Cart, wheeled conveyance drawn by cattle, carriage, chariot; வண்டி. … 4. The 4th nakṣatra. See உரோகிணி. (பிங்.) 5. Wheel; சக்கரம்.
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. சகடம்¹ sense 4, vol. III p. 1255, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AE%95%E0%AE%9F%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Corresponds directly to the Sanskrit-database entry rohini-shakata, 'the Wain of Rohiṇī'. HOMONYM: five separate சகடம் headwords — a large drum, a sparrow, a cup, and a carambola tree — of which only சகடம்¹ sense 4 is astronomical. The purely Tamil name for the same asterism is வயமீன் vaya-mīṉ (p. 3496), which the Lexicon derives only tentatively ('prob. வயம்⁵ + மீன்¹') and glosses 'The fourth nakṣatra; உரோகணி'.</sub>
+
+## Orion's Belt
+
+**Modern:** Orion's Belt (Mintaka, Alnilam, Alnitak) · δ, ε, ζ Orionis · Orion  
+**Sanskrit database:** `ishus-trikanda` — Iṣus trikāṇḍā (Orion's Belt - Mintaka, Alnilam, Alnitak - as the 'three-jointed arrow') ([entry](../star-names/star-names.json))  
+**Named in 8 languages:** Andamanese, Gondi, Kurukh, Malayalam, Marathi, Mundari, Odia, Santali
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | तिकांडें | *tikāṇḍēṃ* | the three-shafted (thing) | vernacular |
+| Marathi | त्रिकांड्या | *trikāṇḍyā* | having three shafts/arrows | vernacular |
+| Malayalam | ഞേങ്ങോല്‍ | *ñēṅṅōl* | 'plough-shaft' (the beam of a plough) | folk |
+| Odia | ନଙ୍ଗଲ ଜୁଡ଼ା | *Naṅgal juṟḍ̠ā* | 'the yoked plough' — naṅgal is the western-Odia form of laṅgaḻa, a plough | folk |
+| Andamanese | — | *bela-* | — | tribal |
+| Gondi | — | *Naagarda, Nangar, Nangal, Nangir* | the plough | tribal |
+| Gondi | — | *Tipan* | — | tribal |
+| Kurukh | — | *ugtā-pagṛī bīnkō* | the plough constellation | tribal |
+| Mundari | — | *araṛ ipilko* | the yoke stars | tribal |
+| Mundari | — | *siṭan ipilko* | the ploughing stars | tribal |
+| Santali | — | *Arar (ipilko)* | the yoke | tribal |
+| Santali | — | *arar lalak (arar lalakko)* | the yoke that shows itself off | tribal |
+| Marathi | शर | *śara* | arrow | sanskritic |
+| Odia | ଇଲ୍ୱଳା | *Ilwaḻā* | Ilvala, the asura brother of Vātāpi killed by Agastya | sanskritic |
+| Odia | ଉଷା, ଅନିରୁଦ୍ଧ, ଚିତ୍ରଲେଖା | *Uṣā, Aniruddha, Citralekhā* | Uṣā daughter of king Bāṇa, her husband Aniruddha, and her companion Citralekhā | sanskritic |
+
+**तिकांडें · tikāṇḍēṃ** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+> तिकांडें tikāṇḍēm n तिकांड्या m The three stars composing the belt of Orion, the arrow of Shiva. See लुब्धक.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. तिकांडें, p. 378 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%A1%E0%A5%87%E0%A4%82&searchhws=yes&matchtype=exact))
+
+<sub>A Marathi (Prakritic ति-, not Sanskrit त्रि-) formation on कांड 'shaft, arrow-joint'. It answers the Vedic इषुस् त्रिकाण्डा, 'the three-jointed arrow', but the phonology is vernacular, so it is not simply the Sanskrit word in Marathi dress.</sub>
+
+**त्रिकांड्या · trikāṇḍyā** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+> त्रिकांड्या trikāṇḍyā a (त्रि & कांड Arrow.) The belt of Orion as composed of three stars forming the three कांड or arrows of Shiva. See under लुब्धक.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. त्रिकांड्या, p. 391 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%A1%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>Semi-sanskritised variant of तिकांडें, with the Sanskrit numeral त्रि restored. Molesworth's own etymological bracket makes the composition explicit.</sub>
+
+**ഞേങ്ങോല്‍ · ñēṅṅōl** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *folk* · confidence: disputed
+
+An agricultural time-marker. Gundert: it rises in the month of Dhanu (mid-December to mid-January) about an hour after sunset, and its rising tells the cultivator when to do ചക്രം ചവിട്ടുക — 'to clear a ricefield of water preparatory to sowing' (Gundert s.v. ചക്രം, p. 340).
+
+> ഞേങ്ങോല്‍ ñēṅṅō̄l‍ ńēṇṇōl (T. ഞാഞ്ചില്‍ , M. നേ ഞ്ഞില്‍ , Te. നാഗില്‍ , C. നേഗില്‍ , Tu. നായര്‍ ) 1.Plough-shaft ... 3. a constellation മുഴക്കോല്‍ rising in Dhanu an hour aftor sunset & indicating the time for treading the wheel previous to sowing (see ചക്രം ചവിട്ടുക ).
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഞേങ്ങോല്‍ ñēṅṅōl, p. 413 (sense 3) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%9E%E0%B5%87%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%8B%E0%B4%B2%E0%B5%8D%E2%80%8D&searchhws=yes&matchtype=exact))
+
+<sub>The single most valuable item here: a Malayalam constellation named from a farm implement, defined by its use rather than by any Sanskrit asterism, and cross-referenced by Gundert to a second implement-name, മുഴക്കോല്‍ 'measuring-rod' (p. 846). A short straight row of stars is what both names describe. Orion's Belt fits the stated datum well — in mid-December it clears the eastern horizon roughly an hour after sunset — but Gundert names no stars and no other source consulted repeats the identification, so it is left disputed. Note also that Gundert's Tulu cognate for the implement is നായര്‍ nāyar, not a star word.</sub>
+
+**ନଙ୍ଗଲ ଜୁଡ଼ା · Naṅgal juṟḍ̠ā** — Odia (Sambalpur (western Odisha)) · *folk* · confidence: certain
+
+THE agricultural entry in this file. Praharaj's note: the Khaṛiās of Sambalpur do not yoke the plough — that is, do not begin the paddy sowing — until this asterism has risen, which is to say not before the month of Baiśākha; and it is for that reason that the cluster is called Naṅgal-juṛā.
+
+> ନଙ୍ଗଲ ଜୁଡ଼ା— Naṅgal juṟḍ̠ā ପ୍ରାଦେ. (ସମ୍ବଲପୁର) ବି— ତାରାପୁଞ୍ଜବିଶେଷ; ଇଲ୍ୱଳା ନକ୍ଷତ୍ର (କାଳପୁରୁଷର କଟିବନ୍ଧନ)— The belt of Orion (a constellation). [ଦ୍ର—ସମ୍ବଲପୁରର ଖଡ଼ିଆମାନେ ଏ ନକ୍ଷତ୍ରର ଉଦୟ ନ ହେଲେ (ବୈଶାଖ ମାସ ନ ହେଲେ) ଲଙ୍ଗଳ ଯୋଚନ୍ତି ନାହିଁ ଅର୍ଥାତ୍ ଧାନବୁଣାବୁଣି କାମ କରନ୍ତି ନାହିଁ । ଏଣୁ ଏ ନକ୍ଷତ୍ର ପୁଞ୍ଜକୁ 'ନଙ୍ଗଲଜୁଡ଼ା' ବୋଲାଯାଏ ।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନଙ୍ଗଲ ଜୁଡ଼ା Naṅgal juṟḍ̠ā, p. 4106 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%99%E0%AD%8D%E0%AC%97%E0%AC%B2&searchhws=no&matchtype=default))
+
+<sub>Register tagged folk rather than tribal: the WORD is marked ପ୍ରାଦେ. (ସମ୍ବଲପୁର), i.e. provincial western Odia, and it is the OBSERVANCE that Praharaj attributes to the Khaṛiā (ଖଡ଼ିଆ) community. Astronomically the note is loose — Orion's Belt is a winter object and is already setting in the evening by Baiśākha (April-May); the practical marker is presumably the belt's heliacal or seasonal disappearance rather than a rising, or the 'rising' is a morning one. I have not emended Praharaj.</sub>
+
+**bela-** — Andamanese (South Andaman (Aka-Bea and neighbouring tribes)) · *tribal* · confidence: certain
+
+The only star or constellation in the Andamans that Man found to bear a name at all.
+
+> Of all the stars and constellations Orion's belt alone is found to bear a name (bela-), but this is not to be wondered at, as they never venture upon any distant voyages, and do not therefore experience any necessity for studying the bearing of the various planets and constellations at different seasons
+> <br>— Man, On the Aboriginal Inhabitants of the Andaman Islands (1883), § 8, p. 118 ([source](https://archive.org/download/b24764413/b24764413_djvu.txt))
+
+<sub>Man's trailing hyphen is his convention for a stem requiring a prefix. His explanation — no long voyages, therefore no need of star bearings — is his own inference and should be read as such; it is at least consistent with Radcliffe-Brown's independent finding forty years later in the North Andaman.</sub>
+
+**Naagarda, Nangar, Nangal, Nangir** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Belt plus sword read as a plough; with Taurus, Orion's eastern shoulder, Lepus and Sirius it makes a whole farming scene.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The same reading of Orion as a plough as Kurukh ugtā-pagṛī bīnkō, and as the Mundari tableau in which the belt is the yoke and Rigel the ploughman.</sub>
+
+**Tipan** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Its arrival in the early night sky signals the farming season; when Tipan appears at sunset the monsoon is coming.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported.</sub>
+
+**ugtā-pagṛī bīnkō** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: certain
+
+> Ugtā-pagṛī, the plough. — Ugtā-pagṛī bīnkō, constellation of Orion.
+> <br>— Grignard, An Oraon-English Dictionary (1924), s.v. ugtā, p. 684; also s.v. bīnkō, p. 85 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
+
+<sub>Grignard's long entry s.v. ugtā describes the parts of the Oraon plough in detail, so the metaphor is documented from the implement upwards. The same reading of Orion as Gondi Nangar/Nangal and, at one remove, the Mundari ploughing tableau.</sub>
+
+**araṛ ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+Part of a ploughing tableau: the middle star is the plough itself and the two outer ones the team of bullocks. Hoffmann's informants also used the group to tell the hour — 'ararako hasurtana, Orion is on the western horizon'.
+
+> (1) araṛd ipilko, the yoke stars, the three stars in Orion's belt. The middle one is supposed to represent the plough; and the two others, the team of bullocks
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Printed 'arard-' in the scan; Hoffmann's retroflex ṛ with a subscript dot is regularly OCR'd as 'rd'. Cognate with Santali arar (Campbell). Cross-referenced at vol. XIII col. 4011 s.v. sitan-ipil and at vol. VI s.v. hasur and hāre.</sub>
+
+**siṭan ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The arrival of this group in the evening sky is the sign for the farming season.
+
+> (3) sitan ipilko, the ploughing stars, the group formed by these four stars.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+**Arar (ipilko)** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+Its rising is announced as an event: 'the Yoke constellation has risen'. The same word is the ordinary word for a yoke of oxen (miṭ arar sadom).
+
+> Arar. The Yoke constellation, being the three stars in Orion's belt. Arar ipilko rakaḥtakana. The Yoke constellation has risen.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Arar, p. 19 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>Sanskrit names no asterism for the belt alone — Mṛgaśīrṣa and Invakāḥ are the stars of Orion's head — so there is no Sanskrit counterpart to link. The identical figure is Mundari araṛ ipilko (Hoffmann).</sub>
+
+**arar lalak (arar lalakko)** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: disputed
+
+Named only inside Bodding's entry for the Pleiades, as the thing to which the Pleiades-mallet belongs.
+
+> the arar lalakko (three small stars near the belt of Orion)
+> <br>— Bodding, A Santal Dictionary, vol. V (1936), s.v. sɘren (ipil), p. 352 ([source](https://archive.org/download/in.ernet.dli.2015.31960/2015.31960.A-Santal-Dictionary--Vol5_djvu.txt))
+
+<sub>Bodding glosses the group as 'three small stars NEAR the belt', which read strictly points at the sword of Orion; Campbell's arar is unambiguously the belt. Recorded separately rather than merged because the discrepancy is real. lalak is in Campbell 'to show off, as one showing what he can do in dancing'.</sub>
+
+**शर · śara** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> शर śara m S An arrow. 2 The arrow of Shiva, i. e. the three stars composing the belt of Orion. See under लुब्धक. 3 Distance from the Ecliptic, celestial latitude. 4 The versed sine.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. शर, p. 782 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B6%E0%A4%B0&searchhws=yes&matchtype=exact))
+
+<sub>Marked S. Included because it is the hinge of the Śiva-hunter myth that Molesworth spells out under लुब्धक, in which the Belt is the arrow, Orion/Mṛga the buck, and Sirius the hunter.</sub>
+
+**ଇଲ୍ୱଳା · Ilwaḻā** — Odia (Odisha) · *sanskritic* · confidence: certain
+
+Praharaj supports it with a line of Rādhānātha Rāya's Yayāti: 'these three forms appear in one line, like Ilwaḻā in the sky'.
+
+> ଇଲ୍ୱଳା— Ilwaḻā ସଂ. ବି— କାଳପୁରୁଷ ନକ୍ଷତ୍ରପୁଞ୍ଜର କଟିଦେଶରେ ଥିବା ତିନିଟି ତାରା The Orion's belt. (ନକ୍ଷତ୍ର ତଳେ ନୋଟ ଦେଖ) ଏ ତିନିମୂର୍ତ୍ତି ଏକ ରେଖାରେ ଦିଶଇ ଇଳ୍ୱଳା ଯଥା ଆକାଶେ। —ରାଧାନାଥ, ଯଯାତି।
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ଇଲ୍ୱଳା Ilwaḻā, p. 876 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%87%E0%AC%B2%E0%AD%8D%E0%AD%B1%E0%AC%B3%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>Sanskrit Ilvalāḥ is a name of the stars of Orion's HEAD (see sanskrit database id ilvala, from the Taittirīya tradition); Odia has moved the name down the figure to the BELT. That shift is worth recording: the two databases hold the same word against two different asterisms, and the Odia use is consistent across Praharaj (here, at ନଙ୍ଗଲ ଜୁଡ଼ା p. 4106, and at କାଳପୁରୁଷ p. 1552).</sub>
+
+**ଉଷା, ଅନିରୁଦ୍ଧ, ଚିତ୍ରଲେଖା · Uṣā, Aniruddha, Citralekhā** — Odia (Odisha) · *sanskritic* · confidence: certain
+
+From Praharaj's long systematic note on the Kālapuruṣa group (item 36 under the headword ନକ୍ଷତ୍ର), which numbers 21 stars of Orion and gives each a name. Stars 6, 7, 8 are Uṣā, Aniruddha and Citralekhā individually and 'ଇଷୁ ତ୍ରିକାଣ୍ଡ ବା ପାଶୁପତ ବାଣ' (the three-jointed arrow, or the Pāśupata shaft) collectively.
+
+> 5 କାର୍ତ୍ତିକେୟ, 6 ଉଷା, 7 ଅନିରୁଦ୍ଧ 8 ଚିତ୍ରଲେଖା; 6। 7। 8 ଇଷୁ ତ୍ରିକାଣ୍ଡ ବା ପାଶୁପତ ବାଣ, 9। 10।11।12।13 ମୟୂରତୁଣ୍ଡ, 14 କାର୍ତ୍ତବୀର୍ଯ୍ୟ 15 ବାଣରାଜ 16 ଠାରୁ 21 କାଳପୁରୁଷର ଧନୁ। … —English Orion; 1, 2, 3, Orion's head, 4 Betelgeux, 5 Bellatrix, 6 Al Nitak, 7 Al Nilam, 8 Mintaka 6.7.8 Orion's belt. 9. 10 11. 12. 13 Orion's dagger, 14 Saiph, 15 Rigel, 16. 17. 18. 19. 20. 21 Orion's bow.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note item 36 କାଳପୁରୁଷ ପୁଞ୍ଜ, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>The Uṣā-Aniruddha-Citralekhā naming of the three belt stars is not in the Sanskrit database and I have found it in no Sanskrit source; it belongs to the Odia astronomical tradition Praharaj is codifying. Bellatrix as Kārttikeya and Saiph as Kārtavīrya likewise.</sub>
+
+## Venus as evening star
+
+**Modern:** Venus  
+**Named in 8 languages:** Bengali, Kannada, Khasi, Odia, Santali, Sinhala, Tamil, Tulu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Bengali | সন্ধ্যাতারা | *sandhyā-tārā* | 'evening star' | vernacular |
+| Bengali | সাঁঝের তারা | *sāñjher tārā* | 'the star of dusk' (sāñjh, the colloquial Bengali for evening) | vernacular |
+| Kannada | ಸಂಜೆದಾರಕಿ | *sañje-tāraki* | the evening star | vernacular |
+| Odia | ପହରିକିଆ ତାରା | *Paharikiā tārā* | 'the one-watch star' — the star that lasts a prahara | vernacular |
+| Sinhala | ඉරබටු තරුව | *irabaṭu-taruva* | 'star after sunset' — Jayatilaka's own gloss; ඉරබටු ira-baṭu 'sunset' from ඉර ira, the inherited Sinhala word for the sun | vernacular |
+| Tamil | மாலைவெள்ளி | *mālai-veḷḷi* | evening-white | vernacular |
+| Tulu | ತಂಜದ ಬೊಳ್ಳಿ | *tanjada boḷḷi* | 'the star of evening' (ತಂಜ tanja 'evening, sunset, night' + genitive -ದ -da + ಬೊಳ್ಳಿ boḷḷi 'star') | vernacular |
+| Odia | କେଉଁଟି ତାରା | *Keuñṭi tārā* | 'the fisherwoman's star' — keuṭa/keuṇṭa is the fisher caste | folk |
+| Khasi | — | *'lur-miet* | the night star | tribal |
+| Santali | — | *sukąr, sukro, sukur ipil* | — | sanskritic |
+
+**সন্ধ্যাতারা · sandhyā-tārā** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+Sub-lemma ~তারা under the headword সন্ধ্যা. The learned doublet সান্ধ্যতারা / সান্ধ্যতারকা is at p. 1005.
+
+> ~তারা n. the evening star, the Vesper.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. সন্ধ্যা sandhyā, sub-lemma ~তারা, p. 979 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+**সাঁঝের তারা · sāñjher tārā** — Bengali (Bengal) · *vernacular* · confidence: certain
+
+Given by Dāsa as the plain Bengali equivalent of the learned সান্ধ্যতারা, alongside শুক্রতারা.
+
+> সান্ধ্য sāndhya [সন্ধ্যা + অ (ভবার্থে)] বিণ, সায়ংকালীন। 2 সন্ধ্যাসম্বন্ধীয়। ̃তারা -সাঁঝের তারা; শুক্রতারা evening star; vesper.
+> <br>— Jñānendramohana Dāsa, Bāṅgālā Bhāṣāra Abhidhāna, 2nd rev. ed., Kalikātā: Indian Publishing House [bhūmikā 1937] (DSAL digital ed.), s.v. সান্ধ্য sāndhya, sub-lemma ̃তারা, p. 2046 ([source](https://dsal.uchicago.edu/cgi-bin/app/dasa_query.py?page=2046))
+
+**ಸಂಜೆದಾರಕಿ · sañje-tāraki** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+Kittel's citation (J. 26,5) is to the Jaimini Bhārata, i.e. it is a literary attestation.
+
+> ಸಂಜೆ sañje. = ಚಂಜೆ, ಸನ್ದೆ. Tbh. of ಸನ್ಧ್ಯೆ. evening. … — ಸಂಜೆದಾರಕಿ. -ತಾರಕಿ. an evening-star (J. 26, 5).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಸಂಜೆ sañje, p. 1564 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1564))
+
+<sub>A Kannada compound of two naturalised words (sañje < sandhyā, tāraki < tārakā), so the material is Sanskrit but the formation is not. Kittel does not identify the body; on the evidence it is Venus, but he says only 'an evening-star', so no Bayer designation is asserted. No corresponding Kannada morning-star compound is recorded — for the morning star Kittel cites Telugu, not Kannada (s.v. ಬಯ್ಗು, p. 1143).</sub>
+
+**ପହରିକିଆ ତାରା · Paharikiā tārā** — Odia (Odisha) · *vernacular* · confidence: certain
+
+The general Odia evening-star word. Praharaj's note insists that it is not a star at all but a planet, and the same body as the morning star.
+
+> ପହରିକିଆ ତାରା— Paharikiā tārā … ଦେ. ବି— ରାତି ପ୍ରହରକଠାରେ ପଶ୍ଚିମରେ ବୁଡ଼ିଯିବା ଶୁକ୍ର ଗ୍ରହ… —The Evening star; the Hesperus; Venus. [ଦ୍ର—ଏହି ପହରିକିଆ ତାରା ପ୍ରକୃତରେ ତାରା ନୁହେଁ; ଏହା ଗୋଟିଏ ଗ୍ରହ ଓ ଏହା ପୁଣି ପାହାନ୍ତି ତରା ରୂପେ କେତେଦିନ ପାହାନ୍ତିଆରେ ପୂର୍ବ ଦିଗରେ ଦେଖାଯାଏ।]
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ପହରିକିଆ ତାରା Paharikiā tārā, p. 4687 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%AA%E0%AC%B9%E0%AC%B0%E0%AC%BF%E0%AC%95%E0%AC%BF%E0%AC%86%20%E0%AC%A4%E0%AC%BE%E0%AC%B0%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>Praharaj's synonym column prints the Bengali equivalent of this Odia evening-star headword as শুকতারা (OCR'd on DSAL as 'ত্তকতারা'), and prints the same Bengali word against the MORNING-star headword ପୁଆଁ ତରା at p. 4877 (OCR'd 'গুকতারা'). That is direct cross-language evidence for the Bengali morning/evening ambiguity flagged in the শুকতারা entry.</sub>
+
+**ඉරබටු තරුව · irabaṭu-taruva** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+> ඉරබටු තරුව irabaṭu1-taruva , s., (lit. star after sunset) evening star, planet Venus: LṃkVrṇ 2-9; Sāmdrkś 13-24; Ākāś 17-15; MāBhū 4-10.
+> <br>— Jayatilaka (ed.), A Dictionary of the Sinhalese Language (Royal Asiatic Society, Ceylon Branch, 1935– ), s.v. ඉරබටු තරුව irabaṭu-taruva, p. 1505 ([source](https://dsal.uchicago.edu/cgi-bin/app/jayatilaka_query.py?qs=evening%20star&matchtype=default))
+
+<sub>Wholly native. Carter has it only as the Sinhala gloss inside Sanskrit headwords — පශ්චිම·තරුව paścima·taruva 'evening star, ඉරබටු තාරකාව' (p. 368) and සන්‍ධ්‍යා·තාරකාව (p. 648) — and prints the variant හිර·බටු hira·baṭu, 'sunset, as හිරබටුතරුව, sunset star, evening star' (p. 724). Sinhala therefore lexicalises the morning and evening apparitions separately with two native compounds, as Malayalam does with പെരുമീന്‍/കൊററി.</sub>
+
+**மாலைவெள்ளி · mālai-veḷḷi** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The evening-star half of the Tamil pair; the morning half is viṭiveḷḷi / kālaiveḷḷi.
+
+> மாலைவெள்ளி mālai-veḷḷi , n. < id. +. Venus, when it appears as the evening star; அந்தியிற்றோன்றும் சுக்கிரன். (W.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. மாலைவெள்ளி, vol. V p. 3179, marked (W.) after Winslow ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>Only two Tamil words for the evening star are in the Lexicon: this one and the Sanskrit-based அந்திநட்சத்திரம் anti-naṭcattiram (p. 83), 'Evening star; மாலைவெள்ளி'. The morning star, by contrast, has at least eight Tamil names — an asymmetry worth noting: the Tamil sky-vocabulary is a dawn vocabulary.</sub>
+
+**ತಂಜದ ಬೊಳ್ಳಿ · tanjada boḷḷi** — Tulu (South Canara (Tulu Nadu)) · *vernacular* · confidence: certain
+
+> ತಂಜ tanja, s. Evening, sunset, night. —ದ ಬೊಳ್ಳಿ the evening star.
+> <br>— Männer, Tuḷu–English Dictionary (1886), s.v. ತಂಜ tanja, p. 262 (sub-entry) ([source](https://archive.org/download/tuluenglishdicti00mnrich/page/n279_w1400.jpg))
+
+<sub>Read directly from the page scan of p. 262; Männer's dash convention repeats the headword, so the full compound is ತಂಜದ ಬೊಳ್ಳಿ. Wholly native. Note the split with Kodava: Tulu lexicalises Venus as the EVENING star, Kodagu as the MORNING star, both on the same *veḷ root. Männer's Tulu→English volume has no entry for 'morning star' at all.</sub>
+
+**କେଉଁଟି ତାରା · Keuñṭi tārā** — Odia (Sambalpur (western Odisha)) · *folk* · confidence: certain
+
+A caste-and-labour name for a planet: the star that goes down in the west a watch into the night, which Praharaj identifies flatly as Venus.
+
+> କେଉଁଟି ତାରା— Keuñṭi tārā ପ୍ରାଦେ. (ସମ୍ବଲପୁର) ବି— ପହରିକିଆ ତାରା; ପଶ୍ଚିମାକାଶରେ ରାତି ପହରକଠାରେ ବୁଡ଼ିବା ଜ୍ୟୋତିଷ୍କ (ଏହାହିଁ ଶୁକ୍ର ଅଟେ।)—Evening Star.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. କେଉଁଟି ତାରା Keuñṭi tārā, p. 1740 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%95%E0%AD%87%E0%AC%89%E0%AC%81%E0%AC%9F%E0%AC%BF%20%E0%AC%A4%E0%AC%BE%E0%AC%B0%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>The 'fisherwoman' reading of keuñṭi is mine, from the caste name; Praharaj does not gloss it. It pairs with ଫୁକିଆ at p. 5239, whose example sentence is also about fisherwomen — so in western and princely Odisha both apparitions of Venus are named from the fishing household's working day.</sub>
+
+**'lur-miet** — Khasi (Khasi and Jaintia hills, Meghalaya) · *tribal* · confidence: certain
+
+> 'lur-miet, u, n. the evening star.
+> <br>— Nissor Singh, Khasi-English Dictionary (1906), s.v. 'lur-miet, p. 120 ([source](https://archive.org/download/khasienglishdict00singrich/khasienglishdict00singrich_djvu.txt))
+
+<sub>miet is 'night'.</sub>
+
+**sukąr, sukro, sukur ipil** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *sanskritic* · confidence: certain
+
+> sukro, n. The planet Venus as an evening star. (H. sukr; only in books.)
+> <br>— Bodding, A Santal Dictionary, vol. V (1936), s.v. sukąr, sukro, sukur ipil, c. pp. 370-372 ([source](https://archive.org/download/in.ernet.dli.2015.31960/2015.31960.A-Santal-Dictionary--Vol5_djvu.txt))
+
+<sub>Bodding's parenthesis '(only in books)' is the point of the entry: the Sanskrit/Hindi planet name is attested in Santali print but not in Santal speech. He marks Sani 'the planet Saturn' the same way. This is the clearest statement in any of these dictionaries that the graha system did not take.</sub>
+
+## Sirius
+
+**Modern:** Sirius · α Canis Majoris · Canis Major  
+**Sanskrit database:** `lubdhaka` — Lubdhaka (Sirius) ([entry](../star-names/star-names.json))  
+**Named in 7 languages:** Bengali, Gondi, Kannada, Marathi, Odia, Sinhala, Toda
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | लोभी | *lōbhī* | greedy one | vernacular |
+| Gondi | — | *Purad (Hola); Mes* | a bird; its eggs | tribal |
+| Gondi | — | *Tiva* | the stool a farmer stands on to winnow | tribal |
+| Toda | — | *Ishtkati* | — | tribal |
+| Bengali | লুব্ধক | *lubdhaka* | 'the hunter, the fowler' (also 'greedy one') | sanskritic |
+| Kannada | ಲುಬ್ಧಕ | *lubdhaka* | the hunter | sanskritic |
+| Marathi | लुब्धक | *lubdhaka* | hunter | sanskritic |
+| Marathi | व्याध | *vyādha* | huntsman | sanskritic |
+| Odia | ପ୍ରଶ୍ୱା | *Praṡwā* | uncertain; Praharaj marks it ସଂ. and offers no derivation | sanskritic |
+| Sinhala | සාරමේය·තාරකාව | *sāramēya·tārakāva* | 'the dog star' (Sanskrit sārameya 'canine, son of Saramā') | sanskritic |
+
+**लोभी · lōbhī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+> लोभी lōbhī m (Popular form of लुब्धक S) Sirius or the Dog-star.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. लोभी, p. 725 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B2%E0%A5%8B%E0%A4%AD%E0%A5%80&searchhws=yes&matchtype=exact))
+
+<sub>A folk-etymological reshaping: लुब्धक 'hunter' is pulled onto the everyday Marathi word लोभी 'greedy, covetous'. Molesworth's phrase 'Popular form' is the register signal.</sub>
+
+**Purad (Hola); Mes** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: unidentified
+
+Orion throws a stone — the Pleiades — at the bird, so that the hunter can take the eggs. The survey does not record whether he hit it.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Recorded in only one or two villages and never pinned to particular stars; the authors note the geometrical awkwardness that Purad lies east of Orion, so the stone would have to curve. The same bird-nest-and-thrown-object figure is what Hoffmann records for Mundari at Aldebaran and the Pleiades, and Campbell for Santali in Lyra. Three independent recorders, three parts of the sky, one story.</sub>
+
+**Tiva** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: disputed
+
+The implement from which grain is dropped into the wind so that the husk blows away.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported.</sub>
+
+**Ishtkati** — Toda (Nilgiri hills, Tamil Nadu) · *tribal* · confidence: likely
+
+Corresponds to the Badaga etukadichi, 'bull deceiving': a Badaga once saw a star so bright he took it for the morning star and let his bulls out of the pen; when day did not come he said, let the star be called etukadichi.
+
+> A single star called Ishtkati is almost certainly Sirius.
+> <br>— Rivers, The Todas (1906), pp. 594-595 ([source](https://archive.org/download/todas00rivegoog/todas00rivegoog_djvu.txt))
+
+<sub>Rivers is careful: Jupiter was pointed out to him as Ishtkati at first and he rejects that. The story attached is a Badaga one and Rivers treats the name as borrowed.</sub>
+
+**লুব্ধক · lubdhaka** — Bengali (Bengal) · *sanskritic* · confidence: certain
+
+The Sanskrit star-name surviving unaltered in the modern Bengali lexicon, with its hunter etymology still transparent in the same entry.
+
+> লুব্ধক n. a hunter; a fowler; a lecher; (astr.) the Sirius, the Dogstar.
+> <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. লুব্ধ lubdha, sub-entry লুব্ধক, p. 930 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%B2%E0%A7%81%E0%A6%AC%E0%A7%8D%E0%A6%A7&searchhws=yes&matchtype=exact))
+
+**ಲುಬ್ಧಕ · lubdhaka** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಲುಬ್ಧಕ lubdhaka. a greedy or avaricious man, a miser (ಕೃಪಣ, ದೀನ Nn. 127). 2, a huntsman (ಶಾಬರ, ಕಿರಾತ 127; ಕಣ್ಟಕ, ಬೇಡ Nn. 39). 3, the sixth (or eighth, My.). nakṣatra or lunar mansion (ಆರ್ದ್ರೆ, ಆರ್ದ್ರಾನಕ್ಷತ್ರ 127; ಆರ್ದ್ರೆ, ಪುಷ್ಯ Mr. 39). 4, the star Sirius.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಲುಬ್ಧಕ lubdhaka, p. 1440 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1440))
+
+<sub>HOMONYM WARNING, and an important one: in Kannada lexicography Lubdhaka is primarily the name of the mansion Ārdrā (Betelgeuse), and only in Kittel's fourth sense the star Sirius. The Sanskrit database keeps these apart as 'lubdhaka' (Sirius) and 'ardra' (Betelgeuse). Anyone reading a Kannada nighaṇṭu gloss ಲುಬ್ಧಕ = ಆರ್ದ್ರೆ as meaning Sirius would go wrong. Brown records no Sirius name in Telugu at all.</sub>
+
+**लुब्धक · lubdhaka** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> लुब्धक lubdhaka m S A hunter. 2 Hence (Shiva having transformed himself into a hunter in order to shoot an arrow, viz. the three stars of the belt of Orion, at Brahmá transformed into a buck and pursuing his own daughter metamorphosed into a doe) The hunter, i.e. Sirius or dog-star.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. लुब्धक, p. 721 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B2%E0%A5%81%E0%A4%AC%E0%A5%8D%E0%A4%A7%E0%A4%95&searchhws=yes&matchtype=exact))
+
+<sub>The fullest 19th-century Marathi statement of the Prajāpati-as-buck myth. Note the local twist: it is Śiva, not Rudra as such, who takes the hunter's form.</sub>
+
+**व्याध · vyādha** — Marathi (Maharashtra) · *sanskritic* · confidence: certain
+
+> व्याध vyādha m S A hunter or huntsman. Hence the star Sirius. See लुब्धक.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. व्याध, p. 777 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A7&searchhws=yes&matchtype=exact))
+
+<sub>Shortened from मृगव्याध. Still current in modern Marathi as व्याध for Sirius / Canis Major.</sub>
+
+**ପ୍ରଶ୍ୱା · Praṡwā** — Odia (Odisha) · *sanskritic* · confidence: likely
+
+Praharaj identifies it flatly with Lubdhaka and with α Canis Majoris, and uses it as a fixed point elsewhere — Canopus is located 'in the southern sky, south of Praśwā' (p. 4095).
+
+> ପ୍ରଶ୍ୱା— Praṡwā ସଂ. ବି.— ପୁନର୍ବସୁ ନକ୍ଷତ୍ର ପୁଞ୍ଜର ଉଜ୍ଜ୍ୱଳତମ ତାରା, ଏହାର ଅନ୍ୟ ନାମ ଲୁବ୍ଧକ (ନକ୍ଷତ୍ର ତଳେ ନୋଟ ଦେଖ)— The Dogstar; sirius; Alpha Canis Majoris.
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ପ୍ରଶ୍ୱା Praṡwā, p. 5131 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%B6%E0%AD%8D%E0%AD%B1%E0%AC%BE&searchhws=yes&matchtype=exact))
+
+<sub>Graded likely because of an internal problem: Praharaj calls Praśwā 'the brightest star of the Punarvasu group', and his Punarvasu diagram at p. 4095 is a six-star bow running from Castor and Pollux through Procyon to Sirius — i.e. he has stretched Punarvasu across three modern constellations. The identification with Sirius is nevertheless explicit and repeated. The word does not appear in the Sanskrit database and I have not traced it to a Sanskrit source.</sub>
+
+**සාරමේය·තාරකාව · sāramēya·tārakāva** — Sinhala (Sri Lanka) · *sanskritic* · confidence: disputed
+
+> සාරමේය·තාරකාව sāramēya·tārakāva , n. dog star, Sirius, ඒ නම්වූ තරුව.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. සාරමේය·තාරකාව sāramēya·tārakāva, p. 674 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=dog%20star&matchtype=default))
+
+<sub>Recorded as a negative in disguise. Carter's Sinhala gloss ඒ නම්වූ තරුව means 'the star of that name' — he had no Sinhala word to give, so he coined a Sanskrit calque of the English 'dog star' and admitted as much in the gloss. Jayatilaka returns 'No results' for Sirius, and the word Sirius does not occur once in Clough 1892. There is no attested vernacular Sinhala name for the brightest star in the sky.</sub>
+
+## Arcturus
+
+**Modern:** Arcturus · α Boötis · Boötes  
+**Sanskrit database:** `svati` — Svātī (Arcturus) ([entry](../star-names/star-names.json))  
+**Named in 6 languages:** Kannada, Malayalam, Marathi, Sinhala, Tamil, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Tamil | காற்றினாள் | *kāṟṟiṉāḷ* | the wind's star (kāṟṟu 'wind' + nāḷ) | vernacular |
+| Telugu | కరువలిరిక్క | *karuvali-rikka* | the wind star | vernacular |
+| Marathi | दडप्या | *daḍapyā* | the pressers-down | folk |
+| Telugu | స్వాతికర్తి | *svāti-karti* | the Svāti solar period | folk |
+| Kannada | ಸ್ವಾತಿ | *svāti* | — | sanskritic |
+| Malayalam | ചോതി | *cōti* | — | sanskritic |
+| Sinhala | ස්වාති | *svāti* | — | sanskritic |
+
+**காற்றினாள் · kāṟṟiṉāḷ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The only Tamil word the Lexicon's English side returns for a search on 'Arcturus'. A Tamil translation of the Sanskrit Vāyavya: the Wind-god's asterism, rendered with the ordinary Tamil word for wind.
+
+> காற்றினாள் kāṟṟiṉāḷ , n. < id. + நாள். Svātī, the 15th nakṣatra, as having Wind-god for its presiding deity, Arcturus; வாயுவைத் தேவதையாகக் கொண்ட சுவாதிநாள். (பிங்.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. காற்றினாள், vol. II p. 909, citing the Piṅkala Nikaṇṭu ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%A9%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>The Lexicon spells out the modern identification, 'Arcturus', which the Sanskrit database also gives for Svātī. Its half-borrowed rival is அனிலநாள் aṉila-nāḷ (p. 191, < Skt. anila 'wind' + Tamil nāḷ, Tivākaram). The corresponding Sanskrit-database entry is pavana-svati, 'Pavana / Anila / Vāyavya'.</sub>
+
+**కరువలిరిక్క · karuvali-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> కరువలి [Tel.] n. Wind, air. గాలి, వాయువు. కరువలిపట్టి Bhīma or Hanuman. కరువలిరిక్క The Star Arcturus, స్వాతీ నక్షత్రము. కరువలివిందు Fire అగ్ని, వాయుసఖుడు.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. కరువలి karuvali, p. 252 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=252))
+
+<sub>A calque on the deity — Svāti's devatā is Vāyu — with the native Telugu word karuvali for wind. Compare the Sanskrit aliases in the db under 'pavana-svati' (Pavana / Anila / Vāyavya), which do exactly the same thing in Sanskrit. One of the few places where Brown gives the modern identification himself ('The Star Arcturus').</sub>
+
+**दडप्या · daḍapyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+so called because this rain flattens the standing crop
+
+> दडप्या daḍapyā f pl (दडपणें) A term for the स्वातीनक्षत्र and for the rain which falls under it. Because this rain presses down the crops.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. दडप्या, p. 400 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A6%E0%A4%A1%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>From दडपणें 'to press down'. Sits in flat contradiction to the learned lore under स्वाती, where the same rain is the auspicious one that makes pearls — a good illustration of how far the cultivators' sky is from the śāstric one.</sub>
+
+**స్వాతికర్తి · svāti-karti** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *folk* · confidence: certain
+
+AGRICULTURAL/SEASONAL. The kārte of Svāti, thirteen days of the sun in October-November; and the pearl-oyster belief attached to it.
+
+> స్వాతి [Skt.] n. Arcturus, the fifteenth lunar asterism. చిత్తకు అవలలినక్షత్రము, పదిహేనో నక్షత్రము. స్వాతికర్తి the fifteenth counstellation in which the sun happens to be for thirteen days in the month of October or November. స్వాతి చిప్పలు the oysters that gaps expecting drops of rain in Swāti.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. స్వాతి svāti, p. 1384 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=1384))
+
+<sub>svāti-cippalu, 'the oysters that gape expecting drops of rain in Svāti', is the Telugu form of the pan-Indian belief that a raindrop falling in Svāti becomes a pearl. Registered folk because kārte and the oyster proverb belong to the popular almanac, not the śāstra.</sub>
+
+**ಸ್ವಾತಿ · svāti** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+The naturalised Kannada form is ಸಾತಿ sāti (p. 1613, 'Tbh. of ಸ್ವಾತಿ').
+
+> ಸ್ವಾತಿ svāti. = ಸಾತಿ 1. an auspicious constellation; the star Arcturus as forming the fifteenth lunar asterism.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಸ್ವಾತಿ svāti, p. 1692 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1692))
+
+<sub>Compare Telugu, which has both this and a fully vernacular name for the same star, కరువలిరిక్క 'the wind star'. Kannada has only the borrowed name — a clean instance of the asymmetry this file is trying to document.</sub>
+
+**ചോതി · cōti** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+> ചോതി cō̄taി čōδi 1. Tdbh., സ്വാതി The 15th lunar asterism, Arcturus. 2. Tdbh. ജ്യോതിസ്സ് light പരമചോതി Anj.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ചോതി cōti, p. 396 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%9A%E0%B5%8B%E0%B4%A4%E0%B4%BF&searchhws=yes&matchtype=exact))
+
+<sub>Two different Sanskrit words, svāti and jyotis, have fallen together as ചോതി in Malayalam — a good illustration of what tadbhava reduction costs. Gundert confirms the star sense again s.v. സ്വസാ, p. 1074: 'Arcturus, ചോതി.'</sub>
+
+**ස්වාති · svāti** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+> ස්වාති svāti , n. (සු well, අත් to go constantly), the star Arcturus, which is the fifteenth lunar asterism.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. ස්වාති svāti, p. 711 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=Arcturus&matchtype=default))
+
+<sub>Carter's parenthetical parse is a Sanskrit folk-etymology, not Sinhala morphology. The Eḷu form is සාය sāya (p. 673), which Carter glosses first as 'evening' and then as 'the star Arcturus'; Clough has the same double sense at 'Sá' (p. 675). Jayatilaka has no Arcturus entry.</sub>
+
+## Antares
+
+**Modern:** Antares · α Scorpii · Scorpius  
+**Sanskrit database:** `jyeshtha` — Jyeṣṭhā (Antares) ([entry](../star-names/star-names.json))  
+**Named in 6 languages:** Kannada, Malayalam, Marathi, Santali, Sinhala, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Telugu | తాటిరిక్క | *tāṭi-rikka* | the palmyra star | vernacular |
+| Marathi | अडवण्या | *aḍavaṇyā* | the obstructors / hinderers | folk |
+| Santali | — | *Argom* | a clod-crusher, a harrow without teeth | tribal |
+| Kannada | ಜೇಟೆ | *jēṭe* | — | sanskritic |
+| Malayalam | കേട്ട / തൃക്കേട്ട | *kēṭṭa / tṛkkēṭṭa* | തൃ- (< തിരു) is the honorific 'sacred' | sanskritic |
+| Sinhala | දෙට, දෙටු | *deṭa, deṭu* | — | sanskritic |
+
+**తాటిరిక్క · tāṭi-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+The month Jyeṣṭha is named from it: tāṭi-rikka-nela.
+
+> తాటి or తాడి [Tel. Infl. of తాడు.] adj. Belonging to the palmyra tree. … తాటిరిక్క the constellation called జ్యేష్ఠా. తాటిరిక్కనెల the month called జ్యేష్ఠి మాసము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. తాటి tāṭi, p. 521 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=521))
+
+<sub>This is one of a complete set of Telugu descriptive names for the lunar mansions that Brown records piecemeal under their first elements. They are formed X-cukka / X-rikka ('X-star') or X-rūpu-rikka ('X-shaped star'), and are entirely independent of the Sanskrit names, which Telugu also has. Motivation not stated by Brown; the palmyra fruits in Jyeṣṭha in the Telugu country, which is the likeliest link, but this is inference and is not asserted here.</sub>
+
+**अडवण्या · aḍavaṇyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+names both the asterism and the rain that falls under it
+
+> अडवण्या aḍavaṇyā f pl (अडविणें) A term for ज्येष्ठानक्षत्र and for the rain which falls under it.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. अडवण्या, p. 17 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%85%E0%A4%A1%E0%A4%B5%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>One of a set of Marathi cultivators' names in which a nakṣatra is renamed for what its rains DO to the crop. From अडविणें 'to obstruct'. Molesworth carries a second, homophonous headword अडवण्या 'that obstructs or hinders' immediately after, confirming the derivation.</sub>
+
+**Argom** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: likely
+
+A farming implement seen in the sky: three stars in a line with a fourth at the apex.
+
+> Argom. A constellation so named. It is part of the constellation Scorpio, and is composed of 4 stars, three of which are in line, and the other at the apex of the triangle. The star at the apex is Antares, or cor scorpii, a star of 1st. magnitude.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Argom, p. 20 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>Deliberately not equated with Jyeṣṭhā: the nakshatra is Antares with σ and τ Sco, whereas Argom is a four-star harrow whose apex happens to be Antares. Campbell's separate homonym entry Argom 'a clod crusher, a harrow without teeth' fixes the literal sense.</sub>
+
+**ಜೇಟೆ · jēṭe** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಜೇಟೆ jēṭe. = ಜೆಷ್ಟೆ. Tbh. of ಜ್ಯೇಷ್ಠೆ (Śmd. 370).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಜೇಟೆ jēṭe, p. 696 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=696))
+
+<sub>REPRESENTATIVE FORM. Compare Telugu జెష్ట jeṣṭa (Brown p. 469), which Brown says has drifted from 'elder sister' to 'a plague, a pest, gibberish' — the same tadbhava, but in Telugu it has left the sky and become an insult. Kittel's tatsama ಜ್ಯೇಷ್ಠೆ (p. 701) is the astronomical one: 'the eighteenth lunar mansion, being a part of scorpio'.</sub>
+
+**കേട്ട / തൃക്കേട്ട · kēṭṭa / tṛkkēṭṭa** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Tṛkkēṭṭa is one of the inauspicious birth-stars in Kerala reckoning; Gundert lists it under ഗണ്ഡാന്തം (p. 329), the perilous junctions of the asterism cycle.
+
+> കേട്ട kēṭṭa kēṭṭa തൃക്കേട്ട T. M. (Tdbh., ജ്യേഷ്ഠ; ചേ ട്ട Pandora) The 18th lunar asterism in Scorpion.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. കേട്ട kēṭṭa, p. 293 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%95%E0%B5%87%E0%B4%9F%E0%B5%8D%E0%B4%9F&searchhws=yes&matchtype=exact))
+
+<sub>Gundert's parenthesis '(ചേട്ട Pandora)' refers to Cēṭṭā/Jyeṣṭhā the goddess of misfortune, whom he likens to Pandora — the asterism and the ill-luck goddess share the name. Gundert gives no separate name for Antares as a star apart from the asterism.</sub>
+
+**දෙට, දෙටු · deṭa, deṭu** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+> දෙට, දෙටු deṭa, deṭu , a . E. of ජ්‍යේෂ්ඨ .
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. දෙට, දෙටු deṭa, deṭu, p. 297 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=%E0%B6%AF%E0%B7%99%E0%B6%A7&matchtype=default&searchhws=yes))
+
+<sub>Carter's 'E. of' = 'Eḷu form of' (verified against Carter's own abbreviation key), i.e. Sanskrit jyeṣṭha in Sinhala phonology. Clough anchors the asterism to the sky: 'Jyeshthá ... the eighteenth, comprising three stars of which one is [α] Scorpionis figured by a ring or earring' (p. 196). Antares itself has no independent Sinhala name — Jayatilaka's only entry is the twentieth-century English loanword අන්ටරේස් anṭarēs, '[lw. Eng. Antares]' (p. 317).</sub>
+
+## Seasonal and agricultural star-markers
+
+**Modern:** unidentified — see ഞേങ്ങോല്‍  
+**Sanskrit database:** `ashvayuj` — Aśvayuj (Sheratan) ([entry](../star-names/star-names.json))  
+**Named in 3 languages:** Malayalam, Tamil, Tulu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Malayalam | ഞാററുവേലി | *ñāṟṟuvēli* | 'the ñāṟṟu times' (variant ഞാററുവാല) | vernacular |
+| Tulu | — | *Paggu, Besha, Kártél, Áte, Sóna, Nirnala, Bóntel, Járde, Perárde, Puyintél, Máyi, Suggi* | — | vernacular |
+| Malayalam | മുഴക്കോല്‍ | *muḻakkōl* | 'cubit-rod, measuring rod' (മുഴം a cubit + കോല്‍ rod) — the carpenter's 24-finger measure | folk |
+| Tamil | ஐப்பசிக்குழப்பம் | *aippaci-k-kuḻappam* | the Aippaci turmoil | folk |
+
+**ഞാററുവേലി · ñāṟṟuvēli** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: likely
+
+The days within an asterism-period that are fixed on for transplanting rice.
+
+> ഞാററുവാല , — വേലി V1. days fixed upon for transplanting.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഞാറു ñāṟu, p. 412 (sub-entries ഞാററുവാല, ഞാററുവേലി) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%9E%E0%B4%BE%E0%B4%B1%E0%B5%81&searchhws=yes&matchtype=exact))
+
+<sub>This is Gundert's printing of the word that modern Malayalam writes ഞാറ്റുവേല ñāṟṟuvēla, the name of the twenty-seven asterism rain-periods. Marked 'likely' because Gundert prints വേലി (with retroflex l and final i) rather than വേല, and glosses it only as 'days fixed upon for transplanting'; whether the two are the same word or a near-homophone is not settled by this entry alone.</sub>
+
+**Paggu, Besha, Kártél, Áte, Sóna, Nirnala, Bóntel, Járde, Perárde, Puyintél, Máyi, Suggi** — Tulu (South Canara (Tulu Nadu)) · *vernacular* · confidence: certain
+
+These, and not any star, are what Tulu cultivation runs on: Sturrock states that all the operations of cultivation are regulated by the solar months, which alone are well known to the cultivating classes in Tuluva proper, while written leases follow the lunar reckoning because they are drawn up in Kannada by Brahmins.
+
+> …there are Tulu names for the solar, but not for the luni-solar months, thus— Sanskrit. Tulu. Mésha. Paggu. Vrishabha. Besha. Mithuna. Kártél. Karkataca. Áte. Sinha. Sóna. Kanya. Nirnala. Tulá. Bóntel. Vrischika. Járde. Dhanus. Perárde. Makara. Puyintél. Kumbha. Máyi. Mína. Suggi.
+> <br>— Sturrock, Madras District Manuals: South Canara, vol. I (Madras, 1894), p. 216 ([source](https://archive.org/download/dli.ministry.08447/GR386_djvu.txt))
+
+<sub>Included because it is the negative answer to the agricultural-star question for Tulu, stated positively. Where Malayalam divides the year by twenty-seven asterism-periods (ñāṟṟuveḷa) and names each after a star, Tulu divides it by twelve solar months with wholly native names that are not star-names at all. Sturrock romanizes only; no Kannada script is printed, so name_native is null. The quote is from the archive.org OCR and its accents are as OCR'd.</sub>
+
+**മുഴക്കോല്‍ · muḻakkōl** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *folk* · confidence: disputed
+
+Second name of the same asterism as ഞേങ്ങോല്‍; the agricultural use is given at that entry.
+
+> മുഴക്കോല്‍ CS. 1. ആശാരിക്കോല്‍ carpenter's rod of 24 വിരല്‍ . 2. the constellation ഞെ ങ്ങോല്‍ .
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. മുഴം muḻam, p. 846 (sub-entry മുഴക്കോല്‍, sense 2) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AE%E0%B5%81%E0%B4%B4%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Both Malayalam names for this asterism are craftsmen's straight-edges — a plough-beam and a carpenter's rule. That two independent entries in Gundert cross-reference each other rules out a printing slip.</sub>
+
+**ஐப்பசிக்குழப்பம் · aippaci-k-kuḻappam** — Tamil (Tamil Nadu (coast)) · *folk* · confidence: certain
+
+A WEATHER TERM keyed to an asterism-named month — the practical end of the Tamil star-calendar, matching āṟāmīṉ-aṟavōṭṭu among the seamen.
+
+> ஐப்பசிக்குழப்பம் aippaci-k-kuḻappam , n. < ஐப்பசி +. Rough weather at the setting in of the north-east monsoon in October; ஐப்பசிமாதத்தில் தோன்றுகிற புயல். (J.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. ஐப்பசிக்குழப்பம், vol. I p. 578, marked (J.) ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%90%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact))
+
+<sub>Aippaci and the Pleiades passage of āṟāmīṉ-aṟavōṭṭu mark the same weather from two directions — the month named for the first asterism and the sun's transit of the third. Together they are the whole of the agricultural and maritime star-calendar recoverable from these lexica; nothing more specific (sowing-stars, harvest-stars, named navigation stars) was found in the Tamil Lexicon, Winslow, or in Thurston's Castes and Tribes of Southern India.</sub>
+
+## Vega
+
+**Modern:** Vega · α Lyrae · Lyra  
+**Sanskrit database:** `abhijit` — Abhijit (Vega) ([entry](../star-names/star-names.json))  
+**Named in 3 languages:** Santali, Sinhala, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Urdu | نسر | *nasru'l-wāqiʻ* | 'the falling vulture' | vernacular |
+| Santali | — | *Bele kombro* | the egg thief | tribal |
+| Santali | — | *Potam bele* | the imperial pigeon's eggs | tribal |
+| Sinhala | අභි ජිත් | *abhi jit* | — | sanskritic |
+
+**نسر · nasru'l-wāqiʻ** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: likely
+
+The Arabic name that gives English 'Vega'. Its pair, nasru'ṭ-ṭāʼir 'the flying eagle', is Altair; Platts calls the dual nasrain 'the constellations of the Eagle and the Lyre'.
+
+> A نسر nasr , s.m. A vulture; — an eagle: — nasruʼt̤-t̤āʼir, or nasr-ě-t̤āʼir, s.m. 'The flying eagle,' the constellation of the Eagle: — nasruʼl-wāqěʻ, s.m. 'The falling vulture,' the constellation of the Lyre.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. nasr, p. 1138 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1138))
+
+<sub>confidence likely rather than certain because Platts glosses the terms as constellations (Lyra, Aquila) whereas in Arabic usage they name the bright stars Vega and Altair. name_native gives the headword نسر only; the compounds are printed in roman.</sub>
+
+**Bele kombro** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: likely
+
+Part of a Santal figure in Lyra: two small stars are a pigeon's eggs and the bright star beside them is the thief that comes for them.
+
+> Bele kombro. The egg stealer, a star so called, probably Vega.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Bele kombro, p. 51 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>Campbell himself hedges ('probably Vega'), so the identification is his and is graded likely. The compound is transparent from his own entries: 'Bele. An egg', and kombro 'thief'. The final syllable of kombro is illegible in both Internet Archive scans (printed 'kombroio' and 'kombroiii').</sub>
+
+**Potam bele** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: certain
+
+> Potam bele. Epsilon Lyrae, two small stars very close to each other, near Vega, in the constellation Lyra.
+> <br>— Campbell, A Santali-English Dictionary (1899), s.v. Potam bele, p. 512 ([source](https://archive.org/download/cu31924096339464/cu31924096339464_djvu.txt))
+
+<sub>potam is the imperial pigeon, Carpophaga sylvatica (Campbell s.v.), bele an egg. The bird-and-eggs motif recurs across the whole set with different stars attached: Mundari puts the dove at Aldebaran with two egg stars beside it, Gondi puts Purad and Mes east of Sirius. Santali is the only one that also supplies the thief.</sub>
+
+**අභි ජිත් · abhi jit** — Sinhala (Sri Lanka) · *sanskritic* · confidence: certain
+
+The intercalated 28th asterism, squeezed between the 21st and 22nd.
+
+> අභි ජිත් abhi jit , n. a lunar asterism or three stars between the 21st and 22nd lunar asterisms.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. අභි ජිත් abhi jit, p. 50 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=between%20the%2021st&matchtype=default))
+
+<sub>Sinhala inherited the 27/28 ambiguity along with the system: Carter's own නක්‍ෂත්‍රය entry speaks of 28 asterisms (p. 312) and Clough of 'twenty-eight in the moon's path' (p. 273), while the enumerated Eḷu list runs to 27. Jayatilaka makes the identification explicit at අබිජිත් abijit (p. 462), 'this is identified with vēgā, the brightest star in the constellation'.</sub>
+
+## 'Constellation' as a word
+
+**Modern:** any close cluster of stars  
+**Sanskrit database:** `tara` — Tārā (star (generic)) ([entry](../star-names/star-names.json))  
+**Named in 3 languages:** Assamese, Kannada, Sinhala
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Sinhala | උළු | *uḷu* | also 'tiles' | vernacular |
+| Assamese | কুকুৰবাহী তৰা | *kukurabāhī tarā* | uncertain; 'the kukurabāhī stars' — most plausibly kukurā 'fowl' + bāhī 'nest, roost', i.e. a brood of stars, matching the second Assamese word for the same thing, থুপিতৰা 'clustered stars' | folk |
+| Kannada | ಋಕ್ಷ | *ṛkṣa* | bear | sanskritic |
+
+**උළු · uḷu** — Sinhala (Sri Lanka) · *vernacular* · confidence: certain
+
+Compounds: උළු කැන uḷu kæna 'cluster of stars, constellation' (p. 130); උළිඳු uḷin̆du and උළු රජ uḷu raja, which Carter parses as 'උළු star, ඉඳු lord' — 'Star-lord, Star-king', an epithet of the moon (p. 130).
+
+> උළු uḷu , n . tiles; star.
+> <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. උළු uḷu, p. 130 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=%E0%B6%8B%E0%B7%85%E0%B7%94&matchtype=default&searchhws=yes))
+
+<sub>An old native word for 'star', productive in poetic compounds but displaced in ordinary use by තරුව taruva and the Eḷu loan නැකත nækata.</sub>
+
+**কুকুৰবাহী তৰা · kukurabāhī tarā** — Assamese (Assam) · *folk* · confidence: unidentified
+
+The living Assamese word for a star-cluster, and the word the dictionary itself uses to define সপ্তৰ্ষি-মণ্ডল at p. 859 ('একলগে থকা এজাক কুকুৰ-বাহী তৰা', 'a flock of kukurabāhī stars together'). Its synonym থুপিতৰা thupi-tarā is at p. 483.
+
+> কুকুৰবাহী তৰা kukurabāhī, tarā বি. খোপা বান্ধি ওচৰা-উচৰি হৈ-থকা সৰু সৰু তৰাৰ জাক বা জুম; থুপিতৰা; a constellation.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. কুকুৰবাহী তৰা kukurabāhī tarā, p. 216 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%95%E0%A7%81%E0%A6%95%E0%A7%81%E0%A7%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80%20%E0%A6%A4%E0%A7%B0%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+<sub>Confidence 'unidentified' refers to the sky object, not the word: the dictionary defines it generically, and does not tie it to any one cluster. I have deliberately NOT read it as the Pleiades, even though 'hen and chickens' is a standard European name for that cluster and Praharaj gives 'Hen and chickens' among the western names of Kṛttikā (p. 4095); the Assamese entry does not say so. The literal meaning is my reading of the compound and is marked as such.</sub>
+
+**ಋಕ್ಷ · ṛkṣa** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಋಕ್ಷ ṛikṣa. = ರುಕ್ಷ 2. a bear. 2, a star; a constellation, a lunar mansion. 3, the plant Bignonia indica (ದಿಣ್ಡಲಮರ G.). 4, N. of a mountain.
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಋಕ್ಷ r̥kṣa, p. 269 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=269))
+
+<sub>Kittel preserves the Sanskrit bear/star polysemy intact. Telugu రిక్క rikka is the Middle-Indic descendant of the same word, but by Brown's time it means simply 'star' and has lost the bear.</sub>
+
+## Scorpius
+
+**Modern:** Shaula and the Scorpion's sting · λ Scorpii and the ε–υ chain · Scorpius  
+**Sanskrit database:** `mula` — Mūla (Shaula) ([entry](../star-names/star-names.json))  
+**Named in 3 languages:** Gondi, Marathi, Odia
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Odia | ମୂଳା ଶଙ୍ଖ | *Mūḻā ṡaṅkha* | 'the Mūlā conch' | vernacular |
+| Marathi | बडवण्या | *baḍavaṇyā* | beaters, mallets | folk |
+| Gondi | — | *Michu; Vinchu* | the scorpion | tribal |
+
+**ମୂଳା ଶଙ୍ଖ · Mūḻā ṡaṅkha** — Odia (Odisha) · *vernacular* · confidence: certain
+
+Given as the Odia or native name of the 19th asterism, whose eleven stars Praharaj describes as a pair of dogs. The Odia figure for the whole Scorpius region is spelled out in the Jyeṣṭhā note: joining the stars of Anurādhā, Jyeṣṭhā and Mūlā gives a crab-scorpion (କଙ୍କଡ଼ାବିଛା) with its tail curled up — head Anurādhā, back Jyeṣṭhā, tail Mūlā.
+
+> 8 ଓ 9 ଚିହ୍ନିତ ତାରା ଦ୍ୱାରା ଯମଙ୍କର 2 ଟି କୁକୁର ବା ସାରମେୟ ଯୁଗଳ। ଓଡ଼ିଆ ବା ଦେଶୀୟ ନାମ—ମୂଳା ଶଙ୍ଖ। ପାଶ୍ଚାତ୍ୟ ନାମ—Scorpion's tail … ମନ୍ତବ୍ୟ—ଅନୁରାଧା, ଜ୍ୟେଷ୍ଠା ଓ ମୂଳା ନକ୍ଷତ୍ରର ତାରାମାନଙ୍କୁ କଳ୍ପନାଦ୍ୱାରା ଯୋଗ କଲେ ଲାଞ୍ଜକୁ ଉପରକୁ ଗୁଡ଼ାଇ କରି ଟେକିଥିବା ଗୋଟିଏ କଙ୍କଡ଼ାବିଛା ପରି ହେବ। ଏ ବିଛାର ମୁଣ୍ଡ ଅନୁରାଧା, ପିଠି ଜ୍ୟେଷ୍ଠା ଓ ଲାଙ୍ଗୁଡ଼ ମୂଳା।
+> <br>— G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-1940 (DSAL digital ed.), s.v. ନକ୍ଷତ୍ର Nakshatra, note on the 19th asterism ମୂଳା, p. 4095 ([source](https://dsal.uchicago.edu/cgi-bin/app/praharaj_query.py?qs=%E0%AC%A8%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AC%A4%E0%AD%8D%E0%AC%B0&searchhws=yes&matchtype=exact))
+
+<sub>Mūla's nine stars are λ (Shaula) and υ (Lesath) Scorpii and the chain ε, μ, ζ, η, θ, ι, κ, which Praharaj also reads as Yama's two dogs (stars 8 and 9). The Antares note in the same article identifies Jyeṣṭhā's three stars as σ, α (Antares) and τ Scorpii and calls Antares 'like a burning fire'; Antares itself has no separate Odia name in this dictionary.</sub>
+
+**बडवण्या · baḍavaṇyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+named from the heaviness of the rain
+
+> बडवण्या baḍavaṇyā f pl of बडवणी (Beaters, malls.) A term, from its heaviness, for the rain which falls under मूळमहानक्षत्र.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. बडवण्या, p. 562 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AC%E0%A4%A1%E0%A4%B5%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>Molesworth glosses the term as belonging primarily to the rain rather than the asterism; the asterism is named मूळमहानक्षत्र, 'the great Mūla asterism'.</sub>
+
+**Michu; Vinchu** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: likely
+
+Michu is held responsible for producing the corpse that appears in Leo.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Vinchu is the Marathi word, Michu is given as the Gondi. The scorpion reading agrees with Sanskrit Vṛścika and with Greek, but the story attached — that the scorpion's bite causes the death whose funeral is played out in Leo and Virgo — is found in neither.</sub>
+
+## The Moon
+
+**Modern:** the Moon  
+**Named in 3 languages:** Kannada, Marathi, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kannada | ಮೀನ್ಗಳೆಱೆಯ | *mīngaḷeṟeya* | lord of the stars/fishes | vernacular |
+| Marathi | चांदणी | *cāndaṇī* | little moon (from चंद्र) | vernacular |
+| Telugu | చుక్కలరేడు | *cukkala-rēḍu* | king of the stars | vernacular |
+
+**ಮೀನ್ಗಳೆಱೆಯ · mīngaḷeṟeya** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+Also ತಾರಗೆಯಾಳ್ಮ tārageyāḷma, same sense, Kittel p. 752.
+
+> — ಮೀನ್ಗಳೆಱೆಯ. -ಎಱೆಯ. the moon (ಚನ್ದಿರ, etc., ಶಶಿ Kk. 44).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಮೀನ್ mīn 2, p. 1328 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1328))
+
+<sub>COGNATE PAIR with Telugu చుక్కలరేడు cukkala-rēḍu 'king of the stars = the moon' (Brown p. 449). The kenning is shared with Sanskrit (nakṣatreśa, uḍupati — Brown glosses both with the Telugu compound), but the Kannada and Telugu words are built entirely from Dravidian material, and the Kannada one puns on mīn 'fish'.</sub>
+
+**चांदणी · cāndaṇī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+the word is the ordinary one in weather and night-sky talk; Molesworth records under it a belief in a malign 'blast from the stars'
+
+> चांदणी cāndaṇī f A star. 2 An awning. 3 An ornament (like राखडी, but smaller) for the head of women. 4 A blast from the stars. Supposed to fall on horses if they are uncovered (i. e. without the Jhúl, or some rag or clout) whilst eating their grain. v पड, मार, हाण. 5 An inauspicious mark of the horse,—a white spot on the forehead.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. चांदणी, p. 277 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%9A%E0%A4%BE%E0%A4%82%E0%A4%A6%E0%A4%A3%E0%A5%80&searchhws=yes&matchtype=exact))
+
+<sub>The everyday Marathi word for a star, formed on चंद्र 'moon' and unmarked by Molesworth, i.e. not treated as a Sanskrit loan; तारा and नक्षत्र are both marked S. Sense 4 records a genuine piece of Deccan folk belief — a malign 'blast from the stars' that strikes uncovered horses at their feed. The same entry ends with the proverb चांदण्यांत निजती आणि माडीची हवा पाहती, of one who sleeps under the stars but looks for the breeze of an upper storey.</sub>
+
+**చుక్కలరేడు · cukkala-rēḍu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Given by Brown twice — under cukka and as the vernacular gloss of Sanskrit nakṣatreśuḍu.
+
+> చుక్కలతెరువు the sky ఆకాశము. చుక్కలరేడు the moon.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. చుక్క ṭsukka, p. 449 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=449))
+
+<sub>COGNATE PAIR with Kannada ಮೀನ್ಗಳೆಱೆಯ mīngaḷeṟeya 'the moon' (lit. lord of the stars/fishes, Kittel p. 1328) and ತಾರಗೆಯಾಳ್ಮ tārageyāḷma (Kittel p. 752). The kenning 'lord of stars' is shared with Sanskrit but the words are Dravidian throughout.</sub>
+
+## The Sun
+
+**Modern:** Denebola · β Leonis · Leo  
+**Sanskrit database:** `uttara-phalguni` — Uttara-Phalgunī (Denebola) ([entry](../star-names/star-names.json))  
+**Named in 3 languages:** Malayalam, Santali, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Malayalam | ഞാററുതല | *ñāṟṟutala* | 'the head/beginning of the ñāṟṟu' — ñāṟṟu being both 'rice seedling' and the sun's station | vernacular |
+| Telugu | ప్రొద్దురిక్క | *proddu-rikka* | the sun star | vernacular |
+| Santali | — | *sin ipil* | sun-star, day-star | tribal |
+
+**ഞാററുതല · ñāṟṟutala** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *vernacular* · confidence: certain
+
+The Kerala farming calendar: the solar year is divided into stretches during which the sun stands in one asterism, each stretch named after that asterism and each carrying its own agricultural prescription. Gundert's worked example is തിരുവാതിരഞാററുതല, the Ārdrā period at the start of Mithunam (mid-June), 'best time for planting' — the onset of the south-west monsoon.
+
+> ഞാററുതല (2) the time of a constellation f. i. തിരു വാതിരഞാ . in the beginning of Mithuna, best time for planting. അത്തംഞാ . feast in Kanni.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഞാറു ñāṟu, p. 412; and s.v. തല tala, p. 436 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%9E%E0%B4%BE%E0%B4%B1%E0%B5%81&searchhws=yes&matchtype=exact))
+
+<sub>Gundert defines the unit precisely under തല, p. 436: 'a point of time, as the influence of a star, the rule of an asterism (= 13 4/9 days) തിരുവാതിര ഞാററു തല' — 13 4/9 days being 365.25 ÷ 27. He also gives ഞാററുനില and ഞാററുവട്ടം as further names of the same thing, and under ഞായറു (p. 411) the underlying definition തിരുവാതിരഞായററു നില, 'the sun's position in a constellation'. This is the ñāṟṟuveḷa scheme, attested in the standard dictionary of 1872 and still in farming use.</sub>
+
+**ప్రొద్దురిక్క · proddu-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+The month Phālguna is named from it in the same vernacular shape: proddu-rikka-nela.
+
+> ప్రొద్దు or పొద్దు [Tel.] n. The sun, సూర్యుడు. … ప్రొద్దురిక్క proddu-rikka. n. A constellation called ఉత్తరఫల్లునీనక్షత్రము. ప్రొద్దురిక్క నెల proddu-rikka-nela. n. A name of the Telugu month called ఫాల్గుణమాసము.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. ప్రొద్దు proddu, p. 856 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=856))
+
+<sub>A calque on the deity: Uttara-Phalgunī's devatā is Aryaman, an Āditya, i.e. a sun-god. proddu is the ordinary Dravidian word for sun/daytime. The fact that Telugu also names the whole month from it (proddu-rikka-nela = Phālguna) shows the vernacular nomenclature was a working calendar, not a poetic ornament.</sub>
+
+**sin ipil** — Santali (Santal Parganas, Jharkhand / adjoining Bengal and Odisha) · *tribal* · confidence: unidentified
+
+> sin ipil, n. The day-star (v. sub ipil).
+> <br>— Bodding, A Santal Dictionary, vol. V (1936), s.v. sin ipil, p. 284 ([source](https://archive.org/download/in.ernet.dli.2015.31960/2015.31960.A-Santal-Dictionary--Vol5_djvu.txt))
+
+<sub>Bodding refers the reader to the article ipil in an earlier volume; only vol. V of the Santal Dictionary is on the Internet Archive, so the identification could not be checked. 'Day-star' would most naturally be the morning star, but the sun itself is sin cando in the neighbouring entry, so the sense is not settled here.</sub>
+
+## The zodiac
+
+**Modern:** Scorpius  
+**Named in 3 languages:** Kannada, Malayalam, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Telugu | తేలురాశి | *tēlu-rāsi* | the scorpion sign | vernacular |
+| Kannada | ಭಗಣ | *bhagaṇa* | the troop of stars | sanskritic |
+| Malayalam | ഭഗണം | *bhagaṇam* | 'the troop of stars' (ഭം a star + ഗണം troop) | sanskritic |
+
+**తేలురాశి · tēlu-rāsi** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+> తేలు [Tel.] n. A scorpion. తేలుమీను. a sort of fish. తేలురాసి tēlu-vāsi. n. The constellation Scorpio. వృశ్చికరాశi.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. తేలు tēlu, p. 554 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=554))
+
+<sub>A zodiacal sign, not a nakṣatra, so no db id. Included because it is a rare case of a vernacular Telugu word (tēlu 'scorpion') replacing the Sanskrit element (vṛścika) in a calendrical term. Brown's romanisation 'tēlu-vāsi' is a misprint for tēlu-rāsi.</sub>
+
+**ಭಗಣ · bhagaṇa** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *sanskritic* · confidence: certain
+
+> ಭಗಣ bha-gaṇa. the whole multitude of stars or constellations (ದ್ವಿಜ, ನಕ್ಷತ್ರಂಗಳ್ Nn. 36; ನಕ್ಷತ್ರಂಗಳ್ 40; ಮೀನ್ Śm. 99); the zodiac. 2, N. of a metrical foot (Ch.).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಭಗಣ bhagaṇa, p. 1234 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1234))
+
+<sub>Included for the parenthesis: the Kannada nighaṇṭu Śabdamaṇidarpaṇa glosses the Sanskrit collective bhagaṇa simply with ಮೀನ್, 'fish/star'. Brown has the same word in Telugu, భగణము (p. 922), 'An assemblage of stars'. HOMONYM: also a metrical foot in both languages.</sub>
+
+**ഭഗണം · bhagaṇam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+A technical term of Kerala astronomy: ഭഗണം also means a complete revolution, and ഭഗണഭൂദിനങ്ങള്‍ 'revolutions and civil days in a caturyuga' is quoted from a Malayalam gaṇita text.
+
+> ഭഗണം bhagaṇam bhaġaṇam S. ( ഭം a star, fr. ഭാ ). The host of stars, zodiac; also = 1/12 രാശി (astr.). ചതുര്‍യ്യുഗത്തിങ്കലേ ഭഗണഭൂദിനങ്ങള്‍, തികഞ്ഞ ഭ'ങ്ങള്‍ ഉളവാകും Gan.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഭഗണം bhagaṇam, p. 756 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AD%E0%B4%97%E0%B4%A3%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Gundert's citation 'Gan.' is a Malayalam mathematical/astronomical work — direct lexical evidence that the technical vocabulary of the Kerala school passed into the general language. Note also ഭഗണന്‍ 'an astrologer' in the same entry.</sub>
+
+## Spica
+
+**Modern:** Spica · α Virginis · Virgo  
+**Sanskrit database:** `chitra` — Citrā (Spica) ([entry](../star-names/star-names.json))  
+**Named in 2 languages:** Malayalam, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | अंधळ्या | *andhaḷyā* | the blind ones | folk |
+| Marathi | चित्रांचे ऊन | *citrāñcē ūna* | the heat of Citrā | folk |
+| Marathi | कडप्या | *kaḍapyā* | the sheaves | folk |
+| Malayalam | ചിത്ര / ചിത്തിര | *citra / cittira* | 'the bright, variegated one' | sanskritic |
+
+**अंधळ्या · andhaḷyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+names both the asterism and its rain
+
+> अंधळ्या andhaḷyā f pl A term for चित्रा नक्षञ and for the rain which falls under it.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. अंधळ्या, p. 24 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%85%E0%A4%82%E0%A4%A7%E0%A4%B3%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>'नक्षञ' is a typographical error for नक्षत्र in the DSAL transcription of p. 24; the word intended is unambiguous. Compare the separate general term अंधळें नक्षत्र, 'a blind Nakshatra', below — the two are related but not identical.</sub>
+
+**चित्रांचे ऊन · citrāñcē ūna** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+the hot spell of Caitra, while the sun is in Citrā; medicinal or magical virtues are attributed to it
+
+> चित्रांचे citrāñcē, ऊन ūna n The heat of the asterism चित्रा in the month चैत्र. Wonderful properties are ascribed to it.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. चित्रांचे ऊन, p. 283 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87%20%E0%A4%8A%E0%A4%A8&searchhws=yes&matchtype=exact))
+
+<sub>Not a name for the star but for its season — the counterpart, on the hot-weather side, of the rain-names अंधळ्या and कडप्या for the same asterism. Molesworth's dry 'Wonderful properties are ascribed to it' is his usual signal for popular belief he does not endorse.</sub>
+
+**कडप्या · kaḍapyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+the rain falls when the bājrī sheaves are laid out to dry
+
+> कडप्या kaḍapyā f pl (कडप An untied sheaf, a reap.) A term for the चित्रानक्षत्र and for the rain which falls under it. Because that rain falls when the कडपें of बाजरी are exposed to dry.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. कडप्या, p. 128 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%95%E0%A4%A1%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>A COMPETING folk name for the same asterism as अंधळ्या — Citrā/Spica has at least two cultivators' names in Molesworth's Marathi, keyed to different consequences of the same rain.</sub>
+
+**ചിത്ര / ചിത്തിര · citra / cittira** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: disputed
+
+> ചിത്ര citra čitra S. (foll.) & ചിത്തിര 1. The 14th lunar asterism (Spica virginis; mod, bright star in Bootes); the month ചൈത്രം or മേടം .
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ചിത്ര citra, p. 361 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0&searchhws=yes&matchtype=exact))
+
+<sub>Gundert gives two incompatible identifications in one breath — Spica, and 'mod. bright star in Bootes' (i.e. Arcturus). The second is an error, probably contamination from ചോതി/Svātī on the facing sense; Spica is the standard identification and is what the Sanskrit database carries.</sub>
+
+## Capella
+
+**Modern:** Capella · α Aurigae · Auriga  
+**Sanskrit database:** `brahmahridaya` — Brahmahṛdaya (Capella) ([entry](../star-names/star-names.json))  
+**Named in 2 languages:** Mundari, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Urdu | عيوق | *ʻaiyūq* | Arabic al-ʻayyūq | vernacular |
+| Mundari | — | *barai ipil* | the blacksmith star | tribal |
+| Mundari | — | *capua ipilkiŋ* | the two bellows stars | tribal |
+
+**عيوق · ʻaiyūq** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+One of the very few individual stars for which Platts gives a precise positional identification, down to the Bayer letter.
+
+> A عيوق ʻaiyūq , s.m. The star Capella, the bright star (a) upon the left shoulder of Auriga.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. ʻaiyūq, p. 768 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=768))
+
+<sub>Links to the Sanskrit database entry brahmahridaya (Brahmahṛdaya = Capella).</sub>
+
+**barai ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+The village blacksmith, sitting and watching his smithy fire.
+
+> Capella, the fourth star in order of magnitude, is the blacksmith and therefore called barai ipil.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Reading of the first element unresolved — the two scans print 'baraiipil' and 'hnrai^ipV', and the alphabetical entry would fall in a volume not available. The gloss 'the blacksmith' is unambiguous.</sub>
+
+**capua ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+The blacksmith's double bellows; Epsilon Aurigae is the sharp vertex of the isosceles triangle whose base they form, and is the smithy fire.
+
+> He sits watching the smithy fire ... This star, Epsilon, is the sharp vertex of an isosceles triangle, the base of which is formed by his double bellows, capua ipilkiŋ.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Compare Kurukh, where the blacksmith's bellows (lohrā-capuā bīnkō) is the name of the Pleiades and not of a figure in Auriga. Same implement, same word, different stars — good evidence that the naming is independent rather than borrowed one way.</sub>
+
+## 'Sky' as a word
+
+**Modern:**   
+**Sanskrit database:** `tarapatha` — Tārāpatha (the firmament ('star-road')) ([entry](../star-names/star-names.json))  
+**Named in 2 languages:** Kannada, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kannada | ಮೀನ್ವಟ್ಟೆ | *mīnvaṭṭe* | the star-road / fish-road | vernacular |
+| Telugu | చుక్కలతెరువు | *cukkala-teruvu* | the street of the stars | vernacular |
+
+**ಮೀನ್ವಟ್ಟೆ · mīnvaṭṭe** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+One of three synonymous Kannada 'star-road' compounds: mīn-vaṭṭe, aṟil-vaṭṭe (p. 105), tārage-vaṭṭe (p. 752).
+
+> — ಮೀನ್ವಟ್ಟೆ. -ಬಟ್ಟೆ. the sky (ಆಕಾಶ Kk. 12).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಮೀನ್ mīn 2, p. 1328 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1328))
+
+<sub>COGNATE PAIR with Telugu చుక్కలతెరువు cukkala-teruvu 'the street of the stars = the sky'. Both are formed star-word + road-word, in each case with the language's own material; Sanskrit tārāpatha (db id 'tarapatha') has the same figure but is not the source of either.</sub>
+
+**చుక్కలతెరువు · cukkala-teruvu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+A wholly Dravidian compound for the firmament; teruvu is 'street, road'.
+
+> చుక్కలతెరువు the sky ఆకాశము. చుక్కలరేడు the moon.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. చుక్క ṭsukka, p. 449 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=449))
+
+<sub>COGNATE PAIR. This is the exact structural twin of Kannada ಮೀನ್ವಟ್ಟೆ mīnvaṭṭe / ಅಱಿಲ್ವಟ್ಟೆ aṟilvaṭṭe / ತಾರಗೆವಟ್ಟೆ tāragevaṭṭe, all 'star-road = sky' (Kittel pp. 1328, 105, 752). Both languages inherit the figure independently of Sanskrit tārāpatha, which uses the same image.</sub>
+
+## Altair
+
+**Modern:** Altair · α Aquilae · Aquila  
+**Sanskrit database:** `shravana` — Śravaṇa (Altair) ([entry](../star-names/star-names.json))  
+**Named in 2 languages:** Malayalam, Urdu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Urdu | نسر | *nasru'ṭ-ṭāʼir (nasr-i-ṭāʼir)* | 'the flying eagle' | vernacular |
+| Malayalam | തിരുവോണം / ഓണം | *tiruvōṇam / ōṇam* | തിരു- 'sacred' + ഓണം (< Skt. śrāvaṇa) | sanskritic |
+
+**نسر · nasru'ṭ-ṭāʼir (nasr-i-ṭāʼir)** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: likely
+
+The source of English 'Altair'. Paired with nasru'l-wāqiʻ (Vega) as a dual, nasrain.
+
+> nasruʼt̤-t̤āʼir, or nasr-ě-t̤āʼir, s.m. 'The flying eagle,' the constellation of the Eagle
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. nasr, p. 1138 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1138))
+
+<sub>Same caveat as Vega: Platts glosses it as the constellation, not the star.</sub>
+
+**തിരുവോണം / ഓണം · tiruvōṇam / ōṇam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Names the national festival of Kerala: Gundert, 'the national feast on new moon of Sept. lasting 10 days, when Paraśurāma is still said to visit Kēraḷa'.
+
+> തിരുവോണം (S. ശ്രവണം ) 1. the 22nd asterism including Aquila (in Cancer V1.). 2. the feast ഓണം in August.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. തിരുന്പുക tirumpuka, p. 459 (sub-entry തിരുവോണം); and s.v. ഓണം ōṇam, p. 184 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=459))
+
+<sub>The clearest case in Malayalam of an asterism name outgrowing astronomy: Ōṇam is now first a harvest festival and only second a star. Gundert's ഓണം entry (p. 184) leads with 'The 22nd constellation, Aquila'.</sub>
+
+## Centaurus
+
+**Modern:** Centaurus · Centaurus  
+**Named in 2 languages:** Gondi, Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Gondi | — | *Khayan* | — | tribal |
+| Mundari | — | *hirumea repą ipilkiŋ; parkom repą ipilkiŋ* | the two stars trying to steal the co-wife status — or the bed — from one another | tribal |
+
+**Khayan** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: unidentified
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Listed in the paper's summary table against Centaurus but with no description, no story and no stars named. Recorded as a bare attestation.</sub>
+
+**hirumea repą ipilkiŋ; parkom repą ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The two co-wives pulling at opposite corners of the bed, which is why the parallelogram is out of square. Delta Centauri is the brighter and lies a little closer to the bed because, the Mundas say, she is the first wife and has gained the upper hand.
+
+> hirumea repą ipilkiŋ sbst, ltly., the two stars trying to steal from each other the relationship of co-wives, i.e., trying to oust each other from the status of first wife. They are also called parkom repą ipilkiŋ, the two stars trying to steal a bed from each other.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VI, s.v. hirumea repą ipilkiŋ, cols. 1751-1757 ([source](https://archive.org/download/in.ernet.dli.2015.14926/2015.14926.Encyclopedia-Mundarica-Vol-vi-1932_djvu.txt))
+
+<sub>One of the very few star names anywhere that encodes a point of domestic law rather than a season or a trade.</sub>
+
+## Regulus
+
+**Modern:** Regulus · α Leonis · Leo  
+**Sanskrit database:** `magha` — Maghā (Regulus) ([entry](../star-names/star-names.json))  
+**Named in 2 languages:** Malayalam, Tamil
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Malayalam | മകം | *makam* | — | sanskritic |
+| Tamil | மாசி | *māci* | from Skt. māgha, the month of the Magha asterism | sanskritic |
+
+**മകം · makam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
+
+Proverbial: മകം പിറന്ന മങ്ക, 'a girl born under Makam' — an auspicious birth.
+
+> മകം makam maγam 1. Tdbh. of മഘ . The 10th constellation (Regulus). മകമാം നാളന്നു KR. മകം പിറന്ന മങ്ക prov.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. മകം makam, p. 769 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AE%E0%B4%95%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Gundert's 'Tdbh.' (tadbhava) marking is his standard signal that the word has been through Dravidian phonology rather than borrowed whole.</sub>
+
+**மாசி · māci** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+The one Tamil month-name attested by name in the Caṅkam corpus itself, described there by its astronomical property: the month in which the day does not lengthen and the night grows.
+
+> பகல்நீ(டு) ஆகா(து) இரவுப்பொழுது பெருகி மாசி நின்ற மாகூர் திங்கள்
+> <br>— Patiṟṟuppattu 59, ll. 1-2 (Sixth Ten); Project Madurai e-text PM 0038 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0038.html))
+
+<sub>TEXTUAL NOTE: the Project Madurai e-text prints line 2 as 'மாசி நின்ற *மாகூர் திங்கள்*', the asterisks and bold flanking மாகூர் திங்கள் because that phrase is this poem's பெயர் (title-phrase), given as such in its colophon — they are editorial emphasis, not a lacuna, and the line is continuous. Line 1's '(டு)' and '(து)' are the editor's parenthesised restorations and are kept here as printed; nothing has been supplied by the compiler. The Tamil Lexicon (s.v. மாசி², vol. V p. 3147) cites this exact line as பதிற்றுப். 59, 2 and defines the word 'The 11th solar month = February-March', adding sense 2, 'The 10th nakṣatra. See மகம்²', from the commentary on Cilappatikāram 3, 123. HOMONYM: மாசி¹ on the previous page is 'mist, cloud' and 'a sea-fish', probably from மாசு.</sub>
+
+## Corvus
+
+**Modern:** Gienah · γ Corvi · Corvus  
+**Sanskrit database:** `hasta` — Hasta (Gienah) ([entry](../star-names/star-names.json))  
+**Named in 1 languages:** Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | — | *Hasti Nakshatra* | the Elephant asterism | folk |
+| Marathi | हत्ती | *hattī* | elephant | folk |
+| Marathi | हत्तीबार | *hattībāra* | the elephant-crop | folk |
+
+**Hasti Nakshatra** — Marathi (Satara district, Deccan) · *folk* · confidence: certain
+
+names the heavy westerly downpour of September, distinguished by cultivators from the regular south-west monsoon
+
+> it is known as the fall of the Hasti Nakshatra or the Elephant Guest-house.
+> <br>— Gazetteer of the Bombay Presidency, Vol. XIX: Satara (Bombay: Government Central Press, 1885), p. 19 ([source](https://archive.org/details/wbsl.15257))
+
+<sub>Independent confirmation, from revenue-survey fieldwork rather than a dictionary, of the elephant reading of Hasta that Molesworth records s.v. हत्ती. The sentence quoted is preceded by: 'A heavy burst, often six inches, of westerly rain nearly always happens in September. The people do not regard this as part of the regular south-west monsoon' — that lead-in is quoted here in the printed reading rather than the scan's, which garbles it as 'A heavy bursty often six inches^ of westerly rain nearly alw^ays happens'. The Nasik volume (Vol. XVI, 1883, p. 15) has the same: the rains end 'until the Hasta Nakshatra or sign of the Elephant in the first half of October' (the scan prints 'Rasta'), and it calls the September-October rains 'the elephant showers'. Roman only; no Devanagari is printed in the Gazetteer.</sub>
+
+**हत्ती · hattī** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+हत्तीचें उथाण, the sultriness of the Hasta period; Pr. पडेल हत्ती तर पाडील भिंती, 'if the elephant falls it will bring down walls' — of torrential rain
+
+> हत्ती hattī m (हस्ती S) An elephant. Pr. हत्तीबरोबर बैलाचें वारगोळें. 2 The thirteenth nakshatra or lunar mansion. Note. This asterism is properly named हस्त, being designated by a hand, not by an elephant. It is by popular understanding, howsoever extensive or established, or howsoever inclusive of the erudite or educated, that it is named हत्ती, and that it acquires references and associations as outpouring heavy rain. Pr. पडेल हत्ती तर पाडील भिंती.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. हत्ती, p. 885 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80&searchhws=yes&matchtype=exact))
+
+<sub>A pure case of folk reanalysis, and Molesworth says so in as many words: हस्त means 'hand', but Marathi speakers — learned ones included — hear हत्ती 'elephant', and the whole weather-imagery of the asterism (an elephant's downpour, walls knocked flat) follows from the mishearing. This is the answer to 'what does Marathi call Corvus': not a crow, an elephant. The reanalysis has entered ritual: Molesworth s.v. हस्तागौर (p. 892) describes 'the image or figure of गौरी seated upon an elephant, and worshiped whilst the sun is in हस्तनक्षत्र', and s.v. गजगौरीव्रत (p. 219) the same rite as performed when 'the sun enters the constellation of elephant'.</sub>
+
+**हत्तीबार · hattībāra** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+the second fruit crop of the year, ripening under Hasta
+
+> हत्तीबार hattībāra m (Elephant-crop.) A term for the fruit-crop which ripens under हस्तनक्षत्र, i. e. the second crop. The two other crops are मृगबार & आंबेबार.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. हत्तीबार, p. 885 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%B0&searchhws=yes&matchtype=exact))
+
+<sub>Shows the star-name in load-bearing agricultural use: the farming year's three fruit crops are named मृगबार, हत्तीबार and आंबेबार, two of the three after asterisms.</sub>
+
+## Pegasus
+
+**Modern:** Upsilon and Tau Pegasi and neighbours · υ, τ Pegasi · Pegasus  
+**Named in 1 languages:** Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Mundari | — | *bursi ipilko* | the smouldering-fire stars | tribal |
+| Mundari | — | *bursi kumbuṛu ipilko (bursi repą ipilkiŋ)* | the fire-thief stars | tribal |
+| Mundari | — | *maraṅ parkom ipilko; Siṅgboṅga gitikente parkom ipilko* | the great bed stars; the bed Siṅgboṅga sleeps on | tribal |
+
+**bursi ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+The dying embers of the fire the threshing-floor watchman keeps under his cot on cold nights. Hoffmann adds that Mundas who do not know the maraṅ parkom group transfer the name to the Pleiades.
+
+> Near the middle of the Great Square there are a few small stars, amongst which Upsilon and Tau, just numerous enough to suggest a fire of dying embers. So these are the bursi ipilko.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Also entered separately at vol. II s.v. Bursi-ipilko, 'a group of stars described under ipil'. The transferred use for the Pleiades is recorded by Hoffmann as a mistake of his informants, which is itself worth keeping.</sub>
+
+**bursi kumbuṛu ipilko (bursi repą ipilkiŋ)** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+Three men creep up on a sleeping watchman to steal embers from the fire under his cot; two of them are these stars, lying west of the bed on a line pointing at the fire.
+
+> The fire thieves, bursi repą ipilkiŋ, are Lambda and Iota to the West of the bed, on a line pointing to the fire.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Two names for the same pair: Encyclopaedia Mundarica vol. II gives the headword Bursi-kumbuṛu-ipilko (kumbuṛu 'thief'), the ipil article gives bursi repą ipilkiŋ (repą 'to steal from one another').</sub>
+
+**maraṅ parkom ipilko; Siṅgboṅga gitikente parkom ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+On so great and splendid a bed none but Siṅgboṅga can be supposed to sleep.
+
+> A great bed is seen there, viz., the Great Square delineated by Alpharatz in Andromeda, and Scheat, Markab, Algenib in Pegasus. These four stars are the maraṅ parkom ipilko, also called Siṅgboṅga gitikenteą parkom ipilko
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>parkom is the same string cot that Santali makes into the old woman's bed in Ursa Major. The Mundas run the cot image through four parts of the sky: the god's bed here, the co-wives' bed in Lupus, the bier in Ursa Major, and the watchman's pallet implied by the ember stars.</sub>
+
+## Castor and Pollux
+
+**Modern:** Pollux · β Geminorum · Gemini  
+**Sanskrit database:** `punarvasu` — Punarvasu (Pollux) ([entry](../star-names/star-names.json))  
+**Named in 1 languages:** Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | म्हातारा | *mhātārā* | the old fellow | folk |
+| Marathi | थोरला कुंवर | *thōralā kuṃvara* | the elder son / the big boy | folk |
+
+**म्हातारा · mhātārā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+cultivators' name for the seventh nakṣatra and its rain; paired with तरणा 'the youngster' for Puṣya
+
+> म्हातारा mhātārā a (महत्तर S) Old, aged, advanced in years. 2 (masc because पाऊस is understood.) The old fellow. A term amongst agriculturists for पुनर्वसु the seventh nakshatra; as तरणा (The lad or youngster) is for पुष्य the eighth. Pr. म्हाताऱ्यानें केलें नांव तरण्यानें वाहविले गांव.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. म्हातारा, p. 673 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%AE%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>The proverb Molesworth prints — 'the old man made the name, the young man washed the village away' — is a rain proverb: Punarvasu's rain earns the reputation, Puṣya's does the damage. Confirmed by Date, p. 2554: 'पुनर्वसु नक्षत्राबद्दल शेतकरी लोक म्हणतात. तसेंच पुष्य नक्षत्राला तरणा अशी संज्ञा देतात.'</sub>
+
+**थोरला कुंवर · thōralā kuṃvara** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+cultivators' name for the seventh nakṣatra
+
+> थोरला thōralā, कुंवर kuṃvara m (The great son or boy, the old fellow.) A term amongst agriculturists for the seventh nakshatra or पुनर्वसु. See further under तरणा.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. थोरला कुंवर, p. 398 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A5%E0%A5%8B%E0%A4%B0%E0%A4%B2%E0%A4%BE%20%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%B5%E0%A4%B0&searchhws=yes&matchtype=exact))
+
+<sub>A second folk name for Punarvasu, from the same elder/younger pairing as म्हातारा ~ तरणा but cast as two princes rather than an old man and a youth.</sub>
+
+## Praesepe and Cancer
+
+**Modern:** Asellus Australis · δ Cancri · Cancer  
+**Sanskrit database:** `pushya` — Puṣya (Asellus Australis) ([entry](../star-names/star-names.json))  
+**Named in 1 languages:** Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | धाकटा कुंवर | *dhākaṭā kuṃvara* | the younger son / the little boy | folk |
+| Marathi | तरणा | *taraṇā* | the young one | folk |
+
+**धाकटा कुंवर · dhākaṭā kuṃvara** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+cultivators' name for the eighth nakṣatra
+
+> धाकटा dhākaṭā, कुंवर kuṃvara m (The lad, the youngster.) A name amongst agriculturists for पुष्य the eighth nakshatra, as म्हातारा (the old fellow) is for पुनर्वसु the seventh nakshatra.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. धाकटा कुंवर, p. 437 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A7%E0%A4%BE%E0%A4%95%E0%A4%9F%E0%A4%BE%20%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%B5%E0%A4%B0&searchhws=yes&matchtype=exact))
+
+<sub>Completes the elder/younger prince pair with थोरला कुंवर.</sub>
+
+**तरणा · taraṇā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+तरणा पाऊस, 'the youngster-rain', the rain of the eighth nakṣatra
+
+> तरणा taraṇā a (तरूण S) Young, adult, arrived at puberty. 2 Adolescent. 3 or तरणा पाऊस m (The lad, or youngster-rain.) A name amongst agriculturists for पुष्य or the eighth नक्षत्र; as म्हातारा (The old fellow) is for पुनर्वसु the seventh नक्षत्र.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. तरणा, p. 368 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A4%E0%A4%B0%E0%A4%A3%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>The younger member of the pair. Molesworth's own cross-references between तरणा, म्हातारा, थोरला कुंवर and धाकटा कुंवर show a coherent four-name system covering just two asterisms.</sub>
+
+## Viśākhā (ι Librae)
+
+**Modern:** Viśākhā · ι Librae (with α, β Librae) · Libra  
+**Sanskrit database:** `vishakha` — Viśākhā (ι Librae) ([entry](../star-names/star-names.json))  
+**Named in 1 languages:** Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | उंदऱ्या | *undaṟyā* | the rat-ones | folk |
+| Marathi | उंदऱ्यामांजऱ्या | *undaṟyāmāñjaṟyā* | the rats-and-cats | folk |
+
+**उंदऱ्या · undaṟyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+its rain is held to bring out rats, venomous reptiles and poisonous plants
+
+> उंदऱ्या undaṟyā f pl (उंदीर A rat.) A term for the विशाखानक्षत्र and for the rain which falls under it. Because this rain is supposed to produce or to bring abroad rats and venomous reptiles and poisonous plants very plentifully. Ex. उं॰ लागल्या, पडल्या &c. यंदा उं॰ कोरड्या गेल्या.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. उंदऱ्या, p. 95 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%89%E0%A4%82%E0%A4%A6%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>Molesworth's usage examples — 'the undaryā have set in / have fallen', 'this year the undaryā went dry' — show the word in ordinary weather talk.</sub>
+
+**उंदऱ्यामांजऱ्या · undaṟyāmāñjaṟyā** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+the first pair of rains breeds vermin, the second destroys it
+
+> उंदऱ्यामांजऱ्या undaṟyāmāñjaṟyā f pl (उंदीर Rat, & मांजर Cat.) A term for the two नक्षत्र called विशाखा & अनुराधा, and for the rain which falls under them. Because, whilst the prevalence of the first is supposed to produce rats, reptiles, and noxious plants, that of the second is supposed to destroy or remove them.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. उंदऱ्यामांजऱ्या, p. 95 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%89%E0%A4%82%E0%A4%A6%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%9C%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact))
+
+<sub>A name for a PAIR of consecutive asterisms taken as one weather unit — Viśākhā (ι Librae) and Anurādhā (δ Scorpii). The sanskrit_db_id points at Viśākhā only; the Anurādhā half corresponds to db id 'anuradha'.</sub>
+
+## 'Planet' as a word
+
+**Modern:** the planets  
+**Sanskrit database:** `taragraha` — Tārāgrahāḥ (the five star-planets) ([entry](../star-names/star-names.json))  
+**Named in 1 languages:** Tamil
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Tamil | கோண்மீன் | *kōṇ-mīṉ (kōḷ-mīṉ)* | seizing-star, grasping-star (kōḷ 'seizure, planet') | vernacular |
+
+**கோண்மீன் · kōṇ-mīṉ (kōḷ-mīṉ)** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+The Tamil opposition between the wandering and the fixed lights: kōṇmīṉ 'planet' against nāṇmīṉ 'lunar mansion'. The Ciṟupāṇāṟṟuppaṭai simile is of the sun ringed by planets.
+
+> வாணிற விசும்பிற் கோண்மீன் சூழ்த்த விளங்கதிர் ஞாயி றெள்ளூந் தோற்றத்து
+> <br>— Ciṟupāṇāṟṟuppaṭai ll. 242-243; Project Madurai e-text PM 0064 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0064.html))
+
+<sub>The Tamil Lexicon (s.v. கோண்மீன், vol. II p. 1181) defines it 'Planet, dist. fr. nāṇ-mīṉ; கிரகம்' and cites this exact line as சிறுபாண். 242. Kalittokai 5 sets the two words side by side in one line, 'நாளும் கோள்மீன் தகைத்தலும் தகைமே' (PM 0221), with the fuller form கோள்மீன்.</sub>
+
+## Auriga
+
+**Modern:** reported variously as Auriga, Cassiopeia and Sagittarius · α, β, γ, κ Cassiopeiae in one report · Auriga / Cassiopeia  
+**Named in 1 languages:** Gondi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Gondi | — | *Samdur, Samudar* | the sea | tribal |
+
+**Samdur, Samudar** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: disputed
+
+Comes overhead at 4 a.m. in late May and is the sign that the rains are coming and farming begins. Its brightness is a forecast: bright means a good monsoon and the Gonds sow cotton and other water-hungry crops, dull means a weak one and they sow crops that need less water.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Different villages placed Samdur in different constellations and the authors leave the identification open. The sowing rule attached to it is the most concrete piece of practical star-use anywhere in this compilation.</sub>
+
+## Aśvayuj (Sheratan)
+
+**Modern:** Sheratan · β Arietis · Aries  
+**Sanskrit database:** `ashvayuj` — Aśvayuj (Sheratan) ([entry](../star-names/star-names.json))  
+**Named in 1 languages:** Tamil
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Tamil | ஐப்பசி | *aippaci* | from Skt. āśvayuj, 'joined to the Aśvins' | sanskritic |
+
+**ஐப்பசி · aippaci** — Tamil (Tamil Nadu) · *sanskritic* · confidence: certain
+
+One of the twelve Tamil month-names still in daily use, all of them asterism-derived. The Lexicon records that the word also names the asterism itself.
+
+> ஐப்பசி aippaci , n. < āšvayuj. 1. The seventh Tamil month, October-November; ஏழாவது மாதம். (உபதேசரத். 6.) 2. The first nakṣstra. See அசுவதி. (சீவக. 1770.)
+> <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. ஐப்பசி, vol. I p. 578; quoting Cīvakacintāmaṇi 1770 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%90%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9A%E0%AE%BF&searchhws=yes&matchtype=exact))
+
+<sub>The Lexicon's derivations for the rest of the twelve, all verified at the same endpoint: சித்திரை Cittirai < citrā (p. 1391), வைகாசி Vaikāci < vaiśākha (p. 3849), ஆடி Āṭi < āṣāḍha (p. 219), ஆவணி Āvaṇi < śrāvaṇa (p. 249), புரட்டாசி Puraṭṭāci cf. proṣṭhapadā (p. 2769), கார்த்திகை Kārttikai < kṛttikā (p. 880), மார்கழி Mārkaḻi < mārgaśīrṣa (p. 3170), தை Tai < taiṣī (p. 2074), மாசி Māci < māgha (p. 3147), பங்குனி Paṅkuṉi < Pkt. phagguṇi < phalgunī (p. 2390). ஆனி Āṉi (p. 221) is the exception: the Lexicon gives it NO etymology at all, while recording that it also names the 19th nakṣatra (Mūlam) and the 21st (Uttirāṭam) — a gap worth flagging.</sub>
+
+## Cygnus
+
+**Modern:** Delta Cygni · δ Cygni · Cygnus  
+**Named in 1 languages:** Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Mundari | — | *laṇḍae ipil* | the one who is laughing | tribal |
+
+**laṇḍae ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: disputed
+
+The third fire-thief, who cannot help laughing at the discomfiture awaiting the sleeper, and whom the others push aside for fear he will wake the man.
+
+> The one who cannot help laughing, the laṇḍae ipil, is Delta of Cygnus.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Hoffmann's own identification, and geometrically awkward: δ Cygni lies a long way from Pegasus. He says himself, of the whole attempt to place these figures near the Pleiades, that it 'is rather a failure'. Recorded with the printed identification and the doubt attached.</sub>
+
+## Leo and Virgo
+
+**Modern:** Leo, with the procession running into Virgo · η, γ, α, δ, θ Leonis · Leo / Virgo  
+**Named in 1 languages:** Gondi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Gondi | — | *Murda; Duf; Shika; Ladavya* | the corpse; the drum-bearer; the leader of the procession; the weeping women | tribal |
+
+**Murda; Duf; Shika; Ladavya** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: likely
+
+The body of Leo is a dead man, head at Eta Leonis, one hand at Algieba and the other at Regulus, legs at Delta and Theta Leonis. Delta Leonis is the pall-bearer, the stars of Virgo are the procession, and the whole thing moves west to east across the sky.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The most elaborate narrative constellation in the Gond material and one with no counterpart in the nakshatra system, which cuts this stretch of sky into Maghā, Pūrva- and Uttara-Phalgunī with quite different figures.</sub>
+
+## Lupus
+
+**Modern:** Alpha, Beta, Mu and Rho Lupi · α, β, μ, ρ Lupi · Lupus  
+**Named in 1 languages:** Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Mundari | — | *hirumea parkom ipilko* | the co-wives' bed stars | tribal |
+
+**hirumea parkom ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The bed two co-wives are fighting over — that is, the mastership of the house.
+
+> The bed, hirumea parkom ipilko, is situated in Lupus, to the N. E. of the Southern Cross, and is represented by four stars, Alpha, Beta, Mu and Ro, which delineate a nearly equilateral parallelogram.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VI, s.v. hirumea parkom ipilko, cols. 1751-1757 ([source](https://archive.org/download/in.ernet.dli.2015.14926/2015.14926.Encyclopedia-Mundarica-Vol-vi-1932_djvu.txt))
+
+<sub>hirumea is the Mundari term for the relationship between two co-wives (vol. VI s.v.).</sub>
+
+## Nakṣatra (star / asterism (generic))
+
+**Modern:**   
+**Sanskrit database:** `nakshatra-generic` — Nakṣatra (star / asterism (generic)) ([entry](../star-names/star-names.json))  
+**Named in 1 languages:** Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | अंधळें नक्षत्र | *andhaḷēṃ nakṣatra* | a blind asterism | folk |
+
+**अंधळें नक्षत्र · andhaḷēṃ nakṣatra** — Marathi (Maharashtra) · *folk* · confidence: certain
+
+used in divining for lost property
+
+> अंधळें andhaḷēm, नक्षत्र nakṣatra n A blind Nakshatra. A common term for Nakshatras, during which a thing lost is not found but after great search.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. अंधळें नक्षत्र, p. 24 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%85%E0%A4%82%E0%A4%A7%E0%A4%B3%E0%A5%87%E0%A4%82%20%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%B0&searchhws=yes&matchtype=exact))
+
+<sub>A folk-astrological class rather than a name for particular stars, hence no identification. Related to but distinct from अंधळ्या, the Citrā rain-name above.</sub>
+
+## Saturn
+
+**Modern:** Saturn  
+**Named in 1 languages:** Tamil
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Tamil | மைம்மீன் | *mai-m-mīṉ* | black star (mai 'blackness, collyrium') | vernacular |
+
+**மைம்மீன் · mai-m-mīṉ** — Tamil (Tamil Nadu) · *vernacular* · confidence: certain
+
+Named by colour, like veṇmīṉ 'white star' for Venus and cemmīṉ 'red star'. The Puṟanāṉūṟu line stacks three portents — the black star smoking, a comet appearing, Venus running to the south — and says the good king's land is watered even so.
+
+> மைம் மீன் புகையினும், தூமம் தோன்றினும், தென் திசை மருங்கின் வெள்ளி ஓடினும்,
+> <br>— Puṟanāṉūṟu 117, ll. 1-2 (by Kapilar); Project Madurai e-text PM 0057 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html))
+
+<sub>The Tamil Lexicon (s.v. மைம்மீன், vol. V p. 3369, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%88%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'The planet Saturn, as black in colour; சனி' and cites this line as புறநா. 117. This one couplet is the single richest Tamil astronomical line: it gives maimmīṉ (Saturn), tūmam (comet) and veḷḷi (Venus) in two lines, all three as omens of drought. No Sanskrit-database counterpart; the planets are not individually in that database.</sub>
+
+## Findings, per research file
+
+### Hindi, Urdu, Punjabi & Rajasthani
+
+The Hindi-Urdu-Punjabi sky is stratified in three visible layers, and the lexicographic record of 1834-1896 lets each be dated. (1) A SANSKRITIC layer: Platts (1884) and Fallon (1879) simply carry the twenty-seven nakṣatras over as Hindi headwords (kṛttikā, rohiṇī, mṛg, mūl, svāti...), and Maya Singh's Panjabi Dictionary (1895, s.v. nachhattar, p. 786) prints the whole list of twenty-seven for Punjabi as well - so it is recorded here once and not itemised. What matters is that in living rural speech these appear in Middle-Indic reflexes, not tatsama forms: Grierson's Bihar Peasant Life (1885, §1082, p. 271) gives the generic word as nakhat / nachhattr / nichhattr and the individual asterisms as Rohni, Mirgsira, Aradra, Punarbas, Pukh, Maggha, Hast or Hathiya, Bināti/Siwāti - and they function not as stars but as sixteen-to-thirteen-day agricultural seasons, personified (Hathi rāni, 'Queen Hathiya'). (2) A PERSO-ARABIC layer entering through Urdu and fully naturalised: s̤uraiyā and parvīn for the Pleiades, suhail for Canopus, jabbār and jauzā for Orion, ʻaiyūq for Capella, jadī and quṭbī tārā for the pole star, farqadān for the Guards of Ursa Minor, suhā for Alcor, gardānak for the Pointers, banātu'n-naʻsh for the Bear as bier-and-daughters, kahkashāṅ for the Milky Way, nasru'l-wāqiʻ and nasru'ṭ-ṭāʼir for Lyra/Aquila. (3) A FOLK layer, which is where the real vernacular invention is. The Pleiades are 'the crowded-together ones' (kacpaciyā, gicpiciyā, kachbachiyā), a 'cluster' or ear-drop (guchchā tārā, jhumkā), or a hen with chickens (baccē-wālī murġī, gagan ke baccē-wālī murġī - Shakespear 1834 marks this last Deccani). Ursa Major is a piece of furniture with thieves at it: palang tīn cor, 'the bedstead and three thieves' (Shakespear 1834 p. 1949, also Deccani per Harris; Platts and Fallon unmarked); in Punjabi it splits, the four-star bowl being palang-pāwe 'the legs of the bedstead' and the three-star handle traṅgaṛ 'the net' (Dames, Panjab N&Q II.522), while O'Brien's Multani Glossary (1881, p. 62) makes traṅgar the whole Bear and notes the same word for the upper part of Orion. Fallon's sāt sahelyoṅ kā jhūmkā, 'the ear-drop cluster of the seven girl-friends', is the Bear again. The Milky Way is an elephant's road (hāthī kī rāh) or Hasta's road (hathiyā kī rāh), God's court-house (Bhagwān kī Kachahrī), the gate of heaven (Surg Dwārī), a white garland (Sufed Bādhī), and in Multani/Derawali the wake of Noah's ark (Berā dā Ghās). Venus at dawn is 'the star of the light' (ujāle-kā tārā), bhurkā/bhalkā, and in the Panjab 'the galloping star' (Tapt Tārā). Comets are brooms (jhāṛū) and tailed stars (ket, dum kā tārā, puchhalwālā tārā, dumdār sitārā). NEGATIVE FINDINGS: no vernacular name for SIRIUS could be verified - Platts, Fallon and Shakespear have no entry for it, the Sanskrit Lubdhaka/Mṛgavyādha do not surface, and Fallon (p. 801) misglosses Arabic suhail as 'the dog star', a conflation of Canopus with Sirius that Platts and Shakespear do not share; no ANTARES (no qalb al-ʻaqrab in Platts), no ARCTURUS beyond Sanskrit svāti, no CASSIOPEIA, no separate name for the HYADES. RAJASTHANI is the real gap: no Marwari/Rajasthani star name could be verified from any public-domain source reached here (Panjab and North Indian Notes & Queries carry no Rajputana star note; Fallon's Māṛ. tags never fall on a star word), and the modern Rajasthani lexicography that would settle it (Lalas) is in copyright - so no Rajasthani entry is claimed. Punjabi is thinly but genuinely attested (Maya Singh; Dames; Jukes; Chaina Mall of Ambala), Bhojpuri/Magahi rural usage is well attested through Fallon and Grierson and is entered here under 'Hindi' with the dialect named in region.
+
+### Marathi, Konkani & Gujarati
+
+Marathi is the only one of the three languages with a substantial indigenous star vocabulary, and it is concentrated almost entirely in the cultivators' calendar rather than in named constellations. The learned layer is straightforwardly borrowed — Molesworth's entry for नक्षत्र (1857, p. 454) lists all twenty-seven Sanskrit mansions with only light Marathi phonology (मृग for मृगशीर्ष, आश्लेषा 'or असाळका', पूर्वा/उत्तरा for the Phalgunīs), and Konkani and Gujarati do the same: Maffei glosses 'Star' simply as neketru (1883, p. 455), and the Bombay Gazetteer's Gujarat volumes give the asterisms as Kritika, Rohini, Arudra, Mragshir, Revti, calling them 'star chambers' (Vol. IX Pt I, 1901, pp. 352-353). Underneath that borrowed layer Marathi has a whole parallel system in which asterisms are renamed for what their rains DO to the crop: उंदऱ्या 'the rats' for Viśākhā, उंदऱ्यामांजऱ्या 'rats-and-cats' for Viśākhā-plus-Anurādhā, दडप्या 'the pressers-down' for Svātī, अडवण्या 'the obstructors' for Jyeṣṭhā, कडप्या 'the sheaves' and अंधळ्या 'the blind ones' both for Citrā, बडवण्या 'the mallets' for Mūla, and an elder/younger pair — म्हातारा 'the old fellow' or थोरला कुंवर for Punarvasu against तरणा 'the youngster' or धाकटा कुंवर for Puṣya. Four genuinely non-Sanskrit figures stand out: the Pleiades as विंचू, a SCORPION (Molesworth p. 756, confirmed by Date p. 2824 — the Kṛttikās are not maidens here); Ursa Major as खाटलें / बाजलें, a COT, which Enthoven (1924, p. 64) fills out as four stars forming a cot with a sleeper on it and three thieves creeping up; the pole star as मेढ, a FORKED FARMYARD STAKE, with a whole non-Brahman divinatory sect (मेढेमत) and a caste of village astrologers (मेढेजोशी) named from it; and Hasta (Corvus) reanalysed as हत्ती, an ELEPHANT, a mishearing of हस्त 'hand' that Molesworth explicitly flags and that has propagated into ritual (हस्तागौर, Gaurī seated on an elephant) and into the revenue gazetteers ('the fall of the Hasti Nakshatra or the Elephant Guest-house', Satara 1885, p. 19; 'the elephant showers', Nasik 1883, p. 15). Konkani, on Maffei's evidence, is nearly bare of sky vocabulary — no Pleiades, no Orion, no Great Bear, no pole star in the whole English-Konkani dictionary — but it yields the single best indigenous name in this file: the Milky Way as molbamārog, 'the road that is on the sky', with a second Hindu-Konkani form dudavat, and with Maffei expressly noting that Ākāśagaṅgā is Marathi and Canarese and 'not used in Konk.' That is the exact inverse of Marathi, where every one of Molesworth's eight Milky Way names is a Sanskrit river of heaven and no folk name appears at all — until Enthoven, whose Deccan informants call it Vastupurush (the cosmic man of the building site) and Kavadgantak. Gujarati is the emptiest of the three: no distinct Gujarati star name was verified from any source. The Gujarati dictionaries (Belsare; Mehta & Mehta) give only sanskritic glosses, and their Gujarati script is unrecoverable from the available scans; the Gujarat gazetteers show cultivators paying close attention to the nakṣatras but under their Sanskrit names, with the omen-lore attached directly to those names instead of generating new ones as it did in Marathi. What was NOT found anywhere: no Marathi, Konkani or Gujarati name for Sirius that is not built on the Sanskrit hunter (लुब्धक, व्याध, and the folk-etymological लोभी 'the greedy one'); no vernacular name for Canopus, for Alcor, or for the Hyades apart from the Sanskrit cart शकट; no morning-star or evening-star name in Molesworth at all; no bier, plough or hen figure for Ursa Major; no tribal star name in Enthoven's Tribes and Castes of Bombay or in the Khandesh gazetteer's long Bhil sections; and no Konkani Milky Way river.
+
+### Bengali, Assamese & Odia
+
+All three languages carry the Sanskrit twenty-seven in their own scripts and this file does not reproduce them: Biswas glosses each Bengali lemma 'the Nth of the twenty-seven zodiacal stars according to Hindu astronomy' (আর্দ্রা p. 126, অনুরাধা p. 36, অশ্লেষা p. 83), the Candrakanta Abhidhana does the same for Assamese (আৰ্দ্ৰা p. 102, ভৰণী p. 713), and Praharaj tabulates all twenty-seven with positions, star-counts, kaṭapayādi tags and Bayer letters in one enormous note under ନକ୍ଷତ୍ର (p. 4095) — where, incidentally, the Odia list heads the second asterism ଦ୍ୱିଜା Dwijā rather than Bharaṇī. What is not Sanskrit is what this file is for. THE PRIZE HOLDS AND IS BIGGER THAN EXPECTED: কালপুরুষ / কালপুৰুষ / କାଳପୁରୁଷ Kālapuruṣa for Orion is common to all three languages and has no Sanskrit ancestor as a constellation — in Sanskrit the word is Yama's black-bodied messenger and the jyotiṣa 'zodiac-man'. Biswas (p. 231) gives the Yama sense and the Orion sense side by side; Jñānendramohana Dāsa (p. 512) supplies the decisive gloss, parsing kāla as Yama in the etymology and as TIME in the astronomy — 'the star-cluster by which kāla, that is the rains and the other seasons, is measured' — and adds the alternate name অগ্রহায়ণী; Praharaj (p. 1552) keeps the 'black bodied' of the gloss, gives the same alternate name, and at p. 4095 numbers twenty-one stars of the figure, naming the belt Uṣā, Aniruddha and Citralekhā, the sword Mayūratuṇḍa and Rigel Bāṇarāja, so that in Odia the Kālapuruṣa figure is the frame the nakṣatras of that quarter of the sky are described BY (Ārdrā is 'the knob of Kālapuruṣa's right shoulder'). Both Dāsa and the Assamese dictionary count the figure as seven bright stars. Assamese adds a sky-figure of its own, গোধিকা godhikā, a northern chain shaped like a monitor lizard with the pole star at its tail-tip, attested from Śaṅkaradeva's Kīrttana — described as the Śiśumāra but glossed 'Big Bear', an inconsistency recorded and graded disputed. THE SECOND FINDING IS A SET OF ISOGLOSSES. The Milky Way is a ROAD everywhere in this region and only the traveller changes: an elephant-track in Assamese (হাতীপটি, Candrakanta p. 908) and Odia (ହାତିଦଣ୍ଡା, Praharaj p. 4095; Sambalpuri ହାଁଥିଧରସା p. 9036), both with the literal jungle sense standing as sense 1 of the same lemma; Yama's causeway in Bengali (যমের জাঙ্গাল / যমজাঙ্গাল, in Dāsa pp. 812 and 1811 and in both of Biswas's dictionaries); a cattle-track in Mundari (gaikoạ hora) and Kurukh (gā'e caur binkō). Bengali also has দুধপথ 'milk-road', which may be a calque. A comet is a BROOM in Bengali (ঝাঁটাতারা, marked গ্রাম্য by Dāsa, 'because it is shaped like a broom', p. 882; and Lal Behari Day's villagers call it 'a fiery broomstick') and in Mundari (jonọ ipil), and a TAIL in Odia (ଲଞ୍ଜା ତାରା), Assamese (নেজাল তৰা, attested by Bronson in 1867) and Kurukh (jhal binkō). ODIA IS THE RICHEST OF THE THREE, and its richest field is Venus, which has at least eight names split by apparition and by district — morning ଖଚୁଆ ତରା khacuā tarā ('the star that goes ahead to Yama and reports on the people of this world'), ଫୁକିଆ phukiā of the Garjat states ('when Phukiā rises the fisherwomen begin husking chuṛā'), କୁଆତରା kuātarā < kāvya-tārā, ପୁଆଁ ତରା and ପାହାନ୍ତି ତାରା; evening ପହରିକିଆ ତାରା and Sambalpuri କେଉଁଟି ତାରା, the fisher-caste star — and Praharaj is careful that 'morning star' names a function, not a body, since Mars, Jupiter, Venus and Saturn all fill the role (p. 4814). Bengali splits it শুকতারা / সাঁঝের তারা and Assamese পুবঁতী তৰা / ভোটাতৰা. Beneath standard Odia lies a Sambalpuri folk layer that Praharaj marks ପ୍ରାଦେ., and THIS LAYER IS ONLY INTELLIGIBLE AGAINST THE MUNDA AND DRAVIDIAN LANGUAGES AROUND IT (entered in the sibling file sources/tribal.json; cited here in the notes): the Pleiades are କଠଲା ତାରା 'the carpenter's mallet' in Sambalpuri and moṅgaru ipilko 'the wooden mallet the ploughman flung at the dove' in Mundari; the Big Dipper is ବାଜ୍ଖଟ୍ 'the corpse-bier' in Sambalpuri, topa gaṛa parkom ipilko 'the bier stars' in Mundari and khaṭī pawā bīnkō in Kurukh; Orion's Belt is ନଙ୍ଗଲ ଜୁଡ଼ା 'the yoked plough' in Sambalpuri — with the note that the Khaṛiās will not yoke the plough or sow paddy until it has risen, i.e. not before Baiśākha (p. 4106) — and arar 'the Yoke' in Santali, araṛ ipilko in Mundari, ugtā pagsi binkō in Kurukh. The three Sambalpuri names are not curiosities; they are the Odia end of Munda figures, and that is the single most useful thing this pass established about Odia. Standard Odia meanwhile calls the Big Dipper ସାତଭାଇୟା 'the seven brothers' and the Pleiades କାର୍ତ୍ତିକପୁଞ୍ଜ, marked deśī and carrying a proverb. NEGATIVE FINDINGS, which are half the result. The agricultural-calendar material the brief expected from the gazetteer literature IS NOT THERE: all twenty volumes of Hunter's Statistical Account of Bengal and both of the Statistical Account of Assam were downloaded and grepped and yield exactly one astronomical sentence between them, a quotation of Dalton on the ṛṣis of the Great Bear; the District Gazetteers of Sambalpur, Puri, Cuttack, Balasore, Angul, Santal Parganas, Ranchi, Kamrup, Darrang, Nowgong, Sibsagar and Goalpara yield nothing; the Census reports of 1901 and 1911 yield nothing; Dalton 1872 and Risley 1891 yield only the Santal sept-name and two Sanskrit remarks. The one agricultural marker in this file comes from a DICTIONARY, not a gazetteer. Arcturus and Antares have no vernacular name in any of the three languages — 'Arcturus' returns nothing at all in Biswas or Praharaj, and Antares appears only as an English label inside Praharaj's Jyeṣṭhā table. Bengali and Assamese have the Orion figure but no name for its waist: no Bengali word for Orion's Belt was found in any source, and Dāsa describes it in English without naming it. No pre-1900 attestation of কালপুরুষ = Orion was reached: Haughton 1833 and Ram Comul Sen 1834 do not have it, and Sen renders the English headword Orion descriptively as দক্ষিণদিকস্থ রাশিবিশেষ, তারাবিশেষ 'a certain sign in the southern sky, a certain star'; the earliest attestation here is Dāsa's second edition of 1937, with the Assamese and Odia dictionaries following. Bengali proved the thinnest of the three for folk material: outside কালপুরুষ, ঝাঁটাতারা, পোয়াতে-তারা, তারা খসা and যমের জাঙ্গাল its astronomical vocabulary is almost entirely tatsama. Two words were chased and dropped: the Ḍākabacana couplet Praharaj prints under the Orion word ଅଦ୍ରାବଳି turns out from his own entries at pp. 813-814 and 1080 to be about RAINBOWS east and west, not Orion, so it is not evidence of an Odia agricultural asterism; and Bronson's Assamese-English dictionary of 1867, though it proved to hold the best-dated words in the file, is unusable by grep — the archive.org OCR of its Assamese fount is noise, and its four astronomical entries had to be read off the page images one at a time.
+
+### Tamil
+
+Literary Tamil carries the whole 27-nakshatra system in Tamil phonology — the Tamil Lexicon prints the canonical list under நட்சத்திரம் as acuviṉi, paraṇi, kārttikai, urōkiṇi … irēvati (Tamil Lexicon, s.v. நட்சத்திரம், p. 2135) — and the twelve month-names still in daily use (Cittirai, Vaikāci, Āṉi, Āṭi, Āvaṇi, Puraṭṭāci, Aippaci, Kārttikai, Mārkaḻi, Tai, Māci, Paṅkuṉi) are asterism-derived, the Lexicon deriving Aippaci < āśvayuj, Puraṭṭāci < proṣṭhapadā, Mārkaḻi < mārgaśīrṣa, Paṅkuṉi < Pkt. phagguṇi, Vaikāci < vaiśākha, Āvaṇi < śrāvaṇa, Āṭi < āṣāḍha, Tai < taiṣī, Māci < māgha. That layer is recorded here compactly; the substance of this file is the layer that is not Sanskrit. Two Tamil word-classes generate indigenous star-names. The first is மீன் mīṉ 'star' — a Dravidian word the Lexicon derives from மின்னு- 'to flash' (DEDR 4876, with Ma. mīn, Ko./To. mi·n, Ka. mīn, Kur. bīnkō 'star'), homophonous but not identical with mīṉ 'fish' (DEDR 4885); the Lexicon's derivation of the fish-word from Sanskrit mīna is the older view that the Dravidian Etymological Dictionary does not follow. Counting compounds in -mīṉ name asterisms by their star-counts: அறுமீன் aṟumīṉ and ஆறாமீன் āṟāmīṉ 'six-star' = the Pleiades, எழுமீன் eḻumīṉ 'seven-star' = the Great Bear (Naṟṟiṇai 231), மும்மீன் mummīṉ 'three-star' = Mṛgaśīrṣa, ஐம்மீன் aimmīṉ 'five-star' = Hasta, with கடைமீன் kaṭaimīṉ 'last star' = Revatī and ஆதிமீன் ātimīṉ 'first star' = Aśvinī closing the circle from both ends. Descriptive -mīṉ compounds name the bright wanderers by colour and place: வெண்மீன் veṇmīṉ 'white star' and வெள்ளி veḷḷi 'the silver/white one' = Venus, செம்மீன் cemmīṉ 'red star' = Mars (and, disputed, Arundhatī and Ārdrā), மைம்மீன் maimmīṉ 'black star' = Saturn, வடமீன் vaṭamīṉ 'northern star' and சிறுமீன் ciṟumīṉ 'small star' = Arundhatī/Alcor, வால்மீன் vālmīṉ 'tail-star' = comet, வீழ்மீன் vīḻmīṉ 'falling star' = meteor, கோண்மீன் kōṇmīṉ 'seizing star' = planet as against நாண்மீன் nāṇmīṉ 'day-star' = lunar mansion. The second class is நாள் nāḷ 'day', which by itself means 'lunar asterism' already in the Tolkāppiyam, and which forms a full parallel set of asterism-names by translating the presiding deity into Tamil: எரிநாள் eri-nāḷ 'fire-star' = Kārttikai (the Sanskrit Āgneya), காற்றினாள் kāṟṟiṉāḷ 'wind-star' = Svātī/Arcturus (Sanskrit Vāyavya), நீர்நாள் nīr-nāḷ 'water-star' = Pūrāṭam, மருத்துவநாள் maruttuva-nāḷ 'physician-star' = Aśvinī, மதிநாள் mati-nāḷ 'moon-star' = Mṛgaśīrṣa, மாரிநாள் māri-nāḷ 'rain-star' and கதிர்நாள் katir-nāḷ 'sun-ray star' = Uttiram — and two formations with no Sanskrit model at all: நடுநாள் naṭu-nāḷ 'middle star' for Cittirai, the fourteenth of twenty-seven, and காற்றுமுந்துநாள் kāṟṟu-muntu-nāḷ 'the star that the wind-star precedes' for Viśākhā, an asterism named purely by its position in the Tamil sequence. Nine of the names collected here are attested in the Caṅkam corpus itself, verified verbatim against Project Madurai e-texts: veḷḷi in the drought-omen formula of Puṟanāṉūṟu 35, 117 and 388, veṇmīṉ in the opening couplet of Paṭṭiṉappālai, maimmīṉ and tūmam beside veḷḷi in Puṟanāṉūṟu 117, eḻumīṉ in Naṟṟiṇai 231, aṟumīṉ in Naṟṟiṇai 202, vaṭamīṉ in Puṟanāṉūṟu 122 and Kalittokai 2, ciṟumīṉ in Perumpāṇāṟṟuppaṭai 303, cemmīṉ in Patiṟṟuppattu 31 and Puṟanāṉūṟu 60, kōṇmīṉ in Ciṟupāṇāṟṟuppaṭai 242, nāṇmīṉ in Kalittokai 104, and vaikuṟumīṉ in Akanāṉūṟu 17. The Caṅkam sky is a sky of omens and seasons rather than of horoscopes: Venus quitting its proper northern station for the south is the standard figure for drought and misrule, and Puṟanāṉūṟu 117 stacks Saturn smoking, a comet appearing, and Venus running south as three portents that a good king's land survives. One genuine indigenous constellation-figure surfaced: Nacciṉārkkiṉiyar, glossing மகவெண்மீன் maka-veṇmīṉ at Paṭṭiṉappālai 35, says the Magha asterism 'has the shape of a bent yoke' (முடநுகம்போன்ற வடிவம்) — the Sickle of Leo seen as a crooked ox-yoke. Two names are seamen's and cultivators' rather than literary: ஆறாமீனறவோட்டு āṟāmīṉ-aṟavōṭṭu, the sun's passage through the Pleiades segment, 'regarded by seamen as a period when rough weather is to be anticipated', and ஐப்பசிக்குழப்பம் aippaci-k-kuḻappam, the north-east monsoon squall of the month named for Aśvinī. The Milky Way has a Tamil name of its own that is not a Ganges-metaphor: மாசு mācu, 'the stain', and its compound பூராடமாசு pūrāṭa-mācu, 'the Pūrāṭam stain' — the galaxy named for the Sagittarius asterism where it is brightest — beside the calque பால்வீதிமண்டலம் pāl-vīti-maṇṭalam 'milk-street region'. NEGATIVE FINDINGS, which matter as much: no Tamil name for SIRIUS was found anywhere in the Tamil Lexicon or Winslow — searches on 'Sirius', 'dog star', 'Lubdhaka' and 'Canis' return nothing astronomical, and the Sanskrit Mṛgavyādha/Lubdhaka has no Tamil reflex in the lexica; no Tamil name for ANTARES as an individual star, only Kēṭṭai as 'the 18th nakṣatra, part of Scorpio'; no Tamil name for ORION'S BELT as a distinct three-star group, the 'three stars' of mummīṉ being the Sanskrit Mṛgaśīrṣa head-group; and the TOLKĀPPIYAM, contrary to what one might expect of the oldest Tamil grammar, reckons its six seasons (perumpoḻutu) and six times-of-day (ciṟupoḻutu) by landscape, weather and light — kār with mullai, kūtir midnight with kuṟiñci, vaikaṟai-viṭiyal with marutam, eṟpāṭu with neytal, vēṉil noon with pālai (Poruḷatikāram, Akattiṇaiyiyal 6-12) — and names no asterism in doing so; its only mention of mīṉ is a sandhi rule in the Eḻuttatikāram. The two European calques பெரியகரடி periya-karaṭi 'Great Bear' and சின்னக்கரடி ciṉṉa-k-karaṭi 'Little Bear' are marked 'Pond.' (Puducherry) in the Lexicon's Supplement and are recorded here precisely because they are late and localised, not indigenous.
+
+### Telugu & Kannada
+
+Both languages carry the whole 27-fold nakṣatra system in their own phonology — Kittel enters all twenty-seven as Kannada headwords (ನಕ್ಷತ್ರ, p. 879: 'a constellation, an asterism in the moon's path, a lunar mansion, of which 27 (or 28) are enumerated'), and Brown does the same for Telugu (నక్షత్రము, p. 628) — so the tadbhava forms ಆರಿದ್ರ āridra, ಚಿತ್ತೆ citte, ಪುಬ್ಬೆ/ಹುಬ್ಬೆ pubbe/hubbe, ಜೇಟೆ jēṭe, ಮಘೆ maghe, ಸಾತಿ sāti and their Telugu twins చిత్త citta, పుబ్బ pubba, జెష్ట jeṣṭa are recorded here only as representative specimens. The real find is that TELUGU HAS A COMPLETE PARALLEL SET OF ITS OWN DESCRIPTIVE NAMES for the mansions, formed X-cukka / X-rikka 'X-star' or X-rūpu-rikka 'X-shaped star', which Brown scatters across the dictionary under their first elements and which no one has assembled: tolu-rikka and gurrapu-cukka (Aśvinī), baraṇi-cukka (Bharaṇī), kattera 'scissors' and mangala-katti-rūpu 'barber's-razor shape' (Kṛttikā), baṇḍi-rikka 'cart star' (Rohiṇī), jābili-rikka 'moon star' (Mṛgaśiras), pagaḍapu-rikka 'coral star' (Ārdrā — and Ārdrā is Betelgeuse, which is red), podariṇḍla-cukka (Punarvasu), poṭla-pū-cukka 'snake-gourd-flower star' (Puṣya), sappapu-cukka 'serpent star' and the frankly colloquial asilēru (Āśleṣā), petarula-cukka 'ancestors' star' and jannapu-cukka 'sacrifice star' (Maghā), sāmu-kaṇṭi-cukka (Pūrva-Phalgunī), proddu-rikka 'sun star' (Uttara-Phalgunī), muttepu-rikka 'pearl star' (Citrā = Spica, white), karuvali-rikka 'wind star' (Svāti), kummara-sāre-cukka 'potter's-wheel star' and jōḍu-vēlpula-rikka 'star of the paired gods' (Viśākhā), tāṭi-rikka 'palmyra star' (Jyeṣṭhā), sōku-cukka 'demon star' (Mūla — and Brown's own next line glosses sōkula-rēḍu 'lord of demons' as mūla-rēḍu), nīṭi-rikka 'water star' (Pūrvāṣāḍhā) beside nīṭi-rēni-rikka 'water-KING's star' (Śatabhiṣaj), maddela-rūpu-rikka 'drum-shaped star' (Dhaniṣṭhā), mukkaṇṭi-cukka 'the three-eyed one's star' (Uttara-Bhādrapadā), and three for Revatī: mīnu-rūpu-rikka 'fish-shaped', kona-rikka 'the last star' (answering tolu-rikka 'the first'), muppadi-reṇṭi gumpu 'the group of thirty-two'. Some are calques on the presiding deity, some are shape or colour names owing nothing to Sanskrit, and several also name the month (proddu-rikka-nela = Phālguna, tāṭi-rikka-nela = Jyeṣṭha, poṭla-pū-rikka-nela = Pauṣa), which shows the set worked as a calendar. KANNADA HAS NO SUCH SET: Kittel records only the tadbhava names, and attaches the popular material to them instead as rain proverbs (ಹುಬ್ಬೇ ಮಳೆ ಗುಬ್ಬೀ ತಲೆ ನೆನೆಯುವುದಿಲ್ಲ; ಮಖೆಮೞೆ ಆದರೆ ಮೊಗ ತೊಳೆಯುವದಕ್ಕೆ ಆಗದೇ?) and to the seasonal ಆರಿದ್ರಪುಱು, the ladybird of the Ārdrā rains, for which Kittel gives the Telugu ఆరుద్రపురుగు as an exact equivalent. The shared Dravidian layer lies elsewhere, in the generic and cosmological words, and it pairs up almost item for item: Te. cukka ~ Ka. cikki/cukke (both 'dot' before 'star'); Te. cukkala-teruvu 'street of the stars = sky' ~ Ka. mīn-vaṭṭe / aṟil-vaṭṭe / tārage-vaṭṭe 'star-road = sky'; Te. cukkala-rēḍu 'king of the stars = the moon' ~ Ka. mīngaḷ-eṟeya and tārageyāḷma, same sense; Te. tōka-cukka 'tail star = comet' ~ Ka. bāla-cikki, same compound with each language's own word for tail. Two Dravidian words split the languages: Kannada mīn is 'star' outright ('a fish of the sky-ocean?', Kittel's own guess, p. 1328) where Telugu mīnu is only 'fish' and touches the sky solely in mīnu-rūpu-rikka; and Kannada beḷḷi 'silver' is the name of Venus (with Tamil and Malayalam veḷḷi) where Telugu kept only the metal and named Venus vēgu-cukka 'dawn star'. Kannada also has an indigenous Milky Way that Sanskrit does not suggest — bāṅ-keṟe 'the sky-TANK', beside bāṅ-kaḍal 'sky-sea' and bān-toṟe 'sky-river' — the irrigation tank of the Karnataka countryside put in the sky, and Kittel's illustrative verse has the stars vanishing in it like diving fish. Telugu's milk-track names (pāla-punta, pāla-bāṭa) are not in Brown at all and are attested here only from Gwynn 1991. The agricultural sky is vernacular in both: Telugu kārte, marked [Tel.] by Brown, is the sun's thirteen-day stay in each asterism and the unit of the Deccan farming year, and Thurston records the working system for Lingāyat cultivators of Bellary — cholam on the Rohiṇi, Mṛgaśira and Ārdrā rains, cotton and horse gram on Pubba and Uttara, no weeding in Maghā, no lightning in Svāti. Telugu punāsa, the year's first inferior crop, is Punarvasu with the sky worn off it entirely. NEGATIVE FINDINGS, all of them from exhaustive searching of both dictionaries: neither language has any Dravidian name for URSA MAJOR — no plough, no cart, no bier, no seven sisters, only saptarṣi and citraśikhaṇḍi in both; none for ORION or Orion's Belt (Kittel's ilvalegaḷ is Sanskrit Ilvalāḥ with a Kannada plural; āgrahāyaṇi is a tatsama); none for CANOPUS (Agastya in both); none for SIRIUS in Telugu at all, and in Kannada only Sanskrit lubdhaka — which in Kannada lexicography usually means Ārdrā, not Sirius, a trap flagged in the entry; none for the POLE STAR beyond Dhruva, though Kannada has the popular dhruva-pāśa, the rope the earth hangs from; and no Dravidian PLEIADES name in Kannada, where Telugu has two. Brown twice calls Arundhatī 'a star in the Pleiades', which is wrong and is recorded as disputed because he may be reporting a real popular misidentification — Thurston shows the same star being called the pole star in south Indian weddings.
+
+### Malayalam, Tulu, Kodava & Sinhala
+
+Malayalam runs the full 27-nakshatra series in Dravidianised form — Aśvati, Bharaṇi, Kārttika, Rōhiṇi, Makayiram, Tiruvātira … Iravati — and it still governs birth-star reckoning: Gundert 1872 already lexicalises ജന്മനക്ഷത്രം 'the asterism under which one is born' (p. 403) and അനുജന്മനക്ഷത്രം 'the 10th and 19th asterisms after it' (p. 28), and the ordinary word for a birth-star is not the Sanskrit നക്ഷത്രം but the inherited Dravidian നാള്‍ nāḷ 'day', whose illustrative phrase in Gundert is 'to settle [a marriage] after examining the nāḷ and the compatibility' (p. 547). Those names are recorded here compactly, in one collective entry plus nine individually; the real yield is elsewhere. Malayalam's vernacular sky is built on മീന്‍ mīn 'star/fish' (DEDR 4876) — കൊളളിമീന്‍ 'firebrand-star' meteor, വാല്‍മീന്‍ 'tail-star' comet, വെണ്മീന്‍ 'white star' and പെരുമീന്‍ 'great star' for Venus, beside വെള്ളി veḷḷi 'silver = Venus = Friday' and the North Malabar dialect word കൊററി koṟṟi 'morning star', which has no Sanskrit counterpart at all. Two Malayalam finds have no parallel in the other three languages: ഞേങ്ങോല്‍ ñēṅṅōl 'plough-shaft', cross-referenced by Gundert to മുഴക്കോല്‍ 'measuring-rod', a constellation defined purely by its farming use — it rises in Dhanu an hour after sunset and tells the cultivator when to drain the field before sowing (p. 413; probably but not certainly Orion's Belt) — and the ñāṟṟu system, ഞാററുതല / ഞാററുവേലി / ഞായററുനില, the twenty-seven asterism-periods of 13 4/9 days each by which the Kerala farming year is still divided, with Tiruvātira at the burst of the south-west monsoon as 'best time for planting' (pp. 411–412, 436). NEGATIVE: no navigational star name was found for Kerala in any public-domain source — Gundert has no star under 'mariner', 'sailor' or 'compass', Logan's Malabar Manual has none, and the words Pleiades, Orion, Canopus, Sirius, Arcturus, pole star and Milky Way do not occur once in all seven volumes of Thurston. Tulu and Kodava are nearly empty of star names, and that is the result rather than a failure: each has exactly ONE native star-word, the reflex of Dravidian *veḷ 'white' — Tulu ಬೊಳ್ಳಿ boḷḷi 'a star; silver' (Männer 1886 p. 502), forming ತಂಜದ ಬೊಳ್ಳಿ 'the evening star' (p. 262), and Kodava boḷḷi in boḷḷi mi·nï 'morning star' (DEDR 5496) and ಬೊಳ್ಳಿಳಾಚೆ boḷḷiáche 'Friday' (Cole 1867 p. 136) — Tulu naming Venus at dusk and Kodagu at dawn. Kodava has no word for 'star' anywhere in Cole's grammar, no name for the Pleiades, Orion, the pole star, the Milky Way, a comet or a meteor, and DEDR gives it mi·nï only inside that one compound; Tulu adds only three descriptive coinages, all from Männer's English-to-Tulu direction — ಹೊರಸಿನ್ಟ ನಕ್ಷತ್ರೊಳಿ ಕೂಟ 'the star-cluster of the COT' for Ursa Major (the one indigenous constellation image in either language), ನಕ್ಷತ್ರೊಳಿ ಸಾಲ್ 'row of stars' for the Milky Way, and ಆಕಾಶೊಡ್ಡು ಬೂರ್ದಿ ಕಲ್ಲ್ 'stone fallen from the sky' for a meteorite. Neither language times agriculture by a star: Sturrock says all Tulu cultivation runs on the twelve solar months, which have native Tulu names (Paggu, Besha, Kártél, Áte…) that are not star-names (1894 p. 216), Coorg ploughing begins on the first of yaḍamyáru whatever the rain (Cole p. 135), and the Huttari harvest is fixed by the full moon. Sinhala, the comparative control, gives the sharpest answer: it replaced NONE of the twenty-seven — Carter's formula for each is literally 'E. of', Eḷu form of, and Clough's is 'Elu form of', so asvida is Sanskrit aśvinī, denaṭa is dhaniṣṭhā, deṭa is jyeṣṭhā, all merely sound-shifted — while coining freely OUTSIDE that list: හත්·දින්න hat·dinna 'seven-produced' for the Pleiades, අහස් ගඟ ahas gaṅga 'sky-river' for the Milky Way (a calque, per Jayatilaka, of ākāśagaṅgā — the compound Malayalam and Tulu simply borrowed), ඉරබටු තරුව 'star after sunset' and පහන් තරුව 'dawn-star' for Venus, දුම්·කෙහෙලිය 'smoke-banner' for a comet, කළමුනිදුතරුව for Canopus, and three native words for 'constellation' (තරු·වැළ, තරු·පොකුර, උළු කැන) where Malayalam has none. What was portable, then, was the nakshatra list and the learned Sanskrit stock — Dhruva, Agastya/Agasti, Saptarṣi, Ākāśagaṅgā, Ulkā, Dhūmaketu travel intact into all four — and what was not portable was the ordinary night sky, which every language named for itself out of fish, silver, firebrands, plough-beams, cots and river-water.
+
+### Adivasi & tribal traditions
+
+Four communities carry a star nomenclature deep enough to be called a system, and they are not the ones a Sanskrit database would predict. The Mundas are first by a distance: Hoffmann's Encyclopaedia Mundarica vol. VII (cols. 1919-1925, s.v. ipil) is a seven-page star map with about thirty named objects, a plate, and a stated method, and it opens by saying that the Munda 'neither knows, nor cares to know, what a horoscope is'. Santali is second, through Campbell (1899) and Bodding vol. V (1936); Kurukh has eight or nine names in Grignard (1924); Gondi has a large modern field survey (Vahia & Halkare 2013, in copyright, paraphrased here) and essentially nothing in the colonial record. Toda has Rivers (1906) — three pages, but unusually careful, and he drew the Great Bear on paper to have it named rather than trusting a verbal description. Ho, Khasi, Nicobarese and Andamanese yield a handful of terms each. The organising principles are agricultural and domestic rather than zodiacal: nothing here divides the ecliptic, nothing tracks the moon's monthly stations, and where the nakshatra system does surface it has been converted into something else — Santali ruhni is not Aldebaran but the seven-day sowing week in Jeṭ, and Bodding marks the planet names sukro and Sani '(only in books)', meaning they are printed but not spoken. Three figures recur across unrelated language families and are the real find. (1) Ursa Major is a cot: Santali buḍhi parkom ipil 'the old woman's cot', Kurukh khaṭī-pāwā bīnkō 'the cot-feet constellation' with the three handle stars called ḍhālbar 'thieves', Gondi Sedona Katul with Kalher 'thieves' and a story that the old woman must never fall asleep or the world ends, and — printed in 1916, before any of the fieldwork — the Chhattisgarhi Dhuri belief that the Great Bear is a cot with three thieves tied to it. Mundari alone turns the same cot into a bier, with Alioth and Mizar as mourners walking away from the grave. (2) Orion is a plough or a yoke, never a hunter: Santali and Mundari araṛ ipilko 'the yoke stars', Mundari siṭan ipil 'the ploughman' for Rigel, Kurukh ugtā-pagṛī bīnkō, Gondi Nangar. Only the Toda break this, reading the sword as a porcupine the belt stars are running away from. (3) The Milky Way is a road with livestock on it: Mundari gaiko hora 'the cattle road', walked by Lugu, Siṅgboṅga's cowherd, who is himself the morning star; Kurukh gāy-chour bīnkō, the cattle-track out of the village; Gondi Dhor Sari, the path of the animals; Santali hat dahar, the market road. Only the seafaring Nicobarese make it water — dāk-oal-kalahoiya, 'river in the sky'. A fourth, subtler thread is a bird on a nest with something thrown at it: Mundari putam ipil (the dove, Aldebaran) with jarom ipilkiŋ (her two eggs) and muṅgaru ipilko (the mallet flung at her, the Pleiades); Santali potam bele (the pigeon's eggs, ε Lyrae) with bele kombro (the egg thief, Vega); Gondi Purad and Mes (a bird and its eggs) with the Pleiades thrown at them. Three recorders working a century apart, three different parts of the sky, one story. Meteors are the excrement of the stars in Santali (ipil ic'), Mundari (ipilko ic') and Gondi (sukum pelkta) alike, which follows from stars being living beings — in Ho they are grammatically animate, as Burrows' paradigm ipil / ipilkiŋ / ipilko shows, while trees are not. Comets are a broom in Mundari, Kurukh and Gondi, and in Khasi a star smoking a pipe ('lur-dih-duma). DRY SOURCES, recorded as findings rather than omitted. Bhili: nothing. Neither Russell & Hiralal's Bhil article nor any public-domain dictionary gives a Bhil star name; the only substantial treatment is Shetye, Halkare & Sule, JAHH 26(2), 441-468 (2023), which is in copyright and which could not be obtained in full, so no Bhili entry is offered rather than a guessed one. Naga: Hodson's The Naga Tribes of Manipur (1911) has sun- and moon-worship at Mao, an eclipse rite and a dog-and-moon tale, and not one star name; searched for Pleiades, Orion, Great Bear, Milky Way, pole star and constellation with zero hits. Khasi: Gurdon's The Khasis (1907) likewise yields only Ka Sngi (the sun, feminine) and U Bynai (the moon, masculine) and the story of the moon's spots — every Khasi entry here comes from Nissor Singh's dictionary instead, and the English-Khasi dictionary of 1920 was rejected because its 'Milky Way' is a translator's descriptive coinage, not a Khasi name. Andamanese: Man found exactly one named constellation in the whole archipelago (bela-, Orion's Belt), and Radcliffe-Brown forty years later in the North Andaman states flatly that individual stars and constellations are not recognised there at all — the stars are simply Catlo, the big ones, named for a beetle, and Katan, the small ones, named for the firefly. Russell & Hiralal's four volumes, grepped end to end, produced sky cosmology (Bhuiya, Turi, Dumal) but only one community with named figures, the Dhuri. DSAL hosts no Munda, Kurukh, Gondi, Bhili, Khasi or Andamanese dictionary at all. Bodding's Santal Dictionary is on the Internet Archive only as vol. V, so his entries for arar ipil, buḍhi parkom and ipil itself could not be read; likewise Encyclopaedia Mundarica vols. IX, XI and XIV-XVI are missing, which is why several Mundari names rest on the ipil article alone.
+
+## Caveats, per research file
+
+Read these before treating any entry as settled.
+
+### Hindi, Urdu, Punjabi & Rajasthani
+
+- NO RAJASTHANI ENTRY IS CLAIMED. Despite the source group's title, not one Marwari or Rajasthani star name could be verified from a public-domain printed source with a page reference. Panjab, Indian and North Indian Notes and Queries (1883-96) carry no Rajputana star note; Fallon's Māṛ. (Marwari) tags never fall on a sky word; Maya Singh covers Punjabi only. The standard Rajasthani lexicon (Sitaram Lalas, Rājasthānī Sabad Kos) is in copyright and was not consulted. This is a real gap in the file, not evidence that Rajasthani lacks such names.
+- The `register` field is an analytic judgement by the compiler, not a label found in the sources. `sanskritic` is used for both tatsama forms (dhruv-tārā, ākāś-gaṅgā) and tadbhava reflexes in vernacular phonology (sūk < Śukra, kirhkaṭī < Kṛttikā, rohṇī, magghā); `vernacular` is used mainly for the Perso-Arabic astronomical vocabulary naturalised through Urdu; `folk` for names a dictionary or ethnographer flags as colloquial, rural, proverbial or metaphorical. Boundary cases (agast, ket, hathiyā, nakhat) are Sanskrit words that have become folk-calendrical property, and are tagged `folk` because that is how the sources use them.
+- No entry in this file is tagged `tribal`. Fallon systematically supplies Santali equivalents (Ursa Major buṛhī parkom, Milky Way panjar / ḍahar, comet chanḍbol ipil) and they are quoted in the notes where they occur, but Santali is Munda, outside the four languages of this source group, and no entry is claimed on that basis.
+- Script discipline: Platts prints Devanagari beside the Urdu script only for words he classes H (Hindi) or S (Sanskrit); for A (Arabic) and P (Persian) headwords he prints the Urdu script alone. Nearly all the interesting folk names are sub-entries printed in transliteration only - in those cases `name_native` is null rather than back-transliterated. Where Devanagari and the Urdu script are both given the Devanagari is placed first, separated by a slash. The printed originals of Platts, Fallon and Shakespear use Nastaʿlīq; the DSAL digital text renders it in naskh, and that is what is reproduced here.
+- Notes and Queries citations give the volume and the numbered note, which is the standard and unambiguous locator for these journals; a printed page is added where the running head was legible in the scan. The scanned OCR of these volumes garbles diacritics badly, and quotations from them have been normalised in the diacritics only - wording and word order are as printed. Where a reading is uncertain the entry says so in `confidence`.
+- Fallon (1879) glosses Arabic suhail as 'the dog star', i.e. Sirius. This is an error - Shakespear (1834), Platts (1884) and Fallon's own agas'ti entry all give Canopus. No independent Hindi, Urdu or Punjabi name for SIRIUS was found anywhere in these sources, and none is claimed. Likewise no vernacular name was found for Antares, the Hyades as a separate group, or Cassiopeia.
+- Fallon (p. 115) offers 'H. nāo' (boat) as the Hindi for Argo Navis. That looks like a lexicographer's translation of the Latin constellation name rather than an attested folk usage, so it is deliberately excluded from the entries.
+- McGregor's Oxford Hindi-English Dictionary (1993), Bahri (1989) and Caturvedi (1970) are in copyright. They were consulted to check which of these names survive into modern standard Hindi - kacpaciyā/kacpacī, hathiyā kī rāh, quṭub, suhel, pucchal tārā all do - but they are cited in `notes` only and never quoted.
+- Several names are attested for one sky object by more than one source with divergent regional marking: palang tīn cor, dum kā tārā and gagan ke bacce-wālī murġī are marked dakh. (Deccani) by Shakespear in 1834 but appear unmarked in Platts and Fallon fifty years later, which may mean northern spread, or may mean only that Platts and Fallon did not mark their sources. Both readings are left open.
+- The Panjabi Great Bear divides differently from the Hindustani one: Dames records the four bowl stars and the three handle stars under separate names (palang-pāwe, traṅgaṛ) in Jhang, while O'Brien's Multani Glossary makes traṅgar the whole constellation. Both are entered, with the disagreement stated.
+
+### Marathi, Konkani & Gujarati
+
+- Marathi is over-represented here, and that is a finding rather than a sampling error: Molesworth's 1857 dictionary is by a wide margin the richest source in the set, and DSAL's combined Marathi search puts three further dictionaries (Date's Maharashtra Sabdakosa, Vaze, Tulpule & Feldhaus) behind the same query. Konkani and Gujarati have nothing comparable, so the imbalance in the file partly reflects the imbalance in the lexicography.
+- SCRIPT DISCIPLINE. name_native is filled only where the source actually prints an Indic script. That is true of every Marathi entry (Molesworth, Vaze, Tulpule and Date all print Devanagari) and of none of the others. Enthoven's Folklore of Bombay prints roman only, in italic and without any diacritics; the Bombay Gazetteer prints roman with acute accents; Maffei's English-Konkani half prints roman only (his Konkani-English half uses Kannada script). Khatale and Bagale are certainly Molesworth's खाटलें and बाजलें, but the Enthoven entries leave name_native null rather than back-supply a script Enthoven never used.
+- OCR. All the non-DSAL sources were read from archive.org djvu.txt derived from 19th- and early-20th-century scans, and the OCR is damaged. Quotes were taken only from passages that render cleanly, and where a word is known to be mis-scanned this is stated in the entry's notes (Enthoven's Agastya prints as 'Agasiya' and Saptarishi as 'Saftarishi'; Maffei's (H. K.) mark prints variously as '{U, K.}' and '{B. K.}'; the Nasik gazetteer's Hasta prints as 'Rasta'). Where a whole passage was too corrupt to quote, it was left out.
+- GUJARATI IS THE WEAK POINT, AND THE REASON IS MECHANICAL, NOT SUBSTANTIVE. DSAL has no Gujarati dictionary. Four Gujarati dictionaries on archive.org were downloaded and searched — Belsare's Etymological Gujarati-English Dictionary, both volumes of Mehta & Mehta's Modern Gujarati-English Dictionary, and Montgomery's A Dictionary English and Gujarati (1877) — and their ENGLISH sides confirm that the entries exist and that the expected sanskritic set is there (Kṛttikā = the Pleiades, Svātī = Arcturus, Saptarṣi = Ursa Major, Dhruva = the polar star, Ākāśagaṅgā = the Milky Way; Montgomery has headwords for both PLEIADES and MILKY-WAY). But in every one of them the Gujarati script and the roman transliterations alike come out of the scan as noise — Montgomery's Gujarati for PLEIADES reads 's(uiSt (t4A)n.' — so no name could be transcribed to the standard this file uses, and none was guessed. The two Gujarati entries here therefore rest on the gazetteers, which romanize. A Gujarati pass with usable page images, or with Shapurji Edalji's 1868 dictionary, is the obvious next step, and it should be aimed squarely at whether Gujarati has anything answering to Marathi's विंचू, खाटलें, मेढ and हत्ती.
+- THE COT FIGURE IS NOT DIAGNOSTIC. Enthoven applies it, on one page, to both Orion and the Great Bear. A folk report that 'the cot' is a constellation therefore does not by itself identify a star group, and cot-names collected in other Indian languages should not be assumed to mean Ursa Major.
+- HOMONYM TRAPS. विंचू is the ordinary Marathi word for a scorpion and for Scorpius, so an isolated occurrence is not evidence for the Pleiades. हत्ती is the ordinary word for an elephant. मेढ is the ordinary word for a forked post. काथ्या is also coir rope. खाटलें is also, in Date, a bullock-cart. Every one of these needs its astronomical sense certified by the dictionary, not inferred from context.
+- COMPETING NAMES, recorded rather than resolved: Citrā (Spica) has two Marathi rain-names, अंधळ्या and कडप्या, keyed to different effects of the same rain; the Milky Way has three names in Enthoven and eight in Molesworth; Punarvasu and Puṣya each have two agriculturists' names; and Enthoven's own index disagrees with his body text on whether the Milky Way name is Kavadgantak or Kavadghantak.
+- REGIONAL MARKS. Molesworth's R (used on कात्या, काथ्या) means, by his own Preface (p. xvi), the Rajapur district and the country south of it — the southern Konkan, bordering Konkani territory; C means the Konkan generally. Date's mark (कुण.) on खाटलें could not be expanded: DSAL's front matter for the Maharashtra Sabdakosa is an un-OCRed image PDF. It is most plausibly कुणबी, the cultivator dialect, but that is not verified.
+- DSAL ENDPOINT NOTE for anyone rebuilding this: molesworth_query.py, vaze_query.py and tulpule_query.py support full-text search (matchtype=containing without searchhws), which is how the English-side hunt was done. date_query.py returns empty pages for every query; Date's entries are reachable only through the combined marathi_query.py endpoint, and only by exact headword. Full-text search on marathi_query.py also fails.
+- OUT OF SCOPE but noted in passing: the Dharwar gazetteer (1884, p. 271) records a distinct Kannada set of 'star-chambers' — Mrigshirshe, A'rdi, Maghe, Hubbe, Hastu, Chette, Dhanishte — grouped into mungári and hingári seasons. The Gujarat Parsi section of the gazetteer (Vol. IX Pt II) gives Avestan star names (Teshtar = Sirius, Haptoiringa = the Great Bear); those belong to Zoroastrian tradition, not to the Gujarati language, and are excluded.
+- SANSKRIT LINKAGE. sanskrit_db_id points into docs/star-names/star-names.json. It is null where the vernacular term names something the Sanskrit database has no entry for (a comet, a meteor, a planet, a block of asterisms, a sowing season). No file under docs/star-names/ was modified.
+
+### Bengali, Assamese & Odia
+
+- SCOPE. This file holds Bengali, Assamese and Odia only. The Munda and Dravidian parallels that make the western-Odia folk layer intelligible — Santali arar 'the Yoke' for Orion's Belt, Mundari moṅgaru ipilko 'the wooden mallet' for the Pleiades and topaḍ parkom ipilko 'the bier stars' for the Big Dipper, Kurukh khaṭī pāwā bīnkō and ugtā pagsi bīnkō, the Mundari and Kurukh cattle-track names for the Milky Way — are documented in the notes of the Odia entries with author, page and edition, but are NOT entered here as records: they belong to the sibling file sources/tribal.json, which covers them in far more detail. One body of tribal material found in this pass appears NOT to be covered there and should be added to it rather than to this file: Sarat Chandra Roy, The Birhors (Ranchi, 1925), pp. 386 and 496, giving Birhor [biy] Bhurka for Venus as morning star, Kidu Ipil for the evening star, Kumbūru lagu Ipil 'thief-driving star' for a bright object rising before Bhurka, the famine forecast read from which of the two apparitions is the more prominent in a given year, and chāndi for a meteor, at which all Birhors spit.
+- COPYRIGHT. Praharaj (1931-40), Dāsa (1937), Haughton (1833), Ram Comul Sen (1834), Bronson (1867), Campbell (1899), Hahn (1903), Risley (1891) and Roy (1925) are out of copyright. Two are not: DSAL prints copyright notices for the Samsad Bengali-English Dictionary, 3rd ed. (2000, Shishu Sahitya Samsad) and the Candrakanta Abhidhana, 2nd ed. (1962, Assam Sahitya Sabha), and the Encyclopaedia Mundarica's status was not established. What is quoted from those is in every case a single short lemma, quoted because a name without its printed definition is not citable evidence. Anyone republishing this database should re-examine that judgement.
+- OCR AND SCRIPT. Three separate transcription problems are flagged per entry rather than silently fixed. (1) The DSAL transcription of the Candrakanta Abhidhana renders the Assamese vowel sign ৃ as ৱ throughout — মৱত্যু for মৃত্যু, কৱত্তিকা for কৃত্তিকা, বৱষ for বৃষ. (2) The archive.org OCR of Hoffmann, Campbell and Roy mangles the roman diacritics (moT^garuipilko for moṅgaru ipilko, Bhtirka for Bhurka); these are quoted as scanned with the normalised reading marked editorial in the notes. (3) The archive.org OCR of Bengali, Assamese and Odia SCRIPT is unusable in every scanned book tried — Bronson, Carey, Morton, Sykes, Sutton, Ram Comul Sen. Where the script was needed it was read off the page image; where it could not be read, the entry was dropped rather than back-transliterated.
+- WHAT I READ MYSELF. Every DSAL quotation was fetched and its presence at its own source_url verified programmatically. Of the page-image sources I read three images directly — Haughton p. 419, Ram Comul Sen vol. 2 p. 168, Bronson p. 439. The remaining image-sourced material (Bronson p. 327, Hahn's Kurukh set, the Hoffmann passages taken from the scans rather than the OCR stream) was transcribed by a second reader working to the same rules; those entries are graded 'likely' rather than 'certain' and say so in their notes.
+- Praharaj duplicates many headwords under variant spellings (ଶୁକ୍ ତରା / ଶୁକ୍ ତାରା, ପହରିକିଆ ତରା / ପହରିକିଆ ତାରା, ହରିତାଳିକା / ହରିତାଲିକା / ହରିତାଳୀ) and the duplicates sometimes disagree — the three Haritāḻī entries cannot agree whether the Milky Way runs north to south or south to north. Where duplicates exist one has been made the entry and the others named in its notes. He also prints Bengali and Hindi equivalents in a synonym column; those are second-hand and their DSAL transcription is unreliable (the same Bengali word appears as লেজেতারা at one duplicate headword and নেজান তারা at the other), so no entry rests on them.
+- DSAL's headword index and the query URL are byte-sensitive: পপীয়া is indexed with the precomposed U+09DF and ଯାମ୍ୟ with U+0D5F, and a query typed with the nukta sequence returns nothing. DSAL's `page=N` browse also silently jumps to the start of an indexing block, so it is not a reliable citation target. Every source_url here is a headword or full-text query that was fetched and checked, except where a `page=` URL was verified to contain the quoted text.
+- REGISTER tags describe how the NAME is formed and where it is used, not the etymology of every morpheme. কালপুরুষ is 'vernacular' although both its parts are Sanskrit, because the application to Orion is an eastern New Indo-Aryan development. ନଙ୍ଗଲ ଜୁଡ଼ା is 'folk' rather than 'tribal' because Praharaj marks the WORD provincial Sambalpuri and attributes only the OBSERVANCE to the Khaṛiās. 'tribal' is reserved for names recorded in a tribal language.
+- LITERAL MEANINGS marked as the compiler's in the notes (kukurabāhī, keuñṭi, bāj-khaṭ as 'bier', khacuā) are readings of the compound, not the dictionaries'. Where a dictionary supplies the gloss itself — kaṭhalā = the carpenter's mallet, jhām̐ṭā = because it is shaped like a broom — that is stated.
+- sanskrit_db_id points at the entry in docs/star-names/star-names.json for the same SKY OBJECT, so the two databases can be joined on the object. It does not assert that the vernacular name descends from the Sanskrit one; the register field says that. It is null where no counterpart entry exists (Venus, comets, meteors) or where linking would assert a false identity — ଲୋପାମୁଦ୍ରା, a small star south-east of Canopus, is deliberately NOT linked to lopamudravallabha, which is Canopus itself.
+- NOT SEARCHED, and worth a later pass: the Journal of the Asiatic Society of Bengal, which is large and was not reached; Bodding's Santal Dictionary vols 1-4, which are not readily findable online and would almost certainly deepen the Santali set; Encyclopaedia Mundarica vols 1, 4 and 8, which carry cross-references to the Orion and Pleiades material that were not chased to printed pages; and Bengali-language popular astronomy and almanacs, which are effectively unsearchable because Bengali-script OCR yields no greppable text — they would have to be read page by page.
+- The register value 'tribal' is unused in this file by design - see the scope caveat. The registers present are sanskritic, vernacular and folk. 'folk' is applied only where the dictionary itself marks the word rustic or provincial: Praharaj's ଗ୍ରା. (gramya) and ପ୍ରାଦେ. (pradesika, with the district named - Sambalpur, Garjat), and Dāsa's গ্রা◦.
+
+### Tamil
+
+- LINKING RULE for sanskrit_db_id: the id links on REFERENT identity, i.e. it points to the entry in docs/star-names/star-names.json that denotes the same sky object, choosing the closest-matching Sanskrit name where several exist. It does NOT assert that the Tamil name is a borrowing or a translation of that Sanskrit name — for the vernacular entries (aṟumīṉ, eḻumīṉ, naṭunāḷ, kāṟṟumuntunāḷ, mācu and the rest) it is precisely the point that no Sanskrit counterpart name exists. Where the Tamil name IS the Sanskrit name in Tamil phonology, the notes say so. Planets have no ids because the Sanskrit database does not carry them individually.
+- The Tamil Lexicon prints its sources as Tamil sigla whose expansions are in front matter that survives on DSAL only as scanned images without a text layer. The sigla used in this file are expanded as: பிங். = Piṅkala Nikaṇṭu, திவா. = Tivākaram, சூடா. = Cūṭāmaṇi Nikaṇṭu, யாழ். அக. = Yāḻppāṇa Akarāti, (W.) = Winslow's dictionary. These four nikaṇṭu identifications are corroborated from the Lexicon's own headwords பிங்கலம், திவாகரம், சூடாமணிநிகண்டு and நிகண்டு, which describe each work. The regional labels Pond., Nāñ., Loc., Colloq. and (J.) are quoted as printed and their expansions are not asserted beyond what the entries themselves show.
+- Every Caṅkam quotation was read in a Project Madurai UTF-8 e-text that was actually fetched, and every Tamil Lexicon and Winslow quotation was read at the DSAL query URL given. Nothing has been transcribed from memory, back-transliterated, or normalised. Where a text prints editorial asterisks, brackets or restorations (Patiṟṟuppattu 59, Akanāṉūṟu 17), the entry says so.
+- Project Madurai e-texts are volunteer transcriptions of printed editions and carry occasional typographic damage; a few characters in the Paripāṭal file are corrupted. All lines quoted here were checked for legibility, but they are not a critical edition and line-numbering follows the file's own markers where these exist.
+- One line-number discrepancy is recorded rather than resolved: the Tamil Lexicon cites veṇmīṉ at Paṭṭiṉappālai 14, while both the Project Madurai plain text and Nacciṉārkkiṉiyar's own numbering in U. Vē. Cāminātaiyar's edition put it at lines 1-2, the poem's opening couplet.
+- Caṅkam dating is contested. The 'c. 1st-3rd c. CE' and similar ranges in source_date are conventional and approximate; nothing in this file depends on them.
+- The identifications of Caṅkam star-words with particular modern objects are the Tamil Lexicon's and the mediaeval commentators', not the poems'. The verses generally say 'the white star', 'the red star', 'the northern star'; it is Nacciṉārkkiṉiyar and the nineteenth- and twentieth-century lexicographers who say Venus, Mars, Arundhatī. Entries where this matters are marked 'likely' or 'disputed' and the reasoning is in the notes.
+- The mīṉ / mīṉ 'star' / 'fish' homonymy is systematic and dangerous: a large majority of Tamil Lexicon headwords ending in -mīṉ are fish. Every -mīṉ entry in this file was taken from a headword whose printed definition is astronomical, and the notes flag the fish-homonym wherever the same spelling carries one (ciṟumīṉ, viḻumīṉ, cemmīṉ, vāṉmīṉ). The parallel veḷḷi 'silver / whiteness / Friday / Venus' trap is flagged on every veḷḷi entry.
+- Edgar Thurston's Castes and Tribes of Southern India (1909), all seven volumes searched in full text on archive.org, yielded almost nothing for Tamil vernacular star-names: what star material it has is Brahmanical marriage ritual (the showing of Dhruva and Arundhatī), nakshatra-matching for marriages, and festival dates. The one substantive Tamil item — the Nāṭṭukkōṭṭai Chetti Ārudrā rite — reaches this file through the Tamil Lexicon's own citation of Thurston vol. V p. 264, not through a passage located directly. No community-specific Tamil sky-lore of the kind the sources were searched for was found there.
+- Fabricius's Tamil and English Dictionary is not on DSAL and was not consulted; Winslow (1862) was, and is quoted or cited where it adds colloquial evidence the Tamil Lexicon lacks.
+- Modern scholarship on Tamil astronomy and on Caṅkam chronology is in copyright and has not been quoted anywhere in this file; no in-copyright translation of any Caṅkam poem has been used, and the English renderings that appear in usage_note fields are the compiler's own working paraphrases, offered as orientation and not as translations of record.
+- This is a lexicographical and literary compilation, not a field survey. Living folk and fishermen's star-names in coastal Tamil Nadu, and any tribal astronomies of the Nilgiris or the Western Ghats, are almost certainly richer than what two nineteenth- and twentieth-century dictionaries preserve; no entry in this file is tagged 'tribal' because no citable tribal Tamil star-name was found in the sources searched.
+
+### Telugu & Kannada
+
+- KITTEL EDITION. The Kannada material is quoted from the text DSAL keys, which is the revised and enlarged edition of Kittel published by the University of Madras in 1968-71, not the Basel Mission first edition of 1894. The definitions are Kittel's own and the page numbers are those of the DSAL text; source_date is given as 1894 for the work, but anyone citing a page should use the citation string, which names the edition. The 1894 pagination has not been separately verified here, and the archive.org scans of the first edition OCR the Kannada script too badly to check it against.
+- BROWN EDITION. The Telugu material is the 1903 revision of Brown's dictionary (Society for Promoting Christian Knowledge, Madras), which is the DSAL text, not the 1852 first edition. Where the 1903 revisers added or altered an entry this cannot be detected from the DSAL text alone.
+- DSAL TYPOGRAPHY. The keyed DSAL text carries visible faults which are reproduced verbatim in the quotes rather than silently mended: 'kummara-sārc-ṭsukka' and 'The The name on the constellation' at Brown p. 296; 'tēlu-vāsi' for tēlu-rāsi at p. 554; 'the cource of Canopus' at p. 24; 'శక్రుడు' for శుక్రుడు at p. 1226; 'twenty lunar mansions' for twenty-seven at p. 628; the garbled 'ఛ?ుక్క' at p. 449; the headword for Brown p. 626 filed under ధ్యానము when the entry is ధ్రువుడు; 'constellaiion' at Kittel p. 646.
+- ROMANISATION. name_roman follows the source's own transliteration where the source gives one (Brown's ṭsukka is normalised to cukka, and Kittel's ar̤il to aṟil, for consistency within this file); where the source romanises only and prints no native script — the Thurston material — name_native is null and has NOT been back-transliterated.
+- GWYNN. Gwynn's Telugu-English Dictionary (1991) is in copyright. It is used for one entry only, the Telugu Milky Way, and the quote there is confined to the bare lexical gloss; nothing of his discussion is reproduced.
+- THE TELUGU DEŚYA SET IS BROWN'S, NOT A FIELD RECORD. Brown gives no source for these names and no indication of where or by whom they were used; they are likely to come from a Telugu nighaṇṭu tradition rather than from his own enquiry. Their currency in speech in 1852 or 1903 is not established by this evidence, only their currency in the lexicon.
+- GAZETTEERS NOT PRODUCTIVE. Mysore Gazetteer vol. I (Hayavadana Rao, 1927) was downloaded and searched: it contains no nakṣatra or kārti material. The Bellary agricultural star-calendar is therefore carried here on Thurston alone. District gazetteers for Hyderabad and the Telugu districts were not obtained.
+- REEVE/SANDERSON NOT USABLE. The Reeve-Sanderson Canarese-English Dictionary (1858) was downloaded from archive.org, but the OCR of the Kannada script is too corrupt to quote verbatim, so it contributes nothing and no entry rests on it. Sankaranarayana's Telugu-English Dictionary was not located in a usable full-text form.
+- IDENTIFICATIONS. modern_star for the lunar mansions is taken from the Sanskrit database's yogatārā identifications, not from Brown or Kittel, who almost never give one (the exceptions — Arcturus for Svāti, Spica for Citrā, Canopus for Agastya, Sirius for Lubdhaka, the Pleiades for Kṛttikā — are quoted where they occur). A vernacular name and its Sanskrit counterpart are assumed to denote the same star; where a source's own identification conflicts with that, as with Arundhatī, confidence is set to disputed and the conflict is stated.
+- REGISTER IS A JUDGEMENT. Only one name in the whole file is graded for register by its source: Brown calls asilēru 'a vulgar name'. Every other register tag is the compiler's, assigned on the word's material (Dravidian vs Sanskrit), its formation (native compound vs borrowing), and the source's own labelling ([Tel.], Tbh., My., Prv.). Names whose material is Sanskrit but whose compounding is not — sañje-tāraki, sappapu-cukka, jannapu-cukka, maddela-rūpu-rikka — are tagged vernacular, and the reasoning is stated in each entry's notes.
+
+### Malayalam, Tulu, Kodava & Sinhala
+
+- Gundert 1872 is quoted through the DSAL digitisation; his old orthography (ററ for ṟṟ, ളള for ḷḷ) and DSAL's automatic romanization are reproduced as printed, including obvious OCR damage marked /?/. Page numbers are Gundert's own.
+- Register tagging is the compiler's, applied by a stated rule: 'sanskritic' where the source marks the word S. or Tdbh./tadbhava or Eḷu ('E. of'), i.e. a Sanskrit or Pali word in the local phonology; 'vernacular' where the word is formed from inherited material in the language itself, including calques whose morphemes are all native; 'folk' where the source marks it dialectal, rural, or as an omen/festival term; 'tribal' is used nowhere in this file, since none of these four languages is tribal and no tribal source was reached.
+- The identification of ഞേങ്ങോല്‍ / മുഴക്കോല്‍ with Orion's Belt is the compiler's inference from Gundert's rising datum, not the source's. Gundert names no stars. It is filed as disputed and should not be cited as an attested identification.
+- Gundert's own star identifications are occasionally wrong or eccentric and have not been silently corrected: ഋക്ഷം glossed 'Ursa minor' where Sanskrit ṛkṣāḥ is the Great Bear; അത്തം (Hasta) as 'Coma Berenices'; ചിത്ര given as both Spica and 'bright star in Bootes'; ആതിര (Ārdrā) placed in Gemini. Each is flagged in the entry's notes.
+- For Tulu, the OCR of the Kannada script in Männer 1886/1888 is unusable; every Tulu form here was read from a page image, and one reading — the medial conjunct in ಹೊರಸಿನ್ಟ (Ursa Major) — remains uncertain even at 2400px. Männer's own romanizations are given where he prints them.
+- Burrow & Emeneau's Dravidian Etymological Dictionary (2nd ed. 1984) is in copyright. It is quoted here only as raw lexical data at minimum length, for attestation of forms that appear nowhere else; the analysis built on it is paraphrase.
+- Cole 1867 prints Kannada script for Kodava, but the archive.org OCR of it is heavily damaged; the Kodava script forms are reconstructions from the scan checked against Cole's own romanizations, and the romanizations should be preferred where they differ.
+- Carter's entries tagged 'E. S.' are Carter citing his own English-Sinhalese volume — a signal that the Sinhala is his coinage rather than attested vernacular. Every such item (the Ursa Major bear-calques, sapta-mūnī-cāraya for Charles's Wain, visiṣṭha) is flagged in place and none is counted as vernacular.
+- Carter p. 61 glosses Arundhatī as 'Pleiades'; this is an error, corrected by Jayatilaka p. 641 to Alcor. Jayatilaka p. 3166 prints Sinhala කුඩාවරහන against the romanization kuḍā-valahā, which do not correspond; that form has therefore been left out of the entries.
+- Jayatilaka's dictionary is incomplete — the pages reached run only to about ග (p. 4095) — so a 'not in Jayatilaka' result for a headword later in the alphabet means outside coverage, not absent from the language.
+- The nakshatra numbering differs between and within the sources (Carter counts anura 17th and svāti 15th; Clough counts visākhā 16th; Carter is internally inconsistent about the 20th and 21st; both oscillate between 27 and 28 mansions). No number has been normalised.
+- Not reached: Indian Antiquary vols. XXIV–XXVI, where Burnell's 'Devil Worship of the Tuluvas' continues (vol. XXIII was searched and contains no star material in the paḍdanas); the Malabar District Gazetteer of Innes & Evans (1908), which could not be located on archive.org and which may carry a fuller ñāṟṟuveḷa table than Gundert's; and any printed source on Lakshadweep or Malabar navigational star-lore, which repeated searching failed to turn up in the public domain.
+- The Kannada 'karte' system — asterism rain-periods governing sowing, cognate with the Malayalam ñāṟṟuveḷa — is documented for the Lingayats of Bellary in Thurston vol. IV, but Bellary is Kannada country and the passage is therefore comparanda, not an entry in this file.
+
+### Adivasi & tribal traditions
+
+- Every name here was read from OCR of a scanned page, not from a keyed text. Colonial-era romanisations of Munda, Kurukh and Andamanese are dense with diacritics and the DjVu OCR loses them systematically: Hoffmann's retroflex ṛ comes out as 'rd', Bodding's hooked vowels as 'g' and 'q'. Where a form could be checked against a second scan of the same book, or against its own alphabetical entry elsewhere in the same work, that was done and the reading is given plainly. Where it could not, the notes say so and print what the scan actually shows. Four names are flagged in their notes as unresolved: Mundari topagara/topoḍ-akan, Mundari barai ipil, Santali bele kombro (final syllable) and Andamanese ig-yádowa-.
+- Nothing was quoted from a source in copyright. The twenty Gondi entries are paraphrased throughout from Vahia & Halkare (2013) and their quote fields are null; the same applies to the Bhil paper of 2023, which is cited in the summary as a lead and used for nothing else. Elwin's Baiga and Muria monographs were not used, for the same reason.
+- Modern identifications are the source's own except where the source gives none, in which case the fields are left empty and confidence is 'unidentified'. Nine entries carry that grade — Santali Kaemaiya and sin ipil, Kurukh mugrā, Khasi 'lur-mangkara, Toda Keirt, and Gondi Purad/Mes, Khala, Irukna Mara and Khayan — and they are kept rather than dropped, because an unidentified indigenous figure is a result. Seven more are graded 'disputed' where the sources disagree with each other or with themselves.
+- Page numbers were derived from the running heads of the specific Internet Archive scans cited, not from a physical copy, and for two-column dictionaries they may be out by one. Encyclopaedia Mundarica is cited by column number, which is how it is paginated. Burrows' Ho grammar has no recoverable page numbers in its OCR and is cited by headword only; Whitehead's Car-Nicobarese dictionary likewise.
+- Register is assigned as the source presents the material. 'sanskritic' marks the four cases where a community is recorded using a Sanskrit-derived term — Santali ruhni and sukro/Sani, Mundari Sukura/Sukurani, Gondi Dhruva Tara — and in every one of them the recording ethnographer says himself that the term is a loan, a book-word or a late addition. Those judgements are theirs, not mine.
+- Several of these sources are condescending about the people they describe, and that bears on reliability. Rivers concludes that most or all Toda star ideas are borrowed, a judgement he reaches partly on the assumption that Toda folklore is thin. Man explains the single Andamanese constellation name by saying the islanders 'never venture upon any distant voyages'. Hoffmann calls the Munda bed 'a miserable bed' and Munda star-folklore 'rather scanty' — immediately before filling seven columns with it. Russell's framing throughout is evolutionary. None of that editorialising is reproduced in the entries; where it affects what was collected, the notes say so.
+- The languages field carries one addition to the brief's list, Chhattisgarhi, for the three Dhuri entries from Russell & Hiralal. They are marked register 'folk', not 'tribal': the Dhuri are a caste, not an Adivasi community. They are here because they are the earliest printed witness to the cot-and-three-thieves figure that four tribal traditions independently share.
+- No Ho, Khasi, Andamanese or Nicobarese source consulted attached a story to a star name. For those communities this file records vocabulary, which is what survives; the narrative material is Munda, Santal, Kurukh, Gond and Toda.
+- Two leads were identified and not followed to the end: M.B. Bhaduri, 'Astronomy of the Mundas and their star names', Man in India, read at the second Oriental Conference and attacked at length by Hoffmann for its errors; and the JAHH series by Vahia, Halkare and colleagues on the Korku, Kolam, Banjara and Pardhi, which extends the same fieldwork to communities outside this file's language list.
