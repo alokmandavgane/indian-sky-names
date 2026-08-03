@@ -434,7 +434,7 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_2,2.34.2) ka_i,436.15-437.7 {3/24} śiśiravasantau udagayanasthau kṛttikārohiṇyaḥ .
+> śiśiravasantau udagayanasthau kṛttikārohiṇyaḥ .
 >
 > *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). Pāṇini's indirect witness reads ४.२.२३ विभाषा फाल्गुनीस्रवणाकार्त्तिकीचैत्रीभ्यः (Sanskrit Wikisource; GRETIL 'alt': 'vibhāṣā phālgunī-sravaṇā-kārttikī-caitrī-bhyaḥ'). The gaṇapāṭha line reads 'अंशु। जन। राजन्। उष्ट्र। खेटक। अजिर। आर्द्रा। श्रवण। कृत्तिका। अर्ध। पुर। अंश्वादिः।'*
 >
@@ -537,7 +537,7 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_2,2.34.2) ka_i,436.15-437.7 {1/24} ṛtunakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām . {2/24} ṛtunakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām pūrvanipātaḥ vaktavyaḥ . {3/24} śiśiravasantau udagayanasthau kṛttikārohiṇyaḥ .
+> ṛtunakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām . ṛtunakṣatrāṇām ānupūrvyeṇa samānākṣarāṇām pūrvanipātaḥ vaktavyaḥ . śiśiravasantau udagayanasthau kṛttikārohiṇyaḥ .
 >
 > *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). The first sentence is Kātyāyana's vārttika, which the GRETIL source marks in bold in its HTML original. Patañjali's parallel at 1.2.63 reads '(p_1,2.63) ka_i,231.14-232.7 {2/24} kṛttikārohiṇyaḥ .'*
 >
@@ -1097,7 +1097,7 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_2,3.45) ka_i,460.2 {1/4} iha kasmāt na bhavati . {2/4} adya puṣyaḥ . {3/4} adya maghā iti . {4/4} adhikaraṇe iti vartate .
+> iha kasmāt na bhavati . adya puṣyaḥ . adya maghā iti . adhikaraṇe iti vartate .
 >
 > *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). The sūtra commented on is २.३.४५ नक्षत्रे च लुपि (Sanskrit Wikisource; GRETIL: 'nakṣatre ca lupi'). The 3.1.26 passage reads '(p_3,1.26.6) ka_ii,34.14-36.21 {26/80} puṣyayogam jānāti puṣyeṇa yojayati . {27/80} maghābhiḥ yojayati .'*
 >
@@ -1169,7 +1169,7 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_1,2.60) ka_i,231.4-7 {2/6} katham udite pūrve phalgunyau , uditāḥ pūrvāḥ phalgunyaḥ , udite pūrve proṣṭhapade , uditāḥ pūrvāḥ proṣṭhapadāḥ . {3/6} phalgunīsampīpagate candramasi phalgunīśabdaḥ vartate .
+> katham udite pūrve phalgunyau , uditāḥ pūrvāḥ phalgunyaḥ , udite pūrve proṣṭhapade , uditāḥ pūrvāḥ proṣṭhapadāḥ . phalgunīsampīpagate candramasi phalgunīśabdaḥ vartate .
 >
 > *IAST verbatim from the GRETIL Mahābhāṣya plaintext (Kielhorn 1880–85 rev. Abhyankar; text in pausā). 'sampīpagate' is GRETIL's reading, presumably for saṃnipatite/sannipāta-gate or samīpa-gate; I have not emended it. The underlying sūtra is १.२.६० फल्गुनी-प्रोष्ठपदानां च नक्षत्रे (Sanskrit Wikisource).*
 >
@@ -1377,7 +1377,7 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_1,1.62.3) ka_i,162.22-164.10 {40/65} ṅīp : citrāyām jātā citrā .
+> ṅīp : citrāyām jātā citrā .
 >
 > *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā).*
 >
@@ -3242,7 +3242,7 @@ Bṛhat Saṃhitā ch. 13 gives the east-to-west order of the seven rishis and p
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_2,1.52) ka_i,396.13-23 {13/25} iha tarhi saptarṣayaḥ igante dvigau iti eṣaḥ svaraḥ prāpnoti . … {21/25} katham saptarṣayaḥ . {22/25} antodāttaprakaraṇe tricakrādīnām chandasi iti evam etat siddham .
+> iha tarhi saptarṣayaḥ igante dvigau iti eṣaḥ svaraḥ prāpnoti . … katham saptarṣayaḥ . antodāttaprakaraṇe tricakrādīnām chandasi iti evam etat siddham .
 >
 > *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā); the ellipsis marks omitted intervening sentences of the same passage.*
 >
@@ -4034,7 +4034,7 @@ Every one of these is a real attested name for an asterism that also appears abo
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_1,2.63) ka_i,231.14-232.7 {6/24} ayam tiṣyapunarvasuśabdaḥ asti eva jyotiṣi vartate . … {11/24} tiṣyapuṣyayoḥ nakṣatrāṇi yalopaḥ vaktavyaḥ … {12/24} tiṣyapunarvasuparyāyavācinām api yathā syāt : puṣyapunarvasū sidhyapunarvasū .
+> ayam tiṣyapunarvasuśabdaḥ asti eva jyotiṣi vartate . … tiṣyapuṣyayoḥ nakṣatrāṇi yalopaḥ vaktavyaḥ … tiṣyapunarvasuparyāyavācinām api yathā syāt : puṣyapunarvasū sidhyapunarvasū .
 >
 > *IAST verbatim from the GRETIL plaintext of the Mahābhāṣya (Kielhorn 1880–85, rev. Abhyankar, e-text by George Cardona), which prints the text in pausā (segmented, sandhi resolved). The GRETIL reference markers ka_i,231.14-232.7 are Kielhorn volume,page.line. Ellipses mark omitted intervening sentences of the same passage; nothing inside the quoted stretches has been altered. The underlying sūtra reads १.२.६३ तिष्य-पुनर्वस्वोर् नक्षत्र-द्वंद्वे बहुवचनस्य द्विवचनम् नित्यम् (Sanskrit Wikisource; GRETIL IAST: tiṣya-punarvasvor nakṣatra-dvandve bahuvacanasya dvivacanaṃ nityam).*
 >
@@ -4986,7 +4986,7 @@ Not names of stars but the words for them, with the oldest Indian etymologies. Y
 
 > *(IAST — the e-text carries no Devanagari copy)*
 >
-> (p_7,3.45.) ka_iii,325.2-326.9 {24/48} tārakā jyotiṣi . {25/48} tārakā jyotiṣi upasaṅkhyānam kartavyam . {26/48} tārakā . {27/48} jyotiṣi iti kimartham . {28/48} tārikā dāsī .
+> tārakā jyotiṣi . tārakā jyotiṣi upasaṅkhyānam kartavyam . tārakā . jyotiṣi iti kimartham . tārikā dāsī .
 >
 > *IAST verbatim from the GRETIL Mahābhāṣya plaintext (text in pausā). The first sentence is Kātyāyana's vārttika (bold in the GRETIL HTML original), the rest Patañjali's exposition. Note that the GRETIL sūtra-number marker 7,3.45 does not necessarily match the vulgate numbering; the Kielhorn volume/page reference iii.325.2-326.9 is the reliable pointer. The Aṣṭādhyāyī sūtra reads ५.२.३६ तद् अस्य संजातंतारका आदिभ्यः इतच् (Wikisource, de-sandhied; GRETIL: 'tad asya sañjātaṃ tārakā-ādibhya itac').*
 >
