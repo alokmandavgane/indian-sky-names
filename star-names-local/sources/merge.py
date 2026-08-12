@@ -1,4 +1,4 @@
-"""Merge the seven per-language-group research files into the vernacular database.
+"""Merge the nine research files into the vernacular database.
 
 Reads sources/*.json, writes ../star-names-local.json and ../README.md.
 Grouping is by sky OBJECT (see canon.py), because the question is what the
@@ -16,8 +16,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.dirname(HERE)
 SANSKRIT = os.path.join(OUT, "..", "star-names", "star-names.json")
 
-FILES = ["hindi_urdu_punjabi", "marathi_gujarati", "bengali_assamese_odia",
-         "tamil", "telugu_kannada", "malayalam_tulu_sinhala", "tribal"]
+FILES = ["hindi_urdu_punjabi", "northwest", "marathi_gujarati", "bengali_assamese_odia",
+         "tamil", "telugu_kannada", "malayalam_tulu_sinhala", "northeast", "himalaya", "maritime_peninsular", "occupational", "tribal",
+         "tribal_fieldwork"]
 
 REGISTER_ORDER = ["vernacular", "folk", "tribal", "sanskritic"]
 REGISTER_BLURB = {
@@ -88,7 +89,7 @@ def main():
 
     db = {
         "title": "Star names in the languages of India",
-        "generated": "2026-08-02",
+        "generated": "2026-08-12",
         "method": (
             "Compiled from public-domain lexicography and ethnography, chiefly the Digital Dictionaries of "
             "South Asia (dsal.uchicago.edu) and archive.org: Platts 1884, Fallon 1879 and Shakespear 1834 for "
@@ -97,11 +98,15 @@ def main():
             "Gundert 1872 for Malayalam; Männer 1886 for Tulu; Carter and Clough for Sinhala; Praharaj and "
             "Jñānendramohana Dāsa for Odia and Bengali; and for the Adivasi languages Hoffmann's Encyclopaedia "
             "Mundarica, Bodding and Campbell on Santali, Grignard on Kurukh, Rivers 1906 on the Toda, Man 1883 "
-            "and Radcliffe-Brown 1922 on the Andamans, and Russell & Hiralal 1916. Every name is quoted verbatim "
-            "from a source that was actually fetched, with the page cited and the URL recorded; where a source "
-            "printed only a romanization, no script is supplied and nothing was back-transliterated. Work still "
-            "in copyright (notably the 2013 and 2023 JAHH papers on Gondi and Bhil astronomy, Samsad 2000 and "
-            "Candrakanta 1962) is paraphrased and cited, never quoted. Wikipedia was not used as a source."
+            "and Radcliffe-Brown 1922 on the Andamans, and Russell & Hiralal 1916; Macalister 1898 and Lalas "
+            "2013 for Rajasthani. A second layer, kept in its own source file, comes from MODERN FIELD SURVEYS "
+            "that have no counterpart in the printed record: Vahia, Halkare and colleagues on the Gonds (2013), "
+            "the Banjaras and Kolams (2014), the Korku (2016) and the Nicobarese (2018), and Shetye, Halkare "
+            "and Sule on the Bhil, Pawra and Kokna (2023). Every name from a public-domain source is quoted "
+            "verbatim from a source that was actually fetched, with the page cited and the URL recorded; where "
+            "a source printed only a romanization, no script is supplied and nothing was back-transliterated. "
+            "Work still in copyright — which is all five field surveys, and Samsad 2000, Candrakanta 1962 and "
+            "Lalas 2013 — is paraphrased and cited, never quoted. Wikipedia was not used as a source."
         ),
         "register_note": (
             "Every name is tagged by register. That is the point of the database rather than a detail: most "
@@ -138,8 +143,8 @@ def write_readme(db):
     A("What speakers of the different Indian languages call a star, an asterism or a constellation — "
       "with the dictionary or ethnography each name comes from, quoted and cited.\n")
     A(f"*Generated {db['generated']}. Machine-readable version: [`star-names-local.json`](star-names-local.json); "
-      "per-language research files: [`sources/`](sources/).*\n")
-    A("> **This file is generated — do not edit it.** The originals are the per-language-group research files in "
+      "research files: [`sources/`](sources/).*\n")
+    A("> **This file is generated — do not edit it.** The originals are the research files in "
       "[`sources/`](sources/). See [`FORMAT.md`](FORMAT.md) for the schema and the editorial rules.\n")
     c = db["counts"]
     A(f"**{c['entries']} names** across **{c['languages']} languages** for **{c['objects']} sky objects**. "

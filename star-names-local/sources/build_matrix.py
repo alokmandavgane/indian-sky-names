@@ -11,12 +11,17 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.dirname(HERE)
 
 FAMILY = {
-    "Indo-Aryan": ["Hindi", "Urdu", "Punjabi", "Chhattisgarhi", "Marathi", "Konkani",
-                   "Gujarati", "Bengali", "Assamese", "Odia", "Sinhala"],
+    "Indo-Aryan": ["Hindi", "Urdu", "Punjabi", "Rajasthani", "Sindhi", "Kashmiri",
+                   "Chhattisgarhi", "Marathi",
+                   "Konkani", "Gujarati", "Bengali", "Assamese", "Odia", "Sinhala",
+                   "Lambadi (Banjara)", "Bhili", "Mavchi", "Vasavi (Vasave Bhil)",
+                   "Pauri Bareli (Pawra)", "Kukna (Kokna)", "Nepali", "Kumaoni", "Divehi (Mahl)"],
     "Dravidian": ["Tamil", "Telugu", "Kannada", "Malayalam", "Tulu", "Kodava",
-                  "Gondi", "Kurukh", "Toda"],
-    "Munda": ["Santali", "Mundari", "Ho"],
-    "Austroasiatic": ["Khasi", "Nicobarese"],
+                  "Gondi", "Kolami", "Kurukh", "Toda", "Cholanaikkan"],
+    "Munda": ["Santali", "Mundari", "Ho", "Korku"],
+    "Austroasiatic": ["Khasi", "Nicobarese", "Central Nicobarese (Camorta)",
+                      "Chaura (Chowra)", "Teressa"],
+    "Tibeto-Burman": ["Mizo (Lushai)", "Mara (Lakher)", "Meitei (Manipuri)", "Newar (Nepal Bhasa)"],
     "Andamanese": ["Andamanese"],
 }
 # Least-Sanskritic wins the cell; a language that has both a loan and its own word

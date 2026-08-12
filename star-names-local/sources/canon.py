@@ -30,10 +30,20 @@ RULES = [
     ("sirius",        r"sirius|dog ?star|lubdhaka|mrigavyadha"),
     ("arcturus",      r"arcturus|sv[aā]t[iī]"),
     ("antares",       r"antares|jyeshtha|jye[sṣ][tṭ]h"),
+    # Before aldebaran: the Hyades entries name Aldebaran among their stars, and
+    # tested the other way round the brightest member swallows the cluster.
+    ("hyades",        r"hyades"),
     ("aldebaran",     r"aldebaran|rohini|rohi[nṇ][iī]"),
     ("betelgeuse",    r"betelgeuse|ardra|[aā]rdr[aā]"),
-    ("hyades",        r"hyades"),
+    # After both, so a Hyades or Aldebaran entry is not swallowed by its constellation.
+    # \b on both sides of "tauri" — without the leading one it also eats "Centauri".
+    ("taurus",        r"\btaurus\b|\btauri\b"),
+    ("crux",          r"\bcrux\b|southern cross"),
+    ("canis-major",   r"canis major"),
+    ("corona-australis", r"corona austral"),
     ("comet",         r"comet"),
+    ("eclipse",       r"eclipse"),
+    ("sky-measure",   r"unit of measure|altitude of the sun|measuring the sky"),
     ("meteor",        r"meteor|shooting ?star|falling ?star"),
     ("saturn",        r"saturn|shani|[sś]ani"),
     ("jupiter",       r"jupiter|brihaspati|b[rṛ]haspati"),
@@ -59,7 +69,10 @@ TITLES = {
     "venus-evening": "Venus as evening star", "venus": "Venus",
     "canopus": "Canopus", "sirius": "Sirius", "arcturus": "Arcturus",
     "antares": "Antares", "aldebaran": "Aldebaran", "betelgeuse": "Betelgeuse",
-    "hyades": "The Hyades", "comet": "Comets", "meteor": "Meteors and shooting stars",
+    "hyades": "The Hyades", "taurus": "Taurus", "crux": "Crux (the Southern Cross)",
+    "canis-major": "Canis Major", "corona-australis": "Corona Australis",
+    "eclipse": "Eclipses", "sky-measure": "Measuring the sky",
+    "comet": "Comets", "meteor": "Meteors and shooting stars",
     "saturn": "Saturn", "jupiter": "Jupiter", "mars": "Mars", "mercury": "Mercury",
     "moon": "The Moon", "sun": "The Sun", "zodiac": "The zodiac",
     "lunar-mansion": "The lunar mansions as a system", "constellation": "'Constellation' as a word",
@@ -76,6 +89,7 @@ EXTRA = [
     ("castor-pollux", r"castor|pollux|punarvasu|gemini"), ("praesepe", r"praesepe|pushya|pu[sṣ]ya|cancer"),
     ("scorpius", r"scorpi"), ("lyra", r"\blyra\b"), ("aquila", r"aquila"),
     ("pegasus", r"pegasus|alpheratz"), ("auriga", r"auriga"), ("lupus", r"lupus"),
+    ("delphinus", r"delphin"), ("monoceros", r"monoceros|the unicorn constellation"),
     ("cygnus", r"cygnus"), ("centaurus", r"centaur"), ("norma", r"norma"),
     ("leo-virgo", r"\bleo\b|\bvirgo\b"),
 ]
@@ -86,6 +100,7 @@ TITLES.update({
     "praesepe": "Praesepe and Cancer", "scorpius": "Scorpius", "lyra": "Lyra",
     "aquila": "Aquila", "pegasus": "Pegasus", "auriga": "Auriga", "lupus": "Lupus",
     "cygnus": "Cygnus", "centaurus": "Centaurus", "norma": "Norma",
+    "delphinus": "Delphinus", "monoceros": "Monoceros",
     "leo-virgo": "Leo and Virgo",
     "unplaced-figure": "Figures with no secure modern identification",
 })
