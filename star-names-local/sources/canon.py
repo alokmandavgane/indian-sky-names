@@ -41,6 +41,9 @@ RULES = [
     ("crux",          r"\bcrux\b|southern cross"),
     ("canis-major",   r"canis major"),
     ("corona-australis", r"corona austral"),
+    ("direction",     r"quarter of the horizon|cardinal direction"),
+    ("sky-motion",    r"turning of the stars|rotation of the stars"),
+    ("rainbow",       r"rainbow"),
     ("comet",         r"comet"),
     ("eclipse",       r"eclipse"),
     ("sky-measure",   r"unit of measure|altitude of the sun|measuring the sky"),
@@ -77,7 +80,10 @@ TITLES = {
     "moon": "The Moon", "sun": "The Sun", "zodiac": "The zodiac",
     "lunar-mansion": "The lunar mansions as a system", "constellation": "'Constellation' as a word",
     "star-generic": "'Star' as a word", "sky": "'Sky' as a word", "planet": "'Planet' as a word",
-    "season-marker": "Seasonal and agricultural star-markers", "other": "Other and unclassified",
+    "season-marker": "Seasonal and agricultural star-markers",
+    "direction": "Directions taken from the sky",
+    "sky-motion": "The turning of the sky", "rainbow": "The rainbow",
+    "other": "Other and unclassified",
 }
 
 # Individual stars and constellations that the rules above don't reach. Tested
@@ -91,6 +97,7 @@ EXTRA = [
     ("pegasus", r"pegasus|alpheratz"), ("auriga", r"auriga"), ("lupus", r"lupus"),
     ("delphinus", r"delphin"), ("monoceros", r"monoceros|the unicorn constellation"),
     ("cygnus", r"cygnus"), ("centaurus", r"centaur"), ("norma", r"norma"),
+    ("cassiopeia", r"cassiopei"), ("grus", r"\bgrus\b"),
     ("leo-virgo", r"\bleo\b|\bvirgo\b"),
 ]
 COMPILED_EXTRA = [(k, re.compile(p, re.I)) for k, p in EXTRA]
@@ -101,6 +108,7 @@ TITLES.update({
     "aquila": "Aquila", "pegasus": "Pegasus", "auriga": "Auriga", "lupus": "Lupus",
     "cygnus": "Cygnus", "centaurus": "Centaurus", "norma": "Norma",
     "delphinus": "Delphinus", "monoceros": "Monoceros",
+    "cassiopeia": "Cassiopeia", "grus": "Grus",
     "leo-virgo": "Leo and Virgo",
     "unplaced-figure": "Figures with no secure modern identification",
 })

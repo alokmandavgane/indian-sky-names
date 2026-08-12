@@ -21,6 +21,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=818",
       "quote": "H کچپچيا कचपचिया kaćpaćiyā [kaćpać, q.v.+iyā = S. इकः], s.m. lit. 'Crowded together'; the Pleiades.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Platts prints both Devanagari and the Urdu script (Nastaʿlīq in the original type); both are given above in that order. Corroborated by Shakespear, A Dictionary, Hindustani and English (1834), s.v. kachpach-iyā, p. 1327, and by Fallon's variant kachbach'iyā (separate entry)."
     },
@@ -42,6 +43,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=898",
       "quote": "H گچپچيا गिचपिचिया gić-pićiyā [gic-pić = gać-pać, q.v.+Prk. इओ = S. इकः], s.m. The Pleiades.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Also in Shakespear (1834), s.v. gich-pichiyā, p. 1436, printed there in the Urdu script only: گچ پچيا."
     },
@@ -63,6 +65,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=917",
       "quote": "H کچ بچيا कचबचिया kachbach'iyā , n. m. The Pleiades.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Competing form; see kaćpaćiyā and gić-pićiyā."
     },
@@ -84,6 +87,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=135",
       "quote": "baćće-wālī murg̠ī, s.f. lit. 'Hen with chickens'; the Pleiades.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "name_native is left null because Platts gives no script form for the compound itself. Fallon, p. 230, s.v. bachchah, likewise glosses it only as 'The constellation of the Pleiades'. The expanded form with gagan is entered separately."
     },
@@ -105,6 +109,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/shakespear_query.py?page=1451",
       "quote": "گگن کي بچي والي مرغي gagaṇ ke bachche wālī murg̠ẖ-ī (dakh.) The pleiades.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Shakespear prints the Urdu script only. Platts, p. 910, gives the same phrase in roman under गगण / گگن without any regional mark: 'gagaṇ-ke baćće-wālī murg̠ī, \"The hen and chickens of the sky,\" the Pleiades'; Fallon, p. 1001, has it under gag'an."
     },
@@ -126,6 +131,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=898",
       "quote": "guććhā tārā, s.m. The Pleiades",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Headword printed by Platts as गुच्छा / کچها. Fallon, p. 991, s.v. guch'chhā: 'guchchā tārā; A. aqd-i-suraiyā. (Ast.) Pleiades.' The compound itself is printed in roman by both, hence name_native null."
     },
@@ -147,6 +153,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=190",
       "quote": "H بہلا बहुला bahulā [S. बहुलास्], s.m. The Pleiades; name of a people.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Links to the Sanskrit database entry bahula (Bahulā, alias of Kṛttikā)."
     },
@@ -168,6 +175,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=368",
       "quote": "A ثريا s̤uraiyā (from ثرو), s.m. The Pleiades ( = ʻaqd-i-s̤uraiyā).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Platts prints no Devanagari for Arabic-origin headwords, so only the Urdu script is given. Also Fallon, p. 461 ('surai'yā, aqd-i-suraīyā ... The Pleiades (jhumkā)'), and Shakespear, p. 599. A Panjab list of Arabic/Persian sky names (Panjab Notes and Queries, vol. II, note 521, p. 84) gives it as 'Ssvayyá' [Thurayyā], 'diminutive of suru, plentiful, rich'."
     },
@@ -189,6 +197,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=258",
       "quote": "P پروين parvīn , s.m. The Pleiades.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Also Fallon, p. 356, and Shakespear, p. 406. Panjab Notes and Queries II.521 (p. 84) records the Panjab Persian usage as 'Parvin or Paran'."
     },
@@ -210,6 +219,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=617",
       "quote": "KIRHKAṬÍ ਕਿਰ੍ਹਕਟੀ s. f. The Pleiades; a jewel in a nose ring.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Gurmukhi as printed. This is the only Punjabi Pleiades name found in Maya Singh."
     },
@@ -231,6 +241,7 @@
       "source_url": "https://archive.org/details/inq_pnq_v4",
       "quote": "The Pleiades were seven sisters. It happened on a day that one of them found a seed of the til (sesamum). She divided it among six, the seventh sat behind her and was forgotten. That is how she takes her place just a little apart from the others in the sky.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "No vernacular name is given in the note, hence name_roman is descriptive. Cited by note number, the standard locator for this journal."
     },
@@ -252,6 +263,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/shakespear_query.py?page=1949",
       "quote": "پلنگ تين چور palang tīn chor (bedstead and three thieves), Charlesʼs wain (dakh. Harris).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Shakespear alone prints the phrase in the Urdu script. Platts, p. 268, s.v. palang (पलंग / پلنگ): 'palang tīn ćor, s.m. \"The bed and three thieves,\" Charles's wain' - unmarked, i.e. northern too. Fallon, p. 366, adds the gloss 'S. सप्तऋषि', equating it with the saptarṣi."
     },
@@ -273,6 +285,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=499",
       "quote": "H جهمکا झुमका jhum'kā, jhūmkā , n. m. 1. A cluster; a bunch of flowers or fruit. 2. The bell-shaped pendant of an earring. 3. (sāt sahelyoṅ kā jhūmkā) Charles's wain; Ursa major. 4. A flower; Gloriosa superba.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Independently confirmed for Urdu from the Panjab: L. Whyte King's list gives 'Urdu; jhamakkā, a cluster' for the Great and Lesser Bear, with the editor R. C. Temple adding '[This last is more commonly sāt sahelion ké jhamkā, the cluster of seven maidens.]' - Panjab Notes and Queries, vol. II (Feb. 1885), note 521, p. 84. Platts, p. 407, lists the same word for 'Charles's Wain, Ursa Major; the Pleiades'."
     },
@@ -294,6 +307,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=722",
       "quote": "H ريچهـ रीछ rīchh; E. bhālū , n. m. S. ऋक्ष Pr. richchho. A bear. Baṛā rīchh; Sant. buṛhī parkom, Ursa major. Chhoṭā rīchh. Ursa minor.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Fallon repeats the equation at p. 703, s.v. rish'ī: 'sapt-rishī; H. baṛā rīchh; A. dub-i-asgar. lit. the seven saints. (Ast.) Ursamajor; Charles's Wain.' R. C. Temple reprints Fallon's data in Panjab Notes and Queries, vol. II, note 83, p. 13. Fallon's 'Sant. buṛhī parkom' is a Santali (Munda, not Indo-Aryan) form and is not claimed here."
     },
@@ -315,6 +329,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=168",
       "quote": "banātuʼn-naʻsh, s.m. The constellation of the Greater or Lesser Bear (consisting of seven stars, four of which are conceived to bear the resemblance of a naʻsh or bier, and the remaining three to be the banāt or daughters preceding it).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "name_native gives only the headword بنات as Platts prints it; the compound itself he gives in roman. M. Longworth Dames, Panjab Notes and Queries, vol. II (Feb. 1885), note 522, p. 84: 'Educated Musalmans in the Panjáb generally use the name Bindtu'n-na'sh and not Dubb-i-Akbar' [OCR: Bināt-]. He adds that on his informant's usage dubb-i-akbar means the four stars and dubb-i-aṣghar the three, not the Little Bear."
     },
@@ -336,6 +351,7 @@
       "source_url": "https://archive.org/details/pnq_v2",
       "quote": "Panjabi: As in Balochi the four stars are called palang-pāwe, the legs of the bedstead. The three stars are called trangar, the net. This is the usage of the Jhang District.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Quoted with the OCR's evident misreadings of long vowels normalised only in the diacritics; wording and word-order are Dames's. Roman only in the source, so name_native is null."
     },
@@ -357,6 +373,7 @@
       "source_url": "https://archive.org/details/glossarymultani00obrgoog",
       "quote": "TRANGAR, s. m. - 1, a net of large meshes in which straw, grass, leaves, &c., are packed, to be loaded on camels, horses or donkeys; 2, the Great Bear constellation.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Dames, Panjab Notes and Queries, vol. II, note 522, p. 84: 'O'Brien, Multání Glossary, s. v. trangar, gives trangar as the name of the Great Bear, but I believe it refers only to the three stars. The upper part of Orion is also called trangar.' The Orion application is entered separately."
     },
@@ -378,6 +395,7 @@
       "source_url": "https://archive.org/details/pnq_v2",
       "quote": "The upper part of Orion is also called trangar.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "disputed",
       "notes": "confidence disputed because 'the upper part of Orion' is not resolved to named stars; it may be the shoulders (Betelgeuse-Bellatrix) with the head, or the whole quadrilateral read as a net."
     },
@@ -399,6 +417,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=704",
       "quote": "A سہا suhā (v.n. fr. سہو 'to be forgetful,' &c.), s.m. A small dim star in the tail of Ursa Major.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Fallon, p. 799, s.v. su'hā, has the same: '(Ast.) The small star in the tail of the Great Bear.' The Sanskrit-side link is arundhati (Alcor)."
     },
@@ -420,6 +439,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=903",
       "quote": "P گردانك gardānak (gardān+dim. aff. ak = S. क), s.f. The pointers (two stars in the Great Bear).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Also Shakespear (1834), p. 1441, in the same words. Identification as Dubhe and Merak is the standard sense of 'the Pointers' and is not stated by Platts."
     },
@@ -441,6 +461,7 @@
       "source_url": "https://archive.org/details/pnq_v2",
       "quote": "Persian. Haftwarang, from the Zend Haftoiring, which is equivalent, according to Max Müller, to the Sanskrit Saptarshi.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "Reported as Persian in Panjab use rather than as a Punjabi word; register is vernacular in the sense used here (Perso-Arabic astronomical vocabulary current in the region). Roman only in the source."
     },
@@ -462,6 +483,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=634",
       "quote": "The seven great saint-sages of the Hindūs; the seven principal stars in the constellation of Ursa Major (supposed to represent the seven sages), Charles's Wain",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Recorded to mark the sanskritic layer explicitly; the analytic interest is in the folk names that compete with it."
     },
@@ -483,6 +505,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=378",
       "quote": "A جدي jadī , s.m. A kid; a young he-goat; the sign Capricorn; the star a of Ursa minor, the pole-star.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Platts's next entry, جدي judai, is the diminutive, glossed simply 'The pole-star'."
     },
@@ -504,6 +527,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=792",
       "quote": "P قطبي qut̤bī (rel. n. fr. qut̤b), adj. Of or relating to the north pole; polar: — qut̤bī tārā, s.m. The polar star.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Platts prints only the headword قطبي in script; the compound is roman. Still standard modern Hindi/Urdu (McGregor 1993, p. 204, s.v. क़ुतुब)."
     },
@@ -525,6 +549,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=656",
       "quote": "H دهرو धुरू dhur'ū; A. qutb , n. m. S. ध्रुव Pole (of the earth). Dhurū tārā. The polar star.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The forty-night vow: Chaina Mall, 'Pole Star - Dhru', Panjab Notes and Queries, vol. II, note 735. Platts, p. 543, gives the tatsama dhruv / dhruv-tārā. The Dhruva legend as told in the North-Western Provinces is summarised by Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 24-25."
     },
@@ -546,6 +571,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779",
       "quote": "A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'."
     },
@@ -567,6 +593,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=375",
       "quote": "A جبار jabbār (superl. or intens. fr. جبر), adj. & s.m. Omnipotent, mighty; — a conqueror; a revenger; a tall palm tree; Orion.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Also Shakespear (1834), p. 611. The Panjab list in Panjab Notes and Queries II.521 (p. 84) gives 'Orion. Arabic: An-nasaq, the row; al Jabbár, the giant.'"
     },
@@ -588,6 +615,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=397",
       "quote": "A جوزا jauzā , s.m. The sign Gemini; — Orion.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Also Shakespear (1834), p. 647, in identical terms."
     },
@@ -609,6 +637,7 @@
       "source_url": "https://archive.org/details/ninq_v5",
       "quote": "Hindu mothers teach their children to point to the sky as they say these stars are the Stag and the Hind. Near them is a constellation which looks like a hunter armed with a bow and arrows.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "disputed",
       "notes": "confidence disputed: the note names no individual stars. The location in Orion is secured by the myth's use of the Ārdrā asterism (Betelgeuse) as Śiva's form; on the Sanskrit precedent the 'hunter with a bow and arrows' would be the Belt-as-arrow with Sirius as Mṛgavyādha the hunter, but the note does not say so, and no vernacular name for that figure is given."
     },
@@ -630,6 +659,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=707",
       "quote": "A سہيل suhail , corr. suhel (v.n. dim. form fr. سہل; see sahl), s.m. The star Canopus.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "COMPETING IDENTIFICATION: Fallon, p. 801, s.v. suhail', suhel, glosses it 'The dog star', i.e. Sirius. That is an error - Platts (1884), Shakespear (1834, p. 1131) and Fallon's own entry at p. 115 (s.v. agas'ti, 'The star Canopus; Argo Navis (A. suhail...)') all make it Canopus. Recorded here because it is the only place in these dictionaries where Sirius is even approached."
     },
@@ -651,6 +681,7 @@
       "source_url": "https://archive.org/details/cu31924072688025",
       "quote": "Uge agast ban phule kás, / Ab náhin barkha ke as. — The appearance of the star Canopus and the flowering of the kás grass in the forest are signs of the end of the rains.",
       "quote_lang": "hi",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Grierson prints the couplet in Devanagari above the transliteration; the Devanagari is badly mangled in the scanned text, so only his transliteration and translation are quoted and name_native is left null."
     },
@@ -672,6 +703,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=768",
       "quote": "A عيوق ʻaiyūq , s.m. The star Capella, the bright star (a) upon the left shoulder of Auriga.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Links to the Sanskrit database entry brahmahridaya (Brahmahṛdaya = Capella)."
     },
@@ -693,6 +725,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1138",
       "quote": "A نسر nasr , s.m. A vulture; — an eagle: — nasruʼt̤-t̤āʼir, or nasr-ě-t̤āʼir, s.m. 'The flying eagle,' the constellation of the Eagle: — nasruʼl-wāqěʻ, s.m. 'The falling vulture,' the constellation of the Lyre.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "confidence likely rather than certain because Platts glosses the terms as constellations (Lyra, Aquila) whereas in Arabic usage they name the bright stars Vega and Altair. name_native gives the headword نسر only; the compounds are printed in roman."
     },
@@ -714,6 +747,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1138",
       "quote": "nasruʼt̤-t̤āʼir, or nasr-ě-t̤āʼir, s.m. 'The flying eagle,' the constellation of the Eagle",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "Same caveat as Vega: Platts glosses it as the constellation, not the star."
     },
@@ -735,6 +769,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=970",
       "quote": "P کـﮩکشاں kahkashāṅ'; H. akkās gaṅgā; Sant. panjar, ḍahar , n. f. The milky way.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Platts files it under kāh, p. 808: 'kāh-kashān, s.m. The milky-way, galaxy'. Shakespear (1834) has it twice, pp. 1311 and 1408. Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 25, glosses it 'the dragging of a bundle of straw through the sky'. The Santali forms in Fallon's line are not claimed here."
     },
@@ -756,6 +791,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1215",
       "quote": "hāthī-kī rāh, s.f. The galaxy or milky way (syn. ākāś-gaṅgā)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Headword printed by Platts as हाथी / هاتهي; the compound in roman only. Fallon, p. 1193, s.v. hāth'ī: 'hāthī kī rāh, akkās Gaṅgā, n. f. The milky way.'"
     },
@@ -777,6 +813,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/shakespear_query.py?page=1851",
       "quote": "هتهيا hath-iyā हस्त s. m. 1. The 13th mansion of the moon, Corvus. 2. The breaking up of the rains. هتهيا کي راه hathiyā kī rāh, The milky way.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Shakespear prints the Urdu script for both headword and compound; Platts, p. 1219, has it in roman under हथिया / هتهيا. Still recorded by McGregor, Oxford Hindi-English Dictionary (1993), p. 1057, s.v. हथिया."
     },
@@ -798,6 +835,7 @@
       "source_url": "https://archive.org/details/pnq_v2",
       "quote": "Hindi : Akás Gangá ... Bhagwán kí Kachahrí, God's Court.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Quoted as printed apart from OCR noise in the diacritics. Repeated by Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 25: 'The Hindu calls it Akash Ganga or the heavenly Ganges, Bhagwan ki kachahri or the Court of God, Swarga-duari or the door of Paradise.' Cited by note number, the standard locator for this journal."
     },
@@ -819,6 +857,7 @@
       "source_url": "https://archive.org/details/pnq_v2",
       "quote": "In notes 306 and 308, Vol. II, are some important misprints which are hereby corrected. ... 'Akás Gangá, the bed of the Ganges,' should be Akás Gangá, the Heavenly Ganges. 'Supesh Bidhi, the way of fate,' should be Sufed Badhi, the white garland.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "confidence likely: the corrected form is attested only in this correction slip and its exact Hindi shape (bādhī? bāṛhī?) cannot be checked against a script form."
     },
@@ -840,6 +879,7 @@
       "source_url": "https://archive.org/details/pnq_v2",
       "quote": "Surg Dwárí, the Gate of Heaven: Hindi.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Corroborated by Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 25-26."
     },
@@ -861,6 +901,7 @@
       "source_url": "https://archive.org/details/pnq_v2",
       "quote": "In Multání or Derawál the Milky Way is called Berá dá Ghas, The Path of (Noah's) Boat.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "confidence likely because the literal analysis of ghās here is the compiler's; the contributor gives only the free translation. Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 26, repeats it as Panjabi: 'to the Panjabi it is known as Bera da ghas or the path of Noah's Ark'."
     },
@@ -882,6 +923,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=64",
       "quote": "ākāś-gangā, s.f. The milky way (syn. kahkashāṅ)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Compound printed in roman under the headword आकास / آکاس. Links to the Sanskrit database entry akashaganga."
     },
@@ -903,6 +945,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=23",
       "quote": "ujāle-kā tārā, s.m. The morning star, the planet Venus.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Headword printed as उजाला / اجالا; compound in roman only. Fallon, p. 37, s.v. ujā'lā, has the same."
     },
@@ -924,6 +967,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=186",
       "quote": "H بهرکا भुरका bhurkā [S. व्युष्ट+कः], s.m. The morning star (cf. bhor).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Also Fallon, p. 304, s.v. bhur'kā. Platts's identification is 'the morning star' without naming Venus; the equation with Venus is secured by his own ujāle-kā tārā entry and by Fallon's."
     },
@@ -945,6 +989,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=191",
       "quote": "H بهلکا भलका bhalkā , s.m. Dawn of day, morning ( = bhor); the morning star (syn. bhurkā); a gold star or patch fixed on a nose-ring.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The regional split is Fallon's, p. 300: '1. (E). The morning star (bhurkā). 2. A gold star hanging in a nose-ring. W.'"
     },
@@ -966,6 +1011,7 @@
       "source_url": "https://archive.org/details/inq_pnq_v4",
       "quote": "A common name for the planet Venus or the Morning Star is in the Panjab Tapt Tárá, the Galloping Star, from its quick movement.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "confidence likely: the first element is uncertain in the scanned type (Tapt / Ṭapaṭ) and the contributor's gloss 'galloping' does not obviously match Sanskrit tapta 'heated'; no script form is printed."
     },
@@ -987,6 +1033,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=619",
       "quote": "P زهره zǒhra (for A. زهرة zǒharat, v.n. fr. زهر 'to shine,' &c.), s.f. (m. ?), The planet Venus: — zǒhra-rū, adj. Like Venus in countenance.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Panjab list in Panjab Notes and Queries II.521 (p. 84) confirms the split usage: 'Evening Star. Arabic: Zuhrah (evening); náhid, girl with swelling breasts. Persian: Lúlí-i-falak, heaven's fille de joie.'"
     },
@@ -1008,6 +1055,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=794",
       "quote": "H سوک सूक sūk; E. sukh; A. zohrā , n. m. S. शुक्र The planet Venus. Sūk ḍūbe shubh kāraj nahīṅ karte. Hin. When Venus sets no work should be done.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Platts has both suk (p. 663) and sūk (p. 699), each 'The planet Venus; — Friday'. Maya Singh, The Panjabi Dictionary (1895), p. 1075, gives Punjabi ਸੂਕ súk and p. 1076 ਸੁੱਕਰ sukkar for the same planet."
     },
@@ -1029,6 +1077,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=400",
       "quote": "H جهاڙو झाड़ू jhāṛū [rt. of jhāṛnā 'to sweep,'+ū = Prk. इडओ = S. (इ)तृ+कः], s.m. A broom, a besom, a whisk; — a comet",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Also Fallon, p. 493, and Shakespear (1834), p. 653: 'A besom, broom, a comet.'"
     },
@@ -1050,6 +1099,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=980",
       "quote": "H کيت केत ket; Sant. chanḍbol ipil , (lit. tail star), n. m. S. केतु A comet.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Shakespear (1834), p. 1996: 'دم کا تارا dum kā tārā, s. (dakh.) A comet (Harris)' - printed in the Urdu script and marked Deccani, like palang tīn cor. Platts (p. 526) has dum for a comet and (p. 527) the Persian sitāra-i-dumbāla-dār, 'a star having a tail'. Modern standard Hindi has पुच्छल तारा (McGregor 1993, p. 635)."
     },
@@ -1071,6 +1121,7 @@
       "source_url": "https://archive.org/details/inq_pnq_v4",
       "quote": "All over the Panjab people of all sorts dread the appearance of a puchhalwálá tárá, or dumdár sitárá, or tailed star; i. e., comet, as foreboding evil to the country in the shape of epidemic or famine.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Roman only in the source. Quoted with OCR noise in the diacritics normalised."
     },
@@ -1092,6 +1143,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=738",
       "quote": "A شہاب shihāb, vulg. shahāb (v.n. fr. شہب 'to be or become gray,' &c.), s.m. Flame (of fire); a firebrand; a brightly-shining star; a shooting or falling star; a meteor.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Fallon (p. 104) gives 'A. shahāb-i-sāqib' as the Arabic for Hindi ākās agan golā. For the will-o'-the-wisp sense see Crooke, The Popular Religion and Folk-lore of Northern India (1896), II. 198."
     },
@@ -1113,6 +1165,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=64",
       "quote": "ākās-agan-gola, s.m. Meteor, shooting-star",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Compound in roman only. On the beliefs attached: Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 82, reports that a falling star means a great man's soul is passing through the air, and that people thrust five fingers into their mouths to keep their own souls from joining it."
     },
@@ -1134,6 +1187,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=1197",
       "quote": "ﮩتيا हथिया hath'iyā, hasth , n. m. S. हस्त The 13th mansion of the moon; Corvus. 1. Hathiyā barse tīn hot haiṅ, shakkar, shālī, māsh, Hathiyā barse tīn jāt haiṅ, tillī, kodo, kapās.",
       "quote_lang": "hi",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Fallon translates: 'When in the thirteenth mansion rain doth fall / Rice, sugarcane, and pulse, these three thrive all, / But cotton, kodo, sesamum, all three / The rains destroy beyond all remedy.' Grierson, Bihar Peasant Life (1885), §1082 p. 271 and §1084 p. 273, and §1090 pp. 281-82 for the Queen Hathiya couplet: 'Maggha lagáwe ghaggha, swáti láwas tati, / Kahtari Hathi rani, ham hun awat hati.' Platts, p. 1219, adds the second sense 'the end (or breaking up) of the rains'."
     },
@@ -1155,6 +1209,7 @@
       "source_url": "https://archive.org/details/cu31924072688025",
       "quote": "Besides the above, another important division of the year must be noticed, — that into lunar asterisms (nakhat, nachhattr, or nichhattr). There are 27 of these in each year ... Each asterism is not of equal length. The longest is hathiya, which is 16 lunar days. ... Every agricultural operation commences in a certain asterism, and so it is necessary to know when they occur.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Grierson prints each name in Devanagari beside the transliteration, but the Devanagari is unrecoverable from the scanned text, so name_native is left null. Fallon, p. 1157, s.v. nichhat'tar, nachhattar (नछत्तर), gives the same generic word for Hindustani; Platts, p. 1148, notes the tatsama nakshatra with the vernacular naććhattar and 'corr. H. निक्षत्र nikshatr'."
     },
@@ -1176,6 +1231,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=786",
       "quote": "NACHHATTAR ਨਛੱਤ੍ s. m. Corrupted from the Sanskrit word Nakshatra. A star, a horoscope; a lunar mansion or constellation in the moon's path; an asterism ... The names of various months are derived from these Nachhattars, thus Magh, Phaggun, Chet, Vaisakh, Jeth, Har, Sawan, Bhadron, Assu, Kattak, Magar and Poh.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "This one entry stands for the whole Sanskrit twenty-seven in Punjabi; they are deliberately not itemised here."
     },
@@ -1197,6 +1253,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=695",
       "quote": "MAGGHÁ ਮੱਘਾ s. m. A small earthen vessel used for holding water and butter milk; the fifteenth of the twenty-seven (according to later reckoning twenty-eight) lunar mansions known to Hindu Astrology.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Maya Singh's ordinal 'fifteenth' counts from Śraviṣṭhā/Dhaniṣṭhā, as in his own list s.v. nachhattar; in the Aśvinī-first order Maghā is the tenth. In Bihar the same asterism appears as Maggha in the rain proverbs (Grierson 1885, p. 281)."
     },
@@ -1218,6 +1275,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/singh_query.py?page=971",
       "quote": "ROHṈÍ ਰੋਹਣੀ s. m. The fourth lunar mansion, which comprises Aldebaran and four other stars in Taurus:—Sáwaṉ badí ekádsí, joṭhí rohṉí hoe, etá samá parakhye maṉ báṇchhat phal hoi.",
       "quote_lang": "pa",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Maya Singh translates: 'Understand that the more the star Rohṇí shows on the eleventh dark half of Sáwaṉ, the more there will be produce to delight your heart.—Prov.' The 'four other stars in Taurus' are the Hyades; cf. Sanskrit database entry rohini-shakata, the Wain of Rohiṇī."
     },
@@ -1239,6 +1297,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=304",
       "quote": "H تارا तारा tārā [S. तार (for स्तार)+कं; and S. तारा fem.], s.m. A star; planet; falling star, meteor; the pupil of the eye",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Punjabi ਤਾਰਾ tárá, 'A star', in Maya Singh (1895), p. 1106."
     },
@@ -1260,6 +1319,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=637",
       "quote": "P ستاره sitāra [Pārsī śtār, śtāra; Pehl. śtār, śtārak; Zend śtare; S. स्तर्], s.m. A star; fortune, fate, destiny ... sitāre-o-burj, s.m. The constellations and the fixed stars.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "aḵẖtar at Platts p. 29, najm at p. 1125, kaukab at p. 863; burj, 'a sign of the zodiac; asterism, constellation', at p. 145, and in Punjabi as ਬੁਰਜ burj (Maya Singh 1895, p. 174)."
     },
@@ -1281,6 +1341,7 @@
       "source_url": "https://archive.org/details/ninq_v4",
       "quote": "Native women are very fond of telling their children that the stars are kine and the moon their shepherd.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Crooke repeats it in The Popular Religion and Folk-lore of Northern India (1896), I. 25. No vernacular wording is recorded, so name_roman is descriptive."
     },
@@ -1302,6 +1363,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/macalister_query.py?page=30",
       "quote": "सातरसा sātarasā , m. The Pleiades.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The first Rajasthani entry in this file, and it retires the flat negative this file previously printed. Macalister was searched in full text on star, sun, moon, sky, night, Pleiades, Orion, Ursa, Bear, Milky, comet, meteor, Venus, pole, dawn, morning, evening, eclipse, constellation, planet and rainbow: this and आंमर āmmara 'the sky' (p. 2) are the only celestial words in the book, and there is no headword for 'star' at all — so the dictionary is thin on the sky, not silent. Not a reflex of Kṛttikā, hence 'vernacular'. The first element is transparently sāt 'seven'; the second is not identified here and no derivation is claimed. A full-text search of Lalas returns no सातरसा and no सातरस-, so this looks like a Jaipur-dialect form the standard Rajasthani lexicon did not collect. Quoted from DSAL's page view, which reproduces Macalister's punctuation and diacritics; DSAL's search-results view strips both."
     },
@@ -1323,6 +1385,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=495",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "A tadbhava of Kṛttikā in Rajasthani phonology, so 'sanskritic' by this file's rule — but the material hung on it is not: the six-star count, the poet's line and the lightning proverb are Rajasthani. Compare the Marathi कात्या kātyā of marathi_gujarati.json, another regional tadbhava rather than a tatsama. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null, on the same footing as the Gondi material in tribal.json. The reading is taken from DSAL's page view, not its search-results view: the search view of this dictionary silently drops words — its ध्रुव entry returns 'दिशा की ओर स्थित' where the page view has 'उत्तर दिशा की ओर स्थित' — so every gloss used here was re-read on the page and checked for internal coherence. Lalas prints no romanization of his own; the roman given is DSAL's transliteration of the printed Devanagari headword."
     },
@@ -1344,6 +1407,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=201",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "The name is a tadbhava of Ārdrā and so 'sanskritic', but what the dictionary records under it is a farming calendar, not an asterism — exactly the pattern Grierson found in Bihar (Bihar Peasant Life §1082) and Brown found in the Telugu kārte. The Bhaḍḍaḷī attributions are the Rajasthani counterpart of the Ghāgh couplets already entered here for Bhojpuri and Magahi; Ghāgh and Bhaḍḍaḷī are the paired weather-prophets of the whole northern proverb tradition. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null, on the same footing as the Gondi material in tribal.json. The reading is taken from DSAL's page view, not its search-results view: the search view of this dictionary silently drops words — its ध्रुव entry returns 'दिशा की ओर स्थित' where the page view has 'उत्तर दिशा की ओर स्थित' — so every gloss used here was re-read on the page and checked for internal coherence. Lalas prints no romanization of his own; the roman given is DSAL's transliteration of the printed Devanagari headword."
     },
@@ -1365,6 +1429,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=4178",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "The word is ṛṣi-asta in Rajasthani phonology, so 'sanskritic'; the usage is not paralleled by any other language in this database, none of which names a direction or a wind after the Great Bear. Lalas gives the same direction independently at ओकड़, दावौ and सूरयौ, so the four entries corroborate each other within the dictionary. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null, on the same footing as the Gondi material in tribal.json. The reading is taken from DSAL's page view, not its search-results view: the search view of this dictionary silently drops words — its ध्रुव entry returns 'दिशा की ओर स्थित' where the page view has 'उत्तर दिशा की ओर स्थित' — so every gloss used here was re-read on the page and checked for internal coherence. Lalas prints no romanization of his own; the roman given is DSAL's transliteration of the printed Devanagari headword."
     },
@@ -1386,6 +1451,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=358",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "'folk' rather than 'vernacular': the word is not a Sanskrit sky-name — Lalas supplies no Sanskrit etymon for it at all, unlike its neighbours on the page — and what is recorded is rural agricultural usage. Homonym warning: ओक ōka on the same page has an unrelated third sense, 'a group of nakshatras or planets', and is a different headword. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null, on the same footing as the Gondi material in tribal.json. The reading is taken from DSAL's page view, not its search-results view: the search view of this dictionary silently drops words — its ध्रुव entry returns 'दिशा की ओर स्थित' where the page view has 'उत्तर दिशा की ओर स्थित' — so every gloss used here was re-read on the page and checked for internal coherence. Lalas prints no romanization of his own; the roman given is DSAL's transliteration of the printed Devanagari headword."
     },
@@ -1407,6 +1473,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=1714",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "Homonym warning, and it is a sharp one: page 1714 carries three headwords spelt दावौ — 'forest fire' (दावानल), 'a claim, a lawsuit' (from Arabic daʻwā), and this one, which Lalas derives from Sanskrit dāva and glosses as the wind. A bare attestation of दावौ in a Rajasthani text is not evidence for the wind. Tagged 'folk' rather than 'sanskritic' because the Sanskrit etymon dāva is not a sky-name; the sky is in the definition, not in the word. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null, on the same footing as the Gondi material in tribal.json. The reading is taken from DSAL's page view, not its search-results view: the search view of this dictionary silently drops words — its ध्रुव entry returns 'दिशा की ओर स्थित' where the page view has 'उत्तर दिशा की ओर स्थित' — so every gloss used here was re-read on the page and checked for internal coherence. Lalas prints no romanization of his own; the roman given is DSAL's transliteration of the printed Devanagari headword."
     },
@@ -1428,6 +1495,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=5785",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "Lalas gives no Sanskrit etymon, so this is a Rajasthani formation; 'folk' for the same reason as okaṛa. That the same stellar quarter yields two crop-destroying winds and one rain-bringing one is the point of the cluster: Ursa Major is being used as a weather bearing. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null, on the same footing as the Gondi material in tribal.json. The reading is taken from DSAL's page view, not its search-results view: the search view of this dictionary silently drops words — its ध्रुव entry returns 'दिशा की ओर स्थित' where the page view has 'उत्तर दिशा की ओर स्थित' — so every gloss used here was re-read on the page and checked for internal coherence. Lalas prints no romanization of his own; the roman given is DSAL's transliteration of the printed Devanagari headword."
     },
@@ -1449,6 +1517,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=1506",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "The word is Sanskrit tārā in Rajasthani phonology, hence sanskritic — but what is hung on it is not. That a marriage season is called 'the star' is the Rajasthani counterpart of the Telugu kārte and the Tamil nāḷ already in this database: the sky enters ordinary speech through the calendar, not through the constellations. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null. Read from DSAL's page view, not its search view, which drops words from this dictionary; the roman is DSAL's transliteration of the printed Devanagari headword, Lalas giving none of his own."
     },
@@ -1470,6 +1539,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=3945",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "This closes the Orion gap left open at the end of the first Rajasthani pass, and it closes it with a negative result: Rajasthani names Orion only through the Sanskrit asterism, in five phonological variants, and has nothing answering to the Sindhi ṭīṛū, the Bengali Kālapuruṣa, the Kolam Tipan or the Bhil Pambar. Two further Sanskrit synonyms stand elsewhere in the dictionary, ताराम्र्रग tārāmrraga (p. 1505) and ससिदैव sasidaiva (p. 5419), both glossed simply 'the Mṛgaśirā nakshatra'. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null. Read from DSAL's page view, not its search view, which drops words from this dictionary; the roman is DSAL's transliteration of the printed Devanagari headword, Lalas giving none of his own."
     },
@@ -1491,6 +1561,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=250",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "likely",
       "notes": "Worth entering because of the company it keeps: the same name is Kannada ilvalegaḷ and Bengali ilabalā in this database, both glossed 'the stars of Orion's head', and the Sanskrit database has ilvala. Four widely separated languages therefore keep a name for a faint five-star group that none of them treats as part of a larger figure. The star count is five here and the Kannada entry gives three, so the group's membership is not agreed and the grade is 'likely'. Homonym warning: the demon Ilvala, whom Agastya digested, stands at the immediately preceding headword on the same page. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null. Read from DSAL's page view, not its search view, which drops words from this dictionary; the roman is DSAL's transliteration of the printed Devanagari headword, Lalas giving none of his own."
     },
@@ -1512,8 +1583,32 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/lalasa-2nd_query.py?page=670",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "THE VĪTHĪ SCHEME, ALIVE IN A MODERN VERNACULAR DICTIONARY. The nine star-roads are a specialist Sanskrit topic — Bṛhat Saṃhitā 9, where Varāhamihira declines to adjudicate between the rival systems, and Utpala's commentary, which quotes five of them by author including Devala and Kāśyapa. That Lalas reproduces the scheme with the same two authorities named is a live transmission into Rajasthani lexicography, not a reconstruction. The first entry in this database from the `star-road` category of the Sanskrit compilation. Lāḷasa's Rājasthānī Sabada Kośa (2nd ed. 2013) is in copyright, so the finding is paraphrased and `quote` is null. Read from DSAL's page view, not its search view, which drops words from this dictionary; the roman is DSAL's transliteration of the printed Devanagari headword, Lalas giving none of his own."
+    },
+    {
+      "sky_object": "Venus, as the star that governs a bride's journeys",
+      "sanskrit_db_id": "shukra",
+      "modern_star": {"common_name": "Venus", "bayer": "—", "constellation": "—"},
+      "language": "Punjabi",
+      "iso639_3": "pan",
+      "community": "Hindu households of Sialkot district; Rose's informants are not further specified",
+      "region": "Sialkot district, Punjab",
+      "name_native": null,
+      "name_roman": "wautián dá tára",
+      "literal_meaning": "'the wives' star'",
+      "register": "vernacular",
+      "usage_note": "A newly married bride does not travel between her father's house and her husband's while this star is set, or while it stands on her right hand; she prefers to go when it is up and on her left. To reach the other house when it is set or on her right she must start while it is up and on her left, and spend a night outside the village on the way. Rose gives the name as arising from that practice: it is called the wives' star because wives spend nights outside villages on its account.",
+      "citation": "H.A. Rose, A Glossary of the Tribes and Castes of the Punjab and North-West Frontier Province, vol. I (Lahore: Superintendent, Government Printing, 1919), p. 128",
+      "source_type": "ethnographic glossary",
+      "source_date": "1919",
+      "source_url": "https://archive.org/details/in.ernet.dli.2015.69651",
+      "quote": "As on account of this star wives thus spend a night outside the village it is also called the ' wives ' star ' (wautián dá tára). It appears sometimes in the west, sometimes in the east and at other times not at all.",
+      "quote_lang": "en",
+      "source_access": "public-domain",
+      "confidence": "likely",
+      "notes": "A STAR THAT DECIDES WHEN A WOMAN MAY TRAVEL, and the only entry in this database where the rule attached to a star governs a person's movements rather than a crop, a voyage or a rite. The story Rose gives with it is that the ṛṣi Bhṛgu's son Shukar warned Raja Bali against God's incarnation, then hid in the spout of the water-pot to stop the gift being poured, and was blinded in the right eye by a twig and cursed — no woman should come before his face or at his right hand, and his setting should be baneful. The roman is graded `likely`, not `certain`: Rose's diacritics are lost in the archive.org OCR, and the form given is the one on which two independent scans of the 1919 printing agree letter for letter. The Punjabi word is vahuṭī, a bride or wife. In the same paragraph Rose gives a comet name that the two scans render differently and neither legibly; it is deliberately not entered."
     }
   ],
   "caveats": [
@@ -1527,6 +1622,7 @@
     "McGregor's Oxford Hindi-English Dictionary (1993), Bahri (1989) and Caturvedi (1970) are in copyright. They were consulted to check which of these names survive into modern standard Hindi - kacpaciyā/kacpacī, hathiyā kī rāh, quṭub, suhel, pucchal tārā all do - but they are cited in `notes` only and never quoted.",
     "Several names are attested for one sky object by more than one source with divergent regional marking: palang tīn cor, dum kā tārā and gagan ke bacce-wālī murġī are marked dakh. (Deccani) by Shakespear in 1834 but appear unmarked in Platts and Fallon fifty years later, which may mean northern spread, or may mean only that Platts and Fallon did not mark their sources. Both readings are left open.",
     "The Panjabi Great Bear divides differently from the Hindustani one: Dames records the four bowl stars and the three handle stars under separate names (palang-pāwe, traṅgaṛ) in Jhang, while O'Brien's Multani Glossary makes traṅgar the whole constellation. Both are entered, with the disagreement stated.",
-    "DSAL's search-results view of Lalas drops words silently. Its ध्रुव entry (p. 1968) returns 'दिशा की ओर स्थित एक प्रसिद्ध तारा' where the page view has 'उत्तर दिशा की ओर स्थित एक प्रसिद्ध तारा'; the same entry's sense 13 loses उत्तर again. Every Rajasthani gloss used here was therefore re-read on DSAL's page view (…_query.py?page=N), which reproduces the printed punctuation, the sense numbering and the abbreviations, and the source_url fields point at the page rather than at a query. The same caution applies to Macalister, whose search view strips both diacritics and full stops: its search view prints 'सातरसा satarasa m The Pleiades', its page view 'सातरसा sātarasā , m. The Pleiades.', and the quote here is the latter."
+    "DSAL's search-results view of Lalas drops words silently. Its ध्रुव entry (p. 1968) returns 'दिशा की ओर स्थित एक प्रसिद्ध तारा' where the page view has 'उत्तर दिशा की ओर स्थित एक प्रसिद्ध तारा'; the same entry's sense 13 loses उत्तर again. Every Rajasthani gloss used here was therefore re-read on DSAL's page view (…_query.py?page=N), which reproduces the printed punctuation, the sense numbering and the abbreviations, and the source_url fields point at the page rather than at a query. The same caution applies to Macalister, whose search view strips both diacritics and full stops: its search view prints 'सातरसा satarasa m The Pleiades', its page view 'सातरसा sātarasā , m. The Pleiades.', and the quote here is the latter.",
+    "Rose's volume I was obtained on a later pass, archive.org having refused it earlier. Its star-worship section (pp. 128-129) yields one Punjabi name, entered above, and confirms rather than extends what Fallon and Maya Singh already gave for comets and meteors: a comet is a dumdār sitāra bringing epidemic or famine, and meteors are hot coals thrown from heaven at the devil, which Rose marks as a Muhammadan belief. The section also carries the nakshatra weather couplets attributed to Sahdeo, which are the Punjab's counterpart of the Ghāgh and Bhaḍḍaḷī material already quoted in this file for Bihar and Rajasthan; they name asterisms without naming stars and no entry is made from them."
   ]
 }

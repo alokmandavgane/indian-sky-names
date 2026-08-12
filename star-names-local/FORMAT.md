@@ -34,6 +34,13 @@ says, and where to put that on a chart is a separate judgement. Objects with no 
 chart's index. `build_chart.py` reads the *Sanskrit* chart's position table for any object reached
 through a `sanskrit_db_id`, so the two charts cannot drift apart.
 
+**Scope is South Asian, not Indian.** The app is *Indian Sky Map*; this database is deliberately
+wider, and every language that reaches past the border is here to speak for a community inside it
+that has no lexicography of its own — Tibetan for Ladakh, Spiti and Sikkim; Mara and Mizo from
+sources as much about the Chin Hills as about Mizoram; Divehi through Minicoy, which speaks it;
+Nepali and Newar for the Indian Himalaya; Sinhala for the Dravidian south. If any of this ever
+reaches the app, the app should filter. The research is worth more undivided.
+
 This database is **separate from `docs/star-names/`**, which holds the Sanskrit compilation. The
 relationship is one-way and read-only: `merge.py` reads `../star-names/star-names.json` to resolve
 `sanskrit_db_id` values into names, and never writes to it. Nothing here feeds the app.
@@ -51,7 +58,7 @@ carries a **`register`**, and that field is the point of the database:
 | `tribal` | from a distinct Adivasi tradition |
 | `sanskritic` | the Sanskrit name in this language's script and phonology |
 
-Of 777 names, 565 are not `sanskritic`. Filter on this before drawing any conclusion about what a
+Of 928 names, 713 are not `sanskritic`. Filter on this before drawing any conclusion about what a
 language "has" — and note that a `sanskritic` tag is a claim about the *name*, not about the
 speakers: Malayalam's birth-star reckoning is entirely Sanskritic in vocabulary and entirely alive.
 
@@ -63,16 +70,17 @@ nine entries.
 | Field | Meaning |
 |---|---|
 | `sky_object` | free text — what the name denotes. Grouped by `canon.py`, not by string equality |
-| `sanskrit_db_id` | id in `../star-names/star-names.json`, or `null`. Links on **referent identity**, not on borrowing: a Santali name for Orion links to the Sanskrit entry for the same stars without implying any relation between the names. 328 of 777 are null |
+| `sanskrit_db_id` | id in `../star-names/star-names.json`, or `null`. Links on **referent identity**, not on borrowing: a Santali name for Orion links to the Sanskrit entry for the same stars without implying any relation between the names. 403 of 928 are null |
 | `modern_star` | `{common_name, bayer, constellation}` |
 | `language`, `iso639_3`, `region` | `iso639_3` is null where no code can be assigned with confidence — better than a wrong one |
-| `community` | **optional.** The caste, occupational group or ethnonym the source names, in the source's own words. Absent on 767 of 777 entries, which is itself a finding — see `occupational.json`. Not a claim that the name belongs only to that group |
+| `community` | **optional.** The caste, occupational group or ethnonym the source names, in the source's own words. Absent on 869 of 928 entries, which is itself a finding — see `occupational.json`. Not a claim that the name belongs only to that group |
 | `name_native` | native script **as the source prints it**, or `null`. Never back-transliterated — many 19th-century sources romanize only, and several scans have unreadable Indic OCR |
-| `name_roman`, `literal_meaning` | |
+| `name_roman`, `literal_meaning` | `name_roman` is null on 4 entries, where the source records the figure and never gives the word — Elwin's Baiga Great Bear, Mills's Rengma eclipse. They read as *(figure recorded, name not)* in the README and the matrix |
 | `register` | see above |
 | `usage_note` | the season it marks, the work it governs, the story attached |
 | `citation`, `source_type`, `source_date`, `source_url` | author, work, edition, headword, page |
 | `quote` | verbatim from the fetched source. `null` **only** where the source is in copyright |
+| `source_access` | `public-domain` · `in-copyright-paraphrased` · `not-obtained`. 693 and 235; the third value is empty and must stay empty — see below |
 | `confidence` | `certain` · `likely` · `disputed` · `unidentified` |
 
 ## Editorial rules
@@ -80,15 +88,25 @@ nine entries.
 - **Every name traces to a citable printed source** with a page reference and a URL. Wikipedia was
   not used as a source, only as a lead to chase to an original.
 - **Verbatim or nothing.** Quotes are re-fetched and string-matched against the live source after
-  writing. Where a source is in copyright — all five modern field surveys in `tribal_fieldwork.json`,
-  Lalas 2013, Samsad 2000, Candrakanta 1962 — the finding is paraphrased and `quote` is `null`.
-  Copyright is a reason not to *quote* a source, never a reason not to *read* one.
+  writing. Where a source is in copyright — the six field surveys, Turner 1931, Jørgensen, Malla,
+  Manandhar, Maniku 2000, Sharma 2006, Baloch, Grignard, Lalas 2013, Samsad 2000, Candrakanta 1962 —
+  the finding is paraphrased and `quote` is `null`, which `source_access` now states rather than
+  implies. Copyright is a reason not to *quote* a source, never a reason not to *read* one.
+- **OCR damage is bracketed, never mended silently.** Where an archive.org scan has broken an
+  *English* word inside a quote and the printed reading is not in doubt, the restoration is marked
+  `[like this]`. No vernacular name is ever restored: where two scans of one printing disagree on a
+  name, both readings are recorded and neither is preferred.
 - **No back-transliteration.** If the source printed only roman, `name_native` is `null`. The one
   source that prints only *script* — Mewaram's Sindhi-English dictionary, which has no romanization
   at all — is romanized by the compiler off a pointed text, and its caveat says so.
-- **Don't force an identification.** 30 entries are `unidentified`, 28 more `disputed`, and one whole object group is
+- **Don't force an identification.** 47 entries are `unidentified`, 36 more `disputed`, and one whole object group is
   *Figures with no secure modern identification*. A tribal figure described as a hunter and his dogs
   is worth more recorded honestly than pinned to a wrong Bayer designation.
+- **`source_access` is an invariant, not a label.** `merge.py` asserts that a `quote` exists if and
+  only if `source_access` is `public-domain`, so the convention above cannot drift. The third value,
+  `not-obtained`, exists to be *unused*: nothing is entered from a source that was not read, so a
+  `not-obtained` entry would be a bug. Sources that could not be obtained are recorded in
+  `summary_findings` and `caveats`, where they belong, and never as a row with an empty quote.
 - **Negative findings are recorded** in each file's `summary_findings` — no Tamil name for Sirius in
   three separate dictionaries; no Dravidian Ursa Major name in Telugu or Kannada; no Gujarati name
   transcribable from any scan reached; Radcliffe-Brown's statement that constellations are not
@@ -97,7 +115,7 @@ nine entries.
 
 ## Grouping
 
-`canon.py` maps 327 distinct `sky_object` strings onto 58 objects, longest-match-first, falling back
+`canon.py` maps 395 distinct `sky_object` strings onto 64 objects, longest-match-first, falling back
 to the entry's `sanskrit_db_id` and finally to `unplaced-figure`. Objects are ordered in the README
 by **how many languages name them**, which is itself a result: the Milky Way, Ursa Major, the
 Pleiades, comets and Venus-at-dawn are what these languages actually bother to name.

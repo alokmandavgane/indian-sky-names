@@ -1,8 +1,9 @@
 # Expanding the local star-name database
 
 A plan for taking `docs/star-names-local/` from nine literary languages to the tribal, regional and
-occupational sky-lore of India. This document is the *search* plan — which resources exist, where
-they are, what state they are in, and in what order to work them. It does not add data.
+occupational sky-lore of India. It began as a *search* plan — which resources exist, where they
+are, what state they are in, and in what order to work them — and it has since been rewritten wave
+by wave into the record of what each one found. **Every wave and sub-wave in it is now done.**
 
 Read `FORMAT.md` first; every rule there still binds. Nothing below relaxes *verbatim or nothing*,
 *no back-transliteration*, *negative findings are recorded*, or *don't force an identification*.
@@ -11,34 +12,35 @@ Read `FORMAT.md` first; every rule there still binds. Nothing below relaxes *ver
 
 ## 1. Where the database stands
 
-**777 entries · 58 objects · 48 languages · 449 linked to the Sanskrit database.**
-Thirteen source files. **All six waves of this plan are done.** *(At the time this plan was first written: 522 / 46 / 26, seven files.)*
+**928 entries · 64 objects · 57 languages · 525 linked to the Sanskrit database.**
+Thirteen source files. **All waves of this plan are done, including the five sub-waves.**
+*(At the time this plan was first written: 522 / 46 / 26, seven files.)*
 
-| Register | Entries | At plan start |
-|---|---|---|
-| vernacular | 209 | 177 |
-| folk | 106 | 101 |
-| tribal | **250** | 91 |
-| sanskritic | 212 | 153 |
+| Register | Entries | After wave 6 | At plan start |
+|---|---|---|---|
+| vernacular | 220 | 209 | 177 |
+| folk | 106 | 106 | 101 |
+| tribal | **387** | 250 | 91 |
+| sanskritic | 215 | 212 | 153 |
 
-The shape of the coverage, still lopsided but less so:
+The shape of the coverage, still lopsided but much less so:
 
-- **Deep**: Marathi (62), Tamil (61), Telugu (57), Kannada (41), Malayalam (36) — literary Dravidian
-  and western Indo-Aryan, all resting on great nineteenth-century dictionaries.
-- **Adequate**: Mizo (36), Korku (32), Odia (31), Hindi (30), Mundari (26), Bengali (24),
-  Sinhala (24), Sindhi (23), Kolami (21), Urdu (20), Gondi (20).
-- **Thin but real**: Kashmiri (18), Santali (17), Nepali (14), Lambadi (12), Assamese (11),
-  Punjabi (11), Rajasthani (11), Chowra (10), Kurukh (9), Bhili (9), Camorta (9), Newar (9),
-  Teressa (8), Tulu (8), Meitei (7), Toda (7).
-- **Token**: Khasi (5), Cholanaikkan (5), Nicobarese (4), Kokna (4), Mavchi (4), Andamanese (3),
-  Kodava (3), Pawra (3), Ho (2), Gujarati (2), Kumaoni (2), Mara (1), Vasavi (1).
-  *(Divehi's 13 are deliberately a sample of 27 — see §7.)*
-- **Still absent entirely**: the Buddhist Himalaya — no Ladakhi, Spiti, Bhutia, Monpa or Sherpa,
-  and no Garhwali; and in the north-east, everything except Mizo, Mara and Meitei — no Naga, Garo,
-  Bodo or Khasi beyond five words.
+- **Deep**: Marathi (64), Tamil (62), Telugu (57), Kannada (41), Mizo (38), Malayalam (36),
+  Sindhi (34), Pardhi (33), Korku (32), Odia (31), Hindi (31).
+- **Adequate**: Mundari (26), Bengali (24), Sinhala (24), Kolami (21), Urdu (20), Gondi (20),
+  Kashmiri (18), Garo (18), Mara (18), Chhattisgarhi (18), Santali (17), Rengma (16), Nepali (14).
+- **Thin but real**: Lambadi (12), Divehi (12), Punjabi (12), Assamese (11), Rajasthani (11),
+  Angami (10), Chowra (10), Sema (10), Bhili (9), Camorta (9), Kurukh (9), Sora (9), Newar (9),
+  Tulu (8), Teressa (8), Meitei (7), Toda (7).
+- **Token**: Konkani (5), Cholanaikkan (5), Khasi (5), Kokna (4), Mavchi (4), Nicobarese (4),
+  Ao (4), Andamanese (3), Kui (3), Kodava (3), Pawra (3), Tibetan (2), Ho (2), Kumaoni (2),
+  Gujarati (2), Vasavi (1). *(Divehi's are deliberately a sample of 27 — see §7.)*
+- **Still absent entirely**: Garhwali, Ladakhi, Spiti, Bhutia, Monpa, Sherpa and Lahuli — the
+  Buddhist Himalaya is now *reached* and still unread, for the reason given in §8b — and Bodo,
+  Sylheti, and the Naga languages other than the four here.
 
-The register tags remain the honest measure. `tribal` now covers **nineteen** communities rather than
-five — but India has several hundred Scheduled Tribes and around 120 languages with more than
+The register tags remain the honest measure. `tribal` now covers **twenty-eight** communities rather
+than five — but India has several hundred Scheduled Tribes and around 120 languages with more than
 10,000 speakers. This is a good start, not a survey.
 
 ### What the existing files say is missing
@@ -623,6 +625,128 @@ country, and the Lingāyat cultivators of Bellary whose *kārte* rain-calendar T
 
 ---
 
+## 8b. The sub-waves — 1b, 2b, 3b, 4b, 5b. **Done, 2026-08-12.**
+
+All five were blocked on getting hold of things rather than on reading them, and four of the five
+came unblocked at once when the archive.org route found in Wave 4 was applied systematically: fetch
+`archive.org/metadata/<id>` for the item's real server and directory, then request
+`https://<server><dir>/<filename>` directly. **Every book this plan recorded as returning HTTP 503
+was obtained this way.** The pass added 151 entries and nine languages, and the database now stands
+at **928 names · 64 objects · 57 languages · 525 linked to the Sanskrit database**.
+
+### 3b is the largest single pass in the database, and it should have been done first
+
+Seventy-seven entries from six monographs that were sitting behind a redirect layer. Playfair on the
+Garos, Hutton on the Angamis and the Semas, Mills on the Aos and the Rengmas, Parry on the Lakhers.
+Four findings that only appear once the region is read together:
+
+- **Orion's Belt is a carried load, and the carriers are always ambushed.** Sema
+  *Phoghwosülesipfemi* three men carrying a roof-beam, Angami *Thepeko* three men carrying a
+  house-post, Lakher *Vothawlapiapa* two men carrying a pig, Garo *Wak-ripe* the pig itself on a
+  pole. In every case but the Garo the stars of the Sword are the enemies who ambushed them. The
+  mainland's Orion is a plough or a yoke; the north-east's is a killing on a path. The Rengmas
+  reverse the roles — the Belt is the ambush party and the Sword the travellers walking into it —
+  which is the exception that shows the figure is understood and not merely inherited.
+- **The Milky Way is a seasonal boundary, not a cattle road.** Ao *'cold-weather rains-divider'*,
+  Lakher *Sonatachhiarari* 'rains and dry weather boundary', Mizo *Thlasik Kong* 'the cold weather
+  road' — and the Lakhers say how it is read: by which side of the band has the larger expanse of
+  empty sky. The exceptions all make it water — the Angami name it after the Barak river, the
+  Rengmas after the Diyung and the Tulo, the Semas call it the river of souls.
+- **No cot and no thieves.** The mainland's commonest figure does not cross the hills. In its place
+  Ursa Major is a corpse: Lakher *Keulachongpa* is a man killed in a raid whose head and left leg his
+  slayers carried off, and the Lusheis tell the same of *Zangkhua*. The Lakhers then explain the
+  circumpolar circuit by a rule of funeral law — a man killed in war cannot cross the Kolodyne, so
+  his stars turn back instead of completing their round. It is the only place in this database where
+  an observed astronomical fact is explained by a point of ritual law.
+- **The Garo sky is one story.** Fourteen names, and all but the two Venus names are episodes of a
+  single funeral — the cremation of the moon's mother. Cassiopeia is the bearing of the body, Sirius
+  the star that lit the pyre, the Pleiades the sacrificial cock, the Square of Pegasus the four posts
+  of the pyre, Orion's Belt the pig brought as food, the Milky Way the hoofprints of the buffalo that
+  bolted. No other tradition here organises its whole sky as one event.
+
+The negatives are as sharp. **Mills says of the Aos that stars 'are too small and remote to interest
+the Ao much, and none of the constellations seem to have names'** — the same author who recorded
+twenty Rengma names in the next valley. His *Lhota Nagas* has no star vocabulary at all. Gurdon's
+*The Khasis*, read end to end, has none either, so Khasi still rests on five words; and Endle's *The
+Kacharis* has not one sky word, so **Bodo remains unattested**.
+
+### 1b: the Pardhi are the exception to this database's rule about Orion
+
+Thirty-three entries. The Pardhi paper (JAHH 22(1), 2019) was on ADS all along. What it gives is the
+one community in the compilation still living by hunting and scavenging, and **the one Orion that is
+a hunt** — three deer in the Belt, two hunting dogs in the Nebula, a Pardhi man at Rigel. Everywhere
+else Orion is a plough, a yoke, a beam or a bedstead. The figure follows the economy and not the
+language: Pardhi is Indo-Aryan and close to Bhili, and the Bhils, who farm, do not see this.
+Alongside it: the Hyades as *Mangari*, a triangular bird-net whose design the authors say was
+inspired by the star pattern — the only such case in their whole programme; the three trailing stars
+of Ursa Major named twice over, once as three birds the tribe eats and once as three men identified
+by surname and by the goddess each family worships; and a compass in which east and west come from
+the sun, north from the hills and south from *rakshasbaku*, the demon's mouth.
+
+**The Warli / Dhodia / Katkari / Kokna study appears never to have been published.** A public talk
+abstract summarises it in English and gives one vernacular word; a web summary of a talk is not a
+citable transcription and no entry rests on it. That is the whole of the remaining gap in the
+programme, and it is recorded in `tribal_fieldwork.json`.
+
+### 2b: Baloch answers when you ask in Sindhi, and Hassan does not answer at all
+
+Eleven Sindhi entries. The *Jāmiʻ Sindhī lughāt* is monolingual, which is why Wave 2 got nothing out
+of it: it was queried in English. Queried in Sindhi it gives the **northern cot** *autirīṅ khaṭ* for
+Ursa Major — the westernmost attestation of the cot in the database, and one Mewaram does not have —
+a named Sirius (*labhadhak*, Sanskrit Lubdhaka, which Wave 2 had recorded as absent), five names for
+the Milky Way and not one of them a road, and the **Katī-and-Scorpion proverb**: the Pleiades are the
+Scorpion's betrothed, and that is why the two are never in the sky together. An observational fact
+about right ascension, carried as an engagement.
+
+And a **third kind of DSAL gap**, to set beside the two this database already documents. Hassan's *A
+Pronouncing Dictionary of Kashmiri Language* is listed *and linked*, and its search form is live —
+and the database behind it is empty. Every query in Devanagari, Perso-Arabic and roman returns 'No
+results', and `hassan_query.py?page=N` returns an empty frame for pages 1, 5, 50, 200 and 500.
+Kashmiri still rests on Grierson 1932 alone.
+
+Rose's *Glossary* volumes I and II were obtained and are all but dry, which settles the whole work.
+Volume I yields one Punjabi Venus name, *wautián dá tára*, 'the wives' star' — a star that decides
+when a bride may travel between her father's house and her husband's. Its comet name is **not**
+entered: two independent scans of the same printing render it two different ways and neither is
+legible.
+
+### 4b: the Buddhist Himalaya is reachable and still unreadable
+
+Jäschke 1881, Das 1902 and Atkinson's *Himalayan Gazetteer* were all obtained. The obstacle turns
+out not to be access but OCR: the transliterated Tibetan is set with diacritics that both scans
+destroy, so Jäschke's twenty-eight lunar mansions at *rgyu-skar* come out as an unreadable string,
+and Das's Tibetan-script column is recognised into the wrong letters — *smin* is rendered *yin* at
+the very entry that defines it. Two names survive because they recur identically across both
+dictionaries and are entered; the rest is left unread rather than reconstructed, which is the
+decision this database already made about the Korku paper's Greek letters and the Bhil paper's
+cipher. Atkinson has no Kumaoni or Garhwali star-name in three volumes. **Garhwali, Ladakhi, Spiti,
+Bhutia, Monpa, Sherpa and Lahuli remain entirely unattested.**
+
+### 5b: the measures are still unreached, but Sora and Kui were not
+
+*kai kanakku*, *viral kanakku* and *dhru* are where Wave 5 left them, and for the same reason. What
+did open were two dictionaries this plan had assumed did not exist. **Sora** — the one Munda language
+the database had nothing for — turns out to have a sixteen-name star list at Ramamurti's headword
+*tuj-ən*, of which nine are glossed elsewhere in the book and are entered: the Pleiades as a crowd,
+the fifth lunar mansion built on the verb *to plough*, both appearances of Venus, Jupiter twice over
+with the lexicographer's own note that one of the two is 'due to the influence of the Oriya
+astrologers', and Mars. **Kui** has exactly three sky words in Winfield's vocabulary and no
+constellation at all.
+
+### Two loose ends closed, and one correction
+
+*Encyclopaedia Mundarica* and Bodding were re-fetched and turn out to add nothing: the *ipil* essay in
+volume 7 and Bodding's Pleiades entries are already in `tribal.json` in full. What volume 6 does add
+is Mundari using **Orion as a clock in ordinary speech** — *araṛ ipilko hāṛeṇnate*, 'the marriage
+guests arrived about two hours after Orion had crossed the meridian'. **Elwin was misfiled as in
+copyright by this plan and is not**: he died in February 1964, so the Indian term expired on 1
+January 2025, and *The Baiga* is quoted verbatim. It yields fifteen figures, of which Elwin locates
+almost none — eleven entries are `unidentified`, the largest such block in the database — including
+the best-explained death-cot anywhere in it: Ursa Major is the bier, the Baiga smash the bier with
+axes after a burial, and the splinters are the rest of the stars.
+
+---
+
 ## 9. Resource classes to sweep
 
 ### A. Lexicography
@@ -698,15 +822,15 @@ objects given rules in `canon.py` and positions in `build_chart.py`.
 |---|---|---|---|
 | ~~**0**~~ | ~~Correction pass~~ | **Done 2026-08-12** — see §2 | +7 Rajasthani; 1 claim retracted, 2 upheld, Tamil negatives strengthened |
 | ~~**1**~~ | ~~Central & Western Adivasi~~ | **Done 2026-08-12** — see §3 | +113 entries, 11 new communities, all `tribal` |
-| **1b** | The rest of the field-survey programme | Pardhi, Cholanaikkan, and the Warli / Dhodia / Katkari / Kokna study — none obtained yet; plus S.C. Roy's monographs and the Elwin index, which are a different (public-domain) seam | 40–80 |
+| ~~**1b**~~ | ~~The rest of the field-survey programme~~ | **Done 2026-08-12** — see §8b | +33 Pardhi. Cholanaikkan was closed in Wave 5; the Warli study appears never to have been published |
 | ~~**2**~~ | ~~North-west~~ | **Done 2026-08-12** — see §4 | +45 entries: Sindhi 23, Kashmiri 18, Rajasthani finished with 4 |
-| **2b** | North-west, unfinished | `baloch`'s *Jāmiʻ Sindhī lughāt* and the modern Kashmiri dictionaries — both monolingual, so they need the questions asked in the language; Rose's *Glossary* vols 1–2, which archive.org would not serve | 20–40 |
+| ~~**2b**~~ | ~~North-west, unfinished~~ | **Done 2026-08-12** — see §8b | +11 Sindhi, +1 Punjabi. Baloch answers when asked in Sindhi; Hassan's Kashmiri is a live search form over an empty database; Rose I–II are dry |
 | ~~**3**~~ | ~~North-east~~ | **Done 2026-08-12** — see §5 | +44 entries: Mizo 36, Meitei 7, Mara 1. Not thin — the richest single pass yet |
-| **3b** | North-east, unfinished | Playfair (Garo), Hutton (Angami/Sema), Mills (Ao/Lotha/Rengma), Endle (Kacharis) — all HTTP 503 from archive.org; Garo/Bodo/Ao/Angami mission dictionaries, on neither DSAL nor reached elsewhere; Sylheti; the *stories* Shakespear says attach to most Lushai constellations | 30–60 |
+| ~~**3b**~~ | ~~North-east, unfinished~~ | **Done 2026-08-12** — see §8b | **+77, the largest single pass in the database.** Garo 18, Mara 18, Rengma 16, Angami 10, Sema 10, Ao 4, Mizo 2. Lhota, Khasi and Bodo are dry and now demonstrably so |
 | ~~**4**~~ | ~~Himalaya~~ | **Done 2026-08-12** — see §6 | +25 entries: Nepali 14, Newar 9, Kumaoni 2 |
-| **4b** | The Buddhist Himalaya, unreached | Jäschke 1881 and Das 1902 (DSAL lists but does not host — "currently building"; archive.org 503s), Atkinson's *Himalayan Gazetteer* (503), Garhwali. Ladakh, Spiti, Sikkim, Monpa and Sherpa are absent from the database entirely | 30–60 |
+| ~~**4b**~~ | ~~The Buddhist Himalaya, unreached~~ | **Done 2026-08-12** — see §8b | +2 Tibetan, and a negative with a new cause: the books were obtained and their transliteration does not survive OCR. Atkinson is dry |
 | ~~**5**~~ | ~~Peninsular tribal & maritime~~ | **Done 2026-08-12** — see §7 | +18 entries: Divehi 13, Cholanaikkan 5 (one being the wave's best result), Tamil 1 |
-| **5b** | The fishermen's measures | *kai kanakku*, *viral kanakku*, *dhru* — not in the Tamil Lexicon and not reachable lexicographically; needs Tibbetts on Arab navigation and the Kutchi *mālam* manuscripts, all in copyright. Also Sora, Kui, Irula, Kurumba, Chenchu, Koya — no source obtainable | 20–50 |
+| ~~**5b**~~ | ~~The fishermen's measures~~ | **Partly done 2026-08-12** — see §8b | +9 Sora, +3 Kui, from dictionaries that turned out to exist. The measures themselves are still unreached and the reason has not changed |
 | ~~**6**~~ | ~~Occupational & caste registers~~ | **Done 2026-08-12** — see §8 | +3 entries, and the `community` field added to the schema. The wave's result is a **negative**: the colonial compendia record sky-lore by language and by tribe, essentially never by trade |
 
 Order is deliberate. Wave 0 is nearly free. Wave 1 has the best yield-per-hour and the material is
@@ -717,11 +841,17 @@ result here, but do them after the wins are banked.
 
 ## 11. Loose ends already flagged, folded in
 
-Re-attempt, as part of whichever wave they fall in: Bodding's *Santal Dictionary* vols 1–4;
-*Encyclopaedia Mundarica* vols I, IV, VIII, IX, XI, XIV–XVI; the *Journal of the Asiatic Society of
-Bengal*; Bhaduri's Munda star-names paper in *Man in India*; Date's `(कुण.)` abbreviation, which
-needs the un-OCRed front matter of the *Mahārāṣṭra Śabdakośa*; Elwin's *Baiga* and *Muria*
-monographs (copyright — paraphrase route now that the convention is established).
+**Mostly closed, 2026-08-12.** *Encyclopaedia Mundarica* volumes 1, 2, 4, 6, 7, 8 and 10 and
+Bodding volume 5 were obtained and add nothing the database did not already have from them, except
+one Mundari idiom recorded in §8b. **Elwin's *Baiga* is done and quoted** — he was misfiled here as
+in copyright and is not; his *Muria and their Ghotul* was read and has no star vocabulary beyond one
+reference to the twenty-seven nakshatras.
+
+Still open, and now the whole of §11: Bodding's *Santal Dictionary* vols 1–4, which archive.org does
+not appear to hold under any identifier that resolves; *Encyclopaedia Mundarica* vols 3, 5, 9 and
+11–16; the *Journal of the Asiatic Society of Bengal*; Bhaduri's Munda star-names paper in *Man in
+India*; and Date's `(कुण.)` abbreviation, which still needs the un-OCRed front matter of the
+*Mahārāṣṭra Śabdakośa*.
 
 ---
 
@@ -733,25 +863,34 @@ Dhuri entries had to be argued into a caveat because the Dhuri are a caste, not 
 5 and 6 are all community-keyed. Add an optional `community` field (ethnonym as the source gives it)
 and let `language` mean only the language of the name.
 
-**b. `source_access`.** `quote: null` currently means two different things — the source is in
-copyright, or the source could not be obtained. With the JAHH series arriving in bulk, make the
-distinction explicit: `public-domain` · `in-copyright-paraphrased` · `not-obtained`.
+**b. `source_access`. — DONE, 2026-08-12.** Added to all 928 entries: `public-domain` (693) ·
+`in-copyright-paraphrased` (235) · `not-obtained` (0). The premise turned out to be half wrong, and
+the half that was wrong is the more interesting one. `quote: null` never did mean 'could not be
+obtained', because **nothing is ever entered from a source that was not read** — an unobtained source
+produces a line in `summary_findings`, not a row with an empty quote. So `not-obtained` is defined
+in order to stay empty, and `merge.py` now *asserts* the whole invariant: a quote exists if and only
+if `source_access` is `public-domain`. What was a convention maintained by care is now a build
+failure if it is broken.
 
-Consider also whether `register` needs a fifth value. `tribal` is doing heavy work as a catch-all
-across Munda, Dravidian and Tibeto-Burman traditions that have nothing to do with each other; and
-a maritime/navigational name is neither `folk` nor `tribal`. Decide when Wave 5 forces it, not
-before.
+**c. A fifth `register` value — decided against, 2026-08-12.** Wave 5 was to force the question and
+did not: the Divehi monsoon calendar sits under the existing values without strain. `tribal` is now
+carrying 387 of 928 names across Munda, Dravidian, Tibeto-Burman, Austroasiatic and Indo-Aryan
+traditions, which is a lot of weight — but splitting it by family would duplicate `language`, and
+splitting it by mode of life would make the register a claim about the speakers rather than about
+the name, which is exactly what the field is documented not to be. The 387 are separable already, by
+family through `build_matrix.py` and by community through `community`. Left as it stands.
 
 ---
 
 ## 13. Two decisions still open
 
-**Scope.** The app is *Indian Sky Map*, but the database already carries Sinhala (Sri Lanka),
-Andamanese and Nicobarese, and the best Himalayan and north-western resources are Nepali, Newar,
-Tibetan and Sindhi. Either the database is South Asian and says so, or it is Indian and the Sinhala
-entries need a stated justification. Recommendation: keep it South Asian in scope and let the *app*
-filter — the research is worth more undivided, and Tibetan/Nepali material illuminates Indian
-Himalayan communities that have no lexicography of their own.
+**Scope. — SETTLED IN PRACTICE, 2026-08-12; still worth stating explicitly in `FORMAT.md`.** The
+sub-waves settled this by acting on the recommendation rather than by arguing it. The database now
+carries Tibetan, whose only use is to speak for Ladakh, Spiti and Sikkim, which have no lexicography
+of their own; Mara and Mizo, whose sources are as much about the Chin Hills as about Mizoram; and
+Divehi, which reaches India through Minicoy. Every one of them earns its place by illuminating an
+Indian community that cannot be reached directly. **The database is South Asian; the app, if it ever
+consumes this, should filter.** What remains is to say so in `FORMAT.md`, which still does not.
 
 **Whether any of this reaches the app.** Today it does not: `FORMAT.md` states plainly that nothing
 under `star-names-local/` feeds the app, which reads `docs/star-names/star-names.json` into
@@ -775,3 +914,28 @@ database has so far avoided. Done is:
 The negative findings are half the value. A file that says *Radcliffe-Brown found no constellations
 in the North Andaman, and here is where he says it* is worth more than one that quietly omits the
 Andamans.
+
+### Where that stands, 2026-08-12
+
+The first test is now met for every family the plan set out to reach. **Indo-Aryan, Dravidian,
+Munda, Tibeto-Burman, Austroasiatic, Andamanese and the Maldivian branch are all represented**, and
+the four languages that were read and found dry — Lhota, Khasi beyond five words, Bodo, Kumaoni past
+two entries — each say so in a `summary_findings` with the book and the search named. The second is
+met for every source this plan named. The third is what `coverage-matrix.html` now is.
+
+**What is left is not a wave.** It is the next order of work, and it is a different kind of thing:
+
+1. **The measures.** *kai kanakku*, *viral kanakku*, *dhru*, and the Mizo *suk-chen* that stands
+   alone in the database as a native angular unit. Not lexicographic; they need the maritime
+   literature and the Kutchi *mālam* manuscripts, and none of it is digitised.
+2. **The Buddhist Himalaya, again, from clean text.** The books are in hand and the OCR defeats
+   them. This wants a modern digital Jäschke or a Ladakhi dictionary, not another download.
+3. **Fieldwork that exists but is not published.** The Warli / Dhodia / Katkari / Kokna survey is
+   the clear case: it was done, it was presented, and there is nothing citable. Writing to the
+   authors would close it, which no amount of searching will.
+4. **The rest of the Naga languages, and Bodo, from mission dictionaries** that are on neither DSAL
+   nor archive.org, and which exist chiefly in Shillong and Guwahati.
+
+None of these is reachable the way the first eleven waves were reachable — by finding the right
+book and reading it carefully. That, rather than any count, is the sense in which this plan is
+finished.

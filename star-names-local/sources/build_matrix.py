@@ -15,13 +15,16 @@ FAMILY = {
                    "Chhattisgarhi", "Marathi",
                    "Konkani", "Gujarati", "Bengali", "Assamese", "Odia", "Sinhala",
                    "Lambadi (Banjara)", "Bhili", "Mavchi", "Vasavi (Vasave Bhil)",
-                   "Pauri Bareli (Pawra)", "Kukna (Kokna)", "Nepali", "Kumaoni", "Divehi (Mahl)"],
+                   "Pauri Bareli (Pawra)", "Kukna (Kokna)", "Nepali", "Kumaoni", "Divehi (Mahl)",
+                   "Pardhi"],
     "Dravidian": ["Tamil", "Telugu", "Kannada", "Malayalam", "Tulu", "Kodava",
-                  "Gondi", "Kolami", "Kurukh", "Toda", "Cholanaikkan"],
-    "Munda": ["Santali", "Mundari", "Ho", "Korku"],
+                  "Gondi", "Kolami", "Kurukh", "Toda", "Cholanaikkan", "Kui"],
+    "Munda": ["Santali", "Mundari", "Ho", "Korku", "Sora"],
     "Austroasiatic": ["Khasi", "Nicobarese", "Central Nicobarese (Camorta)",
                       "Chaura (Chowra)", "Teressa"],
-    "Tibeto-Burman": ["Mizo (Lushai)", "Mara (Lakher)", "Meitei (Manipuri)", "Newar (Nepal Bhasa)"],
+    "Tibeto-Burman": ["Mizo (Lushai)", "Mara (Lakher)", "Meitei (Manipuri)",
+                      "Newar (Nepal Bhasa)", "Garo", "Angami Naga", "Sema (Sumi) Naga",
+                      "Rengma Naga", "Ao Naga", "Tibetan"],
     "Andamanese": ["Andamanese"],
 }
 # Least-Sanskritic wins the cell; a language that has both a loan and its own word
@@ -116,7 +119,10 @@ def main():
                     reg, names = got
                     bits = []
                     for n in names[:4]:
-                        nm = n["name_native"] or n["name_roman"]
+                        # A few entries record a figure whose name the source never gives —
+                        # Elwin's Baiga Great Bear, Mills's Rengma eclipse. They are real
+                        # findings and belong in the matrix, labelled for what they are.
+                        nm = n["name_native"] or n["name_roman"] or "(figure recorded, name not)"
                         lit = f" <span>‘{html.escape(n['literal_meaning'])}’</span>" if n.get("literal_meaning") else ""
                         bits.append(f"<b>{html.escape(nm)}</b>{lit}")
                     if len(names) > 4:

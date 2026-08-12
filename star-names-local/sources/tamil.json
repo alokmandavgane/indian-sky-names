@@ -17,6 +17,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "மீன்¹ mīṉ , n. < மின்னு-. [K. mīn.] 1. Star; நட்சத்திரம். பதியிற் கலங்கிய மீன் (குறள், 1116).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM, the central one for this file. The Lexicon prints two separate headwords on the same page: மீன்¹ mīṉ 'star', derived from the Tamil verb மின்னு- 'to flash', and மீன்² mīṉ 'fish; Pisces of the zodiac; shark', which it derives from Sanskrit mīna. Burrow and Emeneau keep them apart on the same principle but treat both as Dravidian: DEDR 4876 gives Ta. miṉ 'flash, glitter, lightning' … mīṉ 'star', with Ma. mīn, Ko. mi·n, To. mi·n, Ka. mīn, Kur. bīnkō, Malt. bínḍke 'star'; DEDR 4885 gives Ta. mīṉ 'fish' with cognates in every Dravidian branch, i.e. the fish-word is not a Sanskrit loan either. The two are homophones of independent Dravidian origin. Every -mīṉ entry below therefore needs its astronomical sense shown from context, and the fish sense excluded; the Lexicon's own definitions do that here. Verified at https://dsal.uchicago.edu/cgi-bin/app/burrow_query.py?page=435 and .../burrow_query.py?page=436. Senses 2 and 3 of மீன்¹ also make the bare word a name for the 14th nakṣatra (Cittirai) and the 13th (Attam)."
     },
@@ -34,6 +35,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "விண்மீன் viṇ-mīṉ , n. < id. + மீன்¹. Star; நட்சத்திரம். (சூடா.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Parallel formations with the same sense: வான்மீன்¹ vāṉ-mīṉ 'heaven-star' (p. 3626, from the aruñcolpporuḷ commentary on Puṟanāṉūṟu) and மோட்டுமீன் mōṭṭu-mīṉ (p. 3383, citing Cīvakacintāmaṇi 2325). வான்மீன்¹ must not be confused with வான்மீன்² = வால்மீன் 'comet' on the same page — the difference is வான் 'sky' against வால் 'tail'."
     },
@@ -51,6 +53,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "7. Lunar asterism; நட்சத்திரம். திங்களு நாளு முந்துகிளந் தன்ன (தொல். எழுத். 286).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tolkāppiyam line quoted — 'as when the moon and the nāḷ were mentioned before' — puts the sense in the oldest surviving Tamil grammar. Sense 8 extends it to the lunar day, the period of the moon's passage through one asterism."
     },
@@ -68,6 +71,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0221.html",
       "quote": "நாள்மீன் வாய் சூழ்ந்த மதி போல், மிடை மிசைப்",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Project Madurai text prints நாள்மீன்; the Tamil Lexicon headword is நாண்மீன் (nasal assimilation) and cites this same line as கலித். 104, 27, glossing 'The lunar asterism; அசுவதி முதலிய நட்சத்திரப்பொது' (s.v. நாண்மீன், vol. IV p. 2212, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact). The Lexicon also uses நாண்மீன் in its own Tamil definition of நட்சத்திரம், 'the twenty-seven nāṇmīṉ'."
     },
@@ -85,6 +89,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0064.html",
       "quote": "வாணிற விசும்பிற் கோண்மீன் சூழ்த்த\nவிளங்கதிர் ஞாயி றெள்ளூந் தோற்றத்து",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tamil Lexicon (s.v. கோண்மீன், vol. II p. 1181) defines it 'Planet, dist. fr. nāṇ-mīṉ; கிரகம்' and cites this exact line as சிறுபாண். 242. Kalittokai 5 sets the two words side by side in one line, 'நாளும் கோள்மீன் தகைத்தலும் தகைமே' (PM 0221), with the fuller form கோள்மீன்."
     },
@@ -102,6 +107,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%89%E0%AE%9F%E0%AF%81&searchhws=yes&matchtype=exact",
       "quote": "* உடு³ uṭu , n. < uḍu. Star; நட்சத்திரம். (பிங்.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM warning: the Lexicon prints six உடு headwords on the same page — 'ditch, moat', 'goat, sheep' (< huḍu), 'arrow, arrow-head, feather of an arrow, boatman's pole' (< huḍa), and a tree. Only உடு³ is astronomical, and the Lexicon marks it with an asterisk as a Sanskrit loan."
     },
@@ -119,6 +125,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%95%E0%AF%88&searchhws=yes&matchtype=exact",
       "quote": "தாரகை¹ tārakai , n. < tārakā. 1. Star; நட்சத்திரம். நாப்பண்வண் டாரகைபோல் (திருக்கோ. 116). 2. Apple of the eye; கண்மணி. (யாழ். அக.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM: sense 2 is 'apple of the eye', and தாரகை² is 'earth'. For 'constellation, cluster of stars' the Lexicon gives தாராகணம் (p. 1844, quoting Nāṉmukaṉ Tiruvantāti 63) and தாரகாகணம் (p. 1843)."
     },
@@ -136,6 +143,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "2. (Astron.) Lunar constellation, 27 in number, viz., acuviṉi, paraṇi, kārttikai, urōkiṇi, mirukacīriṭam, tiruvātirai, puṉarpūcam, pūcam, āyiliyam, makam, pūram, uttiram, astam, cittirai, cuvāti, vicākam, aṉuṣam, kēṭṭai, mūlam, pūrāṭam, uttirāṭam, tiruvōṇam, aviṭṭam, cataiyam, pūraṭṭāti, uttiraṭṭāti, irēvati; அசுவனி, பரணி, கார்த்திகை, உரோகிணி, மிருகசீரிடம், திருவாதிரை, புனர்பூசம், பூசம், ஆயிலியம், மகம், பூரம், உத்திரம், அஸ்தம், சித்திரை, சுவாதி, விசாகம், அனுஷம், கேட்டை, மூலம், பூராடம், உத்திராடம், திருவோணம், அவிட்டம், சதையம், பூரட்டாதி, உத்திரட்டாதி, இரேவதி என்னும் இருபத்தேழு நாண்மீன்.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Each of these is the corresponding Sanskrit nakshatra name in Tamil phonology, and each maps one-to-one onto an id in the Sanskrit database: acuviṉi = ashvini, paraṇi = bharani, kārttikai = krittika, urōkiṇi = rohini, mirukacīriṭam = mrigashirsha, tiruvātirai = ardra, puṉarpūcam = punarvasu, pūcam = pushya, āyiliyam = ashlesha, makam = magha, pūram = purva-phalguni, uttiram = uttara-phalguni, astam = hasta, cittirai = chitra, cuvāti = svati, vicākam = vishakha, aṉuṣam = anuradha, kēṭṭai = jyeshtha, mūlam = mula, pūrāṭam = purva-ashadha, uttirāṭam = uttara-ashadha, tiruvōṇam = shravana, aviṭṭam = dhanishtha, cataiyam = shatabhishaj, pūraṭṭāti = purva-bhadrapada, uttiraṭṭāti = uttara-bhadrapada, irēvati = revati. The Lexicon's own Tamil paraphrase calls them 'the twenty-seven nāṇmīṉ', i.e. it defines the Sanskrit term with the vernacular one. Individual Tamil entries elsewhere in the Lexicon locate several of them on the modern sky: அத்தம்⁸ attam 'the 13th nakṣatra, the constellation Corvus' (p. 65), அவிட்டம் aviṭṭam 'the 23rd nakṣatra, the constellation Dolphin' (p. 157), உரோகிணி urōkiṇi 'the 4th nakṣatra, Hyades, part of Taurus' (p. 453), திருவோணம் tiruvōṇam 'the 22nd nakṣatra, constellation of Aquila' (p. 1922), உத்தரட்டாதி uttaraṭṭāti 'the 26th nakṣatra, part of the constellations of Pegasus and Andromeda' (p. 407), திருவாதிரை tiruvātirai 'the 6th nakṣatra, part of Orion' (p. 1917), கேட்டை kēṭṭai 'the 18th nakṣatra, part of Scorpio' (p. 1092), அனுஷம் aṉuṣam 'the 17th nakṣatra, part of Scorpio' (p. 197), சித்திரை cittirai 'the 14th nakṣatra, part of Virgo' (p. 1391)."
     },
@@ -154,6 +162,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0296.html",
       "quote": "கண்டிசின் வாழியோ குறுமகள் நுந்தை\nஅறுமீன் பயந்த அறம் செய் திங்கள்",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tamil Lexicon (s.v. அறுமீன், vol. I p. 181, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%85%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'Pleiades, as containing six stars; கார்த்திகை. (பிங்.)', citing the Piṅkala Nikaṇṭu. The Naṟṟiṇai line joins the six stars to the moon — the Kārttikai full moon — and belongs to the Murugan birth-cycle: the Lexicon's அறுமீன்காதலன் aṟumīṉ-kātalaṉ (p. 181) is Skanda 'as one brought up by the goddesses of the Pleiades'. Winslow, s.v. அறு, gives the same word as 'The pleiades regarded as six stars being the third lunar constellation of the Hindus' and marks it '(p.)', poetical."
     },
@@ -171,6 +180,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%86%E0%AE%B1%E0%AE%BE%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "ஆறாமீன் āṟā-mīṉ , n. < id. + id. +. Pleiades, as containing six stars; கார்த்திகை.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tamil tradition consistently counts six Pleiads, not seven as in the Sanskrit Kṛttikāḥ; hence the six presiding goddesses of கார்த்திகைத்தேவிமார் (p. 880) and வாகுலை (p. 3574)."
     },
@@ -188,6 +198,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%85%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "அறுவாய்² aṟu-vāy , n. < ஆறு³ +. The third nakṣatra, as consisting of six stars; கார்த்திகை. அறுவாய் நிறைந்த மதிப்புறத் தோவென (கல்லா. 90, 9).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM: அறுவாய்¹ on the previous page, from அறு- 'to cut', means 'opening in a cut or wound' and 'vacant gap, as of the moon in its waxing phases' — and it is quoted from Tirukkuṟaḷ 1117 with the same collocation அறுவாய் நிறைந்த as the astronomical entry. The two senses can only be separated by context; here the moon is 'filled' beside the six stars."
     },
@@ -205,6 +216,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AF%88&searchhws=yes&matchtype=exact",
       "quote": "கார்த்திகை kārttikai , n. < kṛttikā. 1. The constellation Pleiades, part of mēṭa-rāci and iṭapa-rāci; ஒரு நட்சத்திரம். (திவா.) 2. cf. kārttika. The eighth month of the Indian calendar; ஒரு மாதம். (சைவச. ஆசாரி. 79.) … 4. cf. kārttika. The full-moon day in the month of Kārttikai when every house is beautifully lit with lamps; கார்த்திகைமாதத்தில் வீடுதோறும் விளக்கேற்றிக் கொண்டாடும் பூர்ணிமை நாள்.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The lamp-festival is independently visible in the Caṅkam corpus: Naṭṭār's commentary on Akanāṉūṟu identifies the crowd of women raising lamps in a simile as the கார்த்திகை festival (Project Madurai PM 0490_01, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0490_01.html). The Lexicon also has திருக்கார்த்திகை (p. 1897), 'a festival celebrated in the month of Kārttikai on the day when the moon is in conjunction with Pleiades'."
     },
@@ -222,6 +234,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%86%E0%AE%B1%E0%AE%BE%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AE%B1%E0%AE%B5%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81&searchhws=yes&matchtype=exact",
       "quote": "ஆறாமீனறவோட்டு āṟā-mīṉ-aṟa-v-ōṭṭu , n. < id. +. Passage of the sun through the segment of the Zodiac occupied by Pleiades, regarded by seamen as a period when rough weather is to be anticipated; கார்த்திகையில் சூரியன் பிரவேசிக்குங்காலம். (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Winslow's own entry, s.v. ஆறு, is independent confirmation: 'The transit of the sun through the pleiades, regarded by seamen, as a critical or disastrous season, when rough weather is to be looked for' (A Comprehensive Tamil and English Dictionary, 1862, p. 76, https://dsal.uchicago.edu/cgi-bin/app/winslow_query.py?qs=Pleiades&matchtype=default). The season is the north-east monsoon; compare ஐப்பசிக்குழப்பம் below."
     },
@@ -239,6 +252,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%87%E0%AE%B1%E0%AE%BE%E0%AE%B2%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "இறால் iṟāl , n. prob. இறு¹-. 1. Shrimp, prawn, macroura; மீன்வகை. (பிங்.) 2. Bluish seer-fish, Cybium commersonii; வெள்ளிறால். 3. The third nakṣatra. See கார்த்திகை. (திவா.) 4. Bull; எருது. (பிங்.) 5. Honeycomb; தேன்கூடு.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "HOMONYM, and a bad one: the same headword is 'shrimp', 'seer-fish', 'bull' and 'honeycomb'. Only the Tivākaram-sourced sense 3 is astronomical. Winslow independently records the sense — 'The third lunar mansion, the pleiades, கார்த்திகைநாள்' (1862, p. 113) — which is why it is kept, but the motivation of the name is unrecoverable and no literary attestation in the astronomical sense was found. Confidence 'likely' reflects the identification's dependence on two dictionaries with no verse behind them."
     },
@@ -256,6 +270,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AF%81%E0%AE%B2%E0%AF%88&searchhws=yes&matchtype=exact",
       "quote": "வாகுலை vākulai , n. < Vahulā. The six presiding female deities of the Pleiades; அறு மீனாகிய கார்த்திகைப்பெண்கள். (யாழ். அக.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Lexicon's Tamil paraphrase uses அறுமீன் — 'the Kārttikai women who are the six stars' — so the Sanskritic name is defined by the vernacular one. Compare கார்த்திகைத்தேவிமார் (p. 880) and கார்த்திகைப்பெண்கள் (p. 880), the Tamil equivalents."
     },
@@ -273,6 +288,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%8E%E0%AE%B0%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "எரிநாள் eri-nāḷ , n. < எரி +. The third nakṣatra. See கார்த்திகை. (பிங்.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Beside it the Lexicon has the half-borrowed அங்கிநாள் aṅki-nāḷ (p. 22, < Skt. agni + Tamil nāḷ), 'the third nakṣatra' and also 'the thirteenth', and கனலிநாள் kaṉali-nāḷ (p. 836), 'fire-star' for the 13th. The Sanskrit database entry 'agneya' warns that Āgneya is Kṛttikā and not the star Agni; the same warning applies to eri-nāḷ."
     },
@@ -291,6 +307,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0296.html",
       "quote": "மை அற விளங்கிய மணி நிற விசும்பில்\nகைதொழும் மரபின் எழு மீன் போல",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tamil Lexicon (s.v. எழுமீன், vol. I p. 544, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'The seven principal stars of Ursa Major, Charles's Wain; சப்தரிஷிமண்டலம்' and cites this exact line as நற். 231. The Sanskritic equivalent in Tamil is சத்தரிஷிமண்டலம் catta-riṣi-maṇṭalam (p. 1249), 'Ursa major or the Great Bear, the seven chief stars of which are personified as saptaṛṣi', and ஸப்தர்ஷிமண்டலம் (p. 3905)."
     },
@@ -308,6 +325,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AF%81%E0%AE%9F%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "சுடர்ச்சக்கரம் cuṭar-c-cakkaram , n. < id. +. The Great Bear, polar circle; துருவசக்கரம். சுடர்ச்சக்கரத்தைப் பொருந்திவரும் ஆதித்தன் முதலாக வருங் கோட்களது நிலைமையை (பரிபா. 19, 46, உரை).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "The Lexicon equates it with துருவசக்கரம் turuva-cakkaram (p. 1984), 'The wheel of Dhruva, turning the heavens and causing the diurnal motions', whose sense 2 is likewise 'Ursa major'. The name therefore hovers between the Bear itself and the whole polar circle it turns on; confidence 'likely' for the identification with Ursa Major specifically."
     },
@@ -325,6 +343,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%95%E0%AE%B0%E0%AE%9F%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "பெரியகரடி periya-karaṭi , n. < பெரு-மை +. The Great Bear; சப்தரிஷிமண்டலம். Pond.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Its pair சின்னக்கரடி ciṉṉa-k-karaṭi, 'The constellation Little Bear; ஒரு நக்ஷத்திரத்தொகுதி. Pond.' (Supplement p. S280), confirms the pattern: a bear-pair is a European constellation scheme, and the Tamil tradition otherwise counts these stars as seven ṛṣis or simply as eḻumīṉ 'the seven stars'. The French colonial context of Pondicherry is the obvious channel; the Lexicon does not say so and neither do I."
     },
@@ -342,6 +361,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html",
       "quote": "வடமீன் புரையுங் கற்பின், மடமொழி,",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "disputed",
       "notes": "IDENTIFICATION DISPUTED. The Tamil Lexicon (s.v. வடமீன், vol. VI p. 3474, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%9F%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) reads it as Arundhatī — its sense 1 refers to அருந்ததி sense 2, 'the scarcely visible star Alcor of the great Bear', and sense 2 to Arundhatī the wife of Vasiṣṭha — and cites this line. Winslow agrees: 'வடமீன், s. A small star in Ursa Major, as அருந்ததி' (1862, p. 912). But the name means simply 'northern star', and the chastity-simile would work as well for the pole star; readers who take வடமீன் as Dhruva are not obviously wrong, and the Lexicon itself glosses அருந்ததி only as 'the scarcely visible star Alcor'. Kalittokai 2 has the same formula independently — 'வடமீன் போல் தொழுது ஏத்த வயங்கிய கற்பினாள்' (PM 0221) — and there the star is worshipped, which again fits either. Marked disputed for that reason."
     },
@@ -359,6 +379,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0069.html",
       "quote": "பெருநல் வானத்து வடவயின் விளங்குஞ்\nசிறுமீன் புரையுங் கற்பி னறுநுதல்",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "The Tamil Lexicon (s.v. சிறுமீன், vol. III p. 1463) gives '1. The star Arundhati; அருந்ததி' and cites this line as பெரும்பாண். 303. HOMONYM: sense 2 of the same headword is 'Loach', a fish — சிறுமீன் is equally 'small fish'; here the preceding line 'in the northern quarter of the great sky' excludes it. Confidence 'likely' rather than 'certain' because 'the small star in the north' is a description that fits Alcor best but is not a proper name pinning it."
     },
@@ -376,6 +397,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0038.html",
       "quote": "விசும்புவழங்கு மகளிர் உள்ளும் சிறந்த\nசெம்மீன் அனையள்நின் தொல்நகர்ச் செல்வி",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "disputed",
       "notes": "IDENTIFICATION GENUINELY DISPUTED, and the Tamil Lexicon itself records all three readings under one headword (s.v. செம்மீன், vol. III p. 1598, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AF%86%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact): '1. The star Arundhati … (பதிற்றுப். 31, 28). 2. Mars; செவ்வாய். செம்மீ னிமைக்கு மாக விசும்பின் (புறநா. 60, 2). 3. The 6th nakṣatra. See திருவாதிரை. (புறநா. 60, 2, உரை.)' — i.e. the Puṟanāṉūṟu line is read as Mars by the Lexicon and as Ārdrā (Betelgeuse) by the old commentary on the same line. The Puṟanāṉūṟu 60 context, verified at PM 0057, is 'முந்நீர் நாப்பண் திமில்சுடர் போலச், / செம்மீன் இமைக்கும் மாக விசும்பின்' — 'in the high sky where the red star twinkles like a fishing-boat's lamp in mid-ocean'. All three candidates (Mars, Betelgeuse, Antares by colour) are red; Arundhatī is not, which is why sense 1 is best explained as the fixed epithet transferred. HOMONYM: sense 4 of the same headword is a sperm whale. sanskrit_db_id given as arundhati for the Patiṟṟuppattu sense; for the Puṟanāṉūṟu sense the candidates are the planet Mars (no Sanskrit-database entry) or 'ardra'."
     },
@@ -393,6 +415,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%89%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "*உத்தரமீன் uttara-mīṉ , n. < id. +. The star Arundhati in Ursa Major, the smaller of the two in Mizar, the central star in the tail; அருந்ததி நக்ஷத்திரம். உத்தரமீனின் கொண்கன் (சேதுபு. துத்தம. 6).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "'The smaller of the two in Mizar, the central star in the tail' is an unambiguous description of Alcor beside Mizar, ζ Ursae Majoris. This is the one Tamil entry that fixes Arundhatī on the sky beyond doubt, and it retro-justifies the identification of vaṭamīṉ and ciṟumīṉ. Beside it the Lexicon has குலமீன் kula-mīṉ 'clan-star' = Arundhatī (p. 1023, quoting Kallāṭam 73, 1)."
     },
@@ -410,6 +433,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0087.html",
       "quote": "வடவயின், விளங்கு ஆல், உறை எழு மகளிருள்\nகடவுள் ஒரு மீன் சாலினி ஒழிய,\nஅறுவர் மற்றையோரும் அந் நிலை அயின்றனர்;",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "The Tamil Lexicon (s.v. சாலினி¹ sense 2, vol. III p. 1391) gives 'Wife of Vasiṣṭha. See அருந்ததி' and cites this exact line as பரிபா. 5, 44. It derives the word from Sanskrit śālinī. HOMONYM: சாலினி¹ sense 1 is a woman oracle possessed by a spirit (quoted from Cilappatikāram 12, 7), சாலினி² is a gourd and சாலினி³ a toddy-seller; only sense 2 is astronomical. Note the passage's own phrase கடவுள் ஒரு மீன், 'the one divine star' — Tamil mīṉ used of Arundhatī directly. Winslow s.v. சாலி also records 'A name of Arundhati … supposed to have become one of the stars in Ursa Major' (1862, p. 441). Confidence 'likely': the identification of Cāliṉi with Arundhatī rests on the commentarial tradition reported by the Lexicon rather than on anything in the verse itself."
     },
@@ -427,6 +451,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "Pole Star; துருவநட்சத்திரம். (W.) 5. The pole of any great circle of the sphere, especially the celestial poles; பூசக்கர முனை. (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "NEGATIVE FINDING recorded here: searching the English side of the Lexicon for 'pole star' returns only Sanskrit-derived compounds — சிம்சுமாரசக்கரம் cimcumāra-cakkaram (p. 1422, < Śiṃśumāra, the Sanskrit celestial porpoise), துருவபதம், துருவமண்டலம், துருவன் 'the son of King Uttānapāda believed to have become the pole-star', நட்சத்திரநேமி — and no Tamil formation at all. The Śiṃśumāra figure enters Tamil too: சிம்சுமாரப்ரஜாபதி (Supplement p. S276), 'the region of the Pole Star beyond the nakṣatra-pada', quoted from a Vaiṣṇava commentary."
     },
@@ -445,6 +470,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%85%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "2. The star Canopus, of which Agastya is the regent; அகஸ்திய நக்ஷத்திரம். அகத்திய னென்னு மீன் உயர்ந்த தன்னிடத்தைக் கடந்து மிதுனத்தைப் பொருந்த (பரிபா. 11, 11, உரை).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Lexicon also has the fully Sanskritic அகஸ்தியநட்சத்திரம் (p. 16), 'The star Canopus'. The commentary phrase அகத்தியன் என்னும் மீன் — 'the star called Akattiyaṉ' — again uses the Tamil word mīṉ for a named star."
     },
@@ -462,6 +488,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0087.html",
       "quote": "பொதியில் முனிவன் புரை வரைக் கீறி\nமிதுனம் அடைய, விரி கதிர் வேனில்",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "The identification with Canopus is the commentary's, not the verse's: the Tamil Lexicon s.v. அகத்தியன் quotes the urai on this very line (பரிபா. 11, 11, உரை) as 'the star called Akattiyaṉ, passing beyond its high station, joining Gemini'. The mūlam text quoted here is verified independently at Project Madurai. The whole of Paripāṭal 11, ll. 1-12 is a sky-description with Venus in Aries (உருகெழு வெள்ளி வந்து ஏற்றியல் சேர, l. 4) and other planetary placements, so a star is what is meant. Confidence 'likely' because the epithet 'sage of Potiyil' names Agastya, and only the commentary makes Agastya the star here. The Lexicon's own headword பொதியில் (vol. V) gives only 'public hall' and the mountain, not the star, so this name is not lexicalised as an astronomical term."
     },
@@ -480,6 +507,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html",
       "quote": "அலங்குகதிர்க் கனலி நால்வயின் தோன்றினும்,\nஇலங்குகதிர் வெள்ளி தென்புலம் படரினும்,",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM, and one the discipline requires flagging. The Tamil Lexicon (s.v. வெள்ளி¹, vol. VI p. 3794, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact) prints ten senses on one headword: '1. Whiteness … 2. Silver, Argentum … 3. A silver coin … 4. Star; நட்சத்திரம் … 5. The planet Venus; சுக்கிரனென்னுங் கோள். இலங்கு கதிர் வெள்ளி தென்புலம் படரினும் (புறநா. 35) … 6. Śukra, the priest of the Asuras … 7. Friday … 9. Ignorance … 10. Semen virile.' Sense 1 is itself quoted from Puṟanāṉūṟu 41 and sense 7 from Cilappatikāram, so the word is ambiguous within the same corpus; the astronomical sense here is fixed by இலங்குகதிர் 'bright-rayed' and by the parallel with கனலி, the sun, in the preceding line. The Lexicon's ஊதுவாரம் (p. 496) makes the pun explicit: 'the Tamil word veḷḷi connoting the metal silver as well as the planet Venus'. Two further Puṟanāṉūṟu attestations of the same omen were verified in the same e-text: 388, l. 1 'வெள்ளி தென்புலத்து உறைய, விளைவயல் / பள்ளம், வாடிய பயன்இல் காலை' (Venus dwelling in the south, the fields withered), and 397, l. 1 'வெள்ளியும் இருவிசும்பு ஏர்தரும்' (Venus rising in the dark sky at dawn). No Sanskrit-database counterpart: the planets are not individually in that database."
     },
@@ -497,6 +525,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0077.html",
       "quote": "வசையில்புகழ் வயங்குவெண்மீன்\nதிசைதிரிந்து தெற்கேகினும்",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Nacciṉārkkiṉiyar's commentary on these lines glosses the phrase unambiguously: 'வயங்கு வெண்மீன் திசை திரிந்து தெற்கு ஏகினும் - விளங்குகின்ற வெள்ளியாகியமீன் தான் நிற்றற்குரிய வடதிசையினில்லாமல் தென்றிசைக்கண்ணே போகினும்' — 'the shining star that is Veḷḷi, even if it goes to the south instead of standing in its proper northern quarter' (U. Vē. Cāminātaiyar's edition, Project Madurai PM 0479, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0479.html). The Tamil Lexicon (s.v. வெண்மீன், vol. VI p. 3782) glosses it 'Venus; சுக்கிரன்' and cites the line as பட்டினப். 14; the Project Madurai text and Nacciṉārkkiṉiyar's own numbering both place it at ll. 1-2, i.e. the poem's opening couplet, so the Lexicon's line-number appears to follow a different edition or is an error. Recorded as an edition discrepancy rather than silently corrected."
     },
@@ -514,6 +543,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "விடிவெள்ளி viṭi-veḷḷi , n. < விடி² +. Venus, as the morning star; பின்னிரவில் தோன்றுஞ் சுக்கிரன். (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Its poetic doublet is விடிமீன் viṭi-mīṉ 'dawn-star' (p. 3658, quoting Kallāṭam 17, 12, 'விடிமீன் முளைத்த தரளம்'), and its morning/evening pair is காலைவெள்ளி kālai-veḷḷi 'morning-white' (p. 900) against மாலைவெள்ளி mālai-veḷḷi 'evening-white' (p. 3179). All four are Tamil formations on veḷḷi."
     },
@@ -531,6 +561,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0490_01.html",
       "quote": "வைகுறு மீனிற் றோன்று",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Nāṭṭār's gloss in the same e-text reads 'வைகுறு மீனில் தோன்றும் - விடியற்காலத்தே வானத்தே காணப்படுகின்ற மீன் போன்று தோன்றுதற்கிடனான' — 'appearing like the star seen in the sky at dawn'. The Tamil Lexicon (s.v. வைகுறுமீன், vol. VI p. 3850) defines it 'Morning star; விடிவெள்ளி' and cites this line as அகநா. 17. Note that the verse itself says only 'the dawn star'; the equation with Venus specifically is the lexicographers'."
     },
@@ -548,6 +579,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AF%8A%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "சொக்கவெள்ளி cokka-veḷḷi , n. < சொக்கம்¹ +. 1. [K. cokkabeḷḷi, Tu. cokkaboḷḷi.] See சொக்கக்கட்டிவெள்ளி. Colloq. 2. Morning star; விடிவெள்ளி. சொக்கவெள்ளி உதயமாகிவிட்டதாற் புறப்படுவோம். Nāñ.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM within the entry: sense 1, marked Colloq. and with Kannada and Tulu cognates, is refined silver bullion. The metal sense and the planet sense are the same metaphor running in two directions, which is exactly the veḷḷi trap. The star sense is fixed by the illustrative sentence — one does not set out on a journey because bullion has risen."
     },
@@ -565,6 +597,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "வெடி⁴ veṭi , n. < வெடி³-. Venus, as the morning star; விடிவெள்ளி. (பிங்.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "SEVERE HOMONYM: வெடி² on the same page runs to nineteen senses — explosion, noise, thunder, gun, fireworks, fissure, hate, ruin, fear, incense, perfume, stench, toddy, a dice-play cant term, and (marked Nāñ.) 'big lie'. வெடி⁴ 'Venus' is a separate headword with a separate etymology, attested only in a lexicographical work, with no literary quotation. Confidence 'likely' on that account. Also on the same page வெடி⁵ = 'open plain'."
     },
@@ -582,6 +615,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "மாலைவெள்ளி mālai-veḷḷi , n. < id. +. Venus, when it appears as the evening star; அந்தியிற்றோன்றும் சுக்கிரன். (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Only two Tamil words for the evening star are in the Lexicon: this one and the Sanskrit-based அந்திநட்சத்திரம் anti-naṭcattiram (p. 83), 'Evening star; மாலைவெள்ளி'. The morning star, by contrast, has at least eight Tamil names — an asymmetry worth noting: the Tamil sky-vocabulary is a dawn vocabulary."
     },
@@ -599,6 +633,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html",
       "quote": "மைம் மீன் புகையினும், தூமம் தோன்றினும்,\nதென் திசை மருங்கின் வெள்ளி ஓடினும்,",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tamil Lexicon (s.v. மைம்மீன், vol. V p. 3369, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%88%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'The planet Saturn, as black in colour; சனி' and cites this line as புறநா. 117. This one couplet is the single richest Tamil astronomical line: it gives maimmīṉ (Saturn), tūmam (comet) and veḷḷi (Venus) in two lines, all three as omens of drought. No Sanskrit-database counterpart; the planets are not individually in that database."
     },
@@ -617,6 +652,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%BE%E0%AE%9A%E0%AF%81&searchhws=yes&matchtype=exact",
       "quote": "மாசு¹ mācu , n. … 1. Spot; மறு. … 2. Stain, taint, tarnish; அழுக்கு. … 5. Blackness; கருமை. … 7. Cloud; மேகம். (பிங்.) … 11. The Milky Way; பால்வீதிமண்டலம். (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM-HEAVY: eighteen senses on one headword, including ordure, bile, phlegm, afterbirth and a film in the eye. Only sense 11 is astronomical, and it is Winslow's; Winslow's own entry reads 'The galaxy, or milky way, பால்வீதிமண்டலம்' (1862, p. 859, https://dsal.uchicago.edu/cgi-bin/app/winslow_query.py?qs=Milky+Way&matchtype=default). No literary attestation in the astronomical sense was found, but the sense is confirmed by the compound pūrāṭa-mācu below. sanskrit_db_id given as the Milky Way entry akashaganga on referent identity only — the name itself has no Sanskrit counterpart."
     },
@@ -634,6 +670,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AE%AE%E0%AE%BE%E0%AE%9A%E0%AF%81&searchhws=yes&matchtype=exact",
       "quote": "பூராடமாசு pūrāṭa-mācu , n. < id. +. Galaxy, the Milky Way; பால்வீதிமண்டலம். (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Winslow's own entry, s.v. பூராடம் (1862, p. 808), reads 'பூராடமாசு, s. The galaxy or milky way, பால்வீதிமண்டலம்; (adopted.)' — his '(adopted)' means the term is taken up rather than native to his colloquial register. That the Milky Way should be named for Pūrvāṣāḍhā rather than for any other asterism is not accidental and is not, as far as this compilation found, paralleled in Sanskrit."
     },
@@ -651,6 +688,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%80%E0%AE%A4%E0%AE%BF%E0%AE%AE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%B2%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "பால்வீதிமண்டலம் pāl-vīti-maṇṭalam , n. < id. + வீதி +. (Astron.) Milky Way, via lactea; வானத்தின் ஒருபுறமாக நீளத்தோன்றும் நட்சத்திரத்திரளின் ஒளி. (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The elements pāl 'milk' and maṇṭalam are Tamil and Sanskrit respectively, vīti < Skt. vīthī 'street'; the compound as a whole is a Tamil formation. Because the Lexicon glosses it with via lactea and attributes it to Winslow, a European calque cannot be ruled out — but the Tamil definition, 'the light of the mass of stars appearing lengthwise along one side of the sky', is descriptive rather than mythological, unlike the Sanskrit names. No literary attestation found."
     },
@@ -668,6 +706,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%86%E0%AE%95%E0%AE%BE%E0%AE%9A%E0%AE%95%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88&searchhws=yes&matchtype=exact",
       "quote": "*ஆகாசகங்கை ākāca-kaṅkai , n. < id. +. 1. The celestial Ganges; மந்தாகினி. 2. The Milky Way; பால்வீதிமண்டலம்.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Its Tamil companions in the same family are மந்தாகினி mantākiṉi (p. 3066, = Skt. Mandākinī, Sanskrit-database id mandakini), விண்டுநதி viṇṭu-nati 'Viṣṇu's river' (p. 3664, from the Yāḻppāṇa Akarāti), அமராபகை amarāpakai (Supplement p. S051, quoted from the Cintāmaṇi commentary) and சித்தகங்கை citta-kaṅkai 'the Siddhas' Ganges' (Supplement p. S274)."
     },
@@ -685,6 +724,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AF%80%E0%AE%A4%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "நாகவீதி nāka-vīti , n. < nāka + vīthī. Milky Way; பால்வீதிமண்டலம். (யாழ். அக.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "disputed",
       "notes": "Marked disputed because the Tamil gloss contradicts the Sanskrit database entry 'nagavithi' (the Serpent-road, northernmost of the nine star-roads, a segment of the ecliptic belt). Either the Yāḻppāṇa Akarāti has confused vīthī 'road' with the pāl-vīti 'milk-street' of the galaxy, or a genuine Tamil re-application has occurred. The Lexicon's நட்சத்திரவீதி naṭcattira-vīti (p. 2135) shows the same slide, glossing it both '1. Moon's path in the zodiac' and '2. The Milky Way'. A caution for anyone joining the two databases on this id."
     },
@@ -702,6 +742,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%A3%E0%AE%B2%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "மணலக்கம்பம் maṇalakkampam , n. perh. மணல் + lakṣa + பம். The Milky Way; பால்வீதிமண்டலம். (யாழ். அக.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "The Lexicon's etymology is prefixed 'perh.' and parses it as maṇal 'sand' + Skt. lakṣa 'lakh' + an unexplained -pam — i.e. something like 'a hundred thousand grains of sand', which would be a fine name for the Milky Way but is expressly a guess. Recorded with the guess flagged as the Lexicon flags it. Confidence 'likely' for the referent (the definition is unambiguous), not for the etymology."
     },
@@ -720,6 +761,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "வால்மீன் vāl-mīṉ , n. < வால்² + மீன்¹. See வால்நட்சத்திரம். (W.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM CAUTION: the variant spelling வான்மீன்² vāṉ-mīṉ (p. 3626) is also 'comet' — the Lexicon derives it from வால் 'tail', not from வான் 'sky' — and sits immediately beside வான்மீன்¹ vāṉ-mīṉ 'star' from வான் 'sky'. Two identical spellings, opposite senses, one page. The head entry வால்நட்சத்திரம் is at p. 3615. Also in the family: வானட்சத்திரம் (p. 3626, Yāḻppāṇa Akarāti) and பாலநக்ஷத்திரம் (p. 2629)."
     },
@@ -737,6 +779,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%82%E0%AE%AE%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "6. See தூமகேது. தூமந் தோன்றினும் (புறநா. 117).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Puṟanāṉūṟu 117 line was verified independently in the Project Madurai e-text (PM 0057, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html): 'மைம் மீன் புகையினும், தூமம் தோன்றினும்,'. HOMONYM: the same headword's senses 1-5 are smoke, perfume, censer, an astrological term, and a potter's kiln; sense 6 alone is the comet. The full form is தூமகேது tūma-kētu (p. 2018), 'Comet, one of four karantuṟaikōḷ' — 'the four hidden-and-appearing bodies', a Tamil classification of transient sky-objects."
     },
@@ -754,6 +797,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%9F%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "புகைக்கொடி pukai-k-koṭi , n. < id. +. Comet; தூமகேது. புகைக்கொடி தோன்றினும் (சிலப். 20, 102, அரும்.).",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Its twin is கனற்கொடி kaṉaṟ-koṭi 'fire-banner' (Supplement p. S211, quoting Takkayākapparaṇi 457), also 'comet'. The Takkayākapparaṇi commentary at that same verse yields a small Tamil vocabulary of comet-types — அராளகி arāḷaki, அவ்வியக்தி avviyakti, அவீசி avīci (Supplement pp. S062, S071, S076), each glossed 'a kind of comet' — a classification the Lexicon does not further explain and which is not pursued here."
     },
@@ -771,6 +815,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%B5%E0%AF%80%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "விண்வீழ்கொள்ளி viṇ-vīḻ-koḷḷi , n. < விண்¹ + வீழ்- +. Meteor; shooting star; விண்ணினின்று விழும் நட்சத்திரம்போன்ற சுடர். (சூடா.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tamil definition is careful — 'a light like a star, falling from the sky' — i.e. Tamil lexicography distinguishes the meteor from a star proper. The Sanskrit-derived equivalents in Tamil are உற்கம் uṟkam (p. 478, < ulkā) and ஆகாசபலம் ākāca-palam (p. 205)."
     },
@@ -788,6 +833,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AF%80%E0%AE%B4%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "வீழ்மீன் vīḻ-mīṉ , n. < id. + மீன்¹. Meteor; விண்வீழ்கொள்ளி. (தொல். பொ. 91, உரை.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The variant விழுமீன்¹ viḻu-mīṉ (p. 3723) is glossed 'Meteor. See வீழ்மீன்' — and immediately beside it விழுமீன்² is the hilsa fish, one more mīṉ homonym. The citation is to the commentary on the Tolkāppiyam, not to the sūtra itself: the mūlam of the Tolkāppiyam names no sky-object, as recorded in summary_findings."
     },
@@ -806,6 +852,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "மும்மீன் mu-m-mīṉ , n. < id. + மீன்¹. The fifth nakṣatra. See மிருகசீருடம். (திவா.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "CAUTION against a natural misreading: 'three stars' in Orion suggests the Belt to a modern eye, but the fifth nakṣatra is the head-group λ, φ¹, φ² Orionis, and the Tamil Lexicon refers the word to மிருகசீருடம் (p. 3201, < Skt. mṛga-śīrṣa). Winslow independently describes the mansion as 'containing three stars in Orion, and figured by an antelope's head' (1862, s.v. மிருகம், p. 869) — the same three stars, the head not the belt. NEGATIVE FINDING: no Tamil name for Orion's Belt as a separate figure was found in either lexicon. The Lexicon's other name for the fifth nakṣatra is மதிநாள் mati-nāḷ 'moon-star' (p. 3057, Piṅkala Nikaṇṭu), Soma being its presiding deity."
     },
@@ -823,6 +870,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%88&searchhws=yes&matchtype=exact",
       "quote": "திருவாதிரை tiru-v-ātirai , n. < id. + ārdrā. 1. The 6th nakṣatra, part of Orion; ஆறாவது நட்சத்திரம். (பிங்.) 2. A festival in the month of Mārkaḻi. See ஆருத்திராதரிசனம். 3. A special ceremony observed on the day of āruttirā-taricaṉam before a girl's marriage when she is given a bath and decorated … Nāṭ. Cheṭṭi. (E. T. v, 264.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "ETHNOGRAPHIC CROSS-REFERENCE: sense 3 is sourced by the Lexicon to 'E. T. v, 264' — Edgar Thurston, Castes and Tribes of Southern India, vol. V — and attributed to the Nāṭṭukkōṭṭai Chettis. This is the Tamil Lexicon itself citing the ethnography, and is the only place in this compilation where a star-derived Tamil term is anchored to a named community practice. Sense 2 is the Mārkaḻi Ārudrā-darśana festival. See also the disputed reading of செம்மீன் above, where an old commentary makes Puṟanāṉūṟu 60's 'red star' this asterism."
     },
@@ -840,6 +888,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%90%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "ஐம்மீன் ai-m-mīṉ , n. < id. +. 1. The 13th nakṣatra, so called because of its five principal stars. See அத்தம்⁸. (பிங்.) 2. The fourth nakṣatra. See உரோகிணி. (வீமேசுர. 15.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Sense 2, 'the fourth nakṣatra' = Rohiṇī, comes from a different source and reflects the five bright Hyades; the Lexicon prints both without adjudicating, so the counting-name is genuinely ambiguous between two five-star groups. Its calque-twin is கைம்மீன் kai-m-mīṉ 'hand-star' (p. 1112, Tivākaram), a straight Tamil translation of Sanskrit hasta 'hand'. The Lexicon locates the thirteenth s.v. அத்தம்⁸ (p. 65) as 'the constellation Corvus'."
     },
@@ -857,6 +906,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%9F%E0%AF%88%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "கடைமீன் kaṭai-mīṉ , n. < id. +. The 27th nakṣatra from its being the last of the asterisms. See இரேவதி. (திவா.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Its -nāḷ counterpart is கடைநாள் kaṭai-nāḷ (p. 679, Cūṭāmaṇi Nikaṇṭu), sense 4, 'the 27th nakṣatra, from its being the last asterism' — whose senses 1-3 are 'the last day', 'the day of one's death' and 'the last day of the world', a homonym worth noting. Further Tamil names for the same asterism: பெருநாள் peru-nāḷ (p. 2877) and புருடநாள் puruṭa-nāḷ (p. 2775); the Sanskritic one is இரவிநாள் iravi-nāḷ 'sun-star' (p. 316)."
     },
@@ -874,6 +924,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "மருத்துவநாள் maruttuva-nāḷ , n. < மருத்துவர் +. The first nakṣatra; அச்சுவினி நாள். (பிங்.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The same asterism also has the positional Tamil names தலைநாள் talai-nāḷ 'head-day, first star' (p. 1780, Piṅkala Nikaṇṭu) and ஆதிமீன் āti-mīṉ 'first star' (p. 229, quoting Cētupurāṇam, Kantamātaṉa 17: 'ஆதிமீன் றோணி யீறு'), and the fully Sanskritic ஐப்பசி (see the month entry). The Sanskrit-database counterpart naming the same idea is 'ashvinidaivata'."
     },
@@ -891,6 +942,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%9A%E0%AE%95%E0%AE%9F%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "சகடம்¹ cakaṭam , n. < šakaṭa. 1. Cart, wheeled conveyance drawn by cattle, carriage, chariot; வண்டி. … 4. The 4th nakṣatra. See உரோகிணி. (பிங்.) 5. Wheel; சக்கரம்.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Corresponds directly to the Sanskrit-database entry rohini-shakata, 'the Wain of Rohiṇī'. HOMONYM: five separate சகடம் headwords — a large drum, a sparrow, a cup, and a carambola tree — of which only சகடம்¹ sense 4 is astronomical. The purely Tamil name for the same asterism is வயமீன் vaya-mīṉ (p. 3496), which the Lexicon derives only tentatively ('prob. வயம்⁵ + மீன்¹') and glosses 'The fourth nakṣatra; உரோகணி'."
     },
@@ -908,6 +960,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "நடுநாள் naṭu-nāḷ , n. < id. +. 1. Midday; நண்பகல். 2. Midnight; இடையாமம். பழவிறன் மூதூர் பாயல்கொ ணடுநாள் (மணி. 7, 63). 3. The 14th nakṣatra. See சித்திரை. (சூடா.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "HOMONYM: senses 1 and 2 of the same word are 'midday' and 'midnight' — 'the middle of the day' and 'the middle asterism' share one form, and the Maṇimēkalai citation belongs to the midnight sense. The pun is presumably deliberate on the nikaṇṭu-maker's part. The bare word மீன் mīṉ is also given for this asterism (s.v. மீன்¹ sense 2), as is நெய்வான்மீன் ney-vāṉ-mīṉ (p. 2343, Tivākaram), whose first element is opaque."
     },
@@ -925,6 +978,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%A9%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "காற்றினாள் kāṟṟiṉāḷ , n. < id. + நாள். Svātī, the 15th nakṣatra, as having Wind-god for its presiding deity, Arcturus; வாயுவைத் தேவதையாகக் கொண்ட சுவாதிநாள். (பிங்.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Lexicon spells out the modern identification, 'Arcturus', which the Sanskrit database also gives for Svātī. Its half-borrowed rival is அனிலநாள் aṉila-nāḷ (p. 191, < Skt. anila 'wind' + Tamil nāḷ, Tivākaram). The corresponding Sanskrit-database entry is pavana-svati, 'Pavana / Anila / Vāyavya'."
     },
@@ -942,6 +996,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "காற்றுமுந்துநாள் kāṟṟu-muntu-nāḷ , n. < id. +. Višākha, the 16th nakṣatra, as succeeding kāṟṟiṉāḷ; காற்றைத் தேவதையாகக்கொண்ட சுவாதியை முற்பட்டநாளாகவுடைய விசாகநட்சத்திரம். (சூடா.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Printed immediately after காற்றினாள் on the same Lexicon page, which is how the relation is meant to be read. The formation presupposes a fixed Tamil ordering of the asterisms in which position alone can name a star — evidence that the Tamil nakshatra sequence was learned as a Tamil list, not merely translated item by item."
     },
@@ -959,6 +1014,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "நீர்நாள் nīr-nāḷ , n. < id. +. The 20th nakṣatra. See பூராடம். (பிங்.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Tamil deity-translation habit runs right through: கடல் kaṭal 'sea' is given as the 24th nakṣatra Catayam, 'so called from Varuṇa the Sea-god being the deity of the constellation' (p. 660); அசுரநாள் acura-nāḷ is Mūlam (p. 33); தருமநாள் taruma-nāḷ is Paraṇi (p. 1770); மித்திரநாள் mittira-nāḷ is Anuṭam (p. 3198); விசுவநாள் vicuva-nāḷ is Uttirāṭam (p. 3646); குருநாள் kuru-nāḷ and சுரர்குருநாள் curar-kuru-nāḷ 'the star of the gods' preceptor' are Pūcam (pp. 1017, 1526); அதிதிநாள் atiti-nāḷ is Puṉarpūcam (p. 74); பகவதிநாள் pakavati-nāḷ is Pūram (p. 2382); இசைநாள் icai-nāḷ is Pūraṭṭāti and Uttiraṭṭāti (p. 273)."
     },
@@ -976,6 +1032,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "மாரிநாள் māri-nāḷ , n. < மாரி¹ +. The 12th nakṣatra. See உத்தரம்². (பிங்.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "The Lexicon gives no reason for the name, so the agricultural reading is an inference from the transparent meaning of māri 'rain, rainy season' — flagged as such, and confidence set to 'likely' for that reason. The same asterism's other Tamil names are கதிர்நாள் katir-nāḷ (p. 713) and செங்கதிர்நாள் ceṅ-katir-nāḷ (p. 1578), both 'sun-ray star', which the Lexicon does explain: 'whose presiding deity is the Sun'."
     },
@@ -993,6 +1050,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0479.html",
       "quote": "(கு -பு) மகவெண்மீன் - மகநக்ஷத்திரம்; அது முடநுகம்போன்ற வடிவமுடையதாதலின், கரைக்கு உவமையாயிற்று.",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The mūlam lines were verified separately in the plain e-text (PM 0077, https://www.projectmadurai.org/pm_etexts/utf8/pmuni0077.html): 'மழைநீங்கிய மாவிசும்பின் / மதிசேர்ந்த மகவெண்மீன்' — 'in the great sky from which the rain has withdrawn, the Magha white-star joined to the moon'. Nacciṉārkkiṉiyar's running gloss on ll. 34-38 renders it 'மதியைச் சேர்ந்த மகமாகிய வெள்ளியமீனினது வடிவு' — 'the shape of the white star that is Magha, joined to the moon'. முடநுகம் muṭa-nukam is 'bent yoke'. The Sickle of Leo — α, η, γ, ζ, μ, ε Leonis — does form a hooked line answering to a yoke, and the figure is not the Sanskrit one (Sanskrit Maghā is a house or a whip). The compound is not a Tamil Lexicon headword; it exists only in this text and its commentary, which is why the citation is literary rather than lexicographical. HOMONYM caution: வெண்மீன் alone means Venus (see above); here மக- fixes it as the asterism."
     },
@@ -1011,6 +1069,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%90%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9A%E0%AE%BF&searchhws=yes&matchtype=exact",
       "quote": "ஐப்பசி aippaci , n. < āšvayuj. 1. The seventh Tamil month, October-November; ஏழாவது மாதம். (உபதேசரத். 6.) 2. The first nakṣstra. See அசுவதி. (சீவக. 1770.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "The Lexicon's derivations for the rest of the twelve, all verified at the same endpoint: சித்திரை Cittirai < citrā (p. 1391), வைகாசி Vaikāci < vaiśākha (p. 3849), ஆடி Āṭi < āṣāḍha (p. 219), ஆவணி Āvaṇi < śrāvaṇa (p. 249), புரட்டாசி Puraṭṭāci cf. proṣṭhapadā (p. 2769), கார்த்திகை Kārttikai < kṛttikā (p. 880), மார்கழி Mārkaḻi < mārgaśīrṣa (p. 3170), தை Tai < taiṣī (p. 2074), மாசி Māci < māgha (p. 3147), பங்குனி Paṅkuṉi < Pkt. phagguṇi < phalgunī (p. 2390). ஆனி Āṉi (p. 221) is the exception: the Lexicon gives it NO etymology at all, while recording that it also names the 19th nakṣatra (Mūlam) and the 21st (Uttirāṭam) — a gap worth flagging."
     },
@@ -1028,6 +1087,7 @@
       "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0038.html",
       "quote": "பகல்நீ(டு) ஆகா(து) இரவுப்பொழுது பெருகி\nமாசி நின்ற மாகூர் திங்கள்",
       "quote_lang": "ta",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "TEXTUAL NOTE: the Project Madurai e-text prints line 2 as 'மாசி நின்ற *மாகூர் திங்கள்*', the asterisks and bold flanking மாகூர் திங்கள் because that phrase is this poem's பெயர் (title-phrase), given as such in its colophon — they are editorial emphasis, not a lacuna, and the line is continuous. Line 1's '(டு)' and '(து)' are the editor's parenthesised restorations and are kept here as printed; nothing has been supplied by the compiler. The Tamil Lexicon (s.v. மாசி², vol. V p. 3147) cites this exact line as பதிற்றுப். 59, 2 and defines the word 'The 11th solar month = February-March', adding sense 2, 'The 10th nakṣatra. See மகம்²', from the commentary on Cilappatikāram 3, 123. HOMONYM: மாசி¹ on the previous page is 'mist, cloud' and 'a sea-fish', probably from மாசு."
     },
@@ -1045,6 +1105,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%90%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D&searchhws=yes&matchtype=exact",
       "quote": "ஐப்பசிக்குழப்பம் aippaci-k-kuḻappam , n. < ஐப்பசி +. Rough weather at the setting in of the north-east monsoon in October; ஐப்பசிமாதத்தில் தோன்றுகிற புயல். (J.)",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "Aippaci and the Pleiades passage of āṟāmīṉ-aṟavōṭṭu mark the same weather from two directions — the month named for the first asterism and the sun's transit of the third. Together they are the whole of the agricultural and maritime star-calendar recoverable from these lexica; nothing more specific (sowing-stars, harvest-stars, named navigation stars) was found in the Tamil Lexicon, Winslow, or in Thurston's Castes and Tribes of Southern India."
     }

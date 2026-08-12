@@ -1,6 +1,6 @@
 {
-  "source_group": "Nepali, Newar & Kumaoni — the Himalaya",
-  "languages": ["Nepali", "Newar (Nepal Bhasa)", "Kumaoni"],
+  "source_group": "Nepali, Newar, Kumaoni & Tibetan — the Himalaya",
+  "languages": ["Nepali", "Newar (Nepal Bhasa)", "Kumaoni", "Tibetan"],
   "summary_findings": "THE HIMALAYA IS THIN, AND THE REASON IS PARTLY THE SOURCES AND PARTLY THE SKY. Nepali and Newar both have good dictionaries and both were worked; the Indian Himalaya proper — Kumaon, Garhwal, Ladakh, Spiti, Sikkim — has almost nothing reachable, and what was reached is one word. NEPALI BUILDS ITS WHOLE SKY BY COMPOUNDING ON ONE NOUN. Turner's entry for तारो tāro is the Nepali heaven in miniature: dhrub-tāro the polestar, puchre tāro 'the tailed star' a comet, phuṭne tāro 'the bursting star' a meteor, tārā-maṇḍal a constellation, and — at the same headword and without ceremony — SĀT TĀRĀ, 'the seven stars', the Great Bear. That last is the finding. Every mainland community in this database sees furniture in those seven stars and somebody stealing it; Nepali counts them. The learned calque सप्त-रिखि sapta-rikhi stands elsewhere in the dictionary, made, Turner says, 'on the model of' Sanskrit saptarṣi — so Nepali has both, and only the count is ordinary speech. The other real Nepali figure is तिन्-तारे tin-tāre, 'the three stars', which Turner defines as three particular stars that always appear in a straight line: Orion's Belt, named for what it looks like, as Sindhi ṭīṛū and Mizo Si-mei-talh are in the north-western and north-eastern files. For the PLEIADES Nepali has three words at once — its own गुज्मुजि तारा gujmuji tārā 'the bunched, clustered stars'; the Hindi loan कच्पचिया kacpaciyā, the same crowding image travelling up from the plains; and किर्किटि kirkiṭi, which Turner marks 'popular' and derives, with an audible shrug, from the loan kṛttikā — 'after what?' He compares Nepali kirkaũlā, 'small bits of rice grains', which is probably the answer he would not commit to. THE ONE NEPALI NAKSHATRA THAT BECAME A WORD FOR A PERSON is मुल् mul, the eleven-star asterism reckoned unlucky, whose derivative मुल्याहा mulyāhā means 'born under mul' and, as a noun, 'an unfortunate person, an orphan'. Elsewhere in this database the asterisms govern the farming year; here one of them names a social condition. NEWAR IS THE OPPOSITE SHAPE: BORROWED ASTERISMS, HOME-MADE METEORS. The Kathmandu valley dictionaries give नगु nagu 'a star' and build नगु गाः nagu gāḥ 'a group of stars' on it, but every asterism is Sanskrit and the Milky Way is आकाश गंगा. What Newar made itself is the transient: ताहाव नगतिं tāhāva nagatiṃ, 'the long star', for a comet or shooting star, with the modern reflex tāhāhnagu and the modern paraphrase म्हेप्वना तहाँ नगु mhepwanā tahā̃ nagu, 'the star with a drawn-out tail'. AND NEWAR CAN BE DATED. Malla's Dictionary of Classical Newari is compiled from manuscripts and cites the Nepal Saṃvat of each attestation, so this file carries the only dated vernacular star-words in the database: ādra in NS 509 (1389 CE), ulaka and tāhāva nagatiṃ in NS 811 (1691), dhurmmaketu in NS 883 (1763). THE INDIAN HIMALAYA IS ESSENTIALLY UNREACHED, AND THAT IS THE HONEST HEADLINE OF THIS WAVE. Grierson's Pahārī volume was downloaded in full and searched: the comparative word-list gives only a reflex of tārā for 'star', and the Kumauni-English vocabulary yields exactly one sky name, लम्पुछा तारो lampuchhā tāro, 'the long-tailed star', a comet — plus grahan for an eclipse, which is a loan. Nothing for the Pleiades, Orion, the Great Bear, the Milky Way or the pole star, in Kumaoni or in any other Pahārī dialect in the volume; and the Devanagari in that scan is OCR noise, so nothing could be transcribed in script even where it exists. TIBETAN AND LADAKHI WERE NOT REACHED AT ALL: DSAL lists Jäschke (1881) and Das (1902) but hosts neither — its note is that a searchable database is still being built — and both, together with Atkinson's Himalayan Gazetteer, returned HTTP 503 from archive.org across repeated attempts. So there is no Ladakhi, Spiti, Bhutia, Monpa, Sherpa or Garhwali material here, and the Buddhist Himalaya, which has a fully developed astronomical tradition of its own, is absent from this database entirely.",
   "entries": [
     {
@@ -21,6 +21,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=280",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Sanskrit tārakā in Nepali phonology. The entry is worth reading as a whole: almost the entire Nepali sky in this dictionary is built by compounding on this one word."
     },
@@ -42,6 +43,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=280",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. A NEPALI FORMATION, NOT A LOAN, and it sits at the same headword as the loan. Compare sapta-rikhi below, which Turner says is compounded 'on the model of' Sanskrit saptarṣi: Nepali has both the calque and the plain count, and only the plain count is ordinary speech. Note what is absent — no cot, no thieves, no bier, none of the mainland furniture."
     },
@@ -63,6 +65,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=586",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Turner analyses it as a compound of sapta and rikhi made on the model of Sanskrit saptarṣi rather than borrowed whole — a calque, which is why it is entered separately from sāt tārā."
     },
@@ -84,6 +87,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=283",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. THE ONE NEPALI CONSTELLATION NAME THAT DESCRIBES WHAT IS SEEN. Turner does not say the three stars are Orion's Belt, but three stars in a permanent straight line admit of no other reading at this latitude, and the identification is given here on that ground alone. Compare Sindhi ṭīṛū in northwest.json and Mizo Si-mei-talh in northeast.json — three unrelated languages, three names for the Belt, none of them Sanskrit."
     },
@@ -105,6 +109,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=93",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Turner's own etymology is a shrug worth quoting the shape of: perhaps a popular etymology from the loanword kṛttikā, 'after what?' He compares Panjabi kirkhaṭī and Lahnda kirkaṭā̃, both 'the Pleiades', and Nepali kirkaũlā 'small bits of rice grains' — which is probably the answer he could not commit to, the cluster as scattered grain. Tagged `folk` rather than `sanskritic` because whatever it started as, it has been reshaped into a Nepali word and Turner marks it popular."
     },
@@ -126,6 +131,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=143",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. The crowding image, reached independently. Hindi kacpaciyā and gicpiciyā in hindi_urdu_punjabi.json are the same idea from a different echo-compound, and Nepali has that one too as a loan — see below."
     },
@@ -147,6 +153,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=67",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Turner marks it a loanword from Hindi and glosses it 'crowded together'. It is the same word as the Hindi kacpaciyā already in hindi_urdu_punjabi.json from Platts 1884, and it shows the northern folk name travelling into the hills alongside Nepali's own gujmuji tārā."
     },
@@ -168,6 +175,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=384",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Compare Sindhi puchiru tāro in northwest.json, the same compound in a language a thousand miles west, and Kumaoni lampuchhā tāro in this file, which adds 'long'."
     },
@@ -189,6 +197,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=407",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. NOT DUNG, AND NOT A FALL. Every other family in this database that has an analysed word for a meteor makes it star-excrement (Santali, Mundari, Gondi, Kolam, Korku, Meitei) or a fall (Mizo arsi thlâwk 'to shoot'). Nepali makes it a star bursting."
     },
@@ -210,6 +219,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=280",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Sanskrit Dhruva in the ordinary compound. No Nepali formation for this star was found."
     },
@@ -231,6 +241,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=634",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "unidentified",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Turner prints a question mark before the gloss, which is his own doubt and is recorded rather than resolved. Kept because an unidentified indigenous figure is a result: the collar image suggests a ring or circlet of stars, but nothing is claimed."
     },
@@ -252,6 +263,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=515",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. THE ASTERISM THAT BECAME A WORD FOR AN ORPHAN. This database has plenty of nakshatras governing the farming year; this is the only one that has become a term for a person's social condition. The eleven-star count and the ill omen are both standard Sanskrit doctrine, but the derivative is Nepali."
     },
@@ -273,6 +285,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=467",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. The proverb is the point: the rule is quoted against itself, as an argument for acting in spite of the calendar. Bhadrā is strictly a karaṇa rather than a nakshatra; Turner's gloss is followed here and the distinction noted."
     },
@@ -294,6 +307,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?page=3",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Sanskrit ketu, which in this database is also the Kashmiri comet kēth and the second element of Sindhi dhūmi ketu and Newar dhurmmaketu."
     },
@@ -315,6 +329,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/jorgensen_query.py?page=99",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. The ordinary Newar word, and the base of the constellation and meteor compounds below. Manandhar has the same word in the modern language fifty years later."
     },
@@ -336,6 +351,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/jorgensen_query.py?page=29",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Malla's classical dictionary has the same word as ulaka with a DATED illustration — 'the meteor appeared', in a manuscript of Nepal Saṃvat 811, that is 1691 CE. See the caveat on dated attestations."
     },
@@ -357,6 +373,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/malla_query.py?page=179",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. A NEWAR FORMATION WITH A DATE ON IT. This is the only entry in this database that can be tied to a particular year, because Malla's dictionary is compiled from dated manuscripts and cites the Saṃvat of each. Compare Sindhi puchiru tāro and Nepali puchre tāro, both 'tailed star': Newar says long rather than tailed."
     },
@@ -378,6 +395,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/malla_query.py?page=245",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. The learned word beside the vernacular one, and seventy years later in the manuscript record."
     },
@@ -399,6 +417,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/manandhar_query.py?page=137",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. The modern language keeping the same image as the seventeenth-century tāhāva nagatiṃ."
     },
@@ -420,6 +439,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/manandhar_query.py?page=271",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "unidentified",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Named and not placed, and kept for that reason."
     },
@@ -441,6 +461,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/manandhar_query.py?page=39",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. Newar has a word of its own for the category, built on nagu, rather than only the Sanskrit nakṣatra — which it also has, as nachetra."
     },
@@ -462,6 +483,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/manandhar_query.py?page=10",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. The same compound as Kashmiri ākāshĕ-gang and Sindhi ākās nadī in northwest.json. No Newar name of its own for the Milky Way was found."
     },
@@ -483,6 +505,7 @@
       "source_url": "https://dsal.uchicago.edu/cgi-bin/app/malla_query.py?page=18",
       "quote": null,
       "quote_lang": null,
+      "source_access": "in-copyright-paraphrased",
       "confidence": "certain",
       "notes": "In copyright, so the finding is paraphrased and `quote` is null — the convention this database uses for Lalas, the field surveys and Sharma. The earliest dated attestation in this database by nearly three centuries. What it attests is a Sanskrit loan, which is itself the finding for Newar: the vernacular material is meteors and comets, and the asterisms are borrowed."
     },
@@ -504,6 +527,7 @@
       "source_url": "https://ia801809.us.archive.org/27/items/dli.pahar.2036/1916%20Linguistic%20Survey%20Of%20India%20Vol%209%20Part%204%20Pahari%20Languages%20By%20Grierson%20S_djvu.txt",
       "quote": "Lampuchhs taro, comet.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "THE ONLY KUMAONI SKY NAME THE VOLUME YIELDS, and the only entry in this file that can be quoted at all, Grierson being public domain where every other Himalayan source here is not. The quote is the archive.org OCR verbatim, and it is bad: 'Lampuchhs' is certainly a misreading of Lampuchhā, and the reading given in `name_roman` is editorial on that ground — hence the grade `likely`. The volume prints the vocabulary in roman only, so `name_native` is null and nothing was back-transliterated. Compare Nepali puchre tāro and Sindhi puchiru tāro, both 'tailed star'; Kumaoni adds lam- 'long'."
     },
@@ -525,8 +549,53 @@
       "source_url": "https://ia801809.us.archive.org/27/items/dli.pahar.2036/1916%20Linguistic%20Survey%20Of%20India%20Vol%209%20Part%204%20Pahari%20Languages%20By%20Grierson%20S_djvu.txt",
       "quote": "Té-rai . . | Tare-i . . | 64. Star.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "From the standard LSI comparative word-list, where item 64 is 'star' across the Pahārī dialects and every column gives a reflex of Sanskrit tārā. The quote reproduces the OCR of two adjacent dialect columns as scanned, including its errors; the roman is normalised and marked editorial. This is the whole of what the comparative word-list gives for the sky, and it is recorded to show that the volume was searched."
+    },
+    {
+      "sky_object": "the Pleiades",
+      "sanskrit_db_id": "krittika",
+      "modern_star": {"common_name": "the Pleiades", "bayer": "M45", "constellation": "Taurus"},
+      "language": "Tibetan",
+      "iso639_3": "bod",
+      "region": "Written Tibetan; Jäschke's dialects are those of Lahaul, Spiti and Ladakh, where he worked from Kyelang, and Das's are Central Tibetan as read in Darjeeling",
+      "name_native": null,
+      "name_roman": "smin-drug, skar-ma smin-drug",
+      "literal_meaning": null,
+      "register": "vernacular",
+      "usage_note": "Jäschke gives smin-drug-zla-ba for the month in which the moon stands full near the Pleiades — October or November — which is Kārttika under another name. Das adds that it is the third lunar mansion, that its regent is fire, that it contains six stars, and that it is figured as a flame or else as a razor or knife.",
+      "citation": "H.A. Jäschke, A Tibetan-English Dictionary, with special reference to the prevailing dialects (London: Secretary of State for India, 1881), s.v. smin-drug; and Das, s.v. smin-drug",
+      "source_type": "dictionary",
+      "source_date": "1881",
+      "source_url": "https://archive.org/details/bub_gb_SLUIAAAAQAAJ",
+      "quote": "Pleiades smin-drug.",
+      "quote_lang": "en",
+      "source_access": "public-domain",
+      "confidence": "certain",
+      "notes": "THE ONLY TIBETAN NAME IN THIS DATABASE THAT CAN BE GIVEN VERBATIM, and it is here because it survives every scan: it appears four times in the Jäschke scan and again in Das, always identically spelt, in an OCR that mangles almost every other transliterated Tibetan word on the page. The quote is from Jäschke's English-Tibetan index, which is set in roman and therefore readable. Six stars, not seven, as the Lakhers and Semas also count them. The month-name is the same construction as Sindhi katī and Rajasthani kirati: the cluster names the month it is full in."
+    },
+    {
+      "sky_object": "the pole star",
+      "sanskrit_db_id": "dhruva",
+      "modern_star": {"common_name": "Polaris (the pole star)", "bayer": "α Ursae Minoris", "constellation": "Ursa Minor"},
+      "language": "Tibetan",
+      "iso639_3": "bod",
+      "region": "Written Tibetan; Jäschke's dialects are those of Lahaul, Spiti and Ladakh, where he worked from Kyelang, and Das's are Central Tibetan as read in Darjeeling",
+      "name_native": null,
+      "name_roman": "skar-ma brtan-pa; gzaʼ-yi rten",
+      "literal_meaning": "'the fixed star'; 'the support of the planets'",
+      "register": "vernacular",
+      "usage_note": "Das explains the second name: it is called the fixed one because it remains immovable above all the planets.",
+      "citation": "Sarat Chandra Das, A Tibetan-English Dictionary with Sanskrit Synonyms (Calcutta: Bengal Secretariat Book Depot, 1902), s.v. skar-ma brtan-pa, gzaʼ-yi rten",
+      "source_type": "dictionary",
+      "source_date": "1902",
+      "source_url": "https://archive.org/details/atibetanenglish01dasgoog",
+      "quote": "the fixed ster or the polar star",
+      "quote_lang": "en",
+      "source_access": "public-domain",
+      "confidence": "likely",
+      "notes": "'ster' is the scan's damage for 'star' and is left as it stands rather than silently mended. Das gives the same star at four separate headwords with four different renderings, of which these two are legible; the others are lost in the OCR. Graded `likely` for that reason. THE SUPPORT OF THE PLANETS is a good name and an exact one: it is the peg the whole sky turns on, which is what dhruva means too."
     }
   ],
   "caveats": [
@@ -537,6 +606,8 @@
     "Bhadrā is glossed by Turner as a constellation and is entered as he gives it, but it is strictly a karaṇa — half a lunar day — rather than an asterism. The entry says so. Where a lexicographer and the technical literature disagree, this database records the lexicographer and flags the disagreement.",
     "Malla's Nepal Saṃvat dates are converted to Common Era years by adding 879, which is the standard equivalence and is accurate to within the months of the Newar year. The dates belong to the manuscripts Malla cites, not to the words: tāhāva nagatiṃ is certainly older than the 1691 manuscript that happens to preserve it.",
     "Schmidt's Practical Dictionary of Modern Nepali (1993) was searched and yields nothing this file does not already have from Turner — तारा tārā 'star' and ग्रह graha 'planet, star in astrology' — so no entry rests on it. That a modern learners' dictionary has two sky words where Turner has twenty is a fact about dictionaries, not about Nepali.",
-    "The Indian Himalaya is a stated gap and not a searched-and-empty one. Jäschke's and Das's Tibetan dictionaries, which would give Ladakhi, Spiti and Bhutia, are listed by DSAL but not hosted — 'we are currently building a searchable database out of this data' — and both, with Atkinson's Himalayan Gazetteer, returned HTTP 503 from archive.org on every attempt made here. Garhwali was not reached at all. The Buddhist Himalayan tradition, which has an elaborate astronomy of its own, is absent from this database and its absence should not be read as a finding about the region."
+    "The Indian Himalaya is a stated gap and not a searched-and-empty one. Jäschke's and Das's Tibetan dictionaries, which would give Ladakhi, Spiti and Bhutia, are listed by DSAL but not hosted — 'we are currently building a searchable database out of this data' — and both, with Atkinson's Himalayan Gazetteer, returned HTTP 503 from archive.org on every attempt made here. Garhwali was not reached at all. The Buddhist Himalayan tradition, which has an elaborate astronomy of its own, is absent from this database and its absence should not be read as a finding about the region.",
+    "WAVE 4b — THE BUDDHIST HIMALAYA — WAS ATTEMPTED AND IS ALL BUT UNREACHABLE, and the reason is worth recording precisely because it is not the reason expected. Jäschke (1881), Das (1902) and Atkinson's Himalayan Gazetteer were all obtained on the later pass, by way of archive.org's metadata endpoint. The obstacle is not access but OCR: Jäschke's and Das's transliterated Tibetan is set with diacritics that both scans destroy, so that the twenty-eight lunar mansions Jäschke lists at rgyu-skar come out as an unreadable string, and Das's Tibetan-script column is recognised into the wrong letters — smin is rendered as yin at the very entry that defines it. Two names survive because they recur identically across both dictionaries and are entered; everything else is left unread rather than reconstructed, which is the same decision this database made about the Korku paper's Greek letters and the Bhil paper's cipher.",
+    "Atkinson's Himalayan Gazetteer, all three volumes, was read for Kumaoni and Garhwali star-names and has none. The only sky word in the whole work is a footnote glossing dhruva as Ursa Major or the pole star, taken from Wilson. Kumaoni therefore still rests on the two entries in this file, and GARHWALI, LADAKHI, SPITI, BHUTIA, MONPA, SHERPA AND LAHULI REMAIN ENTIRELY UNATTESTED — none of them has a dictionary on DSAL, and the Linguistic Survey's Tibeto-Burman volumes give the bare word for 'star' in each and nothing more, which this database does not enter because a table of forty words meaning 'star' answers no question it asks."
   ]
 }

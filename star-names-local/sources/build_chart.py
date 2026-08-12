@@ -39,6 +39,8 @@ POS = {
     "lyra":          (284.00, 37.00, "figure"),
     "aquila":        (297.00, 5.00, "figure"),
     "norma":         (245.00, -50.00, "figure"),
+    "cassiopeia":    (12.00, 60.00, "figure"),
+    "grus":          (335.00, -45.00, "figure"),
     "pole-star":     (37.95, 89.26, "star"),
     "alcor":         (200.98, 54.99, "star"),
     "canopus":       (95.99, -52.70, "star"),

@@ -22,6 +22,7 @@
       "source_url": "https://archive.org/details/folkloreofbombay00reen/page/71",
       "quote": "Some persons, however, regard the appearance of meteors as auspicious or baneful, according to the group of stars from which they are seen to fall. Meteors from the Vayu-mandal (or the groups of stars known by the name of Vayu), portend the breaking out of an epidemic : those from Varuna-mandal are believed to be favourable to human happiness : if they fall from Indra-mandal, they forebode danger to all kings ; those from Agni-mandal threaten war between nations.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "A DIVISION OF THE SKY THIS DATABASE DID NOT HAVE. The Sanskrit compilation carries the nine vīthīs, the star-roads, and Rajasthani keeps them (gajabīthī in hindi_urdu_punjabi.json); the maṇḍalas are a different partition, by presiding deity rather than by the planets' path, and they exist here only to answer where a meteor came from. Enthoven does not say which stars belong to which maṇḍal and no attempt is made here to supply them — hence `likely` and a modern_star that says so. The Kanara reading in the usage note is the clearest occupational split in this file: the same meteor is a portent of evil to the dwellers on earth generally and a promise of rain to a coastal district that wants rain."
     },
@@ -44,6 +45,7 @@
       "source_url": "https://archive.org/details/folkloreofbombay00reen/page/68",
       "quote": "Married couples are made to look at the pole-star immediately after the marriage knot is tied by the priest, in the hope … This is known as Tara-baras.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "likely",
       "notes": "The only NAME FOR A SKY-RITE in this database — everything else here names a star, a figure, a wind or a season. Enthoven's footnote marker sits at the end of a sentence that the archive.org scan breaks mid-clause, so the quote is given with an ellipsis where the page is unreadable, and the entry is graded `likely` on that account rather than on any doubt about the rite. Compare the Telugu and Assamese Arundhatī entries already in this database, which are the same wedding ritual seen from two other languages, and the caveat there about what a `sanskritic` tag does and does not claim about the people performing it."
     },
@@ -66,6 +68,7 @@
       "source_url": "https://archive.org/details/popularreligionf01croo",
       "quote": "These are used only in calculating the marriage horoscope, and the only one of them with which the fairly well-to-do rustic has much concern is with the unlucky Mula. Should by an evil chance his son be born in this asterism, he has to undergo a most elaborate rite of purification.",
       "quote_lang": "en",
+      "source_access": "public-domain",
       "confidence": "certain",
       "notes": "CORROBORATES THE NEPALI FINDING OF WAVE 4 FROM 900 KM AWAY AND 35 YEARS EARLIER. Turner's Nepali dictionary derives मुल्याहा mulyāhā, 'born under mul', which as a noun means 'an unfortunate person, an orphan' (himalaya.json). Crooke, without a dictionary, gives the social fact behind it: of twenty-seven asterisms this is the one that reaches a farming household, and it reaches it by marking a child. Together the two are the database's clearest case of an asterism that matters as a social category rather than as a season or a shape."
     }

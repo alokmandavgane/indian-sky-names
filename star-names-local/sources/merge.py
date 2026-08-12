@@ -47,6 +47,9 @@ def load_sanskrit():
     return {s["id"]: s for s in db["stars"]}
 
 
+ACCESS = ("public-domain", "in-copyright-paraphrased")
+
+
 def main():
     sk = load_sanskrit()
     sk_titles = {i: f"{s['name_iast']} ({s['modern_star']['common_name']})" for i, s in sk.items()}
@@ -60,13 +63,21 @@ def main():
         caveats[src["source_group"]] = src.get("caveats", [])
         langs_by_file[src["source_group"]] = src.get("languages", [])
         for e in src["entries"]:
+            # `source_access` is an invariant, not a comment: a quote may exist only
+            # where the source is out of copyright, and `not-obtained` may never
+            # reach an entry at all, because nothing is entered from a source that
+            # was not read.
+            acc = e.get("source_access")
+            assert acc in ACCESS, f"{name}: bad source_access {acc!r} on {e.get('name_roman')!r}"
+            assert (acc == "public-domain") == (e.get("quote") is not None), (
+                f"{name}: source_access {acc!r} contradicts quote on {e.get('name_roman')!r}")
             e = dict(e, _source_group=src["source_group"])
             groups[canon(e, sk_titles)].append(e)
 
     objects = []
     for key, entries in groups.items():
         entries.sort(key=lambda e: (REGISTER_ORDER.index(e["register"]) if e["register"] in REGISTER_ORDER else 9,
-                                    e["language"], e["name_roman"]))
+                                    e["language"], e["name_roman"] or ""))
         ids = [e["sanskrit_db_id"] for e in entries if e["sanskrit_db_id"]]
         top_id = collections.Counter(ids).most_common(1)[0][0] if ids else None
         mods = [e["modern_star"] for e in entries if (e["modern_star"] or {}).get("common_name")]
@@ -98,15 +109,19 @@ def main():
             "Gundert 1872 for Malayalam; Männer 1886 for Tulu; Carter and Clough for Sinhala; Praharaj and "
             "Jñānendramohana Dāsa for Odia and Bengali; and for the Adivasi languages Hoffmann's Encyclopaedia "
             "Mundarica, Bodding and Campbell on Santali, Grignard on Kurukh, Rivers 1906 on the Toda, Man 1883 "
-            "and Radcliffe-Brown 1922 on the Andamans, and Russell & Hiralal 1916; Macalister 1898 and Lalas "
+            "and Radcliffe-Brown 1922 on the Andamans, Ramamurti 1938 on Sora and Winfield 1929 on Kui; "
+            "for the north-east, Lorrain 1940 on Mizo and the colonial monographs — Playfair 1909 on the "
+            "Garos, Hutton 1921 on the Angamis and the Semas, Mills 1926 and 1937 on the Aos and the "
+            "Rengmas, Parry 1932 on the Lakhers; Elwin 1939 on the Baiga, and Russell & Hiralal 1916; Macalister 1898 and Lalas "
             "2013 for Rajasthani. A second layer, kept in its own source file, comes from MODERN FIELD SURVEYS "
             "that have no counterpart in the printed record: Vahia, Halkare and colleagues on the Gonds (2013), "
             "the Banjaras and Kolams (2014), the Korku (2016) and the Nicobarese (2018), and Shetye, Halkare "
             "and Sule on the Bhil, Pawra and Kokna (2023). Every name from a public-domain source is quoted "
             "verbatim from a source that was actually fetched, with the page cited and the URL recorded; where "
             "a source printed only a romanization, no script is supplied and nothing was back-transliterated. "
-            "Work still in copyright — which is all five field surveys, and Samsad 2000, Candrakanta 1962 and "
-            "Lalas 2013 — is paraphrased and cited, never quoted. Wikipedia was not used as a source."
+            "Work still in copyright — the six field surveys, Turner 1931, Jorgensen, Malla, Manandhar, "
+            "Maniku 2000, Sharma 2006, Baloch, Grignard, Samsad 2000, Candrakanta 1962 and Lalas 2013 — is "
+            "paraphrased and cited, never quoted, and every entry now says which it is in `source_access`. Wikipedia was not used as a source."
         ),
         "register_note": (
             "Every name is tagged by register. That is the point of the database rather than a detail: most "
@@ -122,6 +137,7 @@ def main():
             "by_register": dict(regs),
             "by_language": dict(langs.most_common()),
             "linked_to_sanskrit_db": sum(1 for e in all_entries if e["sanskrit_db_id"]),
+            "by_source_access": dict(collections.Counter(e["source_access"] for e in all_entries)),
         },
         "language_groups": langs_by_file,
         "objects": objects,
@@ -190,11 +206,13 @@ def write_readme(db):
         A("|---|---|---|---|---|")
         for e in o["names"]:
             nat = e["name_native"] or "—"
+            rom = e["name_roman"] or "(figure recorded, name not)"
             lit = (e["literal_meaning"] or "—").replace("|", "\\|")
-            A(f"| {e['language']} | {nat} | *{e['name_roman']}* | {lit} | {e['register']} |")
+            A(f"| {e['language']} | {nat} | *{rom}* | {lit} | {e['register']} |")
         A("")
         for e in o["names"]:
-            head = f"**{e['name_native'] + ' · ' if e['name_native'] else ''}{e['name_roman']}** "
+            head = f"**{e['name_native'] + ' · ' if e['name_native'] else ''}"
+            head += f"{e['name_roman'] or '(figure recorded, name not)'}** "
             head += f"— {e['language']}"
             if e.get("region"):
                 head += f" ({e['region']})"
