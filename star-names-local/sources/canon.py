@@ -97,7 +97,7 @@ EXTRA = [
     ("pegasus", r"pegasus|alpheratz"), ("auriga", r"auriga"), ("lupus", r"lupus"),
     ("delphinus", r"delphin"), ("monoceros", r"monoceros|the unicorn constellation"),
     ("cygnus", r"cygnus"), ("centaurus", r"centaur"), ("norma", r"norma"),
-    ("cassiopeia", r"cassiopei"), ("grus", r"\bgrus\b"),
+    ("cassiopeia", r"cassiopei"), ("grus", r"\bgrus\b"), ("pisces", r"\bpisces\b"),
     ("leo-virgo", r"\bleo\b|\bvirgo\b"),
 ]
 COMPILED_EXTRA = [(k, re.compile(p, re.I)) for k, p in EXTRA]
@@ -108,7 +108,7 @@ TITLES.update({
     "aquila": "Aquila", "pegasus": "Pegasus", "auriga": "Auriga", "lupus": "Lupus",
     "cygnus": "Cygnus", "centaurus": "Centaurus", "norma": "Norma",
     "delphinus": "Delphinus", "monoceros": "Monoceros",
-    "cassiopeia": "Cassiopeia", "grus": "Grus",
+    "cassiopeia": "Cassiopeia", "grus": "Grus", "pisces": "Pisces",
     "leo-virgo": "Leo and Virgo",
     "unplaced-figure": "Figures with no secure modern identification",
 })

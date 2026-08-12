@@ -747,6 +747,61 @@ axes after a burial, and the splinters are the rest of the stars.
 
 ---
 
+## 8c. Wave 7 — the Vahia papers re-read from the appendices. **Done, 2026-08-12.**
+
+**+47 entries, 4 corrections. 928 → 975 names, 64 → 65 objects.**
+
+Prompted by a private, in-copyright book manuscript: M.N. Vahia, Nisha Yadav and Srikumar M. Menon,
+*Perspectives on Early Astronomy in Indian Context*, prepared for the National Council of Science
+Museums (v2 rev5, PDF dated 11 July 2017). Its §4.1 tabulates the Banjara, Kolam and Gond skies side
+by side.
+
+**The book is cited on no entry, and that is the correct outcome.** Every name in its tables comes
+from the authors' own two field papers — Vahia & Halkare 2013 on the Gonds, Vahia, Halkare, Menon &
+Calamur 2014 on the Banjaras and Kolams — which this compilation already held and already cited.
+Citing the condensation for a name the papers printed first would put the wrong source on the
+record. The book's contribution was diagnostic: its Gond column carried a Sun and a Moon this
+database did not have, which meant the papers had been mined from their summary tables only.
+
+### Tables are not the paper
+
+Both papers put their findings in a summary table and then print a village-by-village appendix. The
+appendix is where the vocabulary is. Working from the tables cost four wrong statements, all now
+corrected in place with the correction written into the entry's own notes:
+
+| Was | Is |
+|---|---|
+| "No name is claimed for the pole star among the Banjaras" | Named twice in the appendix: **Dhruv Tara** |
+| Kolam three thieves: "[no Kolami form printed]" | **Dongal**, at two villages |
+| Kolam Samdur: "no name is printed for the individual animals" | All six named: **Namli, Barre, Pande, Mekam, Gurram, Ture** |
+| "Four entries carry no vernacular name" | Three |
+
+### What the 47 are
+
+**Eleven Gond.** The Sun and the Moon are **Lingo** and **Jango**, the two Gond culture heroes — no
+other language here names the Sun after a person of its own mythology. The rainbow is **Kamarpatta**
+or **Gulel**, a waist-belt or a catapult. The four quarters are named and are used for burial, not
+travel, and the south at Lodha is **Rakshas Disha**, which is the Pardhi *rakshasbaku* in another
+family. **Kayshar**, the broom, sits on the Pleiades in three villages and on comets in the rest.
+And in one village the three thieves at the cot are not thieves but **Poyi**, his wife and his
+officer, walking toward salvation.
+
+**Thirty-six Banjara and Kolam**, mostly from the appendix, pp. 77–84. The compass is the largest
+gain: six Banjara quarters and four Kolam. Banjara north is **Dongari**, 'the hills' — the Pardhi
+word, in the same file — and the two Kolam villages that gave the quarters **swap north and south
+between them**, recorded as `disputed` rather than resolved. The Kolam rainbow **Ayak** is the
+grandparents, the grandfather at the violet end and the grandmother at the red: the only name in the
+database that divides an object by colour and puts a person at each end. **Kavadi Kunde**, the tower
+of three pots, is Cygnus in most villages and Orion's Belt in two, and the paper says so itself. The
+Banjaras see an old woman, **yadi**, spinning cotton under a banyan tree in the face of the Moon —
+the only reading of the lunar maria in fifty-seven languages.
+
+`canon.py` gained a `pisces` rule for the Kolam frog. The five identified rain-animals carry the
+recorders' suggested constellations at `disputed`, because the suggestions are the recorders' own
+and not the informants'.
+
+---
+
 ## 9. Resource classes to sweep
 
 ### A. Lexicography

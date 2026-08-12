@@ -58,7 +58,7 @@ carries a **`register`**, and that field is the point of the database:
 | `tribal` | from a distinct Adivasi tradition |
 | `sanskritic` | the Sanskrit name in this language's script and phonology |
 
-Of 928 names, 713 are not `sanskritic`. Filter on this before drawing any conclusion about what a
+Of 975 names, 754 are not `sanskritic`. Filter on this before drawing any conclusion about what a
 language "has" — and note that a `sanskritic` tag is a claim about the *name*, not about the
 speakers: Malayalam's birth-star reckoning is entirely Sanskritic in vocabulary and entirely alive.
 
@@ -70,17 +70,17 @@ nine entries.
 | Field | Meaning |
 |---|---|
 | `sky_object` | free text — what the name denotes. Grouped by `canon.py`, not by string equality |
-| `sanskrit_db_id` | id in `../star-names/star-names.json`, or `null`. Links on **referent identity**, not on borrowing: a Santali name for Orion links to the Sanskrit entry for the same stars without implying any relation between the names. 403 of 928 are null |
+| `sanskrit_db_id` | id in `../star-names/star-names.json`, or `null`. Links on **referent identity**, not on borrowing: a Santali name for Orion links to the Sanskrit entry for the same stars without implying any relation between the names. 444 of 975 are null |
 | `modern_star` | `{common_name, bayer, constellation}` |
 | `language`, `iso639_3`, `region` | `iso639_3` is null where no code can be assigned with confidence — better than a wrong one |
-| `community` | **optional.** The caste, occupational group or ethnonym the source names, in the source's own words. Absent on 869 of 928 entries, which is itself a finding — see `occupational.json`. Not a claim that the name belongs only to that group |
+| `community` | **optional.** The caste, occupational group or ethnonym the source names, in the source's own words. Absent on 916 of 975 entries, which is itself a finding — see `occupational.json`. Not a claim that the name belongs only to that group |
 | `name_native` | native script **as the source prints it**, or `null`. Never back-transliterated — many 19th-century sources romanize only, and several scans have unreadable Indic OCR |
 | `name_roman`, `literal_meaning` | `name_roman` is null on 4 entries, where the source records the figure and never gives the word — Elwin's Baiga Great Bear, Mills's Rengma eclipse. They read as *(figure recorded, name not)* in the README and the matrix |
 | `register` | see above |
 | `usage_note` | the season it marks, the work it governs, the story attached |
 | `citation`, `source_type`, `source_date`, `source_url` | author, work, edition, headword, page |
 | `quote` | verbatim from the fetched source. `null` **only** where the source is in copyright |
-| `source_access` | `public-domain` · `in-copyright-paraphrased` · `not-obtained`. 693 and 235; the third value is empty and must stay empty — see below |
+| `source_access` | `public-domain` · `in-copyright-paraphrased` · `not-obtained`. 693 and 282; the third value is empty and must stay empty — see below |
 | `confidence` | `certain` · `likely` · `disputed` · `unidentified` |
 
 ## Editorial rules
@@ -99,7 +99,7 @@ nine entries.
 - **No back-transliteration.** If the source printed only roman, `name_native` is `null`. The one
   source that prints only *script* — Mewaram's Sindhi-English dictionary, which has no romanization
   at all — is romanized by the compiler off a pointed text, and its caveat says so.
-- **Don't force an identification.** 47 entries are `unidentified`, 36 more `disputed`, and one whole object group is
+- **Don't force an identification.** 51 entries are `unidentified`, 43 more `disputed`, and one whole object group is
   *Figures with no secure modern identification*. A tribal figure described as a hunter and his dogs
   is worth more recorded honestly than pinned to a wrong Bayer designation.
 - **`source_access` is an invariant, not a label.** `merge.py` asserts that a `quote` exists if and
@@ -115,7 +115,7 @@ nine entries.
 
 ## Grouping
 
-`canon.py` maps 395 distinct `sky_object` strings onto 64 objects, longest-match-first, falling back
+`canon.py` maps 411 distinct `sky_object` strings onto 65 objects, longest-match-first, falling back
 to the entry's `sanskrit_db_id` and finally to `unplaced-figure`. Objects are ordered in the README
 by **how many languages name them**, which is itself a result: the Milky Way, Ursa Major, the
 Pleiades, comets and Venus-at-dawn are what these languages actually bother to name.

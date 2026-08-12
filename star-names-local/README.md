@@ -6,11 +6,11 @@ What speakers of the different Indian languages call a star, an asterism or a co
 
 > **This file is generated — do not edit it.** The originals are the research files in [`sources/`](sources/). See [`FORMAT.md`](FORMAT.md) for the schema and the editorial rules.
 
-**928 names** across **57 languages** for **64 sky objects**. 525 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
+**975 names** across **57 languages** for **65 sky objects**. 531 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
 
 **Register.** Every name is tagged by register. That is the point of the database rather than a detail: most Indian languages inherited the 27 Sanskrit nakshatra names and adapted them phonologically, and a table of those adaptations would be large and nearly uninformative. The tags separate that borrowed layer from names the languages made themselves. **vernacular** — formed in the language itself, not a Sanskrit loan; **folk** — rural or colloquial usage, from a dictionary's own usage note or from ethnography; **tribal** — from a distinct Adivasi tradition; **sanskritic** — the Sanskrit name in this language's script and phonology.
 
-Of 928 names, **713 are not Sanskrit** — 220 vernacular, 106 folk, 387 tribal, 215 sanskritic.
+Of 975 names, **754 are not Sanskrit** — 220 vernacular, 106 folk, 428 tribal, 221 sanskritic.
 
 **Method.** Compiled from public-domain lexicography and ethnography, chiefly the Digital Dictionaries of South Asia (dsal.uchicago.edu) and archive.org: Platts 1884, Fallon 1879 and Shakespear 1834 for Hindi/Urdu; Molesworth 1857 for Marathi; Maffei 1883 and Dalgado 1893 for Konkani; the Madras Tamil Lexicon 1924-39 and Winslow 1862 for Tamil; Brown 1852/1903 for Telugu; Kittel for Kannada; Gundert 1872 for Malayalam; Männer 1886 for Tulu; Carter and Clough for Sinhala; Praharaj and Jñānendramohana Dāsa for Odia and Bengali; and for the Adivasi languages Hoffmann's Encyclopaedia Mundarica, Bodding and Campbell on Santali, Grignard on Kurukh, Rivers 1906 on the Toda, Man 1883 and Radcliffe-Brown 1922 on the Andamans, Ramamurti 1938 on Sora and Winfield 1929 on Kui; for the north-east, Lorrain 1940 on Mizo and the colonial monographs — Playfair 1909 on the Garos, Hutton 1921 on the Angamis and the Semas, Mills 1926 and 1937 on the Aos and the Rengmas, Parry 1932 on the Lakhers; Elwin 1939 on the Baiga, and Russell & Hiralal 1916; Macalister 1898 and Lalas 2013 for Rajasthani. A second layer, kept in its own source file, comes from MODERN FIELD SURVEYS that have no counterpart in the printed record: Vahia, Halkare and colleagues on the Gonds (2013), the Banjaras and Kolams (2014), the Korku (2016) and the Nicobarese (2018), and Shetye, Halkare and Sule on the Bhil, Pawra and Kokna (2023). Every name from a public-domain source is quoted verbatim from a source that was actually fetched, with the page cited and the URL recorded; where a source printed only a romanization, no script is supplied and nothing was back-transliterated. Work still in copyright — the six field surveys, Turner 1931, Jorgensen, Malla, Manandhar, Maniku 2000, Sharma 2006, Baloch, Grignard, Samsad 2000, Candrakanta 1962 and Lalas 2013 — is paraphrased and cited, never quoted, and every entry now says which it is in `source_access`. Wikipedia was not used as a source.
 
@@ -21,28 +21,28 @@ Of 928 names, **713 are not Sanskrit** — 220 vernacular, 106 folk, 387 tribal,
 | Marathi | 64 | Angami Naga | 10 |
 | Tamil | 62 | Chaura (Chowra) | 10 |
 | Telugu | 57 | Sema (Sumi) Naga | 10 |
-| Kannada | 41 | Bhili | 9 |
-| Mizo (Lushai) | 38 | Central Nicobarese (Camorta) | 9 |
-| Malayalam | 36 | Kurukh | 9 |
-| Sindhi | 34 | Sora | 9 |
-| Pardhi | 33 | Newar (Nepal Bhasa) | 9 |
-| Korku | 32 | Tulu | 8 |
-| Odia | 31 | Teressa | 8 |
-| Hindi | 31 | Meitei (Manipuri) | 7 |
-| Mundari | 26 | Toda | 7 |
-| Sinhala | 24 | Konkani | 5 |
-| Bengali | 24 | Cholanaikkan | 5 |
-| Kolami | 21 | Khasi | 5 |
-| Urdu | 20 | Kukna (Kokna) | 4 |
-| Gondi | 20 | Mavchi | 4 |
-| Kashmiri | 18 | Nicobarese | 4 |
-| Garo | 18 | Ao Naga | 4 |
-| Mara (Lakher) | 18 | Andamanese | 3 |
-| Chhattisgarhi | 18 | Kui | 3 |
-| Santali | 17 | Kodava | 3 |
-| Rengma Naga | 16 | Pauri Bareli (Pawra) | 3 |
-| Nepali | 14 | Tibetan | 2 |
-| Lambadi (Banjara) | 12 | Ho | 2 |
+| Kolami | 43 | Bhili | 9 |
+| Kannada | 41 | Central Nicobarese (Camorta) | 9 |
+| Mizo (Lushai) | 38 | Kurukh | 9 |
+| Malayalam | 36 | Sora | 9 |
+| Sindhi | 34 | Newar (Nepal Bhasa) | 9 |
+| Pardhi | 33 | Tulu | 8 |
+| Korku | 32 | Teressa | 8 |
+| Odia | 31 | Meitei (Manipuri) | 7 |
+| Hindi | 31 | Toda | 7 |
+| Gondi | 31 | Konkani | 5 |
+| Lambadi (Banjara) | 26 | Cholanaikkan | 5 |
+| Mundari | 26 | Khasi | 5 |
+| Sinhala | 24 | Kukna (Kokna) | 4 |
+| Bengali | 24 | Mavchi | 4 |
+| Urdu | 20 | Nicobarese | 4 |
+| Kashmiri | 18 | Ao Naga | 4 |
+| Garo | 18 | Andamanese | 3 |
+| Mara (Lakher) | 18 | Kui | 3 |
+| Chhattisgarhi | 18 | Kodava | 3 |
+| Santali | 17 | Pauri Bareli (Pawra) | 3 |
+| Rengma Naga | 16 | Tibetan | 2 |
+| Nepali | 14 | Ho | 2 |
 | Divehi (Mahl) | 12 | Kumaoni | 2 |
 | Punjabi | 12 | Gujarati | 2 |
 | Assamese | 11 | Vasavi (Vasave Bhil) | 1 |
@@ -52,24 +52,24 @@ Of 928 names, **713 are not Sanskrit** — 220 vernacular, 106 folk, 387 tribal,
 
 | Object | Languages | Names | Sanskrit counterpart |
 |---|--:|--:|---|
-| [The Pleiades](#the-pleiades) | 41 | 85 | `krittika` |
-| [The Milky Way](#the-milky-way) | 39 | 73 | `akashaganga` |
-| [Ursa Major (the Big Dipper)](#ursa-major-the-big-dipper) | 34 | 92 | `saptarshi` |
+| [The Pleiades](#the-pleiades) | 41 | 87 | `krittika` |
+| [The Milky Way](#the-milky-way) | 39 | 74 | `akashaganga` |
+| [Ursa Major (the Big Dipper)](#ursa-major-the-big-dipper) | 34 | 93 | `saptarshi` |
 | [Meteors and shooting stars](#meteors-and-shooting-stars) | 33 | 45 | `tara` |
 | ['Star' as a word](#star-as-a-word) | 31 | 44 | `tara` |
 | [Comets](#comets) | 30 | 45 | — |
-| [Orion](#orion) | 27 | 60 | `mriga` |
-| [Venus as morning star](#venus-as-morning-star) | 27 | 40 | — |
-| [The pole star](#the-pole-star) | 24 | 35 | `dhruva` |
-| [Figures with no secure modern identification](#figures-with-no-secure-modern-identification) | 20 | 44 | — |
-| [Orion's Belt](#orions-belt) | 19 | 29 | `ishus-trikanda` |
+| [Orion](#orion) | 27 | 61 | `mriga` |
+| [Venus as morning star](#venus-as-morning-star) | 27 | 41 | — |
+| [The pole star](#the-pole-star) | 25 | 36 | `dhruva` |
+| [Figures with no secure modern identification](#figures-with-no-secure-modern-identification) | 22 | 48 | — |
+| [Orion's Belt](#orions-belt) | 20 | 30 | `ishus-trikanda` |
 | [Venus](#venus) | 19 | 23 | `shukra` |
-| [Venus as evening star](#venus-as-evening-star) | 19 | 21 | — |
+| [Venus as evening star](#venus-as-evening-star) | 19 | 22 | — |
 | [The lunar mansions as a system](#the-lunar-mansions-as-a-system) | 15 | 69 | `nakshatra-generic` |
-| [The Sun](#the-sun) | 13 | 13 | `surya` |
+| [The Sun](#the-sun) | 14 | 14 | `surya` |
+| [The Moon](#the-moon) | 12 | 17 | `chandra` |
 | [Sirius](#sirius) | 12 | 16 | `lubdhaka` |
 | [Canopus](#canopus) | 11 | 14 | `agastya` |
-| [The Moon](#the-moon) | 11 | 12 | `chandra` |
 | [The Hyades](#the-hyades) | 11 | 11 | `rohini` |
 | [Scorpius](#scorpius) | 10 | 12 | `jyeshtha` |
 | [Aldebaran](#aldebaran) | 10 | 11 | `rohini` |
@@ -78,34 +78,35 @@ Of 928 names, **713 are not Sanskrit** — 220 vernacular, 106 folk, 387 tribal,
 | [Antares](#antares) | 6 | 6 | `jyeshtha` |
 | [Leo and Virgo](#leo-and-virgo) | 6 | 6 | — |
 | [Auriga](#auriga) | 5 | 5 | — |
-| [Centaurus](#centaurus) | 4 | 8 | — |
-| [Pegasus](#pegasus) | 4 | 6 | — |
+| [Eclipses](#eclipses) | 5 | 5 | — |
+| [Directions taken from the sky](#directions-taken-from-the-sky) | 4 | 18 | — |
+| [Centaurus](#centaurus) | 4 | 10 | — |
+| [Pegasus](#pegasus) | 4 | 7 | — |
 | [Seasonal and agricultural star-markers](#seasonal-and-agricultural-star-markers) | 4 | 5 | `ashvayuj` |
 | [Vega](#vega) | 4 | 5 | `abhijit` |
 | ['Constellation' as a word](#constellation-as-a-word) | 4 | 4 | `tara` |
-| [Eclipses](#eclipses) | 4 | 4 | — |
 | [Mars](#mars) | 4 | 4 | `mangala` |
+| [The rainbow](#the-rainbow) | 4 | 4 | — |
 | [Taurus](#taurus) | 3 | 5 | — |
+| [Crux (the Southern Cross)](#crux-the-southern-cross) | 3 | 4 | — |
 | ['Sky' as a word](#sky-as-a-word) | 3 | 3 | `tarapatha` |
 | [Altair](#altair) | 3 | 3 | `shravana` |
-| [Crux (the Southern Cross)](#crux-the-southern-cross) | 3 | 3 | — |
+| [Cassiopeia](#cassiopeia) | 3 | 3 | — |
 | [Regulus](#regulus) | 3 | 3 | `magha` |
 | [The zodiac](#the-zodiac) | 3 | 3 | — |
 | [Ursa Minor](#ursa-minor) | 3 | 3 | `rksha` |
 | [Corvus](#corvus) | 2 | 4 | `hasta` |
 | [Spica](#spica) | 2 | 4 | `chitra` |
+| [Canis Major](#canis-major) | 2 | 3 | — |
 | [Capella](#capella) | 2 | 3 | `brahmahridaya` |
+| [Cygnus](#cygnus) | 2 | 3 | — |
 | [Jupiter](#jupiter) | 2 | 3 | `brihaspati` |
-| [Cassiopeia](#cassiopeia) | 2 | 2 | — |
-| [Cygnus](#cygnus) | 2 | 2 | — |
+| [Aquila](#aquila) | 2 | 2 | — |
 | [Measuring the sky](#measuring-the-sky) | 2 | 2 | — |
-| [Directions taken from the sky](#directions-taken-from-the-sky) | 1 | 4 | — |
 | [Praesepe and Cancer](#praesepe-and-cancer) | 1 | 2 | `pushya` |
 | [Viśākhā (ι Librae)](#viśākhā-ι-librae) | 1 | 2 | `vishakha` |
 | ['Planet' as a word](#planet-as-a-word) | 1 | 1 | `taragraha` |
-| [Aquila](#aquila) | 1 | 1 | — |
 | [Aśvayuj (Sheratan)](#aśvayuj-sheratan) | 1 | 1 | `ashvayuj` |
-| [Canis Major](#canis-major) | 1 | 1 | — |
 | [Corona Australis](#corona-australis) | 1 | 1 | — |
 | [Delphinus](#delphinus) | 1 | 1 | — |
 | [Grus](#grus) | 1 | 1 | — |
@@ -113,8 +114,8 @@ Of 928 names, **713 are not Sanskrit** — 220 vernacular, 106 folk, 387 tribal,
 | [Mercury](#mercury) | 1 | 1 | — |
 | [Monoceros](#monoceros) | 1 | 1 | — |
 | [Nakṣatra (star / asterism (generic))](#nakṣatra-star--asterism-generic) | 1 | 1 | `nakshatra-generic` |
+| [Pisces](#pisces) | 1 | 1 | — |
 | [Saturn](#saturn) | 1 | 1 | — |
-| [The rainbow](#the-rainbow) | 1 | 1 | — |
 | [The turning of the sky](#the-turning-of-the-sky) | 1 | 1 | — |
 
 ## The Pleiades
@@ -164,7 +165,9 @@ Of 928 names, **713 are not Sanskrit** — 220 vernacular, 106 folk, 387 tribal,
 | Central Nicobarese (Camorta) | — | *Toyan* | — | tribal |
 | Chaura (Chowra) | — | *Kavio / Koini / Tajainy* | kavio 'king'; tajainy 'an old person' | tribal |
 | Garo | — | *Do·sadil* | — | tribal |
+| Gondi | — | *Kayshar / Kaysar; Bahari / Bahri* | the broom | tribal |
 | Gondi | — | *Kutpari, Mogari, Mongari, Thengari, Mundari* | a bat — the wooden bat used to beat grain out of the husk | tribal |
+| Kolami | — | *Kovela Komdi* | 'the hen of the flock' — the little bright star at the foot of the cluster | tribal |
 | Kolami | — | *Kovela Kor* | 'one large bird and several small ones' | tribal |
 | Kolami | — | *Sappa* | an instrument used in processing the harvest | tribal |
 | Korku | — | *Bhotmongari* | the tool used to beat grain to loosen the husk | tribal |
@@ -548,12 +551,30 @@ The cock sacrificed at the cremation to lead the spirit of the dead to the bette
 
 <sub>do· is 'bird, fowl' in Garo and heads four names in this list. The Pleiades as a bird again — Pardhi babblers, Kolam and Korku flocks, Gond eggs — but here as one sacrificial cock rather than a flock. Playfair prints a raised dot for the Garo glottal stop; the two archive.org scans render it as ° and as ", and it is written here as ·. The two scans were read against each other and agree on every name in the list except this one, noted where it occurs.</sub>
 
+**Kayshar / Kaysar; Bahari / Bahri** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Given as the Pleiades at Kesalapur, Kaweli and Lodha (pp. 35, 37, 38).
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, village accounts, pp. 35, 37 and 38 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, village accounts, pp. 35, 37 and 38 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. THE BROOM SITS ON TWO DIFFERENT THINGS AND THE SURVEY CAUGHT IT MOVING. Table 5 files Kayshar and Bahari under comets, where a broom sweeping the sky clean of evil is the standard Gond reading and where this database already records them. But three villages gave the same words for the Pleiades, and at Kesalapur the paper writes 'comets as Kayshar (a broom—the Pleiades)' with the confusion showing in the printed line. A cluster of faint stars and a comet both look like a besom of twigs. The entry is kept separate from the comet entry rather than merged into it, because what is interesting is precisely that one word covers both.</sub>
+
 **Kutpari, Mogari, Mongari, Thengari, Mundari** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: likely
 
 *No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
 > <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
 
 <sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The authors record several of these names as identifying either the Pleiades or Taurus depending on the village, so the identification is graded likely. A grain-beating implement thrown at the sky is the same class of object as the Mundari mallet.</sub>
+
+**Kovela Komdi** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Kakban, where the cluster itself is Kovela Kor, the flock of birds, and one bright star at its base is named separately.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.10 (Kakban), p. 84 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.10 (Kakban), p. 84 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The bird-and-eggs figure runs through this whole file — Kolam Kovela Kor at the Pleiades, Kolam Bhori at Aldebaran, Korku Pankheru at Sirius, Bhil hulgi wherever it lands. This is the only place where a single star inside the flock is picked out and named, and komdi is the Marathi word for a hen. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 **Kovela Kor** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
 
@@ -981,6 +1002,7 @@ Sanskrit Vahulā (cf. Bahulā, a Sanskrit name of the Pleiades) in Tamil form, r
 | Korku | — | *Devgan Panchayat* | 'the assembly of the gods' | tribal |
 | Kurukh | — | *gāy-chour bīnkō* | the cattle-track constellation | tribal |
 | Lambadi (Banjara) | — | *Mardaar wat* | 'the path of the dead', also given as 'the path of animals' | tribal |
+| Lambadi (Banjara) | — | *Pandi* | 'the path of the animals' | tribal |
 | Mara (Lakher) | — | *Sonatachhiarari* | 'rains and dry weather boundary' | tribal |
 | Meitei (Manipuri) | ꯅꯤꯡꯊꯧ ꯇꯨꯔꯦꯜ | *ningthou turel* | 'the king's river' | tribal |
 | Mizo (Lushai) | — | *thlasik kawng* | 'the winter road' | tribal |
@@ -1383,6 +1405,15 @@ The Banjaras hold that the dead travel the Milky Way. Reported in four of six vi
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. The double gloss is the interesting part: the same name is given as both the road of the dead and the road of animals, which places it squarely on the cattle-road thread that runs through Mundari gaiko hora, Kurukh gāy-chour bīnkō, Gondi Dhor Sari and Santali hat dahar in tribal.json — and, through 'the dead', on the Mundari bier reading of the Great Bear as well.</sub>
 
+**Pandi** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
+
+At Katarwadi, with the orientation given as north-south.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.3 (Katarwadi), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.3 (Katarwadi), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. A second Banjara name beside Mardaar wat, and the more interesting of the two for comparison: Pandi is all but the Kolami Panadi, recorded in the same survey a few days later and given the same gloss, a path of animals. Lambadi is Indo-Aryan and Kolami Dravidian. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
 **Sonatachhiarari** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: certain
 
 When a larger expanse of sky is visible north of the Milky Way the rains are approaching; a larger expanse to the south heralds the cold weather.
@@ -1679,8 +1710,9 @@ Sanskrit Ākāśagaṅgā in Tamil phonology; the whole Ganges-in-the-sky family
 | Chhattisgarhi | — | *(figure recorded, name not)* | — | tribal |
 | Gondi | — | *Kalher, Kalir, Kalhad; Muvir Kaler* | thieves; three thieves | tribal |
 | Gondi | — | *Katul; Sedona Katul* | a cot; the old woman's cot | tribal |
-| Kolami | — | *Mandater* | 'a cot' | tribal |
-| Kolami | — | *[no Kolami form printed; the paper gives the identification only]* | a Kolam, a Gond and a Pardhan (chief), counting outward from the cot | tribal |
+| Gondi | — | *Poyi; Poyatar; Kotwal* | a noble man; his wife; his assistant | tribal |
+| Kolami | — | *Dongal* | 'the thieves' — a Kolam, a Gond and a Pardhan (chief), counting outward from the cot | tribal |
+| Kolami | — | *Mandater / Mandter / Mandetar; Ter / ava ter* | 'a cot' | tribal |
 | Korku | — | *Dusara chor* | 'the second thief' | tribal |
 | Korku | — | *Kaseti / Dhona / Ghanti / Kudapa / dadudi* | ghanṭī 'a bell'; dadudi and kudapa 'a water jar' | tribal |
 | Korku | — | *Pahila chor* | 'the first thief' | tribal |
@@ -2106,23 +2138,32 @@ The four bowl stars are a cot whose four legs are of gold, silver, inferior silv
 
 <sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The 'she must not sleep' clause encodes circumpolarity, which held at this latitude until roughly 1000 BCE; the authors note this themselves and it should be read as their inference.</sub>
 
-**Mandater** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+**Poyi; Poyatar; Kotwal** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+At Kopariya the three trailing stars are not thieves but a nobleman, his wife and his village officer, approaching the cot for salvation after doing good on earth; the cot itself is called Kutil there and is the path of salvation (p. 37).
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 15, p. 39, and the Kopariya village account, p. 37 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 15, p. 39, and the Kopariya village account, p. 37 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. THE SAME THREE STARS, THE OPPOSITE MORAL. Everywhere else in this database the three handle stars are thieves at the cot — Santali, Kurukh, Chhattisgarhi Dhuri, Bhil, Pawra, and the Gonds' own Kalher in the entry above. One Gond village turns them into a respectable household walking towards salvation. The Kolams, for their part, make them a Kolam, a Gond and a Pardhan. The figure is fixed and the cast is not, which is the thread this file has been following all along.</sub>
+
+**Dongal** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
 
 Nine of ten villages.
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71, and Appendix 1.2.7 (Chinchpod), p. 82, and 1.2.9 (Raipur), p. 83 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71, and Appendix 1.2.7 (Chinchpod), p. 82, and 1.2.9 (Raipur), p. 83 ([source](https://arxiv.org/abs/1406.3044))
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. The cot. See Banjara Jamakhat above.</sub>
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. THE THIEVES, BUT NOT THIEVES. Everywhere else in this database the three handle stars are thieves at the cot — Santali, Kurukh, Gondi, Chhattisgarhi Dhuri, and the Bhil and Pawra entries below. The Kolams instead make them one man of each of the three communities who share their landscape, with the Pardhan chief at the end. No Kolami words are printed for the three, so none is invented here; the entry is kept because the identification itself is the finding. Compare the precedent of the Chhattisgarhi Dhuri entry in tribal.json, likewise entered without a vernacular form. CORRECTED: this entry previously carried no vernacular form, on the ground that Table 2 prints the identification without a word. The appendix prints the word twice — Chinchpod gives the cot Ter and the thieves Dongal, and Raipur gives three thieves, Dongal, a Kolam, a Gond and a Patadi. The bracketed placeholder has been replaced by the name and the caveat about nameless entries no longer counts this one.</sub>
 
-**[no Kolami form printed; the paper gives the identification only]** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+**Mandater / Mandter / Mandetar; Ter / ava ter** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
 
 Nine of ten villages.
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71, and Appendix 1.2.3 (Jamini) to 1.2.9 (Raipur), pp. 81-83 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71, and Appendix 1.2.3 (Jamini) to 1.2.9 (Raipur), pp. 81-83 ([source](https://arxiv.org/abs/1406.3044))
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. THE THIEVES, BUT NOT THIEVES. Everywhere else in this database the three handle stars are thieves at the cot — Santali, Kurukh, Gondi, Chhattisgarhi Dhuri, and the Bhil and Pawra entries below. The Kolams instead make them one man of each of the three communities who share their landscape, with the Pardhan chief at the end. No Kolami words are printed for the three, so none is invented here; the entry is kept because the identification itself is the finding. Compare the precedent of the Chhattisgarhi Dhuri entry in tribal.json, likewise entered without a vernacular form.</sub>
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. The cot. See Banjara Jamakhat above. The short form Ter, and ava ter at Raipur, are the appendix's; Mandater and its spellings are the table's.</sub>
 
 **Dusara chor** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
 
@@ -3789,6 +3830,7 @@ The Caṅkam word for a comet as a portent, in the Puṟanāṉūṟu omen-triad
 | Bhili | पांबर | *Pambar* | an agricultural implement used to sow seed | tribal |
 | Chhattisgarhi | — | *Kutela* | 'the wooden rod used for levelling earth, cleaning hemp, or washing clothes' | tribal |
 | Gondi | — | *Topli, Topali* | a basket | tribal |
+| Kolami | — | *Medi; Tandel / Aidal* | the threshing post; the bull | tribal |
 | Kolami | — | *Tipan / Trivpate* | a seed drill — the implement used to sow | tribal |
 | Korku | — | *Bhori Aakom* | 'the bird's eggs' | tribal |
 | Korku | — | *Doba 1* | 'the first bullock' | tribal |
@@ -3999,6 +4041,15 @@ The basket of seed used for sowing the fields that Tipan has ploughed.
 > <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
 
 <sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Placed at Lepus in some villages and at γ and β Orionis in others.</sub>
+
+**Medi; Tandel / Aidal** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Landgi Pod the whole region around Orion is a threshing floor: the post Medi, the bull Tandel or Aidal walking round it, and the ground between them the Kalave.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Kolams say themselves, through the recorders, that this scene is the Gonds' — Medi, Khala and Tiva are Gond words in tribal.json and they are used here in the same senses. Kolami is Dravidian and Gondi is Dravidian, and the Kolams were once priests to the Gonds; this is the clearest case of borrowing in the file. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 **Tipan / Trivpate** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
 
@@ -4383,6 +4434,7 @@ The only Tamil word the Lexicon's English side returns for a search on 'Orion'. 
 | Gondi | — | *Jevan Sukum (Jevan Tara, Dohan Chandani); Pahat Sukum (Pahat Sukir, Pahat Tara)* | the dinner star; the dawn star | tribal |
 | Ho | — | *aṅgo ipil (printed 'ango ipil', 'anyo ipil')* | the dawn star | tribal |
 | Khasi | — | *'lur-shai* | the light star, the bright star | tribal |
+| Kolami | — | *Pele suka* | — | tribal |
 | Kolami | — | *Vegud suka* | 'the star of the morning' | tribal |
 | Kurukh | — | *bijj-bīnkō (morning); ḍhurti-bīnkō (evening); bhurkā* | the dawn star; the dusk star | tribal |
 | Lambadi (Banjara) | — | *Porya Tara* | — | tribal |
@@ -4644,6 +4696,15 @@ Jevan is the meal: the star that rises in the east in the evening and says it is
 
 <sub>shai is 'light, bright' in the same dictionary.</sub>
 
+**Pele suka** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Bhimnala, beside Vegud suka elsewhere.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.8 (Bhimnala), p. 83 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.8 (Bhimnala), p. 83 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of four Kolam words for the morning star across ten villages — Vegud suka, Vegun suka, Vegur Suka, Pele suka — and the only one that does not begin with the veg- stem. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
 **Vegud suka** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
 
 Nine of ten villages.
@@ -4737,7 +4798,7 @@ Ramamurti adds, in the entry itself, that the Soras do not distinguish between t
 
 **Modern:** Polaris (the pole star) · α Ursae Minoris · Ursa Minor  
 **Sanskrit database:** `dhruva` — Dhruva (Polaris (the pole star)) ([entry](../star-names/star-names.json))  
-**Named in 24 languages:** Bengali, Bhili, Divehi (Mahl), Gondi, Hindi, Kannada, Kashmiri, Korku, Kukna (Kokna), Malayalam, Marathi, Mavchi, Meitei (Manipuri), Mizo (Lushai), Nepali, Odia, Pauri Bareli (Pawra), Sindhi, Sinhala, Tamil, Telugu, Teressa, Tibetan, Urdu
+**Named in 25 languages:** Bengali, Bhili, Divehi (Mahl), Gondi, Hindi, Kannada, Kashmiri, Korku, Kukna (Kokna), Lambadi (Banjara), Malayalam, Marathi, Mavchi, Meitei (Manipuri), Mizo (Lushai), Nepali, Odia, Pauri Bareli (Pawra), Sindhi, Sinhala, Tamil, Telugu, Teressa, Tibetan, Urdu
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
@@ -4764,6 +4825,7 @@ Ramamurti adds, in the entry itself, that the Soras do not distinguish between t
 | Kannada | ಧ್ರುವ | *dhruva* | fixed, immovable | sanskritic |
 | Kashmiri | ध्रुव् | *druv* | — | sanskritic |
 | Korku | — | *Dhur tara* | — | sanskritic |
+| Lambadi (Banjara) | — | *Dhruv Tara / Dhruv* | — | sanskritic |
 | Malayalam | ധ്രുവം / ധ്രുവന്‍ | *dhruvam / dhruvan* | 'the fixed one' | sanskritic |
 | Marathi | — | *Tārā-bāras* | 'the star twelfth', bāras being the twelfth day of the lunar fortnight | sanskritic |
 | Marathi | ध्रुव | *dhruva* | fixed, immovable | sanskritic |
@@ -4970,6 +5032,15 @@ Given with apparent magnitude 1.95.
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. Tagged sanskritic: dhur is the Sanskrit Dhruva in Korku phonology, as the recorders' Gondi Dhruva Tara in tribal.json also is, and the same file's caveat about loans applies. The Bhil Medhi Taara and Mavchi Juga Medhi below are a genuinely local alternative for the same star.</sub>
 
+**Dhruv Tara / Dhruv** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
+
+At Katarwadi the pole star is Dhruv tara, which the recorders mark as the modern-language word; at Phulumari Dhruv is one of three stars used to fix direction, showing north, beside Porya the morning star showing east and Vani tara at the zenith.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari) and 1.1.3 (Katarwadi), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari) and 1.1.3 (Katarwadi), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. A CORRECTION TO THIS FILE'S OWN NEGATIVE FINDING. The summary of this file previously said that no name is claimed for the pole star among the Banjaras, who identify it but did not name it to the recorders — which was true of Table 1, where row 15 says only 'The Pole Star is identified', and false of the paper, which prints the name twice in the appendix. The summary has been corrected. A negative finding is a claim like any other and this one did not survive a re-read. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
 **ധ്രുവം / ധ്രുവന്‍ · dhruvam / dhruvan** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *sanskritic* · confidence: certain
 
 ധ്രുവം കൂട്ടുക is a technical phrase 'to make an astrological calculation'.
@@ -5067,7 +5138,7 @@ Sanskrit Dhruva in Tamil phonology. No indigenous Tamil name for the pole star w
 ## Figures with no secure modern identification
 
 **Modern:** unidentified — the source names the figure but not its stars  
-**Named in 20 languages:** Andamanese, Ao Naga, Chhattisgarhi, Garo, Gondi, Hindi, Khasi, Kodava, Kurukh, Mara (Lakher), Meitei (Manipuri), Mizo (Lushai), Nepali, Newar (Nepal Bhasa), Pardhi, Santali, Sindhi, Sinhala, Telugu, Toda
+**Named in 22 languages:** Andamanese, Ao Naga, Chhattisgarhi, Garo, Gondi, Hindi, Khasi, Kodava, Kolami, Kurukh, Lambadi (Banjara), Mara (Lakher), Meitei (Manipuri), Mizo (Lushai), Nepali, Newar (Nepal Bhasa), Pardhi, Santali, Sindhi, Sinhala, Telugu, Toda
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
@@ -5094,8 +5165,12 @@ Sanskrit Dhruva in Tamil phonology. No indigenous Tamil name for the pole star w
 | Garo | — | *Mirontek* | — | tribal |
 | Gondi | — | *Irukna Mara, Irukmara* | the mahua tree | tribal |
 | Gondi | — | *Khala* | the grain-crushing circle | tribal |
+| Gondi | — | *Koropadera* | a tool used to make buttermilk | tribal |
 | Khasi | — | *'lur-mangkara; mangkara* | — | tribal |
+| Kolami | — | *Ture / Turre; Dukkar* | 'a pig' | tribal |
+| Kolami | — | *Veka Potur* | 'the son of the morning' | tribal |
 | Kurukh | — | *mugrā (sense 2)* | a mallet | tribal |
+| Lambadi (Banjara) | — | *Vani tara* | — | tribal |
 | Mara (Lakher) | — | *Latlang, Labeu* | — | tribal |
 | Mara (Lakher) | — | *Sahruatong* | — | tribal |
 | Meitei (Manipuri) | ꯁꯖꯤꯛ | *sajik* | — | tribal |
@@ -5313,6 +5388,15 @@ The animal-powered threshing floor, where a bullock walks a circle round a centr
 
 <sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Placed against the tail of Scorpius in the paper's summary table but described in the village notes as lying next to Tipan; the authors do not resolve this and neither does this entry.</sub>
 
+**Koropadera** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: unidentified
+
+A good omen. Recorded at Matharjun and listed in Table 6 as an item of its own, in one of fifteen villages.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Matharjun village account, p. 35, and Table 6, p. 40 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Matharjun village account, p. 35, and Table 6, p. 40 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The paper says plainly that its modern equivalent was not identified, and none is guessed at here. It joins Irukna Mara as the second Gond figure the survey could not place — except that Irukna Mara was later placed by the Kolams, and this one was not. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
 **'lur-mangkara; mangkara** — Khasi (Khasi and Jaintia hills, Meghalaya) · *tribal* · confidence: unidentified
 
 > 'lur-mangkara, u, n. the brightest star.
@@ -5320,12 +5404,39 @@ The animal-powered threshing floor, where a bullock walks a circle round a centr
 
 <sub>Entered twice by Nissor Singh but never identified with a particular star. Whether mangkara is connected with Sanskrit makara is not stated in the dictionary and is not assumed here.</sub>
 
+**Ture / Turre; Dukkar** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: unidentified
+
+The sixth animal, appearing only in some villages and read in opposite senses: a bad monsoon at Landgi Pod, a good one at Chinchpod and moderate rain at Kakban. At Raipur a further animal, Tumali, is named in the same list and left unglossed.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The recorders' list of suggested identifications covers five animals and stops; the pig is not among them, so this entry carries no modern identification at all. It is kept because the pig is in the sky in three separate villages. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Veka Potur** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: unidentified
+
+At Bhimnala the informants named the morning star Pele suka and then said that the star for waking up is a different one, Veka Potur.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.8 (Bhimnala), p. 83 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.8 (Bhimnala), p. 83 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. A DISTINCTION THE REST OF THE DATABASE FLATTENS. Everywhere else the morning star and the star you get up by are the same object, and the Gond entry for Venus turns on the informants having noticed they are one thing. Here one village keeps them apart and names them separately. The paper offers no identification and none is guessed at. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
 **mugrā (sense 2)** — Kurukh (Chota Nagpur plateau (Oraon country), Jharkhand) · *tribal* · confidence: unidentified
 
 *No quotation: Grignard, An Oraon-English Dictionary (1924), s.v. mugrā, sense 2 is in copyright and is paraphrased only.*
 > <br>— Grignard, An Oraon-English Dictionary (1924), s.v. mugrā, sense 2 ([source](https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt))
 
 <sub>Grignard's second sense of mugrā 'a mallet' is 'Name of a constellation', followed by a Kurukh name that the Internet Archive scan renders unreadably (printed 'Ahi^ta-binko'); the page number is likewise lost in that stretch of bad OCR, so no quote is given. Flagged rather than dropped, because Mundari names the Pleiades muṅgaru ipilko, 'the mallet stars', and Santali says the Pleiades are the mallet of the yoke — a Kurukh mallet constellation is very likely the same figure, but this could not be verified.</sub>
+
+**Vani tara** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: unidentified
+
+Named at Phulumari as one of three directional stars: Dhruv for north, Porya for east, and Vani tara overhead.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. No identification is offered by the paper and none is guessed at here. A zenith star is a latitude-dependent thing and the villages lie near 20° N, but the paper gives no season, so even the shortlist would be invention. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 **Latlang, Labeu** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: unidentified
 
@@ -5478,7 +5589,7 @@ Feared above all after childbirth; its evil influence is keirtpudrtviti, and the
 
 **Modern:** Orion's Belt (Mintaka, Alnilam, Alnitak) · δ, ε, ζ Orionis · Orion  
 **Sanskrit database:** `ishus-trikanda` — Iṣus trikāṇḍā (Orion's Belt - Mintaka, Alnilam, Alnitak - as the 'three-jointed arrow') ([entry](../star-names/star-names.json))  
-**Named in 19 languages:** Andamanese, Angami Naga, Chaura (Chowra), Garo, Gondi, Korku, Kurukh, Malayalam, Mara (Lakher), Marathi, Mundari, Nepali, Odia, Pardhi, Pauri Bareli (Pawra), Rengma Naga, Santali, Sema (Sumi) Naga, Sindhi
+**Named in 20 languages:** Andamanese, Angami Naga, Chaura (Chowra), Garo, Gondi, Kolami, Korku, Kurukh, Malayalam, Mara (Lakher), Marathi, Mundari, Nepali, Odia, Pardhi, Pauri Bareli (Pawra), Rengma Naga, Santali, Sema (Sumi) Naga, Sindhi
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
@@ -5495,6 +5606,7 @@ Feared above all after childbirth; its evil influence is keirtpudrtviti, and the
 | Garo | — | *Wak-ripe* | 'the carrying of the pig' (wak, pig) | tribal |
 | Gondi | — | *Naagarda, Nangar, Nangal, Nangir* | the plough | tribal |
 | Gondi | — | *Tipan* | — | tribal |
+| Kolami | — | *Kavadi Kunde / Kavde Kunde* | 'the tower of three pots' | tribal |
 | Korku | — | *Harnangar* | 'a plough' | tribal |
 | Kurukh | — | *ugtā-pagṛī bīnkō* | the plough constellation | tribal |
 | Mara (Lakher) | — | *Vothawlapiapa* | — | tribal |
@@ -5622,6 +5734,15 @@ Its arrival in the early night sky signals the farming season; when Tipan appear
 > <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
 
 <sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported.</sub>
+
+**Kavadi Kunde / Kavde Kunde** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Raipur and Landgi Pod the three pots are the Belt of Orion and Tipan is the sword; the paper notes in the same breath that in the other villages Kavde Kunde is Cygnus.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82, and 1.2.9 (Raipur), p. 83 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82, and 1.2.9 (Raipur), p. 83 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. THE SAME NAME ON TWO DIFFERENT CONSTELLATIONS, IN VILLAGES A DAY'S DRIVE APART, AND THE PAPER SAYS SO ITSELF. Three stars stacked in a line are three pots stacked on a head, and the Belt and the spine of Cygnus both fit. This entry does not replace the Cygnus one above; both are kept, because the movement is the finding. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 **Harnangar** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
 
@@ -6006,6 +6127,7 @@ In the Hasada country and the Karra police subdivision their close conjunction i
 | Khasi | — | *'lur-miet* | the night star | tribal |
 | Kolami | — | *Jevan suka* | 'the star of dinner time' | tribal |
 | Kui | — | *duru suka* | 'the distant star' (duru, distance; distant, far) | tribal |
+| Lambadi (Banjara) | — | *Shubham; Sukachi Chandi* | 'the auspicious one'; 'the glow of Shukra' | tribal |
 | Lambadi (Banjara) | — | *Subtara* | — | tribal |
 | Mara (Lakher) | — | *Thlaseu* | — | tribal |
 | Mizo (Lushai) | — | *Chawng-mawii* | — | tribal |
@@ -6133,6 +6255,15 @@ Nine of ten villages.
 > <br>— W.W. Winfield, A Vocabulary of the Kui Language, Bibliotheca Indica (Calcutta: Asiatic Society of Bengal, 1929), s.v. duru suka, p. 34 ([source](https://archive.org/details/in.ernet.dli.2015.61735))
 
 <sub>Winfield's (P.) marks the Kuvi dialect of the plains. The literal sense is read off his own adjoining headword duru, 'distance; distant, far'. The OCR of this line is poor and the plural form is partly reconstructed from the pattern of the singular, hence `likely`.</sub>
+
+**Shubham; Sukachi Chandi** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
+
+At Katarwadi the evening star is Shubham, an auspicious star; at Kasola it is Sukachi Chandi, a glow that brings happiness and is used to tell the time. At Palaitanda it is said to demand the sacrifice of a wheat chapatti.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.3 (Katarwadi) and 1.1.4 (Kasola), pp. 78-79 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.3 (Katarwadi) and 1.1.4 (Kasola), pp. 78-79 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Two more village words beside Subtara in Table 1. Sukachi Chandi carries Shukra inside it and Chandani beside it, so it is a compound of two borrowings — but the paper prints it as one Banjara word and it is entered as one. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 **Subtara** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
 
@@ -6849,7 +6980,7 @@ Poetic register only.
 
 **Modern:** Denebola · β Leonis · Leo  
 **Sanskrit database:** `surya` — None ([entry](../star-names/star-names.json))  
-**Named in 13 languages:** Central Nicobarese (Camorta), Chaura (Chowra), Cholanaikkan, Divehi (Mahl), Garo, Korku, Lambadi (Banjara), Malayalam, Pardhi, Rengma Naga, Santali, Sema (Sumi) Naga, Telugu
+**Named in 14 languages:** Central Nicobarese (Camorta), Chaura (Chowra), Cholanaikkan, Divehi (Mahl), Garo, Gondi, Korku, Lambadi (Banjara), Malayalam, Pardhi, Rengma Naga, Santali, Sema (Sumi) Naga, Telugu
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
@@ -6859,6 +6990,7 @@ Poetic register only.
 | Chaura (Chowra) | — | *Hing* | — | tribal |
 | Cholanaikkan | — | *Nyaram, Dinga* | — | tribal |
 | Garo | — | *Rengra-Balsa* | — | tribal |
+| Gondi | — | *Lingo, Purbaal, Bera, Vera, Din, Dinad, Suryal* | — | tribal |
 | Korku | — | *Diya Gomez* | 'the god of the day' | tribal |
 | Lambadi (Banjara) | — | *Dan / Dado* | — | tribal |
 | Pardhi | — | *Chand, Dadaji, Wado* | 'grandfather'; 'the big one' | tribal |
@@ -6917,6 +7049,15 @@ Brother of the moon, and the children of Asima-Dingsima. The moon was once the b
 
 <sub>The sun-and-moon-were-swapped story is, as Mills and Hutton both note, the single most widespread belief in the north-east: Angami, Thado, Sema, Lhota, Garo, Khasi, Rengma, Lakher and Lushei all tell it, and the missile differs — mud here, cow-dung among the Semas, ashes among the eastern Rengmas, a hare in Ceylon and Mexico.</sub>
 
+**Lingo, Purbaal, Bera, Vera, Din, Dinad, Suryal** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Names for the Sun and the Moon were given in 11 of the 15 villages (Table 6, p. 40) — the sixth most widely held item in the survey. The paper records no Gond knowledge of solar eclipses.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 1, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 1, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. THE SUN AND THE MOON CARRY THE NAMES OF THE TWO GOND CULTURE HEROES. Lingo is the Gond hero of the Pari Kupar Lingo cycle and Jango the mother-goddess beside him, and at Nimni the informants gave the pair flatly: the Sun is Lingo and the Moon is Jango (p. 34). No other language in this database names the Sun after a person of its own mythology. Din and Dinad ('day') and Suryal (from Sanskrit sūrya) are transparent loans standing in the same printed list; the entry is tagged tribal for the set as a whole rather than split into a division the source does not make. Purbaal was given at Kharmat, Bera at Yelodi, Vera at Zashinagar. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
 **Diya Gomez** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
 
 *No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
@@ -6973,6 +7114,175 @@ Maniku glosses it 'sun, daystar' and gives the archaic form އިރަ ira at its 
 > <br>— Hassan Ahmed Maniku, A Concise Etymological Vocabulary of Dhivehi Language, Journal of the Royal Asiatic Society of Sri Lanka, Special Volume XLIV (Colombo, 2000), s.v. iru, p. 126 ([source](https://dsal.uchicago.edu/cgi-bin/app/maniku_query.py?page=126))
 
 <sub>In copyright, so the finding is paraphrased and `quote` is null. The same word gives iruvai, the north-east monsoon, whose name is thus built on the sun.</sub>
+
+## The Moon
+
+**Modern:** the Moon  
+**Sanskrit database:** `chandra` — None ([entry](../star-names/star-names.json))  
+**Named in 12 languages:** Central Nicobarese (Camorta), Chaura (Chowra), Cholanaikkan, Garo, Gondi, Kannada, Korku, Lambadi (Banjara), Marathi, Pardhi, Sema (Sumi) Naga, Telugu
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kannada | ಮೀನ್ಗಳೆಱೆಯ | *mīngaḷeṟeya* | lord of the stars/fishes | vernacular |
+| Marathi | चांदणी | *cāndaṇī* | little moon (from चंद्र) | vernacular |
+| Telugu | చుక్కలరేడు | *cukkala-rēḍu* | king of the stars | vernacular |
+| Central Nicobarese (Camorta) | — | *Kahe* | — | tribal |
+| Chaura (Chowra) | — | *Man Iyena* | — | tribal |
+| Cholanaikkan | — | *Thinkam* | — | tribal |
+| Garo | — | *Bire-Jitje* | — | tribal |
+| Gondi | — | *Jango, Chandal, Nalend / Nalen / Nanleg* | — | tribal |
+| Gondi | — | *Kondor* | — | tribal |
+| Korku | — | *Rata Gomez* | 'the god of the night' | tribal |
+| Lambadi (Banjara) | — | *tala; khala* | 'broken'; 'complete' — the two states of the ring | tribal |
+| Lambadi (Banjara) | — | *yadi* | 'the old lady' — she sits under a banyan tree in the face of the Moon, spinning cotton yarn | tribal |
+| Pardhi | — | *Chand, Chandar* | — | tribal |
+| Pardhi | — | *khau, khalu* | — | tribal |
+| Sema (Sumi) Naga | — | *akhi* | — | tribal |
+| Lambadi (Banjara) | — | *Chanda* | — | sanskritic |
+| Lambadi (Banjara) | — | *Chandani* | moonlight | sanskritic |
+
+**ಮೀನ್ಗಳೆಱೆಯ · mīngaḷeṟeya** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
+
+Also ತಾರಗೆಯಾಳ್ಮ tārageyāḷma, same sense, Kittel p. 752.
+
+> — ಮೀನ್ಗಳೆಱೆಯ. -ಎಱೆಯ. the moon (ಚನ್ದಿರ, etc., ಶಶಿ Kk. 44).
+> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಮೀನ್ mīn 2, p. 1328 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1328))
+
+<sub>COGNATE PAIR with Telugu చుక్కలరేడు cukkala-rēḍu 'king of the stars = the moon' (Brown p. 449). The kenning is shared with Sanskrit (nakṣatreśa, uḍupati — Brown glosses both with the Telugu compound), but the Kannada and Telugu words are built entirely from Dravidian material, and the Kannada one puns on mīn 'fish'.</sub>
+
+**चांदणी · cāndaṇī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+the word is the ordinary one in weather and night-sky talk; Molesworth records under it a belief in a malign 'blast from the stars'
+
+> चांदणी cāndaṇī f A star. 2 An awning. 3 An ornament (like राखडी, but smaller) for the head of women. 4 A blast from the stars. Supposed to fall on horses if they are uncovered (i. e. without the Jhúl, or some rag or clout) whilst eating their grain. v पड, मार, हाण. 5 An inauspicious mark of the horse,—a white spot on the forehead.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. चांदणी, p. 277 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%9A%E0%A4%BE%E0%A4%82%E0%A4%A6%E0%A4%A3%E0%A5%80&searchhws=yes&matchtype=exact))
+
+<sub>The everyday Marathi word for a star, formed on चंद्र 'moon' and unmarked by Molesworth, i.e. not treated as a Sanskrit loan; तारा and नक्षत्र are both marked S. Sense 4 records a genuine piece of Deccan folk belief — a malign 'blast from the stars' that strikes uncovered horses at their feed. The same entry ends with the proverb चांदण्यांत निजती आणि माडीची हवा पाहती, of one who sleeps under the stars but looks for the breeze of an upper storey.</sub>
+
+**చుక్కలరేడు · cukkala-rēḍu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Given by Brown twice — under cukka and as the vernacular gloss of Sanskrit nakṣatreśuḍu.
+
+> చుక్కలతెరువు the sky ఆకాశము. చుక్కలరేడు the moon.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. చుక్క ṭsukka, p. 449 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=449))
+
+<sub>COGNATE PAIR with Kannada ಮೀನ್ಗಳೆಱೆಯ mīngaḷeṟeya 'the moon' (lit. lord of the stars/fishes, Kittel p. 1328) and ತಾರಗೆಯಾಳ್ಮ tārageyāḷma (Kittel p. 752). The kenning 'lord of stars' is shared with Sanskrit but the words are Dravidian throughout.</sub>
+
+**Kahe** — Central Nicobarese (Camorta) (Camorta, Nancowry group, Central Nicobars) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
+
+**Man Iyena** — Chaura (Chowra) (Chowra (Chaura) island, Nicobars) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
+
+**Thinkam** — Cholanaikkan (the reserved forests of Nilambur, Malappuram district, Kerala) · *tribal* · confidence: certain
+
+Close to Malayalam tiṅkaḷ, the moon and Monday.
+
+*No quotation: M. N. Vahia, V. S. Ramachandran, Jayant Gangopadhyay and Justin Joseph, 'Astronomy of Cholanaikkan tribe of Kerala', arXiv:1702.04149 (2017), §9 'Their astronomy', p. 7 is in copyright and is paraphrased only.*
+> <br>— M. N. Vahia, V. S. Ramachandran, Jayant Gangopadhyay and Justin Joseph, 'Astronomy of Cholanaikkan tribe of Kerala', arXiv:1702.04149 (2017), §9 'Their astronomy', p. 7 ([source](https://arxiv.org/abs/1702.04149))
+
+<sub>In copyright, so the finding is paraphrased and `quote` is null. </sub>
+
+**Bire-Jitje** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
+
+Sister of the sun; her other name in this book is Susime, and it is her mother's funeral that the whole Garo star-catalogue commemorates.
+
+> The sun was called [R]engra-Balsa, and the moon Bire-Jitje.
+> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 85 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
+
+<sub>Playfair uses Susime throughout the star list and Bire-Jitje only here, without saying how the two relate. Both are recorded; neither is treated as the other's variant.</sub>
+
+**Jango, Chandal, Nalend / Nalen / Nanleg** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+The month runs from new moon to new moon. New moon to full moon is Avas and full moon to new moon is Punvi (Zashinagar, p. 36). Eleven of fifteen villages.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 2, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 2, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The pair of Lingo the Sun and Jango the Moon; see the Sun entry above. Chandal is a transparent loan from Sanskrit candra, tagged with the set on the recorders' own reading, as the Gondi Dhruva Tara is. Nalend at Kharmat, Nalen at Zashinagar and Wamanpalli, Nanleg at Yelodi — one word wandering across three villages. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
+**Kondor** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+A forecast, and read against the intuition: when the ring sits close to the Moon the rain is far off, and when it stands well away from it the rain is near (Mohagaon, p. 37). Four of fifteen villages.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 3, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 3, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The third named lunar halo in this database, beside Pardhi khau/khalu and the Rengma solar halo zengokesü — and the only one of the three that carries a forecast rule this precise. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
+**Rata Gomez** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. </sub>
+
+**tala; khala** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
+
+At Kasola the rule is read off the shape of the ring: a broken halo, tala, means better rains; a complete one, khala, means little rain. Four of six villages knew a halo rule of some kind.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1 row 19, p. 69, and Appendix 1.1.4 (Kasola), p. 79 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1 row 19, p. 69, and Appendix 1.1.4 (Kasola), p. 79 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The only named halo STATES in the database. Gondi Kondor and Pardhi khau name the ring itself; these two words name what it is doing. Note that the Gond rule keys on distance from the Moon and this one on whether the ring is closed. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**yadi** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
+
+Three of the six villages in Table 1. At Katarwadi the figure is given in full: a banyan tree with an old lady beside it spinning; at Chinchkhed the informants say only that there is a tree on the Moon.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1 row 3, p. 69, and Appendix 1.1.3 (Katarwadi), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1 row 3, p. 69, and Appendix 1.1.3 (Katarwadi), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. THE ONLY READING OF THE LUNAR MARIA IN THIS DATABASE. Fifty-seven languages here name the Moon and not one of the others says what the dark patches on it are. The Kolams, surveyed in the same week by the same team, were not recorded as seeing anything there at all. Only the word for the old woman is printed; the tree and the spinning are described in English. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Chand, Chandar** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
+
+Recorded in all fourteen villages; a halo round the moon in five, and used to forecast the weather in two of those.
+
+*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 5, pp. 184-185 is in copyright and is paraphrased only.*
+> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 5, pp. 184-185 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
+
+<sub>See the note to the sun entry for the shared word. The halo is the only belief in the whole Pardhi survey with a possible farming use, and the authors make an argument of it: everything else in their two tables belongs to a hunting and gathering ecology, so they conclude the vocabulary was fixed in an era when all Pardhi were hunter-gatherers, the Gav Pardhi having taken to farming less than a century ago. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+**khau, khalu** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
+
+Glossed with Marathi khaḷe. Seen in five villages and used for weather forecasting in two.
+
+*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
+> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+**akhi** — Sema (Sumi) Naga (the Sema country, Naga Hills (now Nagaland)) · *tribal* · confidence: certain
+
+The same word serves for 'month'.
+
+> The moon is akhi, the same word being used for month.
+> <br>— J.H. Hutton, The Sema Nagas (London: Macmillan, 1921), p. 250 ([source](https://archive.org/details/semanagas00hutt))
+
+<sub>Moon-as-month is the ordinary state of affairs across South Asia and is entered here only because Hutton states it explicitly for Sema.</sub>
+
+**Chanda** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. The paper itself notes the name is close to the Sanskrit candra, so it is tagged sanskritic here on the recorders' own judgement, as the Gondi Dhruva Tara is in tribal.json.</sub>
+
+**Chandani** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The recorders note it as a canonical Sanskrit and Marathi word. The Gonds use the same word for starlight and moonlight together, and one Gond village uses it for the evening star, Jevan Chandani — a single borrowed word for faint light doing three jobs across two families. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 ## Sirius
 
@@ -7270,127 +7580,6 @@ The heliacal rising (agastyōdayamu) is an almanac event in the Telugu country.
 
 <sub>No vernacular name for Canopus in either dictionary — the Sanskrit sage-name is used in both languages (Kannada ಅಗಸ್ತ್ಯ, Kittel p. 12). Given the star's importance in the southern sky this is a real negative finding.</sub>
 
-## The Moon
-
-**Modern:** the Moon  
-**Sanskrit database:** `chandra` — None ([entry](../star-names/star-names.json))  
-**Named in 11 languages:** Central Nicobarese (Camorta), Chaura (Chowra), Cholanaikkan, Garo, Kannada, Korku, Lambadi (Banjara), Marathi, Pardhi, Sema (Sumi) Naga, Telugu
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Kannada | ಮೀನ್ಗಳೆಱೆಯ | *mīngaḷeṟeya* | lord of the stars/fishes | vernacular |
-| Marathi | चांदणी | *cāndaṇī* | little moon (from चंद्र) | vernacular |
-| Telugu | చుక్కలరేడు | *cukkala-rēḍu* | king of the stars | vernacular |
-| Central Nicobarese (Camorta) | — | *Kahe* | — | tribal |
-| Chaura (Chowra) | — | *Man Iyena* | — | tribal |
-| Cholanaikkan | — | *Thinkam* | — | tribal |
-| Garo | — | *Bire-Jitje* | — | tribal |
-| Korku | — | *Rata Gomez* | 'the god of the night' | tribal |
-| Pardhi | — | *Chand, Chandar* | — | tribal |
-| Pardhi | — | *khau, khalu* | — | tribal |
-| Sema (Sumi) Naga | — | *akhi* | — | tribal |
-| Lambadi (Banjara) | — | *Chanda* | — | sanskritic |
-
-**ಮೀನ್ಗಳೆಱೆಯ · mīngaḷeṟeya** — Kannada (Karnataka (Mysore, Canara, Deccan)) · *vernacular* · confidence: certain
-
-Also ತಾರಗೆಯಾಳ್ಮ tārageyāḷma, same sense, Kittel p. 752.
-
-> — ಮೀನ್ಗಳೆಱೆಯ. -ಎಱೆಯ. the moon (ಚನ್ದಿರ, etc., ಶಶಿ Kk. 44).
-> <br>— Kittel, F., A Kannaḍa-English Dictionary (orig. Mangalore: Basel Mission, 1894); cited from the revised and enlarged edition, [Madras] University of Madras, 1968-71, as keyed for DSAL, s.v. ಮೀನ್ mīn 2, p. 1328 ([source](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?page=1328))
-
-<sub>COGNATE PAIR with Telugu చుక్కలరేడు cukkala-rēḍu 'king of the stars = the moon' (Brown p. 449). The kenning is shared with Sanskrit (nakṣatreśa, uḍupati — Brown glosses both with the Telugu compound), but the Kannada and Telugu words are built entirely from Dravidian material, and the Kannada one puns on mīn 'fish'.</sub>
-
-**चांदणी · cāndaṇī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
-
-the word is the ordinary one in weather and night-sky talk; Molesworth records under it a belief in a malign 'blast from the stars'
-
-> चांदणी cāndaṇī f A star. 2 An awning. 3 An ornament (like राखडी, but smaller) for the head of women. 4 A blast from the stars. Supposed to fall on horses if they are uncovered (i. e. without the Jhúl, or some rag or clout) whilst eating their grain. v पड, मार, हाण. 5 An inauspicious mark of the horse,—a white spot on the forehead.
-> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. चांदणी, p. 277 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%9A%E0%A4%BE%E0%A4%82%E0%A4%A6%E0%A4%A3%E0%A5%80&searchhws=yes&matchtype=exact))
-
-<sub>The everyday Marathi word for a star, formed on चंद्र 'moon' and unmarked by Molesworth, i.e. not treated as a Sanskrit loan; तारा and नक्षत्र are both marked S. Sense 4 records a genuine piece of Deccan folk belief — a malign 'blast from the stars' that strikes uncovered horses at their feed. The same entry ends with the proverb चांदण्यांत निजती आणि माडीची हवा पाहती, of one who sleeps under the stars but looks for the breeze of an upper storey.</sub>
-
-**చుక్కలరేడు · cukkala-rēḍu** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
-
-Given by Brown twice — under cukka and as the vernacular gloss of Sanskrit nakṣatreśuḍu.
-
-> చుక్కలతెరువు the sky ఆకాశము. చుక్కలరేడు the moon.
-> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. చుక్క ṭsukka, p. 449 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=449))
-
-<sub>COGNATE PAIR with Kannada ಮೀನ್ಗಳೆಱೆಯ mīngaḷeṟeya 'the moon' (lit. lord of the stars/fishes, Kittel p. 1328) and ತಾರಗೆಯಾಳ್ಮ tārageyāḷma (Kittel p. 752). The kenning 'lord of stars' is shared with Sanskrit but the words are Dravidian throughout.</sub>
-
-**Kahe** — Central Nicobarese (Camorta) (Camorta, Nancowry group, Central Nicobars) · *tribal* · confidence: certain
-
-*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
-
-**Man Iyena** — Chaura (Chowra) (Chowra (Chaura) island, Nicobars) · *tribal* · confidence: certain
-
-*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
-
-**Thinkam** — Cholanaikkan (the reserved forests of Nilambur, Malappuram district, Kerala) · *tribal* · confidence: certain
-
-Close to Malayalam tiṅkaḷ, the moon and Monday.
-
-*No quotation: M. N. Vahia, V. S. Ramachandran, Jayant Gangopadhyay and Justin Joseph, 'Astronomy of Cholanaikkan tribe of Kerala', arXiv:1702.04149 (2017), §9 'Their astronomy', p. 7 is in copyright and is paraphrased only.*
-> <br>— M. N. Vahia, V. S. Ramachandran, Jayant Gangopadhyay and Justin Joseph, 'Astronomy of Cholanaikkan tribe of Kerala', arXiv:1702.04149 (2017), §9 'Their astronomy', p. 7 ([source](https://arxiv.org/abs/1702.04149))
-
-<sub>In copyright, so the finding is paraphrased and `quote` is null. </sub>
-
-**Bire-Jitje** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
-
-Sister of the sun; her other name in this book is Susime, and it is her mother's funeral that the whole Garo star-catalogue commemorates.
-
-> The sun was called [R]engra-Balsa, and the moon Bire-Jitje.
-> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 85 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
-
-<sub>Playfair uses Susime throughout the star list and Bire-Jitje only here, without saying how the two relate. Both are recorded; neither is treated as the other's variant.</sub>
-
-**Rata Gomez** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
-
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. </sub>
-
-**Chand, Chandar** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
-
-Recorded in all fourteen villages; a halo round the moon in five, and used to forecast the weather in two of those.
-
-*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 5, pp. 184-185 is in copyright and is paraphrased only.*
-> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 5, pp. 184-185 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
-
-<sub>See the note to the sun entry for the shared word. The halo is the only belief in the whole Pardhi survey with a possible farming use, and the authors make an argument of it: everything else in their two tables belongs to a hunting and gathering ecology, so they conclude the vocabulary was fixed in an era when all Pardhi were hunter-gatherers, the Gav Pardhi having taken to farming less than a century ago. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
-
-**khau, khalu** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
-
-Glossed with Marathi khaḷe. Seen in five villages and used for weather forecasting in two.
-
-*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
-> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
-
-**akhi** — Sema (Sumi) Naga (the Sema country, Naga Hills (now Nagaland)) · *tribal* · confidence: certain
-
-The same word serves for 'month'.
-
-> The moon is akhi, the same word being used for month.
-> <br>— J.H. Hutton, The Sema Nagas (London: Macmillan, 1921), p. 250 ([source](https://archive.org/details/semanagas00hutt))
-
-<sub>Moon-as-month is the ordinary state of affairs across South Asia and is entered here only because Hutton states it explicitly for Sema.</sub>
-
-**Chanda** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. The paper itself notes the name is close to the Sanskrit candra, so it is tagged sanskritic here on the recorders' own judgement, as the Gondi Dhruva Tara is in tribal.json.</sub>
-
 ## The Hyades
 
 **Modern:** the Hyades · Taurus  
@@ -7520,7 +7709,7 @@ The V of the Hyades seen as a bullock-cart. Sanskrit śakaṭa in Tamil form, bu
 | Marathi | बडवण्या | *baḍavaṇyā* | beaters, mallets | folk |
 | Chhattisgarhi | — | *Sap* | 'the snake' | tribal |
 | Gondi | — | *Michu; Vinchu* | the scorpion | tribal |
-| Kolami | — | *Borenagu / Nago / Nagun* | 'a snake'; nāgun 'a cobra' | tribal |
+| Kolami | — | *Borenagu / Borenag / Bornagu; Nago; Nagun / Nagpan* | 'a snake'; nāgun 'a cobra' | tribal |
 | Kolami | — | *Danedare Pila* | — | tribal |
 | Kolami | — | *Tuntor / Tootera* | 'a scorpion' | tribal |
 | Korku | — | *Kiding / Clemp* | — | tribal |
@@ -7565,14 +7754,14 @@ Michu is held responsible for producing the corpse that appears in Leo.
 
 <sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Vinchu is the Marathi word, Michu is given as the Gondi. The scorpion reading agrees with Sanskrit Vṛścika and with Greek, but the story attached — that the scorpion's bite causes the death whose funeral is played out in Leo and Virgo — is found in neither.</sub>
 
-**Borenagu / Nago / Nagun** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+**Borenagu / Borenag / Bornagu; Nago; Nagun / Nagpan** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
 
 Eight of ten villages.
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71, and Appendix 1.2.6 (Landgi Pod) and 1.2.7 (Chinchpod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71, and Appendix 1.2.6 (Landgi Pod) and 1.2.7 (Chinchpod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. </sub>
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. Nagpan and Borenag are the appendix's spellings; at Landgi Pod the snake rises in the north-east in Pusa maas and at Chinchpod it is given as both a cobra and a snake in one breath.</sub>
 
 **Danedare Pila** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
 
@@ -8103,6 +8292,252 @@ The figure is a scene indoors: a named girl at her loom, with the cloth pinned t
 
 <sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. THE BEST-DRAWN FIGURE IN THIS DATABASE. Most sky-figures elsewhere here are a single object — a cot, a plough, a deer. This one has a named character, an action, and two stars doing duty as nails in a wall. Compare the Kolam Mahua tree at Crux with an old woman and a young woman gathering flowers beneath it, in tribal_fieldwork.json: both are domestic scenes rather than emblems, and neither has any counterpart in the Sanskrit sky.</sub>
 
+## Eclipses
+
+**Modern:** a lunar eclipse  
+**Named in 5 languages:** Divehi (Mahl), Kolami, Mizo (Lushai), Pardhi, Rengma Naga
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kolami | — | *Gongpatad; Beduk* | the caterpillar; the frog | tribal |
+| Mizo (Lushai) | — | *Āwk* | — | tribal |
+| Pardhi | — | *Giran* | — | tribal |
+| Rengma Naga | — | *(figure recorded, name not)* | — | tribal |
+| Divehi (Mahl) | ކޭތަ | *keytha* | — | sanskritic |
+
+**Gongpatad; Beduk** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The colour of a lunar eclipse tells you which creature is eating the Moon: pale if it is the caterpillar Gongpatad, dark if it is the frog Beduk. Bhimnala reverses the pair, giving red for the scorpion and black for the frog.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Kolam solar eclipse is a debt being collected and is already in this file; the lunar eclipse is an animal at its meal, and the shade of red is the evidence for which animal. A forecast run backwards — the sky is read to identify the creature rather than the creature to predict the sky. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Āwk** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
+
+The verb is impersonal and takes the creature as subject: 'the Āwk eclipses the sun'.
+
+> Āwk, n . the name of a fabulous creature which is supposed to swallow the sun or moon at the time of an eclipse. Some say that the awk is the spirit of a Pawi chieftain. Āwkin a lem, Āwkin ni a lem, Āwkin thla a lem. [and] âwk lem, n . an eclipse; ni âwk lem, a solar eclipse; thla âwk lem, a lunar eclipse.
+> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Āwk, p. 20 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=20))
+
+<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. The Indian eclipse-swallower is Rāhu everywhere in the Sanskritic material; the Mizo one is a named local ghost, the spirit of a Pawi chief. Creates the object 'Eclipses' in this database, which had none.</sub>
+
+**Giran** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
+
+Glossed with Marathi grahaṇ. Solar and lunar eclipses were reported in ten villages each, a story about them in six, and an omen — bad in eight villages, good in three — in eleven.
+
+*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
+> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
+
+<sub>Giran is Sanskrit grahaṇa worn down, and is the one plainly borrowed word in the Pardhi sky. That eleven villages read an omen from it and three of them read a good one is the sort of split the single-village sources in this database cannot show. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+**(figure recorded, name not)** — Rengma Naga (the Rengma country, Naga Hills (now Nagaland), and the Mikir Hills) · *tribal* · confidence: certain
+
+When the sun is eclipsed it is believed that some very great man has died somewhere; the moon is eclipsed when a tiger eats it.
+
+> When there is an eclipse of the sun it is believed that some very great man has died somewhere. The moon is eclipsed when a tiger eats it.
+> <br>— J.P. Mills, The Rengma Nagas (London: Macmillan, 1937), p. 245 ([source](https://archive.org/details/dli.csl.3979))
+
+<sub>ENTERED WITHOUT A NAME, on the same footing as the two nameless entries already in this file: Mills gives the belief and no Rengma word, and the belief is worth the record because it splits the two eclipses between two entirely different causes. The eater is a tiger here, a dog among the Lakhers, an awk among the Mizo, and Rāhu everywhere on the mainland.</sub>
+
+**ކޭތަ · keytha** — Divehi (Mahl) (the Maldives, and Minicoy (Maliku) in Lakshadweep, which speaks the same language and keeps the same calendar) · *sanskritic* · confidence: certain
+
+Maniku glosses it 'eclipse, occultation' and derives it from Sinhala ketu, the dragon's tail or descending node.
+
+*No quotation: Hassan Ahmed Maniku, A Concise Etymological Vocabulary of Dhivehi Language, Journal of the Royal Asiatic Society of Sri Lanka, Special Volume XLIV (Colombo, 2000), s.v. keytha, p. 144 is in copyright and is paraphrased only.*
+> <br>— Hassan Ahmed Maniku, A Concise Etymological Vocabulary of Dhivehi Language, Journal of the Royal Asiatic Society of Sri Lanka, Special Volume XLIV (Colombo, 2000), s.v. keytha, p. 144 ([source](https://dsal.uchicago.edu/cgi-bin/app/maniku_query.py?page=144))
+
+<sub>In copyright, so the finding is paraphrased and `quote` is null. The comet-word doing duty for the eclipse. Kashmiri kēth in northwest.json is the same Sanskrit ketu used for a comet and for the descending node; Divehi has narrowed it to the event itself.</sub>
+
+## Directions taken from the sky
+
+**Modern:** west  
+**Named in 4 languages:** Gondi, Kolami, Lambadi (Banjara), Pardhi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Gondi | — | *Farayin / Farain* | — | tribal |
+| Gondi | — | *Kalvada / Kalwada* | — | tribal |
+| Gondi | — | *Silalin / Shilain; Sukral* | — | tribal |
+| Gondi | — | *Talvada / Talwada; Rakshas Disha* | — | tribal |
+| Kolami | — | *Kaland (Kakban); Telganam (Dubaguda)* | — | tribal |
+| Kolami | — | *Potkurina / Potkuranai; Suryatu* | Suryatu 'the sunrise direction' | tribal |
+| Kolami | — | *Potpadna / Potpodnavai* | — | tribal |
+| Kolami | — | *Telagnaam (Kakban); Kalam (Dubaguda)* | — | tribal |
+| Lambadi (Banjara) | — | *Dharau; Ishan* | — | tribal |
+| Lambadi (Banjara) | — | *Dongari* | 'the hills' | tribal |
+| Lambadi (Banjara) | — | *Suryatal* | 'the Sun's direction' — where the Sun rises | tribal |
+| Pardhi | — | *Dongari, olau, dongarau* | 'of the hill' | tribal |
+| Pardhi | — | *Suryasambar, Khuryakhambar, Hetlyawai, vand, Vandh, nikalato* | 'the sun's post'; 'it comes out' | tribal |
+| Pardhi | — | *rakshasbaku, Dakhani, dakhanau, Mahuri, Hetawas* | 'the demon's mouth' | tribal |
+| Pardhi | — | *upalyawai, Dubato, baend* | 'it drowns', 'it sinks' | tribal |
+| Lambadi (Banjara) | — | *Agneya* | Agni's quarter | sanskritic |
+| Lambadi (Banjara) | — | *Dakshin* | — | sanskritic |
+| Lambadi (Banjara) | — | *Pashim* | — | sanskritic |
+
+**Farayin / Farain** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Farayin at Nimni, Farain at Matharjun. Two of fifteen villages.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. See the eastern quarter above. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
+**Kalvada / Kalwada** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Kalvada at Nimni, Kalwada at Matharjun. At Kesalapur the north is held to be inauspicious (p. 35), and burials are laid with the head to the south because, in the informants' words, bad people come from the north.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Compare Kolami Kaland and Kalam, which one Kolam village gives for north and another for south; Kolami and Gondi are both Dravidian and the words look like the same word. The Kolam pair is recorded as disputed for that reason. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
+**Silalin / Shilain; Sukral** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Silalin at Nimni and Shilain at Matharjun; Sukral was given for east at Kharmat (p. 36). Names for the four quarters were recorded in two of fifteen villages.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. The Gonds use the quarters for burial rather than for travel: the paper is explicit that it found no evidence of the stars being used for navigation, and that the directions matter because the dead are laid along them. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
+**Talvada / Talwada; Rakshas Disha** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+Talvada at Nimni, Talwada at Matharjun. At Lodha the south is called Rakshas Disha (p. 38).
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 6, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. RAKSHAS DISHA IS THE PARDHI WORD TOO. The Pardhi southern quarter in tribal_fieldwork.json is rakshasbaku, the demons' quarter, and the Gonds of Lodha call the same quarter Rakshas Disha. Gondi is Dravidian and Pardhi Indo-Aryan; both take the south from the same Sanskrit rākṣasa, and both put the demons there while the Gonds put the bad people in the north. The two traditions disagree about which end of the axis is dangerous. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
+**Kaland (Kakban); Telganam (Dubaguda)** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+
+The two villages give opposite answers, and both are recorded here.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. THE TWO VILLAGES SWAP THE NORTH-SOUTH PAIR. Dubaguda gives north Telganam and south Kalam; Kakban gives north Kaland and south Telagnaam. Kalam and Kaland are plainly the same word and so are Telganam and Telagnaam, so the disagreement is not about vocabulary but about which end of the axis each word names. Nothing in the paper settles it and nothing is settled here. Note that Gondi — also Dravidian — has Kalvada for north, which agrees with Kakban. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Potkurina / Potkuranai; Suryatu** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The two villages that gave the quarters, Dubaguda and Kakban, agree on east and west and contradict each other on north and south.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 22, p. 71, and Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 22, p. 71, and Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Suryatu is the Banjara Suryatal with a different ending, and both mean the Sun's direction. The Kolams were priests to the Gonds and traded with the Banjaras, and the compass is where the borrowing shows. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Potpadna / Potpodnavai** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Agreed between the two villages that gave the quarters.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Pot- opens both the east and the west word, which the paper does not comment on. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Telagnaam (Kakban); Kalam (Dubaguda)** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+
+See the northern quarter: the two villages give opposite answers.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 79 and 1.2.10 (Kakban), p. 84 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The other half of the swap described in the northern-quarter entry. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Dharau; Ishan** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
+
+One of six villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Dharau is the Banjara word; Ishan is given beside it as the modern-language one. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Dongari** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
+
+One of six villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. DONGARI IS THE PARDHI WORD FOR NORTH TOO, and it is in this same file. Both communities are Indo-Aryan-speaking and both take their north from the hills rather than from the pole star, which the Banjaras name separately and use separately. A direction named after the landscape and not after the sky, in a database of sky names. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Suryatal** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: certain
+
+One of six villages gave the full set of quarters.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Banjara compass is half its own and half borrowed, and the two halves can be read straight off the list: Dongari, Dharau and Suryatal against Ishan, Agneya, Dakshin and Pashim. The recorders mark the second set themselves as 'in modern languages'. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Dongari, olau, dongarau** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
+
+Glossed with Marathi uttar. ḍoṅgar is the hill or mountain.
+
+*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
+> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
+
+<sub>North is not a celestial direction here at all: it is where the hills are. For a people ranging the Satpura foothills that is the more reliable mark, and it is the reason the Pardhi compass cannot be called an astronomical one without qualification. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+**Suryasambar, Khuryakhambar, Hetlyawai, vand, Vandh, nikalato** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
+
+Glossed by the paper with Marathi pūrva. Six words for one direction, of which two name the sun's pillar and one is a verb of emerging.
+
+*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
+> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
+
+<sub>THE PARDHI TAKE THEIR BEARINGS FROM THE SKY AND FROM THE LAND, and the four directions divide neatly between them: east and west from the sun, north from the hills, south from a demon. This is the second compass in the database built out of sky-lore — Rajasthani names the quarter between north and north-west risiasta, 'the setting of the ṛṣis', after where Ursa Major goes down, and names three winds off it. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+**rakshasbaku, Dakhani, dakhanau, Mahuri, Hetawas** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
+
+Glossed with Marathi dakṣiṇ. The paper's vocabulary table gives baku for 'mouth'.
+
+*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
+> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
+
+<sub>THE DEMON'S MOUTH IN THE SOUTH. South is the direction of death and of Yama across Hindu India, and the Pardhi word says so more bluntly than any other in this database. The remaining forms are the ordinary Deccan dakhan. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+**upalyawai, Dubato, baend** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
+
+Glossed with Marathi paścima. Dubato is the ordinary verb for sinking or drowning.
+
+*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
+> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
+
+<sub>The sun sinks rather than sets — the same image as Nepali and Newar, where the whole western vocabulary is built on submersion. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+**Agneya** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
+
+One of six villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. A straight Sanskrit loan, and the recorders say so. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Dakshin** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
+
+One of six villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Given as the modern-language word. Compare the Gond Rakshas Disha and the Pardhi rakshasbaku, which put demons in the same quarter. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Pashim** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
+
+One of six villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Given as the modern-language word. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
 ## Centaurus
 
 **Modern:** Centaurus · Centaurus  
@@ -8113,6 +8548,8 @@ The figure is a scene indoors: a named girl at her loom, with the cloth pinned t
 | Gondi | — | *Khayan* | — | tribal |
 | Kolami | — | *Kadma* | 'a young lady' | tribal |
 | Kolami | — | *Murta* | 'an old lady' | tribal |
+| Kolami | — | *Oedda* | 'a man' | tribal |
+| Kolami | — | *Pilla* | 'a woman' | tribal |
 | Korku | — | *Bharada* | — | tribal |
 | Korku | — | *Charakhaya* | — | tribal |
 | Korku | — | *Dhanay* | — | tribal |
@@ -8143,6 +8580,24 @@ Standing under the Mahua tree of Crux to collect its fallen flowers.
 > <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. </sub>
+
+**Oedda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Landgi Pod the two bright stars beside the Mahua tree are a man and a woman rather than the old lady and the young lady given elsewhere.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. A village variant of Murta above, and worth keeping separate: the other villages make the pair two women of different ages gathering flowers, and this one makes them a couple. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Pilla** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The companion of Oedda at Landgi Pod, in place of Kadma the young lady.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. See Oedda above. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 **Bharada** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: unidentified
 
@@ -8197,6 +8652,7 @@ The two co-wives pulling at opposite corners of the bed, which is why the parall
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
 | Garo | — | *Manganchi* | — | tribal |
+| Kolami | — | *Mekam / Mokam; Rohi; Gorya* | 'a deer' | tribal |
 | Kolami | — | *Samdur* | 'a sea', from which the rain comes | tribal |
 | Mara (Lakher) | — | *Aphilu* | — | tribal |
 | Mundari | — | *bursi ipilko* | the smouldering-fire stars | tribal |
@@ -8212,6 +8668,15 @@ The four upright posts between which the wood for the cremation was heaped; the 
 
 <sub>The Mundas see the same four stars as Singbonga's bedstead and the Lakhers as a sheet of bamboo matting. All three read the square as a made rectangular thing; only Garo reads it as four separate uprights and singles out the brightest.</sub>
 
+**Mekam / Mokam; Rohi; Gorya** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+
+Average rain at Landgi Pod and Raipur, less than normal at Chinchpod, more at one reading.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders. Rohi and Gorya are the Marathi words given beside the Kolami one. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
 **Samdur** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
 
 Eight of ten villages. Animal asterisms are seen around the Square — a peacock, a buffalo, a frog, a deer, a horse and sometimes a pig — and their relative brightness is taken to forecast the strength of the coming rain.
@@ -8219,7 +8684,7 @@ Eight of ten villages. Animal asterisms are seen around the Square — a peacock
 *No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
 > <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. A rain-gauge built out of a constellation. No name is printed for the individual animals, so none is entered.</sub>
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. A rain-gauge built out of a constellation. CORRECTED: this entry previously said that no name is printed for the individual animals. Table 2 prints none, but the appendix names all of them — Namli the peacock, Barre the buffalo, Pande the frog, Mekam the deer, Gurram the horse and Ture the pig — and they are now six entries of their own, with the recorders' suggested constellations carried as disputed.</sub>
 
 **Aphilu** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: disputed
 
@@ -8420,54 +8885,6 @@ The living Assamese word for a star-cluster, and the word the dictionary itself 
 
 <sub>Kittel preserves the Sanskrit bear/star polysemy intact. Telugu రిక్క rikka is the Middle-Indic descendant of the same word, but by Brown's time it means simply 'star' and has lost the bear.</sub>
 
-## Eclipses
-
-**Modern:** solar and lunar eclipses  
-**Named in 4 languages:** Divehi (Mahl), Mizo (Lushai), Pardhi, Rengma Naga
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Mizo (Lushai) | — | *Āwk* | — | tribal |
-| Pardhi | — | *Giran* | — | tribal |
-| Rengma Naga | — | *(figure recorded, name not)* | — | tribal |
-| Divehi (Mahl) | ކޭތަ | *keytha* | — | sanskritic |
-
-**Āwk** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
-
-The verb is impersonal and takes the creature as subject: 'the Āwk eclipses the sun'.
-
-> Āwk, n . the name of a fabulous creature which is supposed to swallow the sun or moon at the time of an eclipse. Some say that the awk is the spirit of a Pawi chieftain. Āwkin a lem, Āwkin ni a lem, Āwkin thla a lem. [and] âwk lem, n . an eclipse; ni âwk lem, a solar eclipse; thla âwk lem, a lunar eclipse.
-> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Āwk, p. 20 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=20))
-
-<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. The Indian eclipse-swallower is Rāhu everywhere in the Sanskritic material; the Mizo one is a named local ghost, the spirit of a Pawi chief. Creates the object 'Eclipses' in this database, which had none.</sub>
-
-**Giran** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
-
-Glossed with Marathi grahaṇ. Solar and lunar eclipses were reported in ten villages each, a story about them in six, and an omen — bad in eight villages, good in three — in eleven.
-
-*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
-> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
-
-<sub>Giran is Sanskrit grahaṇa worn down, and is the one plainly borrowed word in the Pardhi sky. That eleven villages read an omen from it and three of them read a good one is the sort of split the single-village sources in this database cannot show. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
-
-**(figure recorded, name not)** — Rengma Naga (the Rengma country, Naga Hills (now Nagaland), and the Mikir Hills) · *tribal* · confidence: certain
-
-When the sun is eclipsed it is believed that some very great man has died somewhere; the moon is eclipsed when a tiger eats it.
-
-> When there is an eclipse of the sun it is believed that some very great man has died somewhere. The moon is eclipsed when a tiger eats it.
-> <br>— J.P. Mills, The Rengma Nagas (London: Macmillan, 1937), p. 245 ([source](https://archive.org/details/dli.csl.3979))
-
-<sub>ENTERED WITHOUT A NAME, on the same footing as the two nameless entries already in this file: Mills gives the belief and no Rengma word, and the belief is worth the record because it splits the two eclipses between two entirely different causes. The eater is a tiger here, a dog among the Lakhers, an awk among the Mizo, and Rāhu everywhere on the mainland.</sub>
-
-**ކޭތަ · keytha** — Divehi (Mahl) (the Maldives, and Minicoy (Maliku) in Lakshadweep, which speaks the same language and keeps the same calendar) · *sanskritic* · confidence: certain
-
-Maniku glosses it 'eclipse, occultation' and derives it from Sinhala ketu, the dragon's tail or descending node.
-
-*No quotation: Hassan Ahmed Maniku, A Concise Etymological Vocabulary of Dhivehi Language, Journal of the Royal Asiatic Society of Sri Lanka, Special Volume XLIV (Colombo, 2000), s.v. keytha, p. 144 is in copyright and is paraphrased only.*
-> <br>— Hassan Ahmed Maniku, A Concise Etymological Vocabulary of Dhivehi Language, Journal of the Royal Asiatic Society of Sri Lanka, Special Volume XLIV (Colombo, 2000), s.v. keytha, p. 144 ([source](https://dsal.uchicago.edu/cgi-bin/app/maniku_query.py?page=144))
-
-<sub>In copyright, so the finding is paraphrased and `quote` is null. The comet-word doing duty for the eclipse. Kashmiri kēth in northwest.json is the same Sanskrit ketu used for a comet and for the descending node; Divehi has narrowed it to the event itself.</sub>
-
 ## Mars
 
 **Modern:** Mars  
@@ -8514,6 +8931,54 @@ Recorded in nine villages, as was the conjunction of Venus and Mars.
 > <br>— G.V. Ramamurti, Sora-English Dictionary (Delhi: Manager of Publications, 1938), s.v. jan(d)r'ʔum-'tuj, p. 120 ([source](https://archive.org/details/in.ernet.dli.2015.98075))
 
 <sub>Sora names three planets — Venus twice over, Jupiter twice over and Mars — and no constellations except the two lunar mansions. That is an unusual shape for a tribal sky in this database, where the planets are usually the last thing named, and it is consistent with Ramamurti's own note that the Oriya astrologers have been at work.</sub>
+
+## The rainbow
+
+**Modern:** the rainbow  
+**Named in 4 languages:** Gondi, Kolami, Lambadi (Banjara), Mara (Lakher)
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Gondi | — | *Kamarpatta; Gulel* | — | tribal |
+| Kolami | — | *Ayak / Aikawa / Ayyakawa* | 'the grandparents' — Ayyak the grandfather at the violet end and awa the grandmother at the red | tribal |
+| Mara (Lakher) | — | *Meisakupa* | — | tribal |
+| Lambadi (Banjara) | — | *Indra-dhanush* | 'Indra's bow' | sanskritic |
+
+**Kamarpatta; Gulel** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: certain
+
+At Matharjun a rainbow appeared while the survey was in the village and the informants named it Kamarpatta on the spot (p. 35). At Chalisbodi it is Gulel, and the paper adds that it is also called the bow of a bow and arrow (p. 37).
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 8, p. 39 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416, Table 5 row 8, p. 39 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. COUNT DISCREPANCY IN THE SOURCE, LEFT AS IT STANDS: Table 6 (p. 40) marks the rainbow in one village only, but the village accounts record it at two, Matharjun and Chalisbodi. Both words are current in Marathi and Hindi — kamarpaṭṭā a waist-belt, gulel a catapult — which is the compiler's observation and not the paper's, but it agrees with the paper's own remark that the figure is a bow. Compare the Kolam rainbow, which is the bow of the god Bhimayak, and the Banjara one, which is Indra's bow outright. Entered on a re-read of the paper prompted by Vahia, Yadav and Menon's NCSM book (see the caveats), whose Table 4.2 condenses this row and made its absence here visible.</sub>
+
+**Ayak / Aikawa / Ayyakawa** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Four of the ten villages. Read as the sign that the current rains have ended. At Landgi Pod it is instead the bow of Bhimayak, one of the five Kolam gods.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 24, p. 71, and Appendix 1.2.10 (Kakban), p. 84 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 24, p. 71, and Appendix 1.2.10 (Kakban), p. 84 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. THE ONLY NAME IN THIS DATABASE THAT DIVIDES A SKY OBJECT BY COLOUR AND PUTS A PERSON AT EACH END. The two ends of the arc are the two grandparents, and which end is which is stated: the grandfather at the violet, the grandmother at the red. Ayak is also the Kolam word for their gods — the paper lists five primary gods, the Ayak, headed by Bhimayak — so the rainbow is named for the old people and for the gods at once, and the Landgi Pod reading of it as Bhimayak's bow falls out of the same word. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Meisakupa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: certain
+
+The tail of a celestial creature; the account continues past the page quoted here.
+
+> A rainbow is called Meisakupa, and is the tail of a celestial
+> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 499 ([source](https://archive.org/details/lakhers032949mbp))
+
+<sub>The quote breaks where the page does. The rainbow is not a star but is entered on the same footing as the Rengma solar halo and the Pardhi lunar halo — sky phenomena that these sources record in the same breath as the stars, and that the database would otherwise silently drop.</sub>
+
+**Indra-dhanush** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *sanskritic* · confidence: certain
+
+One of six villages. Read as the sign that the current spell of rain has ended.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1 row 26, p. 69, and Appendix 1.1.4 (Kasola), p. 79 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1 row 26, p. 69, and Appendix 1.1.4 (Kasola), p. 79 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The recorders mark it as taken from the modern languages, and it is entered as sanskritic on their judgement. THE RAINBOW IS A BOW IN ALL THREE COMMUNITIES SURVEYED and the only question is whose: Indra's here, the god Bhimayak's among the Kolams, and among the Gonds a gulel, a catapult, with no owner named. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
 ## Taurus
 
@@ -8570,6 +9035,50 @@ Used for time measurement; the paper says the details were not given.
 > <br>— Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 ([source](https://articles.adsabs.harvard.edu/pdf/2023JAHH...26..441S))
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The survey covered 210 people in 17 meetings across the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna communities of north-western Maharashtra. tribal.json recorded 'Bhili: nothing' and named this paper as a lead it could not obtain; this entry closes that gap. The digital text of this paper is unreadable — the embedded font subsets carry no ToUnicode map, so extraction yields a substitution cipher, and several different ciphers at that. Every Bhil, Pawra and Kokna reading in this file was therefore taken from a rendered page image, not from extracted text.</sub>
+
+## Crux (the Southern Cross)
+
+**Modern:** Crux (the Southern Cross) · α, β, γ, δ Crucis · Crux  
+**Named in 3 languages:** Central Nicobarese (Camorta), Kolami, Teressa
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Central Nicobarese (Camorta) | — | *Mian* | 'a dagger used in fishing' | tribal |
+| Kolami | — | *Irukmara / Ipamaka* | a Mahua tree (Madhuca longifolia), whose flowers are fermented to make liquor | tribal |
+| Kolami | — | *Irup pokke* | 'the flowers of the Mahua' | tribal |
+| Teressa | — | *Kuras* | — | tribal |
+
+**Mian** — Central Nicobarese (Camorta) (Camorta, Nancowry group, Central Nicobars) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. The only fishing implement in this database's sky, and it belongs to the only seafaring community in it.</sub>
+
+**Irukmara / Ipamaka** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Eight of ten villages. Two named stars stand under the tree to gather its flowers — see Murta and Kadma below.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. THIS IDENTIFIES A NAME tribal.json HAD TO LEAVE UNIDENTIFIED. That file records Gondi Irukna Mara with confidence 'unidentified' because Vahia and Halkare 2013 gave no modern equivalent for it. Irukmara here is transparently the same word, and this paper places it at Crux. The Gondi entry is not altered — a different community's identification is evidence, not proof — but the two should be read together.</sub>
+
+**Irup pokke** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The small stars around the Mahua tree Irukmara, gathered by the old lady and the young one who stand beside it as α and β Centauri.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.3 (Jamini), p. 81 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.3 (Jamini), p. 81 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Mahua flower is the thing the whole figure is about: the tree is named because its flowers are collected in March and April, and here the faint stars around it are the flowers themselves. A figure complete with its crop. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Kuras** — Teressa (Teressa island, Nicobars) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
 
 ## 'Sky' as a word
 
@@ -8647,39 +9156,43 @@ Names the national festival of Kerala: Gundert, 'the national feast on new moon 
 
 <sub>The clearest case in Malayalam of an asterism name outgrowing astronomy: Ōṇam is now first a harvest festival and only second a star. Gundert's ഓണം entry (p. 184) leads with 'The 22nd constellation, Aquila'.</sub>
 
-## Crux (the Southern Cross)
+## Cassiopeia
 
-**Modern:** Crux (the Southern Cross) · α, β, γ, δ Crucis · Crux  
-**Named in 3 languages:** Central Nicobarese (Camorta), Kolami, Teressa
+**Modern:** Cassiopeia · Cassiopeia  
+**Named in 3 languages:** Garo, Kolami, Mara (Lakher)
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Central Nicobarese (Camorta) | — | *Mian* | 'a dagger used in fishing' | tribal |
-| Kolami | — | *Irukmara / Ipamaka* | a Mahua tree (Madhuca longifolia), whose flowers are fermented to make liquor | tribal |
-| Teressa | — | *Kuras* | — | tribal |
+| Garo | — | *Mangripe* | 'the carrying of the body' | tribal |
+| Kolami | — | *Namli / Namali* | 'a peacock' | tribal |
+| Mara (Lakher) | — | *Sohlu vang araipa* | — | tribal |
 
-**Mian** — Central Nicobarese (Camorta) (Camorta, Nancowry group, Central Nicobars) · *tribal* · confidence: certain
+**Mangripe** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
 
-*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+The bearing of the corpse to the funeral pyre — the opening scene of the funeral of the moon's mother, which is the single story the Garo sky tells.
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. The only fishing implement in this database's sky, and it belongs to the only seafaring community in it.</sub>
+> (1) Mangripe (Cassiopeia, lit. the carrying of the bedy) represents the bearing of the body to the funeral pyre.
+> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 86 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
 
-**Irukmara / Ipamaka** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+<sub>'bedy' is the scan's damage for 'body', which the same sentence prints correctly two words later. THE GARO SKY IS ONE NARRATIVE. Fourteen names, and all but the two Venus names belong to a single funeral: the cremation of Norekbak-Norekding, also called Asima-Dingsima, mother of Susime the moon. No other tradition in this database organises its whole star-list as episodes of one event.</sub>
 
-Eight of ten villages. Two named stars stand under the tree to gather its flowers — see Murta and Kadma below.
+**Namli / Namali** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+One of the five or six animals that stand around Samdur and forecast the monsoon by their brightness. Landgi Pod reads the peacock as a bad sign, Chinchpod as less rain, Kakban as less rain. Six of the ten villages knew the animals.
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. THIS IDENTIFIES A NAME tribal.json HAD TO LEAVE UNIDENTIFIED. That file records Gondi Irukna Mara with confidence 'unidentified' because Vahia and Halkare 2013 gave no modern equivalent for it. Irukmara here is transparently the same word, and this paper places it at Crux. The Gondi entry is not altered — a different community's identification is evidence, not proof — but the two should be read together.</sub>
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
 
-**Kuras** — Teressa (Teressa island, Nicobars) · *tribal* · confidence: certain
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The identification is the recorders' own suggestion, offered in one sentence at Janguguda and not attributed to the informants, so the confidence is set to disputed and the suggestion is carried in modern_star rather than asserted. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
-*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+**Sohlu vang araipa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: disputed
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
+Five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended.
+
+> Sohlu vang araipa is a constellation of five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended on the world. This is possibly Cassiopeia.
+> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 496 ([source](https://archive.org/details/lakhers032949mbp))
+
+<sub>Five stars in a W, read as four men holding a skin stretched between them. The Garos read the same five as a corpse being carried. Khazanghra, also called Thimzing, is the Lakher 'great darkness', the mythical eclipse at which everything then alive was turned to stone or to stars. Nearly every Lakher star-name below is an episode interrupted by it.</sub>
 
 ## Regulus
 
@@ -8887,6 +9400,44 @@ the rain falls when the bājrī sheaves are laid out to dry
 
 <sub>Gundert gives two incompatible identifications in one breath — Spica, and 'mod. bright star in Bootes' (i.e. Arcturus). The second is an error, probably contamination from ചോതി/Svātī on the facing sense; Spica is the standard identification and is what the Sanskrit database carries.</sub>
 
+## Canis Major
+
+**Modern:** Adhara · ε Canis Majoris · Canis Major  
+**Named in 2 languages:** Kolami, Lambadi (Banjara)
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kolami | — | *Tiva Pate* | 'the three-legged stool' | tribal |
+| Kolami | — | *Tiva; Miti; Kovela; Konda* | farming tools | tribal |
+| Lambadi (Banjara) | — | *Medi* | — | tribal |
+
+**Tiva Pate** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The stool a thresher stands on to drop the harvest into the wind, so that the husk blows away. Given at Dubaguda and Jamini with the star named.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 80, and 1.2.3 (Jamini), p. 81 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 80, and 1.2.3 (Jamini), p. 81 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Gondi entry for Tiva in tribal.json places it only as 'stars near Sirius'; the Kolam villages name the star, and it is Adhara. One community's record identifying another's figure, as with Irukmara and Crux. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Tiva; Miti; Kovela; Konda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Raipur four names are given for the region without individual identifications, and the recorders note that the Gonds describe the same tools in detail.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.9 (Raipur), p. 83 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.9 (Raipur), p. 83 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Entered as one record because the paper gives them as one list and identifies none of them separately. Tiva is the Gond stool and Kovela the Kolam bird word, so the list mixes the two traditions in a single breath. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Medi** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: likely
+
+Connected by the Banjaras with the processing of the harvest. Reported in one village only.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. Reported from a single village, and the paper gives no closer identification than the constellation, so it is graded 'likely'. Compare Kolam Met, in this file, which is a threshing-pole name for Sirius — the same region of sky and probably the same word.</sub>
+
 ## Capella
 
 **Modern:** Capella · α Aurigae · Auriga  
@@ -8926,6 +9477,44 @@ The blacksmith's double bellows; Epsilon Aurigae is the sharp vertex of the isos
 
 <sub>Compare Kurukh, where the blacksmith's bellows (lohrā-capuā bīnkō) is the name of the Pleiades and not of a figure in Auriga. Same implement, same word, different stars — good evidence that the naming is independent rather than borrowed one way.</sub>
 
+## Cygnus
+
+**Modern:** suggested by the recorders as Cygnus · Cygnus  
+**Named in 2 languages:** Kolami, Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kolami | — | *Barre; Sir; mais* | 'a buffalo' | tribal |
+| Kolami | — | *Kavadi Kunde / Kavedi Koda* | 'a tower of three pots' | tribal |
+| Mundari | — | *laṇḍae ipil* | the one who is laughing | tribal |
+
+**Barre; Sir; mais** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+
+The best sign of the set: Landgi Pod calls the buffalo excellent, Raipur says lots of rain.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders, not by the informants. Sir and mais are the Marathi equivalents the villagers gave alongside the Kolami word, and the paper prints all three. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Kavadi Kunde / Kavedi Koda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Seven of ten villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. </sub>
+
+**laṇḍae ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: disputed
+
+The third fire-thief, who cannot help laughing at the discomfiture awaiting the sleeper, and whom the others push aside for fear he will wake the man.
+
+> The one who cannot help laughing, the laṇḍae ipil, is Delta of Cygnus.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Hoffmann's own identification, and geometrically awkward: δ Cygni lies a long way from Pegasus. He says himself, of the whole attempt to place these figures near the Pleiades, that it 'is rather a failure'. Recorded with the printed identification and the doubt attached.</sub>
+
 ## Jupiter
 
 **Modern:** Jupiter  
@@ -8963,61 +9552,31 @@ Ramamurti attributes the name to the influence of the Oriya astrologers.
 
 <sub>Ramamurti gives a second Jupiter name, baːmbədaː- tuj-ən, at its own headword and adds that it is 'due to the influence of the Oriya astrologers' — a lexicographer marking the borrowed layer in the field, which is precisely what the register column of this database exists to do.</sub>
 
-## Cassiopeia
+## Aquila
 
-**Modern:** Cassiopeia · Cassiopeia  
-**Named in 2 languages:** Garo, Mara (Lakher)
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Garo | — | *Mangripe* | 'the carrying of the body' | tribal |
-| Mara (Lakher) | — | *Sohlu vang araipa* | — | tribal |
-
-**Mangripe** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
-
-The bearing of the corpse to the funeral pyre — the opening scene of the funeral of the moon's mother, which is the single story the Garo sky tells.
-
-> (1) Mangripe (Cassiopeia, lit. the carrying of the bedy) represents the bearing of the body to the funeral pyre.
-> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 86 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
-
-<sub>'bedy' is the scan's damage for 'body', which the same sentence prints correctly two words later. THE GARO SKY IS ONE NARRATIVE. Fourteen names, and all but the two Venus names belong to a single funeral: the cremation of Norekbak-Norekding, also called Asima-Dingsima, mother of Susime the moon. No other tradition in this database organises its whole star-list as episodes of one event.</sub>
-
-**Sohlu vang araipa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: disputed
-
-Five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended.
-
-> Sohlu vang araipa is a constellation of five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended on the world. This is possibly Cassiopeia.
-> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 496 ([source](https://archive.org/details/lakhers032949mbp))
-
-<sub>Five stars in a W, read as four men holding a skin stretched between them. The Garos read the same five as a corpse being carried. Khazanghra, also called Thimzing, is the Lakher 'great darkness', the mythical eclipse at which everything then alive was turned to stone or to stars. Nearly every Lakher star-name below is an episode interrupted by it.</sub>
-
-## Cygnus
-
-**Modern:** Cygnus · Cygnus  
-**Named in 2 languages:** Kolami, Mundari
+**Modern:** suggested by the recorders as Aquila · Aquila  
+**Named in 2 languages:** Kolami, Mizo (Lushai)
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Kolami | — | *Kavadi Kunde / Kavedi Koda* | 'a tower of three pots' | tribal |
-| Mundari | — | *laṇḍae ipil* | the one who is laughing | tribal |
+| Kolami | — | *Gurram / Guram* | 'a horse' | tribal |
+| Mizo (Lushai) | — | *Si-kawi-kâp* | — | tribal |
 
-**Kavadi Kunde / Kavedi Koda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+**Gurram / Guram** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
 
-Seven of ten villages.
+Average rain at Landgi Pod, less rain at Kakban.
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. </sub>
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders. Gurram is the Telugu word for a horse; the paper notes elsewhere that the Kolams take their counting above three from Telugu, and the borrowing shows here too. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
-**laṇḍae ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: disputed
+**Si-kawi-kâp** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
 
-The third fire-thief, who cannot help laughing at the discomfiture awaiting the sleeper, and whom the others push aside for fear he will wake the man.
+> Si-kawi-kâp, n . the name of a Lushai constellation comprising three stars in Aquila and four stars in Delphin.
+> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Si-kawi-kâp, p. 417 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=417))
 
-> The one who cannot help laughing, the laṇḍae ipil, is Delta of Cygnus.
-> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
-
-<sub>Hoffmann's own identification, and geometrically awkward: δ Cygni lies a long way from Pegasus. He says himself, of the whole attempt to place these figures near the Pleiades, that it 'is rather a failure'. Recorded with the printed identification and the doubt attached.</sub>
+<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. A second figure spanning two modern constellations, and it overlaps Si-hnawk-khur on the same four Delphinus stars. Lorrain does not reconcile them; both are entered.</sub>
 
 ## Measuring the sky
 
@@ -9046,54 +9605,6 @@ The Tamil Lexicon's second sense at this headword, after 'stake, peg, spike'.
 > <br>— Tamil Lexicon, published under the authority of the University of Madras (Madras, 1924-1939), s.v. சங்கு⁵, vol. III p. 1229 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?page=1229))
 
 <sub>The second entry in the database's 'Measuring the sky' object, which Mizo suk-chen opened in northeast.json. The two are opposite methods: the Mizo hold up a pestle against the sky and count its lengths, the Tamil plant a post and read its shadow. The word is Sanskrit śaṅku and the instrument is the classical one, so this is the learned tradition rather than a fisherman's rule of thumb — see the summary on what could not be found of the latter.</sub>
-
-## Directions taken from the sky
-
-**Modern:** a cardinal direction named from the sky  
-**Named in 1 languages:** Pardhi
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Pardhi | — | *Dongari, olau, dongarau* | 'of the hill' | tribal |
-| Pardhi | — | *Suryasambar, Khuryakhambar, Hetlyawai, vand, Vandh, nikalato* | 'the sun's post'; 'it comes out' | tribal |
-| Pardhi | — | *rakshasbaku, Dakhani, dakhanau, Mahuri, Hetawas* | 'the demon's mouth' | tribal |
-| Pardhi | — | *upalyawai, Dubato, baend* | 'it drowns', 'it sinks' | tribal |
-
-**Dongari, olau, dongarau** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
-
-Glossed with Marathi uttar. ḍoṅgar is the hill or mountain.
-
-*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
-> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
-
-<sub>North is not a celestial direction here at all: it is where the hills are. For a people ranging the Satpura foothills that is the more reliable mark, and it is the reason the Pardhi compass cannot be called an astronomical one without qualification. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
-
-**Suryasambar, Khuryakhambar, Hetlyawai, vand, Vandh, nikalato** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
-
-Glossed by the paper with Marathi pūrva. Six words for one direction, of which two name the sun's pillar and one is a verb of emerging.
-
-*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
-> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
-
-<sub>THE PARDHI TAKE THEIR BEARINGS FROM THE SKY AND FROM THE LAND, and the four directions divide neatly between them: east and west from the sun, north from the hills, south from a demon. This is the second compass in the database built out of sky-lore — Rajasthani names the quarter between north and north-west risiasta, 'the setting of the ṛṣis', after where Ursa Major goes down, and names three winds off it. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
-
-**rakshasbaku, Dakhani, dakhanau, Mahuri, Hetawas** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
-
-Glossed with Marathi dakṣiṇ. The paper's vocabulary table gives baku for 'mouth'.
-
-*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
-> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
-
-<sub>THE DEMON'S MOUTH IN THE SOUTH. South is the direction of death and of Yama across Hindu India, and the Pardhi word says so more bluntly than any other in this database. The remaining forms are the ordinary Deccan dakhan. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
-
-**upalyawai, Dubato, baend** — Pardhi (fourteen Pardhi villages of the Amravati and Yeotmal districts, Vidarbha, Maharashtra, surveyed 2016-2018) · *tribal* · confidence: certain
-
-Glossed with Marathi paścima. Dubato is the ordinary verb for sinking or drowning.
-
-*No quotation: Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 is in copyright and is paraphrased only.*
-> <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
-
-<sub>The sun sinks rather than sets — the same image as Nepali and Newar, where the whole western vocabulary is built on submersion. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
 
 ## Praesepe and Cancer
 
@@ -9172,22 +9683,6 @@ The Tamil opposition between the wandering and the fixed lights: kōṇmīṉ 'p
 
 <sub>The Tamil Lexicon (s.v. கோண்மீன், vol. II p. 1181) defines it 'Planet, dist. fr. nāṇ-mīṉ; கிரகம்' and cites this exact line as சிறுபாண். 242. Kalittokai 5 sets the two words side by side in one line, 'நாளும் கோள்மீன் தகைத்தலும் தகைமே' (PM 0221), with the fuller form கோள்மீன்.</sub>
 
-## Aquila
-
-**Modern:** three stars in Aquila and four in Delphinus · Aquila and Delphinus  
-**Named in 1 languages:** Mizo (Lushai)
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Mizo (Lushai) | — | *Si-kawi-kâp* | — | tribal |
-
-**Si-kawi-kâp** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
-
-> Si-kawi-kâp, n . the name of a Lushai constellation comprising three stars in Aquila and four stars in Delphin.
-> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Si-kawi-kâp, p. 417 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=417))
-
-<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. A second figure spanning two modern constellations, and it overlaps Si-hnawk-khur on the same four Delphinus stars. Lorrain does not reconcile them; both are entered.</sub>
-
 ## Aśvayuj (Sheratan)
 
 **Modern:** Sheratan · β Arietis · Aries  
@@ -9206,24 +9701,6 @@ One of the twelve Tamil month-names still in daily use, all of them asterism-der
 > <br>— Tamil Lexicon (University of Madras, 1924-36), s.v. ஐப்பசி, vol. I p. 578; quoting Cīvakacintāmaṇi 1770 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%90%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9A%E0%AE%BF&searchhws=yes&matchtype=exact))
 
 <sub>The Lexicon's derivations for the rest of the twelve, all verified at the same endpoint: சித்திரை Cittirai < citrā (p. 1391), வைகாசி Vaikāci < vaiśākha (p. 3849), ஆடி Āṭi < āṣāḍha (p. 219), ஆவணி Āvaṇi < śrāvaṇa (p. 249), புரட்டாசி Puraṭṭāci cf. proṣṭhapadā (p. 2769), கார்த்திகை Kārttikai < kṛttikā (p. 880), மார்கழி Mārkaḻi < mārgaśīrṣa (p. 3170), தை Tai < taiṣī (p. 2074), மாசி Māci < māgha (p. 3147), பங்குனி Paṅkuṉi < Pkt. phagguṇi < phalgunī (p. 2390). ஆனி Āṉi (p. 221) is the exception: the Lexicon gives it NO etymology at all, while recording that it also names the 19th nakṣatra (Mūlam) and the 21st (Uttirāṭam) — a gap worth flagging.</sub>
-
-## Canis Major
-
-**Modern:** Canis Major · Canis Major  
-**Named in 1 languages:** Lambadi (Banjara)
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Lambadi (Banjara) | — | *Medi* | — | tribal |
-
-**Medi** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: likely
-
-Connected by the Banjaras with the processing of the harvest. Reported in one village only.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. Reported from a single village, and the paper gives no closer identification than the constellation, so it is graded 'likely'. Compare Kolam Met, in this file, which is a threshing-pole name for Sirius — the same region of sky and probably the same word.</sub>
 
 ## Corona Australis
 
@@ -9344,6 +9821,24 @@ used in divining for lost property
 
 <sub>A folk-astrological class rather than a name for particular stars, hence no identification. Related to but distinct from अंधळ्या, the Citrā rain-name above.</sub>
 
+## Pisces
+
+**Modern:** suggested by the recorders as Pisces · Pisces  
+**Named in 1 languages:** Kolami
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Kolami | — | *Pande; Beduk* | 'a frog' | tribal |
+
+**Pande; Beduk** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+
+Brings good rain at Landgi Pod and Kakban, an excellent monsoon at Chinchpod.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders. Beduk is the Marathi word, given beside the Kolami one. The same frog eats the Moon in the Kolam account of a lunar eclipse. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
 ## Saturn
 
 **Modern:** Saturn  
@@ -9361,24 +9856,6 @@ Named by colour, like veṇmīṉ 'white star' for Venus and cemmīṉ 'red star
 > <br>— Puṟanāṉūṟu 117, ll. 1-2 (by Kapilar); Project Madurai e-text PM 0057 ([source](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0057.html))
 
 <sub>The Tamil Lexicon (s.v. மைம்மீன், vol. V p. 3369, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%88%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'The planet Saturn, as black in colour; சனி' and cites this line as புறநா. 117. This one couplet is the single richest Tamil astronomical line: it gives maimmīṉ (Saturn), tūmam (comet) and veḷḷi (Venus) in two lines, all three as omens of drought. No Sanskrit-database counterpart; the planets are not individually in that database.</sub>
-
-## The rainbow
-
-**Modern:** the rainbow  
-**Named in 1 languages:** Mara (Lakher)
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Mara (Lakher) | — | *Meisakupa* | — | tribal |
-
-**Meisakupa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: certain
-
-The tail of a celestial creature; the account continues past the page quoted here.
-
-> A rainbow is called Meisakupa, and is the tail of a celestial
-> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 499 ([source](https://archive.org/details/lakhers032949mbp))
-
-<sub>The quote breaks where the page does. The rainbow is not a star but is entered on the same footing as the Rengma solar halo and the Pardhi lunar halo — sky phenomena that these sources record in the same breath as the stars, and that the database would otherwise silently drop.</sub>
 
 ## The turning of the sky
 
@@ -9446,11 +9923,11 @@ THE OCCUPATIONAL AND CASTE AXIS IS ALMOST UNRECORDED, AND THAT IS THIS WAVE'S RE
 
 ### Adivasi & tribal traditions
 
-Four communities carry a star nomenclature deep enough to be called a system, and they are not the ones a Sanskrit database would predict. The Mundas are first by a distance: Hoffmann's Encyclopaedia Mundarica vol. VII (cols. 1919-1925, s.v. ipil) is a seven-page star map with about thirty named objects, a plate, and a stated method, and it opens by saying that the Munda 'neither knows, nor cares to know, what a horoscope is'. Santali is second, through Campbell (1899) and Bodding vol. V (1936); Kurukh has eight or nine names in Grignard (1924); Gondi has a large modern field survey (Vahia & Halkare 2013, in copyright, paraphrased here) and essentially nothing in the colonial record. Toda has Rivers (1906) — three pages, but unusually careful, and he drew the Great Bear on paper to have it named rather than trusting a verbal description. Ho, Khasi, Nicobarese and Andamanese yield a handful of terms each. The organising principles are agricultural and domestic rather than zodiacal: nothing here divides the ecliptic, nothing tracks the moon's monthly stations, and where the nakshatra system does surface it has been converted into something else — Santali ruhni is not Aldebaran but the seven-day sowing week in Jeṭ, and Bodding marks the planet names sukro and Sani '(only in books)', meaning they are printed but not spoken. Three figures recur across unrelated language families and are the real find. (1) Ursa Major is a cot: Santali buḍhi parkom ipil 'the old woman's cot', Kurukh khaṭī-pāwā bīnkō 'the cot-feet constellation' with the three handle stars called ḍhālbar 'thieves', Gondi Sedona Katul with Kalher 'thieves' and a story that the old woman must never fall asleep or the world ends, and — printed in 1916, before any of the fieldwork — the Chhattisgarhi Dhuri belief that the Great Bear is a cot with three thieves tied to it. Mundari alone turns the same cot into a bier, with Alioth and Mizar as mourners walking away from the grave. (2) Orion is a plough or a yoke, never a hunter: Santali and Mundari araṛ ipilko 'the yoke stars', Mundari siṭan ipil 'the ploughman' for Rigel, Kurukh ugtā-pagṛī bīnkō, Gondi Nangar. Only the Toda break this, reading the sword as a porcupine the belt stars are running away from. (3) The Milky Way is a road with livestock on it: Mundari gaiko hora 'the cattle road', walked by Lugu, Siṅgboṅga's cowherd, who is himself the morning star; Kurukh gāy-chour bīnkō, the cattle-track out of the village; Gondi Dhor Sari, the path of the animals; Santali hat dahar, the market road. Only the seafaring Nicobarese make it water — dāk-oal-kalahoiya, 'river in the sky'. A fourth, subtler thread is a bird on a nest with something thrown at it: Mundari putam ipil (the dove, Aldebaran) with jarom ipilkiŋ (her two eggs) and muṅgaru ipilko (the mallet flung at her, the Pleiades); Santali potam bele (the pigeon's eggs, ε Lyrae) with bele kombro (the egg thief, Vega); Gondi Purad and Mes (a bird and its eggs) with the Pleiades thrown at them. Three recorders working a century apart, three different parts of the sky, one story. Meteors are the excrement of the stars in Santali (ipil ic'), Mundari (ipilko ic') and Gondi (sukum pelkta) alike, which follows from stars being living beings — in Ho they are grammatically animate, as Burrows' paradigm ipil / ipilkiŋ / ipilko shows, while trees are not. Comets are a broom in Mundari, Kurukh and Gondi, and in Khasi a star smoking a pipe ('lur-dih-duma). DRY SOURCES, recorded as findings rather than omitted. Bhili: nothing. Neither Russell & Hiralal's Bhil article nor any public-domain dictionary gives a Bhil star name; the only substantial treatment is Shetye, Halkare & Sule, JAHH 26(2), 441-468 (2023), which is in copyright and which could not be obtained in full, so no Bhili entry is offered rather than a guessed one. Naga: Hodson's The Naga Tribes of Manipur (1911) has sun- and moon-worship at Mao, an eclipse rite and a dog-and-moon tale, and not one star name; searched for Pleiades, Orion, Great Bear, Milky Way, pole star and constellation with zero hits. Khasi: Gurdon's The Khasis (1907) likewise yields only Ka Sngi (the sun, feminine) and U Bynai (the moon, masculine) and the story of the moon's spots — every Khasi entry here comes from Nissor Singh's dictionary instead, and the English-Khasi dictionary of 1920 was rejected because its 'Milky Way' is a translator's descriptive coinage, not a Khasi name. Andamanese: Man found exactly one named constellation in the whole archipelago (bela-, Orion's Belt), and Radcliffe-Brown forty years later in the North Andaman states flatly that individual stars and constellations are not recognised there at all — the stars are simply Catlo, the big ones, named for a beetle, and Katan, the small ones, named for the firefly. Russell & Hiralal's four volumes, grepped end to end, produced sky cosmology (Bhuiya, Turi, Dumal) but only one community with named figures, the Dhuri. DSAL hosts no Munda, Kurukh, Gondi, Bhili, Khasi or Andamanese dictionary at all. Bodding's Santal Dictionary is on the Internet Archive only as vol. V, so his entries for arar ipil, buḍhi parkom and ipil itself could not be read; likewise Encyclopaedia Mundarica vols. IX, XI and XIV-XVI are missing, which is why several Mundari names rest on the ipil article alone.
+Four communities carry a star nomenclature deep enough to be called a system, and they are not the ones a Sanskrit database would predict. The Mundas are first by a distance: Hoffmann's Encyclopaedia Mundarica vol. VII (cols. 1919-1925, s.v. ipil) is a seven-page star map with about thirty named objects, a plate, and a stated method, and it opens by saying that the Munda 'neither knows, nor cares to know, what a horoscope is'. Santali is second, through Campbell (1899) and Bodding vol. V (1936); Kurukh has eight or nine names in Grignard (1924); Gondi has a large modern field survey (Vahia & Halkare 2013, in copyright, paraphrased here) and essentially nothing in the colonial record. Toda has Rivers (1906) — three pages, but unusually careful, and he drew the Great Bear on paper to have it named rather than trusting a verbal description. Ho, Khasi, Nicobarese and Andamanese yield a handful of terms each. The organising principles are agricultural and domestic rather than zodiacal: nothing here divides the ecliptic, nothing tracks the moon's monthly stations, and where the nakshatra system does surface it has been converted into something else — Santali ruhni is not Aldebaran but the seven-day sowing week in Jeṭ, and Bodding marks the planet names sukro and Sani '(only in books)', meaning they are printed but not spoken. Three figures recur across unrelated language families and are the real find. (1) Ursa Major is a cot: Santali buḍhi parkom ipil 'the old woman's cot', Kurukh khaṭī-pāwā bīnkō 'the cot-feet constellation' with the three handle stars called ḍhālbar 'thieves', Gondi Sedona Katul with Kalher 'thieves' and a story that the old woman must never fall asleep or the world ends, and — printed in 1916, before any of the fieldwork — the Chhattisgarhi Dhuri belief that the Great Bear is a cot with three thieves tied to it. Mundari alone turns the same cot into a bier, with Alioth and Mizar as mourners walking away from the grave. (2) Orion is a plough or a yoke, never a hunter: Santali and Mundari araṛ ipilko 'the yoke stars', Mundari siṭan ipil 'the ploughman' for Rigel, Kurukh ugtā-pagṛī bīnkō, Gondi Nangar. Only the Toda break this, reading the sword as a porcupine the belt stars are running away from. (3) The Milky Way is a road with livestock on it: Mundari gaiko hora 'the cattle road', walked by Lugu, Siṅgboṅga's cowherd, who is himself the morning star; Kurukh gāy-chour bīnkō, the cattle-track out of the village; Gondi Dhor Sari, the path of the animals; Santali hat dahar, the market road. Only the seafaring Nicobarese make it water — dāk-oal-kalahoiya, 'river in the sky'. A fourth, subtler thread is a bird on a nest with something thrown at it: Mundari putam ipil (the dove, Aldebaran) with jarom ipilkiŋ (her two eggs) and muṅgaru ipilko (the mallet flung at her, the Pleiades); Santali potam bele (the pigeon's eggs, ε Lyrae) with bele kombro (the egg thief, Vega); Gondi Purad and Mes (a bird and its eggs) with the Pleiades thrown at them. Three recorders working a century apart, three different parts of the sky, one story. Meteors are the excrement of the stars in Santali (ipil ic'), Mundari (ipilko ic') and Gondi (sukum pelkta) alike, which follows from stars being living beings — in Ho they are grammatically animate, as Burrows' paradigm ipil / ipilkiŋ / ipilko shows, while trees are not. Comets are a broom in Mundari, Kurukh and Gondi, and in Khasi a star smoking a pipe ('lur-dih-duma). DRY SOURCES, recorded as findings rather than omitted. Bhili: nothing. Neither Russell & Hiralal's Bhil article nor any public-domain dictionary gives a Bhil star name; the only substantial treatment is Shetye, Halkare & Sule, JAHH 26(2), 441-468 (2023), which is in copyright and which could not be obtained in full, so no Bhili entry is offered rather than a guessed one. Naga: Hodson's The Naga Tribes of Manipur (1911) has sun- and moon-worship at Mao, an eclipse rite and a dog-and-moon tale, and not one star name; searched for Pleiades, Orion, Great Bear, Milky Way, pole star and constellation with zero hits. Khasi: Gurdon's The Khasis (1907) likewise yields only Ka Sngi (the sun, feminine) and U Bynai (the moon, masculine) and the story of the moon's spots — every Khasi entry here comes from Nissor Singh's dictionary instead, and the English-Khasi dictionary of 1920 was rejected because its 'Milky Way' is a translator's descriptive coinage, not a Khasi name. Andamanese: Man found exactly one named constellation in the whole archipelago (bela-, Orion's Belt), and Radcliffe-Brown forty years later in the North Andaman states flatly that individual stars and constellations are not recognised there at all — the stars are simply Catlo, the big ones, named for a beetle, and Katan, the small ones, named for the firefly. Russell & Hiralal's four volumes, grepped end to end, produced sky cosmology (Bhuiya, Turi, Dumal) but only one community with named figures, the Dhuri. DSAL hosts no Munda, Kurukh, Gondi, Bhili, Khasi or Andamanese dictionary at all. Bodding's Santal Dictionary is on the Internet Archive only as vol. V, so his entries for arar ipil, buḍhi parkom and ipil itself could not be read; likewise Encyclopaedia Mundarica vols. IX, XI and XIV-XVI are missing, which is why several Mundari names rest on the ipil article alone. ELEVEN GOND ENTRIES ADDED ON A LATER PASS, from a re-read of Vahia & Halkare's Table 5 and their fifteen village accounts. The Sun and the Moon are Lingo and Jango, the two Gond culture heroes — no other language in this database names the Sun after a person of its own mythology. The rainbow is Kamarpatta or Gulel, a belt or a catapult, and it joins the Kolam and Banjara rainbows to make the bow the shared figure across all three communities surveyed. The four quarters of the horizon are named and are used for burial rather than for travel, and the southern one at Lodha is Rakshas Disha, which is the Pardhi rakshasbaku in another family. The broom, Kayshar, turns out to sit on the Pleiades in three villages and on comets in the rest, one word covering both. And the three thieves at the cot are, in one village, not thieves at all but a nobleman, his wife and his officer walking towards salvation.
 
 ### Modern field surveys of Adivasi astronomy
 
-Five modern field surveys, covering eleven communities that the printed record of the nineteenth and twentieth centuries does not reach at all. tribal.json was built from colonial lexicography and ethnography and could name only five communities with a sky nomenclature deep enough to call a system; this file adds the Banjara, the Kolam, the Korku, three Nicobar island communities and the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna, all recorded between 2013 and 2023 by teams working village by village with a questionnaire. Every one of these papers is in copyright, so every entry here is paraphrased and every `quote` is null, on the footing tribal.json already established for its twenty Gondi entries. THE FOUR THREADS tribal.json IDENTIFIED ALL HOLD, AND ONE OF THEM GETS SHARPER. (1) THE COT: the Big Dipper is a cot in Kolami (Mandater), a cot of the DEAD in Lambadi (Jamakhat, from Yama), a hen-basket on Chowra (Lonob) and a COFFIN on Teressa (Rohiung), and the Bhil, Pawra and Kokna all have the cot with its leg pulled crooked by a thief. Lambadi is Indo-Aryan, Kolami and Bhili are Dravidian and Indo-Aryan respectively, Korku is Munda, Nicobarese is island Austroasiatic — and the death sense, which tribal.json found only in Mundari's bier, now appears three times in unrelated languages. (2) THE THIEVES: three of them, everywhere, but WHO they are is local. Korku numbers them (Pahila, Dusara, Tisara chor); the Kolams make them a Kolam, a Gond and a Pardhan; the Bhils make them the village elder, the chief, the sheriff and the revenue collector. The figure is shared, the cast is politics. (3) ORION IS AN IMPLEMENT, NOT A HUNTER: a seed drill for the Kolams (Tipan) and the Bhils (Pambar), a full plough with two bullocks and a ploughman for the Korku (Harnangar, Doba 1, Doba 2, Nangarnara manus). The single exception is the Banjaras, a trading people, who keep the mainstream deer (Halni) and, the paper notes, barely look at Orion otherwise. (4) THE MILKY WAY IS A ROAD WITH ANIMALS ON IT: Kolam Margam 'an animal path', Banjara Mardaar wat 'the path of the dead or of animals', Bhil and Mavchi 'the path of cows'. The Nicobarese are the exception the earlier file already predicted: on Camorta and Teressa it is a spring of water. THE BIRD AND ITS EGGS, which tribal.json called a subtler fourth thread, turns out to be the most productive figure of all. Kolam Kovela Kor is the Pleiades as one large bird and several small ones, Kolam Bhori is Aldebaran the bird with two eggs, Korku Pankheru is Sirius the bird with Bhori Aakom its eggs — the same word Bhori in a Dravidian and a Munda language — and among the Bhil, Pawra and Kokna a single bird named hulgi carries Orion's Belt, the Pleiades and a triangle of Auriga as its eggs in different villages. The figure is stable; the stars it lands on are not. TWO OTHER RESULTS. Kolam Irukmara, the Mahua tree at Crux with an old woman and a young woman gathering its flowers beneath it, is almost certainly the same word as Gondi Irukna Mara, which tribal.json had to record as unidentified for want of a modern equivalent; this file does not alter that entry but the two should be read together. And the Bhil Milky Way at Varpada is a kinship rule drawn on the sky: the band forks because a woman meeting her husband's elder brother on the road must turn aside, and the avoidance is a real rule of conduct in these communities. NEGATIVE AND UNOBTAINED. No name is claimed for the pole star among the Banjaras, who identify it but did not name it to the recorders; none for the Korku words for comet and meteor, which the paper describes ('a broom star', 'stellar excreta') without printing; and none for the Korku Lupus figure, for which only the English gloss 'Tree of Mahua' is given. The second-hand Nicobarese lists quoted inside the 2018 paper from Rajamanickam (1997) and Justine (2013) — Onchiana for Centaurus, Thyan for Orion, Mahayuvan for Crux, Musaha for Ursa Major, Gna-gna-hyaam for the Pleiades, and Justine's Chowra and Kondule constellation lists — are NOT entered: they are transcriptions at second hand, and this database does not rest an entry on those. They are the obvious next thing to chase. Three further papers of the same programme were not obtained and no entry is offered from them: the Pardhi study, the Cholanaikkan study, and the Warli, Dhodia, Katkari and Kokna study.
+Five modern field surveys, covering eleven communities that the printed record of the nineteenth and twentieth centuries does not reach at all. tribal.json was built from colonial lexicography and ethnography and could name only five communities with a sky nomenclature deep enough to call a system; this file adds the Banjara, the Kolam, the Korku, three Nicobar island communities and the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna, all recorded between 2013 and 2023 by teams working village by village with a questionnaire. Every one of these papers is in copyright, so every entry here is paraphrased and every `quote` is null, on the footing tribal.json already established for its twenty Gondi entries. THE FOUR THREADS tribal.json IDENTIFIED ALL HOLD, AND ONE OF THEM GETS SHARPER. (1) THE COT: the Big Dipper is a cot in Kolami (Mandater), a cot of the DEAD in Lambadi (Jamakhat, from Yama), a hen-basket on Chowra (Lonob) and a COFFIN on Teressa (Rohiung), and the Bhil, Pawra and Kokna all have the cot with its leg pulled crooked by a thief. Lambadi is Indo-Aryan, Kolami and Bhili are Dravidian and Indo-Aryan respectively, Korku is Munda, Nicobarese is island Austroasiatic — and the death sense, which tribal.json found only in Mundari's bier, now appears three times in unrelated languages. (2) THE THIEVES: three of them, everywhere, but WHO they are is local. Korku numbers them (Pahila, Dusara, Tisara chor); the Kolams make them a Kolam, a Gond and a Pardhan; the Bhils make them the village elder, the chief, the sheriff and the revenue collector. The figure is shared, the cast is politics. (3) ORION IS AN IMPLEMENT, NOT A HUNTER: a seed drill for the Kolams (Tipan) and the Bhils (Pambar), a full plough with two bullocks and a ploughman for the Korku (Harnangar, Doba 1, Doba 2, Nangarnara manus). The single exception is the Banjaras, a trading people, who keep the mainstream deer (Halni) and, the paper notes, barely look at Orion otherwise. (4) THE MILKY WAY IS A ROAD WITH ANIMALS ON IT: Kolam Margam 'an animal path', Banjara Mardaar wat 'the path of the dead or of animals', Bhil and Mavchi 'the path of cows'. The Nicobarese are the exception the earlier file already predicted: on Camorta and Teressa it is a spring of water. THE BIRD AND ITS EGGS, which tribal.json called a subtler fourth thread, turns out to be the most productive figure of all. Kolam Kovela Kor is the Pleiades as one large bird and several small ones, Kolam Bhori is Aldebaran the bird with two eggs, Korku Pankheru is Sirius the bird with Bhori Aakom its eggs — the same word Bhori in a Dravidian and a Munda language — and among the Bhil, Pawra and Kokna a single bird named hulgi carries Orion's Belt, the Pleiades and a triangle of Auriga as its eggs in different villages. The figure is stable; the stars it lands on are not. TWO OTHER RESULTS. Kolam Irukmara, the Mahua tree at Crux with an old woman and a young woman gathering its flowers beneath it, is almost certainly the same word as Gondi Irukna Mara, which tribal.json had to record as unidentified for want of a modern equivalent; this file does not alter that entry but the two should be read together. And the Bhil Milky Way at Varpada is a kinship rule drawn on the sky: the band forks because a woman meeting her husband's elder brother on the road must turn aside, and the avoidance is a real rule of conduct in these communities. NEGATIVE AND UNOBTAINED. The Banjara pole star, which this summary previously recorded as identified but unnamed, is named twice in the paper's appendix as Dhruv Tara and is now entered — the negative finding was true of Table 1 and false of the paper, and it is corrected here rather than quietly dropped; no name is claimed for none for the Korku words for comet and meteor, which the paper describes ('a broom star', 'stellar excreta') without printing; and none for the Korku Lupus figure, for which only the English gloss 'Tree of Mahua' is given. The second-hand Nicobarese lists quoted inside the 2018 paper from Rajamanickam (1997) and Justine (2013) — Onchiana for Centaurus, Thyan for Orion, Mahayuvan for Crux, Musaha for Ursa Major, Gna-gna-hyaam for the Pleiades, and Justine's Chowra and Kondule constellation lists — are NOT entered: they are transcriptions at second hand, and this database does not rest an entry on those. They are the obvious next thing to chase. Three further papers of the same programme were not obtained and no entry is offered from them: the Pardhi study, the Cholanaikkan study, and the Warli, Dhodia, Katkari and Kokna study. THIRTY-SIX BANJARA AND KOLAM ENTRIES ADDED ON A LATER PASS from the village appendices of the 2014 paper, pp. 77-84. The largest single gain is the compass: six Banjara quarters and four Kolam ones, where the Banjara north is Dongari, 'the hills' — the same word the Pardhi use, in this same file — and the two Kolam villages that gave the quarters swap north and south between them, which is recorded as disputed rather than resolved. The Kolam rainbow Ayak is the grandparents, the grandfather standing at the violet end and the grandmother at the red, the only name in this database that divides a sky object by colour and puts a person at each end. The five animals around Samdur that gauge the coming monsoon are named at last — Namli the peacock, Barre the buffalo, Pande the frog, Mekam the deer, Gurram the horse, and a sixth, the pig Ture — with the recorders' suggested constellations carried as disputed because the suggestions are theirs and not the informants'. Kavadi Kunde, the tower of three pots, is Cygnus in most villages and Orion's Belt in two, and the paper says so itself. And the Banjaras see an old woman, yadi, spinning cotton under a banyan tree in the face of the Moon — the only reading of the lunar maria anywhere in these fifty-seven languages.
 
 ## Caveats, per research file
 
@@ -9622,13 +10099,14 @@ Read these before treating any entry as settled.
 - The Baiga entries carry `language: Chhattisgarhi` with `community: Baiga`, not a language called Baigani. Elwin's own account is that the Baiga speak a form of the local Chhattisgarhi, and every name he records — Nangar, Kutela, Tengra, Chirai, Barhai, Dhimar, Jhal, Machhri, Dhanu, Ban, Sap, Chowkidar — is a transparent Chhattisgarhi or Hindi word. Filing them under an invented language would have made the database claim something Elwin does not. This is what the `community` field was added for.
 - THE BAIGA SKY IS FIFTEEN FIGURES AND ELWIN LOCATES ALMOST NONE OF THEM. He names the Great Bear, queries Orion once, and for the other thirteen gives the figure and no position at all. Eleven entries are therefore `unidentified`, which is the largest block of them in this database. That is the honest reading of an ethnographer who was recording what people said rather than surveying the sky, and the alternative — matching a carpenter, a fisherman and a hoe to constellations by guesswork — would be worthless.
 - Sora's sixteen-name list at the headword tuj-ən is entered only where Ramamurti glosses a name somewhere else in the dictionary; nine of the sixteen he does not, and they are recorded in the note to the generic entry rather than as nine unidentified rows. The two lunar-mansion entries are graded `likely` and their sanskrit_db_id is filled from the mansion number Ramamurti gives, which is a chain of two inferences and is flagged as such in both entries.
+- THE SOURCE THAT PROMPTED THIS PASS, AND WHY IT IS NOT CITED ON A SINGLE ENTRY. M.N. Vahia, Nisha Yadav and Srikumar M. Menon, 'Perspectives on Early Astronomy in Indian Context' — an unpublished book manuscript prepared for the National Council of Science Museums, version 2 revision 5, PDF dated 11 July 2017, 111 pages, supplied privately and in copyright. Its section 4.1, 'Astronomy of some Indian tribes' (pp. 54-58), sets the Banjara, Kolam and Gond skies side by side in two tables. Every name in those tables is drawn from the authors' own two field papers, Vahia & Halkare 2013 and Vahia, Halkare, Menon & Calamur 2014, which this compilation already cited — so the book is a secondary condensation of sources already held, and citing it for a name it did not first print would put the wrong source on the record. What the book did do is show that this compilation had taken the two papers from their summary tables alone: the book's Gond column carries names for the Sun and the Moon that were not here, and its Kolam column a rainbow that was not here. Re-reading both papers end to end after that, including the village-by-village appendices the book condenses away, produced forty-seven further entries and four corrections. THE BOOK IS THEREFORE THE REASON FOR THE PASS AND THE SOURCE OF NONE OF IT, and is credited here rather than in the citation field. Nothing from it is quoted; it is in copyright and unpublished, and the material taken is in any case the papers'.
 
 ### Modern field surveys of Adivasi astronomy
 
 - EVERY SOURCE IN THIS FILE IS IN COPYRIGHT AND NOTHING IS QUOTED. All five papers date from 2013-2023. The findings are paraphrased, the page is cited, `quote` and `quote_lang` are null throughout, and the wording of the glosses is the recorders' own only where a gloss is a single word or a fixed phrase for which no paraphrase is possible. This is the convention tribal.json set for its Gondi entries and it is followed here without exception.
 - The Greek letters are unrecoverable from the Korku paper. The ADS scan of JAHH 19(2) renders every Greek glyph as a solid black box — in the page image, not merely in the extracted text — so 'Rigil Kent (α Cen)' reads as 'Rigil Kent ( Cen)'. Where the paper also prints the star's proper name the Bayer letter is unambiguous and has been restored (Alioth = ε UMa, Alnitak = ζ Ori, and so on). Where it prints only the lost letter and a constellation, nothing is restored: Bharada and Patni are graded 'unidentified', Pati 'unidentified' with its magnitude also garbled in the source, and Miryan 'likely' on a magnitude-and-position argument that is stated in its notes and not written into modern_star.
 - The Bhil paper could not be read as text at all. Its embedded font subsets carry no ToUnicode map, so extraction yields a monoalphabetic substitution cipher — and a different cipher per font, so the running heads, the body and the table captions each scramble differently. Every Bhil, Pawra, Mavchi, Vasave and Kokna reading in this file was read off a rendered page image at 150 dpi. Nothing was decoded by solving the cipher, because a cipher solved against English prose is not evidence for the spelling of a Bhili word.
-- Four entries carry no vernacular name and are kept anyway: the Kolam identification of the three trailing stars as a Kolam, a Gond and a Pardhan; the Bhil cot; the Mavchi Bhil Pleiades as girls crushing grain; and the Bhil Milky Way as the road of Jeth and the daughter-in-law. In each the paper reports the figure in detail but prints no vernacular word for it. The precedent is the Chhattisgarhi Dhuri entry in tribal.json. An identification without a name is a weaker record than a name with an identification, and the `name_roman` field says so in plain words rather than carrying an invented form.
+- THREE entries carry no vernacular name and are kept anyway: the Bhil cot; the Mavchi Bhil Pleiades as girls crushing grain; and the Bhil Milky Way as the road of Jeth and the daughter-in-law. In each the paper reports the figure in detail but prints no vernacular word for it. The precedent is the Chhattisgarhi Dhuri entry in tribal.json. An identification without a name is a weaker record than a name with an identification, and the `name_roman` field says so in plain words rather than carrying an invented form. THIS CAVEAT USED TO SAY FOUR. The fourth was the Kolam identification of the three trailing stars as a Kolam, a Gond and a Pardhan, which the summary tables give without a word — but the appendix names them Dongal, and that entry now carries the name.
 - Village counts are reported where the papers give them, because they are the best measure of how firmly held a figure is: the Korku cot and thieves are in all twelve villages surveyed, Kolam Kovela Kor in all ten, Banjara Jamakhat in all six, while Banjara Kamedi, Kolam Sappa and Kolam Danedare Pila rest on one or two villages each and are graded accordingly. A name from one village is not the same kind of fact as a name from twelve.
 - The `region` field gives the district or island where the fieldwork was done, not a claim about the whole speech community. These surveys sampled particular villages, and the papers themselves show the same community differing village by village — the Kokna call the Pleiades a heap of hay in one village and a long-tailed bird in another.
 - iso639_3 codes are assigned by the compiler from the community name the papers use, and the papers do not give codes. Lambadi (lmn), Kolami (kfb), Korku (kfq), Bhili (bhb), Mavchi (mvf), Vasavi (vas) and Kukna (kex) are straightforward. Two are less so: 'Pawra' is taken as Pauri Bareli (bfb), and the three Nicobar localities are assigned Central Nicobarese (ncb) for Camorta, Chaura (crv) for Chowra and Teressa (tef) for Teressa on the basis of the island named. Where a reader disagrees, the region field carries the fact and the code does not.
@@ -9638,3 +10116,5 @@ Read these before treating any entry as settled.
 - The Pardhi survey is the only one in this file whose informants are not cultivators, and the authors' own argument turns on it: eleven of the fourteen villages live by hunting and scavenging, the three Gav Pardhi villages took to farming under British rule less than a century ago, and the two vocabulary tables contain no farming word at all. Their conclusion is that the terminology was fixed while all Pardhi were hunter-gatherers. This database's own cross-family pattern — that Orion is an implement and never a hunt — is the mirror of that argument, and the Pardhi are its one exception.
 - Village counts quoted in the usage notes are from the paper's Table 3, which tables each belief against the fourteen villages it was collected in. No other source in this file, and none elsewhere in this database, reports how many informants held a belief; where the count is given it is quoted, because 'thirteen of fourteen villages' and 'one village' are very different claims and a name-list flattens them.
 - The Pardhi were gazetted a Criminal Tribe in 1871 and the stigma outlasted denotification; the authors say so at length and connect it to the community's isolation. Two entries name living surnames and their family goddesses. They are reproduced because the paper prints them as the content of the star-names, and for no other reason.
+- THE SOURCE THAT PROMPTED THIS PASS, AND WHY IT IS NOT CITED ON A SINGLE ENTRY. M.N. Vahia, Nisha Yadav and Srikumar M. Menon, 'Perspectives on Early Astronomy in Indian Context' — an unpublished book manuscript prepared for the National Council of Science Museums, version 2 revision 5, PDF dated 11 July 2017, 111 pages, supplied privately and in copyright. Its section 4.1, 'Astronomy of some Indian tribes' (pp. 54-58), sets the Banjara, Kolam and Gond skies side by side in two tables. Every name in those tables is drawn from the authors' own two field papers, Vahia & Halkare 2013 and Vahia, Halkare, Menon & Calamur 2014, which this compilation already cited — so the book is a secondary condensation of sources already held, and citing it for a name it did not first print would put the wrong source on the record. What the book did do is show that this compilation had taken the two papers from their summary tables alone: the book's Gond column carries names for the Sun and the Moon that were not here, and its Kolam column a rainbow that was not here. Re-reading both papers end to end after that, including the village-by-village appendices the book condenses away, produced forty-seven further entries and four corrections. THE BOOK IS THEREFORE THE REASON FOR THE PASS AND THE SOURCE OF NONE OF IT, and is credited here rather than in the citation field. Nothing from it is quoted; it is in copyright and unpublished, and the material taken is in any case the papers'.
+- TABLES ARE NOT THE PAPER. Both Vahia papers put their findings in a summary table and then print a village-by-village appendix, and the appendix carries names the tables never show: the Banjara pole star, the six quarters of the Banjara horizon, the Kolam rainbow's two grandparents, the names of the five rain-animals around Samdur, the word Dongal for the Kolam thieves. This compilation's first pass worked from the tables, and four of its statements were wrong as a result — three entries said no vernacular form was printed when one was, and the summary claimed a negative finding about the Banjara pole star that the appendix refutes. All four are corrected in place and each correction says so in its own notes rather than being silently overwritten. The lesson generalises to every field paper in this file.

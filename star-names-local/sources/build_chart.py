@@ -41,6 +41,7 @@ POS = {
     "norma":         (245.00, -50.00, "figure"),
     "cassiopeia":    (12.00, 60.00, "figure"),
     "grus":          (335.00, -45.00, "figure"),
+    "pisces":        (15.00, 10.00, "figure"),
     "pole-star":     (37.95, 89.26, "star"),
     "alcor":         (200.98, 54.99, "star"),
     "canopus":       (95.99, -52.70, "star"),
