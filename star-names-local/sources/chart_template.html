@@ -6,7 +6,7 @@
     color-scheme: dark;
     --bg: #0a0f1e; --panel: #121a30; --panel-t: rgba(16, 23, 43, 0.88);
     --ink: #e9eef8; --ink-2: #9aa6c0; --ink-3: #5d6a88;
-    --line: #232f4d; --grid: #1b2540; --grid-strong: #263454;
+    --line: #232f4d; --grid: #141c2f; --grid-strong: #1c2740; --starfield: #cfd9ee;
     /* validated dark-surface categorical palette: all six checks pass on #0a0f1e */
     --c-star: #c98500; --c-cluster: #3987e5; --c-figure: #d55181; --c-diffuse: #008300;
     --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
@@ -121,7 +121,7 @@
   .obj-lab { font-family: var(--sans); font-size: 11px; paint-order: stroke; stroke: var(--bg);
     stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
   .obj-lab .loc { font-family: var(--indic); font-size: 12px; fill: var(--ink); }
-  .obj-lab .eng { fill: var(--ink-3); }
+  .obj-lab .eng { fill: var(--ink-3); font-size: 10px; }
   #tooltip .tt.loc { font-family: var(--indic); }
   #tooltip .teng { color: var(--ink-3); font-size: 11.5px; margin-top: 1px; }
   .objhead h2.loc { font-family: var(--indic); line-height: 1.35; }
@@ -279,7 +279,22 @@ function draw() {
   while (svg.firstChild) svg.removeChild(svg.firstChild);
   if (PW <= 0 || PH <= 0) return;
 
-  const gGrid = el("g", {}), gBand = el("g", {}), gMark = el("g", {}), gLab = el("g", {});
+  const gGrid = el("g", {}), gStars = el("g", {}), gBand = el("g", {}),
+        gMark = el("g", {}), gLab = el("g", {});
+
+  // The naked-eye sky itself, to magnitude 4, so that this reads as a chart of
+  // the sky rather than a scatter plot on an empty grid. Radius and opacity both
+  // fall with magnitude; the scale is gentle rather than photometric, because at
+  // true flux ratio Sirius would swallow its neighbours.
+  for (const [ra, dec, mag] of (DB.stars || [])) {
+    const r = Math.max(0.55, 0.7 + (4 - mag) * 0.48);
+    gStars.appendChild(el("circle", {
+      cx: xOf(ra).toFixed(1), cy: yOf(dec).toFixed(1), r: r.toFixed(2),
+      fill: "var(--starfield)",
+      "fill-opacity": Math.min(0.92, 0.3 + (4 - mag) * 0.13).toFixed(2),
+    }));
+  }
+
 
   // grid
   for (let ra = 0; ra <= 360; ra += 30) {
@@ -340,26 +355,37 @@ function draw() {
     gMark.appendChild(g);
 
     // selective direct labels: only where they fit without collision
-    const loc = state.locals ? localName(o) : "";
-    const eng = loc ? " · " + o.title : o.title;
-    const w = labWidth(loc, 12) + labWidth(eng, 11);
-    const ly = y + 4;
+    // The Indian name on the first line and the English on a second beneath it:
+    // set side by side they are half as wide again, and almost nothing fits.
+    let loc = state.locals ? localName(o) : "";
+    // The individual nakshatras are titled by their Sanskrit name already, so the
+    // two lines would read "Viśākhā / Viśākhā (ι Librae)". One line will do.
+    let solo = false;
+    if (loc && o.title.toLowerCase().startsWith(loc.toLowerCase())) { loc = ""; solo = true; }
+    const w = Math.max(labWidth(loc, 12), labWidth(o.title, 10));
+    const h = loc ? 24 : 13;
+    const ly = loc ? y - 2 : y + 4;
     // right of the marker by preference, left if that would run off the plot
     let lx = x + r + 5, anchor = "start";
     if (lx + w > MARGIN.left + PW) { lx = x - r - 5; anchor = "end"; }
-    const box = { x: anchor === "start" ? lx : lx - w, y: ly - 9, w, h: 13 };
+    const box = { x: anchor === "start" ? lx : lx - w, y: ly - 9, w, h };
     const clash = placed.some(p => !(box.x > p.x + p.w || box.x + box.w < p.x || box.y > p.y + p.h || box.y + box.h < p.y));
     if (!clash && box.x > MARGIN.left && box.x + box.w < MARGIN.left + PW && PW * PH > 190000) {
       const t = el("text", { x: lx, y: ly, class: "obj-lab", "text-anchor": anchor });
       if (loc) {
-        const a = el("tspan", { class: "loc" }); a.textContent = loc; t.appendChild(a);
+        const a = el("tspan", { class: "loc", x: lx }); a.textContent = loc; t.appendChild(a);
+        const b = el("tspan", { class: "eng", x: lx, dy: "12" }); b.textContent = o.title; t.appendChild(b);
+      } else {
+        // A deduped nakshatra title is still an Indian name; keep it bright.
+        const b = el("tspan", { class: solo ? "loc" : "eng" });
+        b.textContent = o.title; t.appendChild(b);
       }
-      const b = el("tspan", { class: "eng" }); b.textContent = eng; t.appendChild(b);
       gLab.appendChild(t);
       placed.push(box);
     }
   }
-  svg.appendChild(gGrid); svg.appendChild(gBand); svg.appendChild(gMark); svg.appendChild(gLab);
+  svg.appendChild(gGrid); svg.appendChild(gStars); svg.appendChild(gBand);
+  svg.appendChild(gMark); svg.appendChild(gLab);
   updateSub(shown.length);
 }
 

@@ -61,6 +61,35 @@ POS = {
 NAK_FROM_SANSKRIT = True
 
 
+def star_field(mag_limit=4.0):
+    """Naked-eye stars for the backdrop, from the Hipparcos snapshot the
+    constellation-figure work already vendors. Public-domain ESA data; the CSV
+    came from d3-celestial (BSD-3-Clause) and is unmodified.
+
+    Returns [[ra_deg, dec_deg, vmag], ...] — the chart draws them by magnitude,
+    so that this reads as a sky chart and not as a scatter plot.
+    """
+    import csv
+    path = os.path.join(OUT, "..", "constellation-lines", "sources", "hipparcos-mag7.csv")
+    out = []
+    with open(path, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            try:
+                v = float(row["Vmag"])
+            except (TypeError, ValueError):
+                continue
+            if v > mag_limit:
+                continue
+            h, m, s = (float(x) for x in row["RAhms"].split())
+            ra = (h + m / 60 + s / 3600) * 15
+            d, dm, ds = row["DEdms"].split()
+            sign = -1 if d.startswith("-") else 1
+            dec = sign * (abs(float(d)) + float(dm) / 60 + float(ds) / 3600)
+            out.append([round(ra, 2), round(dec, 2), round(v, 1)])
+    out.sort(key=lambda r: r[2])
+    return out
+
+
 def sanskrit_positions():
     import re
     src = open(os.path.join(OUT, "..", "star-names", "sources", "build_chart.py"), encoding="utf-8").read()
@@ -109,6 +138,7 @@ def main():
             "names": names,
         })
 
+    stars = star_field()
     c = db["counts"]
     about = (
         f"<p><b>{c['entries']} names for {c['objects']} sky objects, in {c['languages']} languages.</b> "
@@ -123,6 +153,11 @@ def main():
         "useful thing that control does. Where a label is one language's word rather than the shared "
         "form, the tooltip and the panel name that language, so that nobody's word is passed off as "
         "everyone's. The <i>Indian names</i> button turns the whole behaviour off.</p>"
+        f"<p><b>The backdrop is the real sky to magnitude 4</b> — {len(stars)} naked-eye stars, drawn "
+        "larger and brighter the brighter they are, so that a marker can be seen to sit on the star "
+        "it names. The scale is gentle rather than photometric: at true flux ratio Sirius would "
+        "swallow its neighbours. Positions are Hipparcos, from the same snapshot the constellation "
+        "figures in <code>docs/constellation-lines/</code> are keyed to.</p>"
         "<p><b>Marker area is the number of languages</b> that name the object, recomputed as you filter. "
         "Colour is what kind of thing it is, which does not change when you filter. The Milky Way is drawn "
         "as the galactic band rather than a point, because that is where it actually is.</p>"
@@ -146,6 +181,7 @@ def main():
     )
 
     data = {
+        "stars": stars,
         "objects": objects,
         "languages": list(db["counts"]["by_language"].items()),
         "about": about,
@@ -160,7 +196,7 @@ def main():
              if o["ra"] is None and o["key"] != "milky-way" and o["key"] in POS]
     assert not stray, f"positioned objects with no coordinates: {stray}"
     print(f"objects={len(objects)} plotted={placed} band=1 index-only={indexed} "
-          f"names={sum(len(o['names']) for o in objects)}")
+          f"names={sum(len(o['names']) for o in objects)} backdrop-stars={len(stars)}")
 
 
 if __name__ == "__main__":
