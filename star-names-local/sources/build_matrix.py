@@ -39,6 +39,25 @@ REG_LABEL = {
 }
 
 
+def local_name(o):
+    """The Indian name for a row, and whose word it is.
+
+    Same rule as the sky chart, minus the language filter this table does not
+    have: the pan-Indian form the object carries in the Sanskrit database if it
+    has one, else the first name in the database's own order — which puts the
+    least Sanskritic first. Returns (name, language-or-None); the language is
+    given only when the name is one language's rather than the shared form, so
+    that nobody's word is passed off as everyone's.
+    """
+    sk = (o.get("sanskrit_name") or "").split(" (")[0].strip()
+    if sk:
+        return sk, None
+    n = o["names"][0] if o["names"] else None
+    if not n:
+        return "", None
+    return (n.get("name_native") or n["name_roman"]), n["language"]
+
+
 def main():
     with open(os.path.join(OUT, "star-names-local.json"), encoding="utf-8") as f:
         db = json.load(f)
@@ -67,6 +86,9 @@ def main():
     :root{color-scheme:dark;--bg:#0a0f1e;--panel:#121a30;--ink:#e9eef8;--ink-2:#9aa6c0;
       --ink-3:#5d6a88;--line:#232f4d;--grid:#161f38;
       --serif:"Iowan Old Style",Palatino,Georgia,serif;
+      --indic:"Noto Sans Devanagari","Noto Sans Tamil","Noto Sans Telugu","Noto Sans Kannada",
+        "Noto Sans Malayalam","Noto Sans Bengali","Noto Sans Gujarati","Noto Sans Oriya",
+        "Noto Sans Gurmukhi","Noto Sans Sinhala","Noto Nastaliq Urdu",-apple-system,sans-serif;
       --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
     *{box-sizing:border-box;margin:0}
     body{background:var(--bg);color:var(--ink);font-family:var(--sans);padding:22px 20px 60px}
@@ -88,6 +110,9 @@ def main():
     th.obj{position:sticky;left:0;z-index:2;background:var(--panel);text-align:left;
       font-weight:400;color:var(--ink);padding:0 12px 0 10px;border-right:1px solid var(--line);
       max-width:270px;overflow:hidden;text-overflow:ellipsis}
+    th.obj .loc{font-family:var(--indic);color:var(--ink)}
+    th.obj .eng{color:var(--ink-3)}
+    tbody tr:hover th.obj .eng{color:var(--ink-2)}
     thead th.corner{left:0;z-index:4}
     td.c{width:19px;height:19px;border-right:1px solid var(--grid);border-bottom:1px solid var(--grid)}
     td.c.on{cursor:pointer}
@@ -133,8 +158,18 @@ def main():
                                f'data-r="{reg}" data-n="{payload}"></td>')
                 else:
                     tds.append(f'<td class="{cls}"></td>')
-        rows.append(f'<tr><th class="obj" title="{html.escape(o["title"], quote=True)}">'
-                    f'{html.escape(o["title"])}</th>{"".join(tds)}'
+        loc, loc_lang = local_name(o)
+        # Inline here, not stacked as on the chart: the constraint in a matrix is
+        # row height, and these rows are 19px. Width is what there is plenty of.
+        if loc and not o["title"].lower().startswith(loc.lower()):
+            head = (f'<span class="loc">{html.escape(loc)}</span>'
+                    f'<span class="eng"> · {html.escape(o["title"])}</span>')
+            tt = f'{loc} · {o["title"]}' + (f' — {loc_lang}' if loc_lang else "")
+        else:
+            head = f'<span class="loc">{html.escape(o["title"])}</span>'
+            tt = o["title"]
+        rows.append(f'<tr><th class="obj" title="{html.escape(tt, quote=True)}">'
+                    f'{head}</th>{"".join(tds)}'
                     f'<td class="n">{len(o["languages"])}</td></tr>')
 
     fam_hdr, lang_hdr, foot = [], [], []
@@ -160,7 +195,12 @@ languages name them; languages are grouped by family, because the repetitions ac
 </div>
 <div class="note">Where a language has more than one name for an object, the cell takes the least
 Sanskritic — a language that has both a loan and a word of its own is more interesting for the one it made.
-Hover any cell for the names.</div>
+Hover any cell for the names.
+Each row is labelled with the Indian name first and the English one after it. That name is the
+pan-Indian form the object carries in the Sanskrit database where it has one; where it has none —
+comets, both appearances of Venus, and the unplaced figures — the label falls back to the first name
+in the database\'s own order, which is one language\'s word and not everyone\'s. Hover the row label
+and it tells you whose.</div>
 <div class="wrap">
 <table>
 <thead>

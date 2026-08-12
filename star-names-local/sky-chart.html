@@ -28,7 +28,18 @@
     border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px 10px;
     box-shadow: 0 8px 30px rgba(0,0,0,0.45);
   }
-  #hud h1 { font-family: var(--serif); font-weight: 600; font-size: 17px; letter-spacing: .02em; text-wrap: balance; }
+  #hud h1 { font-family: var(--serif); font-weight: 600; font-size: 17px; letter-spacing: .02em;
+    text-wrap: balance; padding-right: 26px; }
+  #hud-min {
+    position: absolute; top: 9px; right: 9px; width: 22px; height: 22px; line-height: 1;
+    background: none; border: 1px solid var(--line); color: var(--ink-2); border-radius: 6px;
+    cursor: pointer; font-size: 13px; font-family: var(--sans); padding: 0;
+  }
+  #hud-min:hover { color: var(--ink); border-color: var(--ink-3); }
+  /* Collapsed: the title bar and nothing else, so the whole sky is visible. */
+  #hud.min { padding: 7px 10px 6px; }
+  #hud.min h1 { font-size: 13px; }
+  #hud.min .sub, #hud.min .row { display: none; }
   #hud .sub { color: var(--ink-2); font-size: 11.5px; margin-top: 3px; line-height: 1.45; }
   .row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 9px; align-items: center; }
   .rowlab { font-size: 10px; letter-spacing: .07em; text-transform: uppercase; color: var(--ink-3); margin-right: 2px; }
@@ -143,6 +154,7 @@
 <div id="app">
   <svg id="sky" role="img" aria-label="Sky chart of Indian-language star names on a rectangular right-ascension / declination grid"></svg>
   <header id="hud">
+    <button id="hud-min" aria-label="Collapse the panel" aria-expanded="true" title="Collapse">–</button>
     <h1>What India's languages call the stars</h1>
     <div class="sub" id="subline"></div>
     <div class="row" id="legend" role="group" aria-label="Object kind"></div>
@@ -337,7 +349,14 @@ function draw() {
   const shown = DB.objects.filter(o => o.ra !== null && state.kind[o.kind] && visibleNames(o).length > 0);
   shown.sort((a, b) => visibleLangCount(b) - visibleLangCount(a));
   const maxL = Math.max(1, ...shown.map(visibleLangCount));
+  // The HUD counts as occupied space, so no label is drawn underneath it. That
+  // is also what makes collapsing the panel worth doing: the box shrinks and the
+  // labels it was suppressing come back.
   const placed = [];
+  const hudBox = document.getElementById("hud").getBoundingClientRect();
+  const svgBox = svg.getBoundingClientRect();
+  placed.push({ x: hudBox.left - svgBox.left, y: hudBox.top - svgBox.top,
+                w: hudBox.width + 6, h: hudBox.height + 6 });
   for (const o of shown) {
     const n = visibleLangCount(o);
     const r = 4 + 11 * Math.sqrt(n / maxL);       // area ∝ language count
@@ -527,6 +546,16 @@ document.getElementById("btn-about").onclick = () => {
   drawerTitle.textContent = "About";
   drawerBody.innerHTML = `<div class="about">${DB.about}</div>`;
   drawer.classList.add("open"); drawer.setAttribute("aria-hidden", "false");
+};
+
+const hud = document.getElementById("hud"), hudMin = document.getElementById("hud-min");
+hudMin.onclick = () => {
+  const min = hud.classList.toggle("min");
+  hudMin.textContent = min ? "+" : "–";
+  hudMin.setAttribute("aria-expanded", String(!min));
+  hudMin.setAttribute("aria-label", min ? "Expand the panel" : "Collapse the panel");
+  hudMin.title = min ? "Expand" : "Collapse";
+  draw();   // labels are placed around the panel, so the free space has changed
 };
 
 window.addEventListener("resize", draw);
