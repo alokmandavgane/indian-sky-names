@@ -120,6 +120,14 @@
   .axis-lab { fill: var(--ink-3); font-size: 10.5px; font-family: var(--sans); font-variant-numeric: tabular-nums; }
   .obj-lab { font-family: var(--sans); font-size: 11px; paint-order: stroke; stroke: var(--bg);
     stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
+  .obj-lab .loc { font-family: var(--indic); font-size: 12px; fill: var(--ink); }
+  .obj-lab .eng { fill: var(--ink-3); }
+  #tooltip .tt.loc { font-family: var(--indic); }
+  #tooltip .teng { color: var(--ink-3); font-size: 11.5px; margin-top: 1px; }
+  .objhead h2.loc { font-family: var(--indic); line-height: 1.35; }
+  .objhead .eng { color: var(--ink-2); font-size: 13px; margin-top: 2px; }
+  .ix-row .ixloc { font-family: var(--indic); }
+  .ix-row .ixeng { color: var(--ink-3); }
   .marker { cursor: pointer; }
 
   @media (max-width: 700px) {
@@ -142,6 +150,7 @@
     <div class="row">
       <span class="rowlab">Language</span>
       <select id="langsel" aria-label="Filter by language"></select>
+      <button class="chip active" id="btn-locals" aria-pressed="true">Indian names</button>
       <button class="chip" id="btn-index">Index</button>
       <button class="chip" id="btn-about">About</button>
     </div>
@@ -181,6 +190,7 @@ const state = {
   kind: { star: true, cluster: true, figure: true, diffuse: true },
   reg: { vernacular: true, folk: true, tribal: true, sanskritic: true },
   lang: "",  // "" = all
+  locals: true,   // label with the Indian name first, then the English one
 };
 
 const MARGIN = { top: 34, right: 26, bottom: 62, left: 46 };
@@ -218,6 +228,41 @@ function visibleNames(o) {
 }
 function visibleLangCount(o) {
   return new Set(visibleNames(o).map(n => n.language)).size;
+}
+
+/** The Indian name to show for an object, given the filters.
+ *
+ * There is no single "local" name — that is what the database is about — so the
+ * label follows the filters instead of picking a language by fiat:
+ *   - a language selected  -> that language's own word for the object;
+ *   - otherwise            -> the pan-Indian form the object carries in the
+ *                             Sanskrit database, which is the layer most of the
+ *                             57 languages share in adapted shape;
+ *   - `sanskritic` switched off, or no Sanskrit form -> the first name that
+ *     survives the register filter, in the database's own order, which puts the
+ *     least Sanskritic first. Turning `sanskritic` off therefore turns every
+ *     label vernacular, which is the most useful thing this control does.
+ */
+function localName(o) {
+  if (!state.lang && state.reg.sanskritic && o.sanskrit_name) return o.sanskrit_name;
+  const n = visibleNames(o)[0];
+  return n ? (n.name_native || n.name_roman) : "";
+}
+/** Whose word the label is, when it is one language's rather than the shared
+ *  Sanskrit form and the reader has not chosen a language. Shown in the tooltip
+ *  and the panel — never on the chart, where there is no room — so that a single
+ *  language's name is never passed off as everyone's. */
+function localSource(o) {
+  if (state.lang || (state.reg.sanskritic && o.sanskrit_name)) return null;
+  const n = visibleNames(o)[0];
+  return n ? n.language : null;
+}
+// Indic and Perso-Arabic glyphs are wider than Latin; the label collision test
+// needs to know that or the Devanagari labels overlap.
+function labWidth(s, px) {
+  let w = 0;
+  for (const c of s) w += /[\u0600-\u10FF\u1E00-\u1EFF]/.test(c) ? px * 0.78 : px * 0.5;
+  return w;
 }
 
 function el(tag, attrs) {
@@ -295,12 +340,21 @@ function draw() {
     gMark.appendChild(g);
 
     // selective direct labels: only where they fit without collision
-    const lx = x + r + 5, ly = y + 4;
-    const box = { x: lx, y: ly - 9, w: o.title.length * 5.6, h: 13 };
+    const loc = state.locals ? localName(o) : "";
+    const eng = loc ? " · " + o.title : o.title;
+    const w = labWidth(loc, 12) + labWidth(eng, 11);
+    const ly = y + 4;
+    // right of the marker by preference, left if that would run off the plot
+    let lx = x + r + 5, anchor = "start";
+    if (lx + w > MARGIN.left + PW) { lx = x - r - 5; anchor = "end"; }
+    const box = { x: anchor === "start" ? lx : lx - w, y: ly - 9, w, h: 13 };
     const clash = placed.some(p => !(box.x > p.x + p.w || box.x + box.w < p.x || box.y > p.y + p.h || box.y + box.h < p.y));
-    if (!clash && box.x + box.w < MARGIN.left + PW && PW * PH > 190000) {
-      const t = el("text", { x: lx, y: ly, class: "obj-lab", fill: "var(--ink-2)" });
-      t.textContent = o.title;
+    if (!clash && box.x > MARGIN.left && box.x + box.w < MARGIN.left + PW && PW * PH > 190000) {
+      const t = el("text", { x: lx, y: ly, class: "obj-lab", "text-anchor": anchor });
+      if (loc) {
+        const a = el("tspan", { class: "loc" }); a.textContent = loc; t.appendChild(a);
+      }
+      const b = el("tspan", { class: "eng" }); b.textContent = eng; t.appendChild(b);
       gLab.appendChild(t);
       placed.push(box);
     }
@@ -345,6 +399,15 @@ sel.innerHTML = '<option value="">All languages</option>' +
   DB.languages.map(([l, n]) => `<option value="${l}">${l} (${n})</option>`).join("");
 sel.onchange = () => { state.lang = sel.value; draw(); };
 
+const btnLocals = document.getElementById("btn-locals");
+btnLocals.onclick = () => {
+  state.locals = !state.locals;
+  btnLocals.classList.toggle("active", state.locals);
+  btnLocals.setAttribute("aria-pressed", String(state.locals));
+  btnLocals.textContent = state.locals ? "Indian names" : "English only";
+  draw();
+};
+
 // ---------- interaction ----------
 function objByKey(k) { return DB.objects.find(o => o.key === k); }
 
@@ -353,7 +416,11 @@ svg.addEventListener("mousemove", ev => {
   if (!g) { tip.classList.remove("show"); return; }
   const o = objByKey(g.dataset.key), vs = visibleNames(o);
   const sample = vs.slice(0, 4).map(n => (n.name_native || n.name_roman)).join(" · ");
-  tip.innerHTML = `<div class="tt">${esc(o.title)}</div>` +
+  const loc = state.locals ? localName(o) : "";
+  const src = state.locals ? localSource(o) : null;
+  tip.innerHTML = (loc ? `<div class="tt loc">${esc(loc)}</div><div class="teng">${esc(o.title)}` +
+                         `${src ? " · " + esc(src) : ""}</div>`
+                       : `<div class="tt">${esc(o.title)}</div>`) +
     `<div class="tn">${visibleLangCount(o)} languages · ${vs.length} names</div>` +
     `<div class="tx">${esc(sample)}${vs.length > 4 ? " …" : ""}</div>`;
   tip.classList.add("show");
@@ -366,7 +433,11 @@ svg.addEventListener("mouseleave", () => tip.classList.remove("show"));
 function openObject(key) {
   const o = objByKey(key), vs = visibleNames(o);
   drawerTitle.textContent = "Names";
-  let h = `<div class="objhead"><h2>${esc(o.title)}</h2>`;
+  const dloc = state.locals ? localName(o) : "";
+  const dsrc = state.locals ? localSource(o) : null;
+  let h = dloc ? `<div class="objhead"><h2 class="loc">${esc(dloc)}</h2>` +
+                 `<div class="eng">${esc(o.title)}${dsrc ? " · " + esc(dsrc) : ""}</div>`
+               : `<div class="objhead"><h2>${esc(o.title)}</h2>`;
   if (o.modern_star && o.modern_star.common_name) {
     const m = o.modern_star;
     h += `<div class="mod">${[m.common_name, m.bayer, m.constellation].filter(x => x && x !== "—").map(esc).join(" · ")}</div>`;
@@ -412,9 +483,13 @@ document.getElementById("btn-index").onclick = () => {
   drawerTitle.textContent = "Index";
   const onSky = DB.objects.filter(o => o.ra !== null && visibleNames(o).length);
   const off = DB.objects.filter(o => o.ra === null && visibleNames(o).length);
-  const rows = list => list.map(o =>
-    `<button class="ix-row" data-key="${o.key}"><span>${esc(o.title)}</span>` +
-    `<span class="im">${visibleLangCount(o)} lang · ${visibleNames(o).length} names</span></button>`).join("");
+  const rows = list => list.map(o => {
+    const l = state.locals ? localName(o) : "";
+    const label = l ? `<span class="ixloc">${esc(l)}</span> <span class="ixeng">· ${esc(o.title)}</span>`
+                    : `<span>${esc(o.title)}</span>`;
+    return `<button class="ix-row" data-key="${o.key}">${label}` +
+      `<span class="im">${visibleLangCount(o)} lang · ${visibleNames(o).length} names</span></button>`;
+  }).join("");
   drawerBody.innerHTML =
     `<div class="ix-h">On the sky</div>${rows(onSky)}` +
     `<div class="ix-h">Not plottable — no fixed position</div>` +

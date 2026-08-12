@@ -99,9 +99,13 @@ def main():
             "quote": n.get("quote"), "citation": n["citation"],
             "source_url": n.get("source_url"), "notes": n.get("notes"),
         } for n in o["names"]]
+        # The pan-Indian form, for the default label. merge.py stores it as
+        # "kṛttikā (the Pleiades)"; only the name is wanted here.
+        sk = (o.get("sanskrit_name") or "").split(" (")[0].strip() or None
         objects.append({
             "key": key, "title": o["title"], "kind": kind, "ra": ra, "dec": dec,
             "modern_star": o.get("modern_star"), "sanskrit_db_id": o.get("sanskrit_db_id"),
+            "sanskrit_name": sk,
             "names": names,
         })
 
@@ -110,6 +114,15 @@ def main():
         f"<p><b>{c['entries']} names for {c['objects']} sky objects, in {c['languages']} languages.</b> "
         "What speakers of the Indian languages call a star, an asterism or a constellation — each name "
         "quoted from the dictionary or ethnography it comes from, with the page cited.</p>"
+        "<p><b>Every label reads the Indian name first, then the English one.</b> There is no single "
+        "local name — that is what this database is about — so the label follows your filters rather "
+        "than picking a language by fiat. Choose a language and every label becomes that language's own "
+        "word for the object. With no language chosen the label is the pan-Indian form the object "
+        "carries in the Sanskrit database, which is the layer most of these languages share in adapted "
+        "shape; switch <i>sanskritic</i> off and every label turns vernacular instead, which is the most "
+        "useful thing that control does. Where a label is one language's word rather than the shared "
+        "form, the tooltip and the panel name that language, so that nobody's word is passed off as "
+        "everyone's. The <i>Indian names</i> button turns the whole behaviour off.</p>"
         "<p><b>Marker area is the number of languages</b> that name the object, recomputed as you filter. "
         "Colour is what kind of thing it is, which does not change when you filter. The Milky Way is drawn "
         "as the galactic band rather than a point, because that is where it actually is.</p>"
