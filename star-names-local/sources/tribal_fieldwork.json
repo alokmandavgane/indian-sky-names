@@ -56,7 +56,8 @@
    "name_native": null,
    "name_roman": "Chanda",
    "literal_meaning": null,
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": null,
    "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69",
    "source_type": "field survey",
@@ -66,7 +67,7 @@
    "quote_lang": null,
    "source_access": "in-copyright-paraphrased",
    "confidence": "certain",
-   "notes": "In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. The paper itself notes the name is close to the Sanskrit candra, so it is tagged sanskritic here on the recorders' own judgement, as the Gondi Dhruva Tara is in tribal.json."
+   "notes": "In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. The paper itself notes the name is close to the Sanskrit candra, so it is tagged borrowed here on the recorders' own judgement, as the Gondi Dhruva Tara is in tribal.json."
   },
   {
    "sky_object": "meteor, shooting star",
@@ -992,7 +993,8 @@
    "name_native": null,
    "name_roman": "Dhur tara",
    "literal_meaning": null,
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "Given with apparent magnitude 1.95.",
    "citation": "M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221",
    "source_type": "field survey",
@@ -1002,7 +1004,7 @@
    "quote_lang": null,
    "source_access": "in-copyright-paraphrased",
    "confidence": "certain",
-   "notes": "In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. Tagged sanskritic: dhur is the Sanskrit Dhruva in Korku phonology, as the recorders' Gondi Dhruva Tara in tribal.json also is, and the same file's caveat about loans applies. The Bhil Medhi Taara and Mavchi Juga Medhi below are a genuinely local alternative for the same star."
+   "notes": "In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. Tagged borrowed: dhur is the Sanskrit Dhruva in Korku phonology, as the recorders' Gondi Dhruva Tara in tribal.json also is, and the same file's caveat about loans applies. The Bhil Medhi Taara and Mavchi Juga Medhi below are a genuinely local alternative for the same star."
   },
   {
    "sky_object": "Alioth (the first of the three thieves)",
@@ -3465,7 +3467,7 @@
    "quote_lang": null,
    "source_access": "in-copyright-paraphrased",
    "confidence": "certain",
-   "notes": "Sukar is Sanskrit Śukra and is `sanskritic` in origin, but it is entered as `tribal` with the rest of the file because the Pardhi forms carry their own vocabulary — channi for a star, jagin for waking — and the register field in this database describes the name as it stands in the language, not its remotest etymology. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries."
+   "notes": "Sukar is Sanskrit Śukra and is Sanskrit in origin, but it is entered as `tribal` with the rest of the file because the Pardhi forms carry their own vocabulary — channi for a star, jagin for waking — and the register field in this database describes the name as it stands in the language, not its remotest etymology. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries."
   },
   {
    "sky_object": "Mars",
@@ -3859,7 +3861,8 @@
    "name_native": null,
    "name_roman": "Dhruv Tara / Dhruv",
    "literal_meaning": null,
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "At Katarwadi the pole star is Dhruv tara, which the recorders mark as the modern-language word; at Phulumari Dhruv is one of three stars used to fix direction, showing north, beside Porya the morning star showing east and Vani tara at the zenith.",
    "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari) and 1.1.3 (Katarwadi), p. 78",
    "source_type": "field survey",
@@ -3937,7 +3940,8 @@
    "name_native": null,
    "name_roman": "Agneya",
    "literal_meaning": "Agni's quarter",
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "One of six villages.",
    "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78",
    "source_type": "field survey",
@@ -4015,7 +4019,8 @@
    "name_native": null,
    "name_roman": "Dakshin",
    "literal_meaning": null,
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "One of six villages.",
    "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78",
    "source_type": "field survey",
@@ -4041,7 +4046,8 @@
    "name_native": null,
    "name_roman": "Pashim",
    "literal_meaning": null,
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "One of six villages.",
    "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78",
    "source_type": "field survey",
@@ -4093,7 +4099,8 @@
    "name_native": null,
    "name_roman": "Chandani",
    "literal_meaning": "moonlight",
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": null,
    "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.1.2 (Phulumari), p. 78",
    "source_type": "field survey",
@@ -4197,7 +4204,8 @@
    "name_native": null,
    "name_roman": "Indra-dhanush",
    "literal_meaning": "'Indra's bow'",
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "One of six villages. Read as the sign that the current spell of rain has ended.",
    "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1 row 26, p. 69, and Appendix 1.1.4 (Kasola), p. 79",
    "source_type": "field survey",
@@ -4207,7 +4215,7 @@
    "quote_lang": null,
    "source_access": "in-copyright-paraphrased",
    "confidence": "certain",
-   "notes": "In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The recorders mark it as taken from the modern languages, and it is entered as sanskritic on their judgement. THE RAINBOW IS A BOW IN ALL THREE COMMUNITIES SURVEYED and the only question is whose: Indra's here, the god Bhimayak's among the Kolams, and among the Gonds a gulel, a catapult, with no owner named. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone."
+   "notes": "In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The recorders mark it as taken from the modern languages, and it is entered as borrowed on their judgement. THE RAINBOW IS A BOW IN ALL THREE COMMUNITIES SURVEYED and the only question is whose: Indra's here, the god Bhimayak's among the Kolams, and among the Gonds a gulel, a catapult, with no owner named. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone."
   },
   {
    "sky_object": "the rainbow",
@@ -4791,7 +4799,7 @@
   "The `region` field gives the district or island where the fieldwork was done, not a claim about the whole speech community. These surveys sampled particular villages, and the papers themselves show the same community differing village by village — the Kokna call the Pleiades a heap of hay in one village and a long-tailed bird in another.",
   "iso639_3 codes are assigned by the compiler from the community name the papers use, and the papers do not give codes. Lambadi (lmn), Kolami (kfb), Korku (kfq), Bhili (bhb), Mavchi (mvf), Vasavi (vas) and Kukna (kex) are straightforward. Two are less so: 'Pawra' is taken as Pauri Bareli (bfb), and the three Nicobar localities are assigned Central Nicobarese (ncb) for Camorta, Chaura (crv) for Chowra and Teressa (tef) for Teressa on the basis of the island named. Where a reader disagrees, the region field carries the fact and the code does not.",
   "Cross-references in the notes to tribal.json name the parallel and do not merge the entries. Kolam Irukmara and Gondi Irukna Mara are almost certainly the same word, and this file identifies it as Crux; the Gondi entry keeps its 'unidentified' grade, because one community's identification of a cognate is evidence about the other and not proof. The same restraint applies to Banjara Medi, Kolam Met and Korku Miryan, three threshing-pole names on three different stars.",
-  "The register is `tribal` for every entry except two: Banjara Chanda for the Moon and Korku Dhur tara for the pole star, both tagged `sanskritic` because the recorders themselves flag them as close to the Sanskrit. That is their judgement, not the compiler's, exactly as with the four sanskritic tags in tribal.json.",
+  "The register is `tribal` for every entry except two: Banjara Chanda for the Moon and Korku Dhur tara for the pole star, both tagged `borrowed` because the recorders themselves flag them as close to the Sanskrit. That is their judgement, not the compiler's, exactly as with the four borrowed tags in tribal.json.",
   "THE PARDHI PAPER WAS OBTAINED ON A LATER PASS and closes one of the three gaps this file recorded. ADS serves the full-text scan free at articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H. Its text layer is partly a substitution cipher, as the Bhil paper's is — every italic and bold word extracts as a uniform shift of the alphabet — so the tables were read off page images rendered at 165 dpi, and the cipher was not solved. The remaining gap in the programme is the Warli / Dhodia / Katkari / Kokna study, which appears not to have been published: a public talk abstract summarises its findings in English (the Katkari Big Dipper as a cot with Koli, Warli and Konkana trailing it; Orion's Belt a bow and the sword an arrow; the Pleiades a big drum; Taurus a wedding procession), but a web summary of a talk is not a citable transcription and no entry rests on it.",
   "The Pardhi survey is the only one in this file whose informants are not cultivators, and the authors' own argument turns on it: eleven of the fourteen villages live by hunting and scavenging, the three Gav Pardhi villages took to farming under British rule less than a century ago, and the two vocabulary tables contain no farming word at all. Their conclusion is that the terminology was fixed while all Pardhi were hunter-gatherers. This database's own cross-family pattern — that Orion is an implement and never a hunt — is the mirror of that argument, and the Pardhi are its one exception.",
   "Village counts quoted in the usage notes are from the paper's Table 3, which tables each belief against the fourteen villages it was collected in. No other source in this file, and none elsewhere in this database, reports how many informants held a belief; where the count is given it is quoted, because 'thirteen of fourteen villages' and 'one village' are very different claims and a name-list flattens them.",

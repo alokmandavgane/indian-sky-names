@@ -107,7 +107,7 @@
   .badge.reg-vernacular { border-color: #3987e5; color: #8fc0f5; }
   .badge.reg-folk { border-color: #c98500; color: #e5b45c; }
   .badge.reg-tribal { border-color: #d55181; color: #eaa0bd; }
-  .badge.reg-sanskritic { border-color: var(--line); }
+  .badge.reg-borrowed { border-color: var(--line); }
   .badge.conf-disputed { border-style: dashed; }
   .badge.conf-unidentified { border-style: dotted; opacity: .8; }
   .q { font-size: 12px; line-height: 1.6; color: var(--ink-2); border-left: 2px solid var(--line); padding: 4px 0 4px 10px; margin-top: 8px; font-family: var(--indic); }
@@ -188,8 +188,8 @@ const KIND = {
   figure:  { label: "Figure / group",   color: "var(--c-figure)",  hex: "#d55181", shape: "square" },
   diffuse: { label: "Milky Way",        color: "var(--c-diffuse)", hex: "#008300", shape: "circle" },
 };
-const REGISTERS = ["vernacular", "folk", "tribal", "sanskritic"];
-const REG_HEX = { vernacular: "#3987e5", folk: "#c98500", tribal: "#d55181", sanskritic: "#8a93a8" };
+const REGISTERS = ["vernacular", "folk", "tribal", "borrowed"];
+const REG_HEX = { vernacular: "#3987e5", folk: "#c98500", tribal: "#d55181", borrowed: "#8a93a8" };
 
 const svgNS = "http://www.w3.org/2000/svg";
 const svg = document.getElementById("sky");
@@ -200,7 +200,7 @@ const drawerTitle = document.getElementById("drawer-title");
 
 const state = {
   kind: { star: true, cluster: true, figure: true, diffuse: true },
-  reg: { vernacular: true, folk: true, tribal: true, sanskritic: true },
+  reg: { vernacular: true, folk: true, tribal: true, borrowed: true },
   lang: "",  // "" = all
   locals: true,   // label with the Indian name first, then the English one
 };
@@ -250,13 +250,13 @@ function visibleLangCount(o) {
  *   - otherwise            -> the pan-Indian form the object carries in the
  *                             Sanskrit database, which is the layer most of the
  *                             57 languages share in adapted shape;
- *   - `sanskritic` switched off, or no Sanskrit form -> the first name that
+ *   - `borrowed` switched off, or no Sanskrit form -> the first name that
  *     survives the register filter, in the database's own order, which puts the
- *     least Sanskritic first. Turning `sanskritic` off therefore turns every
+ *     least borrowed first. Turning `borrowed` off therefore turns every
  *     label vernacular, which is the most useful thing this control does.
  */
 function localName(o) {
-  if (!state.lang && state.reg.sanskritic && o.sanskrit_name) return o.sanskrit_name;
+  if (!state.lang && state.reg.borrowed && o.sanskrit_name) return o.sanskrit_name;
   const n = visibleNames(o)[0];
   return n ? (n.name_native || n.name_roman) : "";
 }
@@ -265,7 +265,7 @@ function localName(o) {
  *  and the panel — never on the chart, where there is no room — so that a single
  *  language's name is never passed off as everyone's. */
 function localSource(o) {
-  if (state.lang || (state.reg.sanskritic && o.sanskrit_name)) return null;
+  if (state.lang || (state.reg.borrowed && o.sanskrit_name)) return null;
   const n = visibleNames(o)[0];
   return n ? n.language : null;
 }

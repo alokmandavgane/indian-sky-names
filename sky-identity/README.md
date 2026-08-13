@@ -107,7 +107,7 @@ field away for anything joining on it.
 
 Two things it deliberately does not do:
 
-- **Register does not split a culture.** Marathi-sanskritic and Marathi-vernacular
+- **Register does not split a culture.** Marathi-borrowed and Marathi-vernacular
   are one culture seen at two depths, and that they coexist is the database's
   central finding. Register is a stratum within a culture.
 - **Community does not split a culture.** Of eleven distinct values, most are

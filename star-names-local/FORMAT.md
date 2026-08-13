@@ -26,7 +26,7 @@ python3 merge.py && python3 build_chart.py && python3 build_matrix.py
 
 `sky-chart.html` plots each object on an equirectangular RA/Dec grid, marker area ∝ the number of
 languages naming it and colour = what kind of object it is. `coverage-matrix.html` is objects ×
-languages, cells coloured by the least-Sanskritic register present. Both are self-contained.
+languages, cells coloured by the least-borrowed register present. Both are self-contained.
 
 Sky positions live in `build_chart.py`, not in the database — the research records what a source
 says, and where to put that on a chart is a separate judgement. Objects with no fixed position
@@ -38,12 +38,23 @@ through a `sanskrit_db_id`, so the two charts cannot drift apart.
 wider, and every language that reaches past the border is here to speak for a community inside it
 that has no lexicography of its own — Tibetan for Ladakh, Spiti and Sikkim; Mara and Mizo from
 sources as much about the Chin Hills as about Mizoram; Divehi through Minicoy, which speaks it;
-Nepali and Newar for the Indian Himalaya; Sinhala for the Dravidian south. If any of this ever
-reaches the app, the app should filter. The research is worth more undivided.
+Nepali and Newar for the Indian Himalaya; Sinhala for the Dravidian south. The research is worth
+more undivided, and the rule for anything that consumes it is that **the consumer filters, not the
+database**.
 
 This database is **separate from `docs/star-names/`**, which holds the Sanskrit compilation. The
 relationship is one-way and read-only: `merge.py` reads `../star-names/star-names.json` to resolve
-`sanskrit_db_id` values into names, and never writes to it. Nothing here feeds the app.
+`sanskrit_db_id` values into names, and never writes to it.
+
+**Three things now consume this database**, where once nothing did:
+
+| Consumer | Reads | Via |
+|---|---|---|
+| the app | `star-names-local.json` → `catalogs/localnames.pb` | `tools/` `LocalNamesGenerator` |
+| the atlas at `sky.alokm.com` | `star-names-local.json` | `docs/site/build_site.py` |
+| `docs/sky-identity` | the chart's position tables | `resolve.py`, `cultures.py` |
+
+None of them writes back, and the scope rule above binds all three.
 
 ## Why the schema looks like this
 
@@ -53,13 +64,22 @@ carries a **`register`**, and that field is the point of the database:
 
 | Register | Meaning |
 |---|---|
-| `vernacular` | formed in the language itself, not a Sanskrit loan |
+| `vernacular` | formed in the language itself, not a loan from the prestige tradition |
 | `folk` | rural or colloquial, from a dictionary's own usage note or from ethnography |
 | `tribal` | from a distinct Adivasi tradition |
-| `sanskritic` | the Sanskrit name in this language's script and phonology |
+| `borrowed` | the prestige tradition's name in this language's script and phonology |
 
-Of 975 names, 754 are not `sanskritic`. Filter on this before drawing any conclusion about what a
-language "has" — and note that a `sanskritic` tag is a claim about the *name*, not about the
+A `borrowed` name also carries **`borrowed_from`**, naming the tradition it came from. Every one of
+the 221 says `sanskrit`, and the field exists precisely so that the register need not: the question
+*did this language form this name or take it* is the same question outside South Asia, and only the
+answer's source changes. `register` was `sanskritic` until 2026-08-13, which made the whole
+vocabulary Sanskrit-relative — `vernacular` was defined as "not a Sanskrit loan" — and could not
+have described a Vietnamese name formed against literary Chinese. `merge.py` asserts the pair:
+`borrowed_from` is present if and only if the register is `borrowed`, and its value must be a known
+tradition.
+
+Of 975 names, 754 are not `borrowed`. Filter on this before drawing any conclusion about what a
+language "has" — and note that a `borrowed` tag is a claim about the *name*, not about the
 speakers: Malayalam's birth-star reckoning is entirely Sanskritic in vocabulary and entirely alive.
 
 ## A source entry
@@ -77,6 +97,7 @@ nine entries.
 | `name_native` | native script **as the source prints it**, or `null`. Never back-transliterated — many 19th-century sources romanize only, and several scans have unreadable Indic OCR |
 | `name_roman`, `literal_meaning` | `name_roman` is null on 4 entries, where the source records the figure and never gives the word — Elwin's Baiga Great Bear, Mills's Rengma eclipse. They read as *(figure recorded, name not)* in the README and the matrix |
 | `register` | see above |
+| `borrowed_from` | the tradition a `borrowed` name came from — `sanskrit` on all 221. Present if and only if `register` is `borrowed`, which `merge.py` asserts |
 | `usage_note` | the season it marks, the work it governs, the story attached |
 | `citation`, `source_type`, `source_date`, `source_url` | author, work, edition, headword, page |
 | `quote` | verbatim from the fetched source. `null` **only** where the source is in copyright |

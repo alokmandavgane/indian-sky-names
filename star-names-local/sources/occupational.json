@@ -14,7 +14,8 @@
       "name_native": null,
       "name_roman": "Vāyu-maṇḍal, Varuṇa-maṇḍal, Indra-maṇḍal, Agni-maṇḍal",
       "literal_meaning": "'the circle of Vāyu (wind), of Varuṇa (waters), of Indra, of Agni (fire)'",
-      "register": "sanskritic",
+      "register": "borrowed",
+      "borrowed_from": "sanskrit",
       "usage_note": "A meteor is auspicious or baneful according to which group it is seen to fall from: out of the Vāyu-maṇḍal it portends an epidemic; out of the Varuṇa-maṇḍal it is favourable to human happiness; out of the Indra-maṇḍal it forebodes danger to all kings; out of the Agni-maṇḍal it threatens war between nations. Enthoven adds that during the monsoon the rain is expected in whatever direction a meteor shoots, and that in the Kanara District a meteor falling into the sea is held to promise rain — the same event read as a threat inland and as a blessing on the coast.",
       "citation": "R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 71",
       "source_type": "folklore collection",
@@ -37,7 +38,8 @@
       "name_native": null,
       "name_roman": "Tārā-bāras",
       "literal_meaning": "'the star twelfth', bāras being the twelfth day of the lunar fortnight",
-      "register": "sanskritic",
+      "register": "borrowed",
+      "borrowed_from": "sanskrit",
       "usage_note": "Married couples are made to look at the pole star immediately after the priest ties the marriage knot; Enthoven names the rite in a footnote. The showing of Arundhatī to the bride, as a lesson in chastity, is the companion rite on the same page.",
       "citation": "R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 68",
       "source_type": "folklore collection",
@@ -47,7 +49,7 @@
       "quote_lang": "en",
       "source_access": "public-domain",
       "confidence": "likely",
-      "notes": "The only NAME FOR A SKY-RITE in this database — everything else here names a star, a figure, a wind or a season. Enthoven's footnote marker sits at the end of a sentence that the archive.org scan breaks mid-clause, so the quote is given with an ellipsis where the page is unreadable, and the entry is graded `likely` on that account rather than on any doubt about the rite. Compare the Telugu and Assamese Arundhatī entries already in this database, which are the same wedding ritual seen from two other languages, and the caveat there about what a `sanskritic` tag does and does not claim about the people performing it."
+      "notes": "The only NAME FOR A SKY-RITE in this database — everything else here names a star, a figure, a wind or a season. Enthoven's footnote marker sits at the end of a sentence that the archive.org scan breaks mid-clause, so the quote is given with an ellipsis where the page is unreadable, and the entry is graded `likely` on that account rather than on any doubt about the rite. Compare the Telugu and Assamese Arundhatī entries already in this database, which are the same wedding ritual seen from two other languages, and the caveat there about what a `borrowed` tag does and does not claim about the people performing it."
     },
     {
       "sky_object": "Mūla, the nineteenth nakshatra, and being born under it",
@@ -60,7 +62,8 @@
       "name_native": null,
       "name_roman": "Mūla",
       "literal_meaning": null,
-      "register": "sanskritic",
+      "register": "borrowed",
+      "borrowed_from": "sanskrit",
       "usage_note": "Crooke's point is a social one: the twenty-seven asterisms are used only in calculating the marriage horoscope, and the one an ordinary cultivator actually has to reckon with is the unlucky Mūla — a son born under it must undergo an elaborate purification.",
       "citation": "William Crooke, The Popular Religion and Folk-lore of Northern India, 2nd ed. (Westminster: Archibald Constable, 1896), vol. I, p. 24",
       "source_type": "folklore collection",

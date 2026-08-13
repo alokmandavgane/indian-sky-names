@@ -341,7 +341,8 @@
    "name_native": null,
    "name_roman": "ruhni",
    "literal_meaning": null,
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "Not used by Santals as a star at all but as the sowing week: the 13th of Jeṭ and the six days following. Paddy, maize, pumpkins and beans sown in Ruhni are said to come up strong. A cow-dung streak is drawn round the house wall on the first day to keep snakes off, and the ojha begins teaching his disciples.",
    "citation": "Bodding, A Santal Dictionary, vol. V (1936), s.v. ruhni, p. 133",
    "source_type": "dictionary",
@@ -351,7 +352,7 @@
    "quote_lang": "en",
    "source_access": "public-domain",
    "confidence": "certain",
-   "notes": "Flagged sanskritic because the word is Rohiṇī and Bodding says so, adding the Puranic genealogy from his own reading. What is interesting is the direction of the borrowing: the nakshatra has entered Santali as an agricultural week, not as a star. No Santal informant in Bodding identifies ruhni with Aldebaran."
+   "notes": "Flagged borrowed because the word is Rohiṇī and Bodding says so, adding the Puranic genealogy from his own reading. What is interesting is the direction of the borrowing: the nakshatra has entered Santali as an agricultural week, not as a star. No Santal informant in Bodding identifies ruhni with Aldebaran."
   },
   {
    "sky_object": "Venus as evening star",
@@ -367,7 +368,8 @@
    "name_native": null,
    "name_roman": "sukąr, sukro, sukur ipil",
    "literal_meaning": null,
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": null,
    "citation": "Bodding, A Santal Dictionary, vol. V (1936), s.v. sukąr, sukro, sukur ipil, c. pp. 370-372",
    "source_type": "dictionary",
@@ -1121,7 +1123,8 @@
    "name_native": null,
    "name_roman": "Sukura and Sukurani; lagan ipilkiŋ, logon ipilkiŋ",
    "literal_meaning": "Sukra and Sukrani; the two stars that fix the marriage date",
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": "In the Hasada country and the Karra police subdivision their close conjunction is read by animists as a very favourable omen for marriages contracted in that month or year — the stars are said to be loving and kissing each other. Elsewhere in Nagpur they are unknown, as is the logon-tol ceremony itself.",
    "citation": "Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925",
    "source_type": "dictionary",
@@ -1131,7 +1134,7 @@
    "quote_lang": "en",
    "source_access": "public-domain",
    "confidence": "likely",
-   "notes": "Flagged sanskritic on Hoffmann's own analysis. He notes that Sukrani exists in no Hindu system: for the Mundas she is whatever bright star or planet happens to sit near Venus in a given year. This is the only astrology Hoffmann found in the whole of Munda sky-lore, and he is emphatic that the Munda 'neither knows, nor cares to know, what a horoscope is'."
+   "notes": "Flagged borrowed on Hoffmann's own analysis. He notes that Sukrani exists in no Hindu system: for the Mundas she is whatever bright star or planet happens to sit near Venus in a given year. This is the only astrology Hoffmann found in the whole of Munda sky-lore, and he is emphatic that the Munda 'neither knows, nor cares to know, what a horoscope is'."
   },
   {
    "sky_object": "The Morning Star",
@@ -2421,7 +2424,8 @@
    "name_native": null,
    "name_roman": "Dhruva Tara; Mout Tara",
    "literal_meaning": "Dhruva's star; the umbilical star",
-   "register": "sanskritic",
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
    "usage_note": null,
    "citation": "Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416",
    "source_type": "study",
@@ -2512,7 +2516,7 @@
    "quote_lang": "en",
    "source_access": "public-domain",
    "confidence": "certain",
-   "notes": "Russell gives the name Gajvīthi, 'the track of the elephant', at vol. II p. 124 under Bania, and the Dhuri belief at p. 529 without a name; the two are joined here and the join is flagged. Gajavīthi is Sanskrit, so this is a sanskritic name carried in folk belief — but the elephant is doing exactly the job the Munda cattle and the Gond wild animals do."
+   "notes": "Russell gives the name Gajvīthi, 'the track of the elephant', at vol. II p. 124 under Bania, and the Dhuri belief at p. 529 without a name; the two are joined here and the join is flagged. Gajavīthi is Sanskrit, so this is a Sanskrit name carried in folk belief — but the elephant is doing exactly the job the Munda cattle and the Gond wild animals do."
   },
   {
    "sky_object": "Ursa Major — the Big Dipper as a bier",
@@ -3523,7 +3527,7 @@
   "Nothing was quoted from a source in copyright. The twenty Gondi entries are paraphrased throughout from Vahia & Halkare (2013) and their quote fields are null; the same applies to the Bhil paper of 2023, which is cited in the summary as a lead and used for nothing else. Elwin's Baiga and Muria monographs were not used, for the same reason.",
   "Modern identifications are the source's own except where the source gives none, in which case the fields are left empty and confidence is 'unidentified'. Nine entries carry that grade — Santali Kaemaiya and sin ipil, Kurukh mugrā, Khasi 'lur-mangkara, Toda Keirt, and Gondi Purad/Mes, Khala, Irukna Mara and Khayan — and they are kept rather than dropped, because an unidentified indigenous figure is a result. Seven more are graded 'disputed' where the sources disagree with each other or with themselves.",
   "Page numbers were derived from the running heads of the specific Internet Archive scans cited, not from a physical copy, and for two-column dictionaries they may be out by one. Encyclopaedia Mundarica is cited by column number, which is how it is paginated. Burrows' Ho grammar has no recoverable page numbers in its OCR and is cited by headword only; Whitehead's Car-Nicobarese dictionary likewise.",
-  "Register is assigned as the source presents the material. 'sanskritic' marks the four cases where a community is recorded using a Sanskrit-derived term — Santali ruhni and sukro/Sani, Mundari Sukura/Sukurani, Gondi Dhruva Tara — and in every one of them the recording ethnographer says himself that the term is a loan, a book-word or a late addition. Those judgements are theirs, not mine.",
+  "Register is assigned as the source presents the material. 'borrowed' marks the four cases where a community is recorded using a Sanskrit-derived term — Santali ruhni and sukro/Sani, Mundari Sukura/Sukurani, Gondi Dhruva Tara — and in every one of them the recording ethnographer says himself that the term is a loan, a book-word or a late addition. Those judgements are theirs, not mine.",
   "Several of these sources are condescending about the people they describe, and that bears on reliability. Rivers concludes that most or all Toda star ideas are borrowed, a judgement he reaches partly on the assumption that Toda folklore is thin. Man explains the single Andamanese constellation name by saying the islanders 'never venture upon any distant voyages'. Hoffmann calls the Munda bed 'a miserable bed' and Munda star-folklore 'rather scanty' — immediately before filling seven columns with it. Russell's framing throughout is evolutionary. None of that editorialising is reproduced in the entries; where it affects what was collected, the notes say so.",
   "The languages field carries one addition to the brief's list, Chhattisgarhi, for the three Dhuri entries from Russell & Hiralal. They are marked register 'folk', not 'tribal': the Dhuri are a caste, not an Adivasi community. They are here because they are the earliest printed witness to the cot-and-three-thieves figure that four tribal traditions independently share.",
   "No Ho, Khasi, Andamanese or Nicobarese source consulted attached a story to a star name. For those communities this file records vocabulary, which is what survives; the narrative material is Munda, Santal, Kurukh, Gond and Toda.",

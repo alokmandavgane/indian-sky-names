@@ -20,13 +20,21 @@ FILES = ["hindi_urdu_punjabi", "northwest", "marathi_gujarati", "bengali_assames
          "tamil", "telugu_kannada", "malayalam_tulu_sinhala", "northeast", "himalaya", "maritime_peninsular", "occupational", "tribal",
          "tribal_fieldwork"]
 
-REGISTER_ORDER = ["vernacular", "folk", "tribal", "sanskritic"]
+REGISTER_ORDER = ["vernacular", "folk", "tribal", "borrowed"]
 REGISTER_BLURB = {
-    "vernacular": "formed in the language itself, not a Sanskrit loan",
+    "vernacular": "formed in the language itself, not a loan from the prestige tradition",
     "folk": "rural or colloquial usage, from a dictionary's own usage note or from ethnography",
     "tribal": "from a distinct Adivasi tradition",
-    "sanskritic": "the Sanskrit name in this language's script and phonology",
+    "borrowed": "the prestige tradition's name in this language's script and phonology — "
+                "in every entry here, Sanskrit's",
 }
+# Which tradition a `borrowed` name was borrowed from. One value so far, and the
+# field exists because the register must not name it: `sanskritic` described the
+# only prestige tradition this database has met, and a database of the world's sky
+# cultures meets others. `register` says whether a language formed a name or took
+# it; `borrowed_from` says where from. Splitting those two questions is what lets
+# the same four registers describe a Vietnamese name against literary Chinese.
+TRADITIONS = ["sanskrit"]
 CONF_RANK = {"certain": 0, "likely": 1, "disputed": 2, "unidentified": 3}
 
 
@@ -71,6 +79,16 @@ def main():
             assert acc in ACCESS, f"{name}: bad source_access {acc!r} on {e.get('name_roman')!r}"
             assert (acc == "public-domain") == (e.get("quote") is not None), (
                 f"{name}: source_access {acc!r} contradicts quote on {e.get('name_roman')!r}")
+            # `borrowed_from` is the same kind of invariant: a name says where it was
+            # borrowed from if and only if it says it was borrowed. Asserted rather
+            # than trusted, so the pair cannot drift apart the way a convention would.
+            reg, bf = e.get("register"), e.get("borrowed_from")
+            assert reg in REGISTER_ORDER, f"{name}: bad register {reg!r} on {e.get('name_roman')!r}"
+            assert (reg == "borrowed") == (bf is not None), (
+                f"{name}: register {reg!r} contradicts borrowed_from {bf!r} "
+                f"on {e.get('name_roman')!r}")
+            assert bf is None or bf in TRADITIONS, (
+                f"{name}: unknown tradition {bf!r} on {e.get('name_roman')!r}")
             e = dict(e, _source_group=src["source_group"])
             groups[canon(e, sk_titles)].append(e)
 
@@ -97,6 +115,8 @@ def main():
     all_entries = [e for o in objects for e in o["names"]]
     langs = collections.Counter(e["language"] for e in all_entries)
     regs = collections.Counter(e["register"] for e in all_entries)
+    trads = collections.Counter(e["borrowed_from"] for e in all_entries
+                                if e.get("borrowed_from"))
 
     db = {
         "title": "Star names in the languages of India",
@@ -128,13 +148,18 @@ def main():
             "Indian languages inherited the 27 Sanskrit nakshatra names and adapted them phonologically, and a "
             "table of those adaptations would be large and nearly uninformative. The tags separate that borrowed "
             "layer from names the languages made themselves. " +
-            "; ".join(f"**{r}** — {REGISTER_BLURB[r]}" for r in REGISTER_ORDER) + "."
+            "; ".join(f"**{r}** — {REGISTER_BLURB[r]}" for r in REGISTER_ORDER) + ". "
+            "A `borrowed` name also carries `borrowed_from`, naming the tradition it came from. "
+            "Every one of them here says `sanskrit`; the field exists so that the register need "
+            "not, because the question *did this language form this name or take it* is the same "
+            "question outside South Asia, and only the answer's source changes."
         ),
         "counts": {
             "entries": len(all_entries),
             "objects": len(objects),
             "languages": len(langs),
             "by_register": dict(regs),
+            "by_tradition": dict(trads),
             "by_language": dict(langs.most_common()),
             "linked_to_sanskrit_db": sum(1 for e in all_entries if e["sanskrit_db_id"]),
             "by_source_access": dict(collections.Counter(e["source_access"] for e in all_entries)),
@@ -168,8 +193,8 @@ def write_readme(db):
       f"[`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.\n")
     A("**Register.** " + db["register_note"] + "\n")
     reg = c["by_register"]
-    non = sum(v for k, v in reg.items() if k != "sanskritic")
-    A(f"Of {c['entries']} names, **{non} are not Sanskrit** — "
+    non = sum(v for k, v in reg.items() if k != "borrowed")
+    A(f"Of {c['entries']} names, **{non} are not borrowed** — "
       + ", ".join(f"{reg.get(r,0)} {r}" for r in REGISTER_ORDER) + ".\n")
     A("**Method.** " + db["method"] + "\n")
 

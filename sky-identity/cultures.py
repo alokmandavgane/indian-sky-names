@@ -19,7 +19,7 @@ further specified". Only a handful are ethnonyms. Splitting cultures on a field
 that is usually a footnote would mint a dozen near-empty cultures and bury the
 real ones, so community stays an annotation on the name, where the source put it.
 
-REGISTER IS A STRATUM, NOT A BOUNDARY. Marathi-sanskritic and Marathi-vernacular
+REGISTER IS A STRATUM, NOT A BOUNDARY. Marathi-borrowed and Marathi-vernacular
 are one culture seen at two depths, and that they coexist is the database's whole
 finding. Register stays a facet within a culture and never splits one.
 

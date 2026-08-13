@@ -59,7 +59,7 @@
    "registers": {
     "vernacular": 7,
     "folk": 3,
-    "sanskritic": 1
+    "borrowed": 1
    },
    "regions": [
     "Assam",
@@ -74,7 +74,7 @@
    "entries": 24,
    "objects": 12,
    "registers": {
-    "sanskritic": 11,
+    "borrowed": 11,
     "vernacular": 10,
     "folk": 3
    },
@@ -178,7 +178,7 @@
    "entries": 12,
    "objects": 10,
    "registers": {
-    "sanskritic": 9,
+    "borrowed": 9,
     "vernacular": 3
    },
    "regions": [
@@ -208,7 +208,7 @@
    "objects": 20,
    "registers": {
     "tribal": 30,
-    "sanskritic": 1
+    "borrowed": 1
    },
    "regions": [
     "Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)"
@@ -222,7 +222,7 @@
    "entries": 2,
    "objects": 1,
    "registers": {
-    "sanskritic": 2
+    "borrowed": 2
    },
    "regions": [
     "Ahmedabad district, Gujarat",
@@ -238,7 +238,7 @@
    "objects": 13,
    "registers": {
     "folk": 23,
-    "sanskritic": 7,
+    "borrowed": 7,
     "vernacular": 1
    },
    "regions": [
@@ -285,7 +285,7 @@
    "entries": 41,
    "objects": 19,
    "registers": {
-    "sanskritic": 26,
+    "borrowed": 26,
     "vernacular": 11,
     "folk": 4
    },
@@ -301,7 +301,7 @@
    "entries": 18,
    "objects": 14,
    "registers": {
-    "sanskritic": 15,
+    "borrowed": 15,
     "vernacular": 3
    },
    "regions": [
@@ -359,7 +359,7 @@
    "entries": 5,
    "objects": 3,
    "registers": {
-    "sanskritic": 3,
+    "borrowed": 3,
     "vernacular": 1,
     "folk": 1
    },
@@ -376,7 +376,7 @@
    "objects": 17,
    "registers": {
     "tribal": 31,
-    "sanskritic": 1
+    "borrowed": 1
    },
    "regions": [
     "Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh"
@@ -421,7 +421,7 @@
    "entries": 2,
    "objects": 2,
    "registers": {
-    "sanskritic": 1,
+    "borrowed": 1,
     "vernacular": 1
    },
    "regions": [
@@ -451,7 +451,7 @@
    "objects": 16,
    "registers": {
     "tribal": 19,
-    "sanskritic": 7
+    "borrowed": 7
    },
    "regions": [
     "Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)"
@@ -465,7 +465,7 @@
    "entries": 36,
    "objects": 23,
    "registers": {
-    "sanskritic": 22,
+    "borrowed": 22,
     "vernacular": 10,
     "folk": 4
    },
@@ -497,7 +497,7 @@
    "objects": 26,
    "registers": {
     "folk": 30,
-    "sanskritic": 25,
+    "borrowed": 25,
     "vernacular": 9
    },
    "regions": [
@@ -538,7 +538,7 @@
    "objects": 6,
    "registers": {
     "tribal": 6,
-    "sanskritic": 1
+    "borrowed": 1
    },
    "regions": [
     "Manipur"
@@ -568,7 +568,7 @@
    "objects": 16,
    "registers": {
     "tribal": 25,
-    "sanskritic": 1
+    "borrowed": 1
    },
    "regions": [
     "Chota Nagpur plateau, Ranchi district, Jharkhand"
@@ -583,7 +583,7 @@
    "objects": 9,
    "registers": {
     "vernacular": 6,
-    "sanskritic": 6,
+    "borrowed": 6,
     "folk": 2
    },
    "regions": [
@@ -599,7 +599,7 @@
    "objects": 7,
    "registers": {
     "vernacular": 5,
-    "sanskritic": 4
+    "borrowed": 4
    },
    "regions": [
     "the Kathmandu valley"
@@ -633,7 +633,7 @@
    "entries": 31,
    "objects": 14,
    "registers": {
-    "sanskritic": 12,
+    "borrowed": 12,
     "vernacular": 10,
     "folk": 9
    },
@@ -685,7 +685,7 @@
    "objects": 9,
    "registers": {
     "folk": 6,
-    "sanskritic": 4,
+    "borrowed": 4,
     "vernacular": 2
    },
    "regions": [
@@ -710,7 +710,7 @@
    "entries": 11,
    "objects": 4,
    "registers": {
-    "sanskritic": 7,
+    "borrowed": 7,
     "folk": 3,
     "vernacular": 1
    },
@@ -755,7 +755,7 @@
    "objects": 12,
    "registers": {
     "tribal": 15,
-    "sanskritic": 2
+    "borrowed": 2
    },
    "regions": [
     "Santal Parganas, Jharkhand / adjoining Bengal and Odisha"
@@ -784,7 +784,7 @@
    "objects": 14,
    "registers": {
     "vernacular": 21,
-    "sanskritic": 13
+    "borrowed": 13
    },
    "regions": [
     "Sind (Bombay Presidency); Mewaram's dictionary is not dialect-marked",
@@ -799,7 +799,7 @@
    "entries": 24,
    "objects": 18,
    "registers": {
-    "sanskritic": 13,
+    "borrowed": 13,
     "vernacular": 10,
     "folk": 1
    },
@@ -830,7 +830,7 @@
    "objects": 21,
    "registers": {
     "vernacular": 42,
-    "sanskritic": 16,
+    "borrowed": 16,
     "folk": 4
    },
    "regions": [
@@ -851,7 +851,7 @@
    "objects": 20,
    "registers": {
     "vernacular": 38,
-    "sanskritic": 10,
+    "borrowed": 10,
     "folk": 7,
     "tribal": 2
    },
@@ -918,7 +918,7 @@
    "objects": 8,
    "registers": {
     "vernacular": 7,
-    "sanskritic": 1
+    "borrowed": 1
    },
    "regions": [
     "South Canara (Tulu Nadu)"

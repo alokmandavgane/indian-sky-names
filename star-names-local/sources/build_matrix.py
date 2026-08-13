@@ -1,6 +1,6 @@
 """Build coverage-matrix.html — which languages have a term for which sky object.
 
-A presence matrix, objects x languages. Cells are coloured by the LEAST Sanskritic
+A presence matrix, objects x languages. Cells are coloured by the LEAST borrowed
 register present, so the eye picks up where a language built its own word rather
 than taking the Sanskrit one. Languages are grouped by family, because the
 cross-family repetitions (the cot, the plough, the road) are the point.
@@ -27,15 +27,15 @@ FAMILY = {
                       "Rengma Naga", "Ao Naga", "Tibetan"],
     "Andamanese": ["Andamanese"],
 }
-# Least-Sanskritic wins the cell; a language that has both a loan and its own word
+# Least-borrowed wins the cell; a language that has both a loan and its own word
 # is more interesting for the word it made itself.
-PRIORITY = ["tribal", "folk", "vernacular", "sanskritic"]
-REG_HEX = {"tribal": "#d55181", "folk": "#c98500", "vernacular": "#3987e5", "sanskritic": "#008300"}
+PRIORITY = ["tribal", "folk", "vernacular", "borrowed"]
+REG_HEX = {"tribal": "#d55181", "folk": "#c98500", "vernacular": "#3987e5", "borrowed": "#008300"}
 REG_LABEL = {
     "tribal": "a distinct Adivasi tradition",
     "folk": "rural or colloquial usage",
     "vernacular": "formed in the language itself",
-    "sanskritic": "the Sanskrit name, adapted",
+    "borrowed": "the prestige tradition's name, adapted — here always Sanskrit's",
 }
 
 
@@ -45,7 +45,7 @@ def local_name(o):
     Same rule as the sky chart, minus the language filter this table does not
     have: the pan-Indian form the object carries in the Sanskrit database if it
     has one, else the first name in the database's own order — which puts the
-    least Sanskritic first. Returns (name, language-or-None); the language is
+    least borrowed first. Returns (name, language-or-None); the language is
     given only when the name is one language's rather than the shared form, so
     that nobody's word is passed off as everyone's.
     """
@@ -194,7 +194,7 @@ languages name them; languages are grouped by family, because the repetitions ac
   {"".join(f'<span class="lg"><i style="background:{REG_HEX[r]}"></i>{r} — {REG_LABEL[r]}</span>' for r in PRIORITY)}
 </div>
 <div class="note">Where a language has more than one name for an object, the cell takes the least
-Sanskritic — a language that has both a loan and a word of its own is more interesting for the one it made.
+borrowed — a language that has both a loan and a word of its own is more interesting for the one it made.
 Hover any cell for the names.
 Each row is labelled with the Indian name first and the English one after it. That name is the
 pan-Indian form the object carries in the Sanskrit database where it has one; where it has none —
