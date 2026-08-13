@@ -23,14 +23,14 @@ P = {
     "ardra":            (88.79,   7.41, 0.45, "star", None, None),  # Betelgeuse
     "punarvasu":        (116.33, 28.03, 1.14, "star", None, None),  # Pollux
     "pushya":           (131.17, 18.15, 3.94, "star", None, None),  # Asellus Aus.
-    "ashlesha":         (130.80,  6.42, 3.38, "star", None, None),  # eps Hya
+    "ashlesha":         (131.69,  6.42, 3.38, "star", None, None),  # eps Hya
     "magha":            (152.09, 11.97, 1.36, "star", None, None),  # Regulus
     "purva-phalguni":   (168.53, 20.52, 2.56, "star", None, None),  # Zosma
     "uttara-phalguni":  (177.26, 14.57, 2.11, "star", None, None),  # Denebola
     "hasta":            (183.95,-17.54, 2.59, "star", None, None),  # Gienah
     "chitra":           (201.30,-11.16, 0.98, "star", None, None),  # Spica
     "svati":            (213.92, 19.18,-0.05, "star", None, None),  # Arcturus
-    "vishakha":         (222.72,-19.79, 4.54, "star", None,  # iota Lib
+    "vishakha":         (228.06,-19.79, 4.54, "star", None,  # iota Lib
                          "Contested. Plotted at ι Librae, where Sāmanta's 1899 re-observation puts it to 32'. "
                          "But the Śārdūlakarṇāvadāna and both early Chinese witnesses make Viśākhā TWO stars, "
                          "horn-shaped — which can only be the bright scale-pair α/β Librae, as Burgess himself "
@@ -106,7 +106,7 @@ P = {
     "ashvattha":        (297.70,  8.87, 0.76, "star", "अश्वत्थ",
                          "The Kāṭhaka name in the Śravaṇa slot, at Altair. The verse itself could not be found "
                          "online — this rests on Macdonell & Keith's comparative table alone."),
-    "sarpa":            (130.80,  6.42, 3.38, "star", "सार्प",
+    "sarpa":            (131.69,  6.42, 3.38, "star", "सार्प",
                          "The Vedāṅga Jyotiṣa names this nakshatra only by its deity (the Serpents) = Āśleṣā."),
     # ---- Purāṇic sky-figures ----
     "shishumara":       (262.50, 62.00, 2.20, "figure", "शिशुमार",

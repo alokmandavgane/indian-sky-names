@@ -43,7 +43,7 @@ POS = {
     "grus":          (335.00, -45.00, "figure"),
     "pisces":        (15.00, 10.00, "figure"),
     "pole-star":     (37.95, 89.26, "star"),
-    "alcor":         (200.98, 54.99, "star"),
+    "alcor":         (201.31, 54.99, "star"),
     "canopus":       (95.99, -52.70, "star"),
     "sirius":        (101.29, -16.72, "star"),
     "aldebaran":     (68.98, 16.51, "star"),
