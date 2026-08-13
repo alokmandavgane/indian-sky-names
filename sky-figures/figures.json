@@ -1,0 +1,201 @@
+{
+ "title": "Sky figures of South Asia",
+ "unit": "One record is one figure, as one culture draws it, from one source.",
+ "method": "A figure is a stronger claim than a name. A name says a language calls these stars something; a figure says it joins them into a shape, and drawing a line between two stars asserts that the source saw one there. So a figure is recorded as PARTS — the roles the source names and the stars it gives them — and never as a polyline invented to make a picture. Where a source names a role without saying which stars fill it, the part is recorded with an empty star list and `attested: false`, because the role is real even when the assignment is not. Lines are derived at export time from parts, never authored here.",
+ "figures": [
+  {
+   "id": "mundari-ursa-major-bier",
+   "culture": "mundari",
+   "object": "ursa-major",
+   "spans": [
+    "UMa"
+   ],
+   "name_native": null,
+   "name_roman": "topoḍ-akan parkom ipilko",
+   "name_meaning": "the bier stars",
+   "scene": "The cot doubles as the bier that carries a corpse to the grave. After the burial one side of the frame is broken and the bed is left at the burial ground; the watchman on the threshing floor, waking cold before dawn, sees the broken frame in the north and the mourners walking away from it.",
+   "parts": [
+    {
+     "role": "the broken frame of the bier",
+     "hip": [
+      54061,
+      53910,
+      58001,
+      59774
+     ],
+     "attested": true,
+     "note": "Hoffmann's four stars, which the entry contrasts with the same four read as Saptarṣi — 'an entirely different mood'."
+    },
+    {
+     "role": "the mourners walking away from the grave",
+     "hip": [
+      62956,
+      65378
+     ],
+     "attested": true,
+     "note": "Alioth and Mizar, both named in the source."
+    }
+   ],
+   "citation": "Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925",
+   "source_access": "public-domain",
+   "confidence": "certain",
+   "notes": "Alkaid is left unassigned because the source assigns it nothing. The first element of the name is printed topagara/topogara in the two scans and could not be checked; only 'the bier stars' is secure."
+  },
+  {
+   "id": "bhili-ursa-major-cot",
+   "culture": "bhili",
+   "object": "ursa-major",
+   "spans": [
+    "UMa"
+   ],
+   "name_native": null,
+   "name_roman": null,
+   "name_meaning": "a cot, its shape distorted because a thief pulled at one of its legs",
+   "scene": "Three thieves at a cot. The four legs were of gold, silver, copper and iron, and a thief pulled the golden one — which is why the bowl is not a true rectangle. Individual villages substitute a local cast for the thieves: the village elder, the chief and the sheriff, or the revenue collector in place of the elder.",
+   "parts": [
+    {
+     "role": "the four legs of the cot",
+     "hip": [
+      54061,
+      53910,
+      58001,
+      59774
+     ],
+     "attested": true,
+     "note": "The four bowl stars. Which of them is the golden leg that was pulled is not stated; the survey gives the reasoning — the bowl is out of square — but names no star."
+    },
+    {
+     "role": "the three thieves",
+     "hip": [
+      62956,
+      65378,
+      67301
+     ],
+     "attested": true,
+     "note": "The three handle stars. The Kolams of the same survey make them a Kolam, a Gond and a Pardhan; the Bhils make them the men who come to the village to take things from it."
+    },
+    {
+     "role": "the middle thief's child, or her pregnancy",
+     "hip": [
+      65477
+     ],
+     "attested": true,
+     "note": "Alcor beside Mizar. Most villages see it and call the middle thief a pregnant woman."
+    }
+   ],
+   "citation": "Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage (2023)",
+   "source_access": "in-copyright-paraphrased",
+   "confidence": "certain",
+   "notes": "The paper prints no Bhili word for the cot itself, so the figure is recorded without a vernacular name — the precedent is the Chhattisgarhi Dhuri entry in tribal.json. The survey covered 210 people in 17 meetings across the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna communities of north-western Maharashtra."
+  },
+  {
+   "id": "kolami-crux-mahua",
+   "culture": "kolami",
+   "object": "crux",
+   "spans": [
+    "Cru",
+    "Cen"
+   ],
+   "name_native": null,
+   "name_roman": "Irukmara / Ipamaka",
+   "name_meaning": "a Mahua tree (Madhuca longifolia), whose flowers are fermented to make liquor",
+   "scene": "A Mahua tree with two women gathering its flowers beneath it — an old lady and a young one — and the faint stars around them are the flowers themselves. The tree is named for the crop: Mahua flowers are collected in March and April.",
+   "parts": [
+    {
+     "role": "the Mahua tree",
+     "hip": [
+      59747,
+      60718,
+      61084,
+      62434
+     ],
+     "attested": true,
+     "note": "The four stars of Crux."
+    },
+    {
+     "role": "the old lady and the young one, gathering flowers",
+     "hip": [
+      71683,
+      68702
+     ],
+     "attested": true,
+     "note": "Named in the source as α and β Centauri — Murta and Kadma, which the database carries as names in their own right."
+    },
+    {
+     "role": "the flowers of the Mahua",
+     "hip": [],
+     "attested": false,
+     "note": "Irup pokke, 'the flowers of the Mahua' — the small stars around the tree. The source says faint stars, and names none of them."
+    }
+   ],
+   "citation": "M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage 17(1) (2014)",
+   "source_access": "in-copyright-paraphrased",
+   "confidence": "certain",
+   "notes": "Eight of ten villages. The figure spans two IAU constellations, which is why it cannot be expressed as a constellation and has to be expressed as a figure. It also closes an identification tribal.json had to leave open: Gondi Irukna Mara, recorded there as `unidentified`, is transparently the same word."
+  },
+  {
+   "id": "mizo-auriga-dingdi",
+   "culture": "mizo",
+   "object": "auriga",
+   "spans": [
+    "Aur"
+   ],
+   "name_native": null,
+   "name_roman": "Dingdi-puan-tah",
+   "name_meaning": "Dingdi's cloth-stretching, puan being a cloth",
+   "scene": "A scene indoors: a girl named Dingdi at her loom, with the cloth she is weaving pinned to the wall at two points that are themselves stars. A named character, an action, and two stars doing duty as nails in a wall.",
+   "parts": [
+    {
+     "role": "Dingdi at the apex of the triangle",
+     "hip": [
+      24608
+     ],
+     "attested": true,
+     "note": "Capella, named in the source."
+    },
+    {
+     "role": "the two points where the cloth is pinned to the wall",
+     "hip": [],
+     "attested": false,
+     "note": "Lorrain gives an isosceles triangle in Auriga with Capella at its apex, and does not say which two stars are the base. They are not assigned here."
+    }
+   ],
+   "citation": "J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Dingdi-puan-tah",
+   "source_access": "public-domain",
+   "confidence": "certain",
+   "notes": "The best-drawn figure in the database. Most sky-figures here are a single object — a cot, a plough, a deer; this one is a domestic scene, and its only counterpart is the Kolam Mahua tree."
+  },
+  {
+   "id": "odia-ursa-major-karachuli",
+   "culture": "odia",
+   "object": "ursa-major",
+   "spans": [
+    "UMa"
+   ],
+   "name_native": null,
+   "name_roman": "karacūli",
+   "name_meaning": "a long-handled ladle or scoop",
+   "scene": "Joining all seven stars gives a karacūli with a handle — independently the same idea as the English Dipper.",
+   "parts": [
+    {
+     "role": "the ladle, joined from all seven",
+     "hip": [
+      54061,
+      53910,
+      58001,
+      59774,
+      62956,
+      65378,
+      67301
+     ],
+     "attested": true,
+     "note": "Praharaj's note says joining the seven yields the shape, which assigns the whole set and no part of it separately."
+    }
+   ],
+   "citation": "G. C. Praharaj, Purnnachandra Ordia Bhashakosha: a lexicon of the Oriya language, Cuttack: Utkal Sahitya Press, 1931-40, s.v. Sātabhāiyā",
+   "source_access": "public-domain",
+   "confidence": "certain",
+   "notes": "Recorded because the source states the joining explicitly, which most do not. The shape it yields is the same as the standard figure — a figure agreeing with the received one is still a figure, and saying so is worth more than leaving it out."
+  }
+ ]
+}
