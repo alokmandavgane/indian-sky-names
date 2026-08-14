@@ -181,10 +181,25 @@ def main():
         "in the repository. The separate Sanskrit-text database is <code>docs/star-names/</code>.</p>"
     )
 
+    # Each language carries the slug the atlas knows it by, so that a page about
+    # Marathi can link into this chart already showing the Marathi sky. Read from
+    # cultures.json rather than re-derived, because a slug computed twice is a
+    # slug free to drift, and the symptom would be a link that lands on the chart
+    # showing everything.
+    slugs = {}
+    cultures_path = os.path.join(OUT, "..", "sky-identity", "cultures.json")
+    if os.path.exists(cultures_path):
+        with open(cultures_path, encoding="utf-8") as f:
+            for slug, c in json.load(f)["cultures"].items():
+                slugs[c["name"]] = slug
+
     data = {
         "stars": stars,
         "objects": objects,
-        "languages": list(db["counts"]["by_language"].items()),
+        "languages": [
+            [name, n, slugs.get(name, "")]
+            for name, n in db["counts"]["by_language"].items()
+        ],
         "about": about,
     }
     tpl = open(os.path.join(HERE, "chart_template.html"), encoding="utf-8").read()

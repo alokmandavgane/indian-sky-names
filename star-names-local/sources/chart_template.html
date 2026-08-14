@@ -442,7 +442,40 @@ for (const r of REGISTERS) {
 const sel = document.getElementById("langsel");
 sel.innerHTML = '<option value="">All languages</option>' +
   DB.languages.map(([l, n]) => `<option value="${l}">${l} (${n})</option>`).join("");
-sel.onchange = () => { state.lang = sel.value; draw(); };
+
+/* The chosen language lives in the URL as `#culture=<slug>`, so that a page about
+ * one language can link straight into its sky, and so that a reader who has found
+ * a sky worth showing someone can send them the address of it rather than the
+ * address of the chart plus instructions. The slug is the one the atlas uses —
+ * carried in the data, never recomputed here. */
+const slugToLang = new Map(DB.languages.filter(([, , s]) => s).map(([l, , s]) => [s, l]));
+const langToSlug = new Map(DB.languages.filter(([, , s]) => s).map(([l, , s]) => [l, s]));
+
+function languageFromHash() {
+  const m = /(?:^|[#&])culture=([^&]+)/.exec(location.hash);
+  return m ? (slugToLang.get(decodeURIComponent(m[1])) || "") : "";
+}
+
+function applyHash() {
+  const lang = languageFromHash();
+  if (lang === state.lang) return;
+  state.lang = lang;
+  sel.value = lang;
+  draw();
+}
+
+sel.onchange = () => {
+  state.lang = sel.value;
+  const slug = langToSlug.get(state.lang);
+  // replaceState, not a hash assignment: choosing a language from the menu should
+  // not put an entry in the history that Back has to walk out of one by one.
+  history.replaceState(null, "", slug ? `#culture=${slug}` : location.pathname);
+  draw();
+};
+
+// Someone arriving on a link, and someone editing the address afterwards.
+addEventListener("hashchange", applyHash);
+if (languageFromHash()) { state.lang = languageFromHash(); sel.value = state.lang; }
 
 const btnLocals = document.getElementById("btn-locals");
 btnLocals.onclick = () => {
