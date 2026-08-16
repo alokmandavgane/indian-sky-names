@@ -1,10 +1,17 @@
 #!/usr/bin/env python3
 """Build the full-screen sky chart: merge J2000 coordinates + magnitudes with the
 shloka/translation references from star-names.json, inject as __DATA__."""
-import json, re, html
+import json, re, html, os
 
-DB = json.load(open("/Users/alokm/dev/bhagol/docs/star-names/star-names.json"))
-TPL = open("chart_template.html").read()
+# Everything is anchored on this file: the database and the chart live one level
+# up, in docs/star-names/, and the template beside this script. These were an
+# absolute path into one machine's home dir and a bare cwd-relative open, so the
+# script ran nowhere but that machine, from that directory.
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT_DIR = os.path.dirname(HERE)
+
+DB = json.load(open(os.path.join(OUT_DIR, "star-names.json")))
+TPL = open(os.path.join(HERE, "chart_template.html")).read()
 URL_RE = re.compile(r"https?://[^\s)]+")
 
 def urls(s):
@@ -358,7 +365,7 @@ about = (
 
 DATA = {"items": items, "about": about}
 out = TPL.replace("__DATA__", json.dumps(DATA, ensure_ascii=False))
-open("/Users/alokm/dev/bhagol/docs/star-names/sky-chart.html", "w").write(out)
+open(os.path.join(OUT_DIR, "sky-chart.html"), "w").write(out)
 print(f"points={sum(1 for i in items if i['ra'] is not None)} "
       f"roads={sum(1 for i in items if i['road'])} "
       f"galactic={sum(1 for i in items if i['galacticL'] is not None)} "

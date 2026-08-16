@@ -23,7 +23,9 @@ def links(field, label):
     return " · ".join(parts)
 
 SCRATCH = os.path.dirname(os.path.abspath(__file__))
-OUT_DIR = "/Users/alokm/dev/bhagol/docs/star-names"
+# The database sits one level up, in docs/star-names/. Derived from __file__ so a
+# clone anywhere builds; this was an absolute path into one machine's home dir.
+OUT_DIR = os.path.dirname(SCRATCH)
 
 SOURCES = {
     "surya_siddhanta": "Sūrya Siddhānta",
