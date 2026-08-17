@@ -553,6 +553,37 @@
    "source_access": "public-domain",
    "confidence": "likely",
    "notes": "The same seven stars the Mundari bier and the Bhili cot read entirely otherwise — which is the reason the figures layer exists. The seven are one part, not seven: the text assigns the set and the order, not star to name, and the record does not claim more than the text does."
+  },
+  {
+   "id": "sanskrit-krittika-seven",
+   "culture": "sanskrit",
+   "object": "krittika-seven",
+   "spans": [
+    "Tau"
+   ],
+   "name_native": "कृत्तिकाः",
+   "name_roman": "Kṛttikāḥ",
+   "name_meaning": "the seven Kṛttikās, each with her own name",
+   "scene": "The yajus names the seven one by one: Ambā, Dulā, Nitatnī, Abhrayantī, Meghayantī, Varṣayantī, Cupuṇīkā — and the last four are rain-names, she-who-brings-the-clouds, she-who-makes-them-rain. The Śatapatha-brāhmaṇa remembers who they are: the Kṛttikās were the wives of the Bears, the Seven Sages who stand in the north — which is why the two sets of seven face each other across the sky.",
+   "parts": [
+    {
+     "role": "the seven Kṛttikās, named one by one",
+     "hip": [
+      17702,
+      17847,
+      17499,
+      17573,
+      17608,
+      17531
+     ],
+     "attested": true,
+     "note": "Six of the seven stand in the vendored chart: Alcyone, Atlas, Electra, Maia, Merope, Taygeta. Pleione, the seventh bright sister, is below its field limit and left to this note. Like the Saptarṣi, the text assigns the set and the names, never star to name."
+    }
+   ],
+   "citation": "Taittirīya-brāhmaṇa 3.1.4.1; the wives of the Bears at Śatapatha-brāhmaṇa 2.1.2.4",
+   "source_access": "public-domain",
+   "confidence": "likely",
+   "notes": "The one nakshatra whose constituent stars the Veda names individually. The names are the record's; which sister is which star nobody says, so the figure is one part of six placed stars, and the seventh is a gap the chart made, not the text."
   }
  ]
 }

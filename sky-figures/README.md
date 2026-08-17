@@ -77,7 +77,7 @@ validator recomputes `spans` from the catalogue and insists the record agrees.
 
 ## What is in it
 
-Nine figures, 40 parts, 92 star assignments. Deliberately the ones the sources
+Ten figures, 41 parts, 98 star assignments. Deliberately the ones the sources
 actually draw:
 
 | Figure | Culture | What is attested |
@@ -91,6 +91,7 @@ actually draw:
 | Rohiṇī's cart | Sanskrit | the Śārdūlakarṇāvadāna's census: five stars, wagon-shaped — the V of the Hyades the omen books watch for śakaṭa-bheda |
 | the pierced deer | Sanskrit | Aitareya-brāhmaṇa 3.33: the deer's head at Mṛgaśiras, the Belt as the three-jointed arrow, Mṛgavyādha the hunter at Sirius, the doe at Rohiṇī — one hunt across three constellations |
 | the Seven Sages | Sanskrit | Bṛhat-saṃhitā 13.5-6: the seven named in order as one set, and Arundhatī — the text's one per-star claim — beside Vasiṣṭha at Alcor |
+| the seven Kṛttikās | Sanskrit | Taittirīya-brāhmaṇa 3.1.4.1: Ambā, Dulā, Nitatnī and the four rain-names, one set over the Pleiades — six charted, Pleione below the chart's field limit |
 
 Alkaid is unassigned in the Mundari bier because Hoffmann assigns it nothing. That
 is the shape of most records here. The Śiśumāra is the one figure the Sanskrit
