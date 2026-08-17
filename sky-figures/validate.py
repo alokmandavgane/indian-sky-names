@@ -41,9 +41,16 @@ FIGURES = os.path.join(HERE, "figures.json")
 IDENTITY = os.path.join(DOCS, "sky-identity", "sky-identity.json")
 CULTURES = os.path.join(DOCS, "sky-identity", "cultures.json")
 LOCAL_DB = os.path.join(DOCS, "star-names-local", "star-names-local.json")
+SANSKRIT_DB = os.path.join(DOCS, "star-names", "star-names.json")
 
 ACCESS = {"public-domain", "in-copyright-paraphrased"}
 CONFIDENCE = {"certain", "likely", "disputed", "unidentified"}
+
+# The Sanskrit textual tradition draws figures too — the Purāṇic Śiśumāra is one —
+# but it is not a language of the vernacular compilation: it has no entry in
+# `cultures.json`, and its objects live in `star-names`, not `star-names-local`.
+# So it is admitted by name, and its objects are checked against its own database.
+TRADITIONS = {"sanskrit"}
 
 
 def load_catalogue():
@@ -66,6 +73,7 @@ def main():
     figs = json.load(open(FIGURES, encoding="utf-8"))["figures"]
     cultures = json.load(open(CULTURES, encoding="utf-8"))["cultures"]
     objects = {o["key"] for o in json.load(open(LOCAL_DB, encoding="utf-8"))["objects"]}
+    sanskrit_objects = {s["id"] for s in json.load(open(SANSKRIT_DB, encoding="utf-8"))["stars"]}
     hip_table, constellation_of = load_catalogue()
 
     errors, ids = [], set()
@@ -81,10 +89,14 @@ def main():
             bad("duplicate id")
         ids.add(fid)
 
-        if f.get("culture") not in cultures:
-            bad(f"unknown culture {f.get('culture')!r}")
-        if f.get("object") not in objects:
-            bad(f"unknown object {f.get('object')!r}")
+        if f.get("culture") in TRADITIONS:
+            if f.get("object") not in sanskrit_objects:
+                bad(f"unknown object {f.get('object')!r} — not in the Sanskrit database")
+        else:
+            if f.get("culture") not in cultures:
+                bad(f"unknown culture {f.get('culture')!r}")
+            if f.get("object") not in objects:
+                bad(f"unknown object {f.get('object')!r}")
         if f.get("source_access") not in ACCESS:
             bad(f"bad source_access {f.get('source_access')!r}")
         if f.get("confidence") not in CONFIDENCE:

@@ -196,6 +196,363 @@
    "source_access": "public-domain",
    "confidence": "certain",
    "notes": "Recorded because the source states the joining explicitly, which most do not. The shape it yields is the same as the standard figure — a figure agreeing with the received one is still a figure, and saying so is worth more than leaving it out."
+  },
+  {
+   "id": "sanskrit-shishumara-bhagavata",
+   "culture": "sanskrit",
+   "object": "shishumara",
+   "spans": [
+    "Aql",
+    "Aqr",
+    "Ari",
+    "Boo",
+    "Cnc",
+    "Car",
+    "Crv",
+    "Del",
+    "Gem",
+    "Hya",
+    "Leo",
+    "Lib",
+    "Lyr",
+    "Ori",
+    "Peg",
+    "Psc",
+    "Sco",
+    "Sgr",
+    "Tau",
+    "UMa",
+    "UMi",
+    "Vir"
+   ],
+   "name_native": "शिशुमार",
+   "name_roman": "Śiśumāra",
+   "name_meaning": "the Gangetic river-dolphin, the whole sky coiled into one animal",
+   "scene": "The entire host of lights described as one creature, 'for fixing the mind in yoga on Bhagavān Vāsudeva' (5.23.4). It hangs head-down, its body coiled clockwise, with Dhruva at the tip of its tail so that the beast turns about the pole. The nakshatras of the sun's northern path lie along its right side and those of the southern path along its left, the same number on each; Ajavīthī the goat-road is its back and the Milky Way its belly. The planets ride it too — the Sun at its chest, the Moon in its mind, Mars at its mouth, Jupiter on its hump, Venus at its navel, Saturn at its genitals, Mercury as its breaths, Rāhu at its throat, the comets in all its limbs — and every remaining star is a hair of its body. The chapter closes by prescribing it as an evening litany: at each sandhyā, restrained and silent, gazing on it, 'homage to the abode of the lights' (5.23.8).",
+   "parts": [
+    {
+     "role": "Dhruva, at the tip of the tail (pucchāgra)",
+     "hip": [
+      11767
+     ],
+     "attested": true,
+     "note": "Polaris, in the received tradition; the older textual layer may intend Thuban (α Draconis) — see the Dhruva entry in the database."
+    },
+    {
+     "role": "Prajāpati, Agni, Indra and Dharma, on the tail (lāṅgūla)",
+     "hip": [],
+     "attested": false,
+     "note": "Unidentified circumpolar stars along Draco / Ursa Minor. No Purāṇa says which four, and no star is chosen for them here."
+    },
+    {
+     "role": "Dhātā and Vidhātā, at the root of the tail (puccha-mūla)",
+     "hip": [],
+     "attested": false,
+     "note": "Unidentified; circumpolar."
+    },
+    {
+     "role": "the Seven Sages, at the waist (kaṭi)",
+     "hip": [
+      54061,
+      53910,
+      58001,
+      59774,
+      62956,
+      65378,
+      67301
+     ],
+     "attested": true,
+     "note": "Saptarṣayaḥ — the Big Dipper, certain by universal tradition, though the Purāṇa itself never says which stars the Sages are."
+    },
+    {
+     "role": "Ajavīthī, the goat-road, along the back (pṛṣṭha)",
+     "hip": [],
+     "attested": false,
+     "note": "A star-road, not a star: Mūla and the two Aṣāḍhās per Brahmāṇḍa/Matsya 124.53, but Matsya 124.58 instead gives Hasta, Citrā and Svātī — the vīthī texts contradict one another, so no stars are claimed."
+    },
+    {
+     "role": "Ākāśagaṅgā, the sky-Ganges, at the belly (udara)",
+     "hip": [],
+     "attested": false,
+     "note": "The Milky Way — a band, not stars. The app draws it as its own layer."
+    },
+    {
+     "role": "Punarvasu, the right hip (śroṇī)",
+     "hip": [
+      36850,
+      37826
+     ],
+     "attested": true,
+     "note": "Castor and Pollux."
+    },
+    {
+     "role": "Puṣya, the left hip (śroṇī)",
+     "hip": [
+      42806,
+      42911
+     ],
+     "attested": true,
+     "note": "γ and δ Cancri. The database glosses Puṣya as γ/δ/θ Cancri; θ, at magnitude 5.3, is not in the vendored chart and is left out rather than replaced."
+    },
+    {
+     "role": "Ārdrā, the right hind foot (paścima pāda)",
+     "hip": [
+      27989
+     ],
+     "attested": true,
+     "note": "Betelgeuse. Sanyal's printed translation puts the hind feet on the nostrils — see the database's caveats; the text's own order is followed here."
+    },
+    {
+     "role": "Āśleṣā, the left hind foot (paścima pāda)",
+     "hip": [
+      43109,
+      42313,
+      42402
+     ],
+     "attested": true,
+     "note": "ε, δ and σ Hydrae — the head of Hydra."
+    },
+    {
+     "role": "Abhijit, the right nostril (nāsikā)",
+     "hip": [
+      91262
+     ],
+     "attested": true,
+     "note": "Vega — the 28th nakshatra, standing in the figure although it had already fallen out of the working roster (Mahābhārata 3.230)."
+    },
+    {
+     "role": "Uttarāṣāḍhā, the left nostril (nāsikā)",
+     "hip": [
+      92855,
+      93506
+     ],
+     "attested": true,
+     "note": "σ and ζ Sagittarii."
+    },
+    {
+     "role": "Śravaṇa, the right eye (locana)",
+     "hip": [
+      97649
+     ],
+     "attested": true,
+     "note": "Altair."
+    },
+    {
+     "role": "Pūrvāṣāḍhā, the left eye (locana)",
+     "hip": [
+      89931,
+      90185
+     ],
+     "attested": true,
+     "note": "δ and ε Sagittarii."
+    },
+    {
+     "role": "Dhaniṣṭhā, the right ear (karṇa)",
+     "hip": [
+      101769,
+      101958
+     ],
+     "attested": true,
+     "note": "β and α Delphini, of the Dhaniṣṭhā diamond."
+    },
+    {
+     "role": "Mūla, the left ear (karṇa)",
+     "hip": [
+      85927,
+      85696
+     ],
+     "attested": true,
+     "note": "λ and υ Scorpii — the stinger."
+    },
+    {
+     "role": "the eight southern-path nakshatras beginning with Maghā, as the ribs of the left side (vāma-pārśva-vaṅkri)",
+     "hip": [
+      49669,
+      54872,
+      57632,
+      59803,
+      65474,
+      69673,
+      74392,
+      78401
+     ],
+     "attested": true,
+     "note": "Maghā through Anurādhā, one junction star each: Regulus, Zosma, Denebola, Gienah, Spica, Arcturus, ι Librae, Dschubba. The text says 'the eight beginning with Maghā'; the terminus is supplied by commentators and confirmed by counting. Viśākhā is carried at ι Librae, the database's reading — the Śārdūlakarṇāvadāna's two-star horn shape would put it at α/β Librae instead."
+    },
+    {
+     "role": "the eight northern-path nakshatras beginning with Mṛgaśīrṣa, counted backwards, as the ribs of the right side (dakṣiṇa-pārśva-vaṅkri)",
+     "hip": [
+      26207,
+      21421,
+      17702,
+      12719,
+      8903,
+      5737,
+      1067,
+      113963
+     ],
+     "attested": true,
+     "note": "Mṛgaśiras back through Pūrvabhādrapadā (prātilomyena), one junction star each: Meissa, Aldebaran, Alcyone, 35 Arietis, Sheratan, ζ Piscium, Algenib, Markab. The terminus is inferred, and confirmed by counting."
+    },
+    {
+     "role": "Śatabhiṣā, the right shoulder (skandha)",
+     "hip": [
+      112961
+     ],
+     "attested": true,
+     "note": "λ Aquarii — Sāmanta's re-observation, the same star the nakshatra layer marks."
+    },
+    {
+     "role": "Jyeṣṭhā, the left shoulder (skandha)",
+     "hip": [
+      80763
+     ],
+     "attested": true,
+     "note": "Antares."
+    },
+    {
+     "role": "Agasti, the upper jaw (uttarā-hanu)",
+     "hip": [
+      30438
+     ],
+     "attested": true,
+     "note": "Canopus — certain by universal tradition, not asserted by the text."
+    },
+    {
+     "role": "Yama, the lower jaw (adharā-hanu)",
+     "hip": [],
+     "attested": false,
+     "note": "Unidentified. If Agasti is Canopus the jaw should hang in the far southern sky, and no source names its star."
+    }
+   ],
+   "citation": "Bhāgavata-purāṇa 5.23.5-7; the frame at 5.23.4 and the litany at 5.23.8",
+   "source_access": "public-domain",
+   "confidence": "likely",
+   "notes": "The one figure the Sanskrit tradition itself draws star by star. The older recension (Viṣṇu-purāṇa 2.12.29-34, with Matsya, Vāyu and Brahmāṇḍa parallels) is a compact circumpolar beast whose limbs are deities — only Dhruva of its stars is identifiable, and Matsya 125.3-7 arrays it on fourteen stars it does not name — so it is the Bhāgavata's expansion, which seats the named nakshatras on the body, that can be drawn at all. The star for each single-star nakshatra is its junction star (yogatārā) as the database identifies it — an identification of the nakshatra, not an assignment made by the Purāṇa. The planets, Nārāyaṇa at the heart, and the star-field as body-hair are in the scene, not the parts: they are not fixed stars, and a HIP number would be a false claim."
+  },
+  {
+   "id": "sanskrit-rohini-shakata",
+   "culture": "sanskrit",
+   "object": "rohini-shakata",
+   "spans": [
+    "Tau"
+   ],
+   "name_native": "रोहिणी-शकट",
+   "name_roman": "Rohiṇī-śakaṭa",
+   "name_meaning": "Rohiṇī's cart — the V of the Hyades as a wain",
+   "scene": "The one nakshatra whose shape the census states with a count: the Śārdūlakarṇāvadāna gives Rohiṇī five stars 'shaped like a wagon', with venison for its food and Prajāpati for its deity. The omen literature then watches the cart as a thing that can be damaged: if Saturn, Mars or a comet splits it — śakaṭa-bheda, driving through the gap of the V — the world goes hungry, and the Skanda-purāṇa closes the story with an etiology: since then, Saturn does not split Rohiṇī's Cart.",
+   "parts": [
+    {
+     "role": "the cart, the five stars of Rohiṇī",
+     "hip": [
+      21421,
+      20894,
+      20889,
+      20455,
+      20205
+     ],
+     "attested": true,
+     "note": "Aldebaran with θ², ε, δ and γ Tauri — the V of the Hyades. The census counts five; the database's identification adds θ¹, a fraction of a degree from θ², which the chart carries as a separate star and this record leaves to the note."
+    }
+   ],
+   "citation": "Śārdūlakarṇāvadāna, nakṣatra-vaṃśa (Divyāvadāna 33, p. 46-47: pañcatāraṃ śakaṭākāra-saṃsthānam); Bṛhat-saṃhitā 46.13-14 (śakaṭa-bheda) and 24.28-30",
+   "source_access": "public-domain",
+   "confidence": "certain",
+   "notes": "Like the Odia ladle, a whole-set claim: the sources give the shape and the count, never a vertex-by-vertex assignment, so the record is one part and the lines drawn are the received figure's own joins through the V."
+  },
+  {
+   "id": "sanskrit-mriga-vyadha",
+   "culture": "sanskrit",
+   "object": "mriga",
+   "spans": [
+    "CMa",
+    "Ori",
+    "Tau"
+   ],
+   "name_native": "मृग",
+   "name_roman": "Mṛga",
+   "name_meaning": "the deer — Prajāpati pierced, with the doe, the three-jointed arrow and the hunter",
+   "scene": "Prajāpati desired his own daughter — the sky, some say; Uṣas, say others. He became a stag and approached her as a doe. The gods assembled their most terrible forms into one being, who aimed and pierced him; pierced, he flew upward — 'and him they call the Deer'. The piercer is the Deer-piercer, of that very name; the doe is Rohiṇī; the three-jointed arrow is still the arrow. A hunt frozen across three constellations, told as the reason the sky looks the way it does.",
+   "parts": [
+    {
+     "role": "the deer's head (Mṛgaśiras)",
+     "hip": [
+      26207
+     ],
+     "attested": true,
+     "note": "Meissa, λ Orionis — the nakshatra of the head. The received head adds φ¹ and φ² Orionis, which the vendored chart does not carry."
+    },
+    {
+     "role": "the three-jointed arrow (iṣus trikāṇḍā), lodged in the deer",
+     "hip": [
+      25930,
+      26311,
+      26727
+     ],
+     "attested": true,
+     "note": "The Belt — Mintaka, Alnilam, Alnitak — joined as the received figure joins it."
+    },
+    {
+     "role": "the deer-piercer (Mṛgavyādha)",
+     "hip": [
+      32349
+     ],
+     "attested": true,
+     "note": "Sirius, on the dominant identification — the Sūrya-siddhānta's catalogue places Mṛgavyādha at the twentieth degree of Gemini, forty south, which fits; Sāmanta re-observed it. The database keeps the identification 'disputed' and so does this record."
+    },
+    {
+     "role": "the doe, Rohiṇī",
+     "hip": [
+      21421
+     ],
+     "attested": true,
+     "note": "Aldebaran — the same star the cart figure claims, wearing a different story."
+    }
+   ],
+   "citation": "Aitareya-brāhmaṇa 3.33; cf. Śatapatha-brāhmaṇa 2.1.2.8-9 and Taittirīya-brāhmaṇa 1.5.1.1",
+   "source_access": "public-domain",
+   "confidence": "likely",
+   "notes": "The oldest drawn figure in the record: a Brāhmaṇa-period tableau that only works across constellation boundaries — deer in Orion, hunter in Canis Major, doe in Taurus — which is exactly what the spans field exists to declare. The Brāhmaṇa names the cast; the star identifications are the received ones the database carries, with Mṛgavyādha's marked disputed there and here."
+  },
+  {
+   "id": "sanskrit-saptarshi-arundhati",
+   "culture": "sanskrit",
+   "object": "saptarshi",
+   "spans": [
+    "UMa"
+   ],
+   "name_native": "सप्तर्षि",
+   "name_roman": "Saptarṣi",
+   "name_meaning": "the Seven Sages, with Arundhatī keeping close to Vasiṣṭha",
+   "scene": "The Ṛgveda already asks after these stars: 'those ṛkṣāḥ set on high, seen at night — where do they go by day?', and the Śatapatha-brāhmaṇa remembers that the Seven Sages were formerly called the Bears. Varāhamihira names the seven in order, rising in the north-east — Marīci, Vasiṣṭha, Aṅgiras, Atri, Pulastya, Pulaha, Kratu — 'and there the virtuous Arundhatī keeps close to sage Vasiṣṭha'. The pair is the tradition's eyesight test and its wedding blessing at once: the bride is shown Arundhatī with the Seven, and the physicians say that one who cannot see her will not live the year.",
+   "parts": [
+    {
+     "role": "the seven sages, named in order",
+     "hip": [
+      67301,
+      65378,
+      62956,
+      59774,
+      58001,
+      53910,
+      54061
+     ],
+     "attested": true,
+     "note": "In the Bṛhat-saṃhitā's order from the east: Marīci (Alkaid), Vasiṣṭha (Mizar), Aṅgiras (Alioth), Atri (Megrez), Pulastya (Phecda), Pulaha (Merak), Kratu (Dubhe). The text gives the names and the order; star-by-star seating is the received identification the database carries."
+    },
+    {
+     "role": "Arundhatī, keeping close to sage Vasiṣṭha",
+     "hip": [
+      65477
+     ],
+     "attested": true,
+     "note": "Alcor, beside Mizar — the one per-star claim the text itself makes, and the pair every source watches."
+    }
+   ],
+   "citation": "Bṛhat-saṃhitā 13.5-6; the ṛkṣa lineage at Ṛgveda 1.24.10 and Śatapatha-brāhmaṇa 2.1.2.4; the wedding rite at Āśvalāyana-gṛhya-sūtra 1.7.22",
+   "source_access": "public-domain",
+   "confidence": "likely",
+   "notes": "The same seven stars the Mundari bier and the Bhili cot read entirely otherwise — which is the reason the figures layer exists. The seven are one part, not seven: the text assigns the set and the order, not star to name, and the record does not claim more than the text does."
   }
  ]
 }

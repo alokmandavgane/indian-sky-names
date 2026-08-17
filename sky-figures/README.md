@@ -7,7 +7,8 @@ rules than the name database, and it is small on purpose.
 
 ```
 star-names-local.json ─┐
-cultures.json          ├─→ validate.py ──→ (exit 0 or the reason why not)
+cultures.json          │
+star-names.json        ├─→ validate.py ──→ (exit 0 or the reason why not)
 sky-identity.json      │
 hipparcos-mag7.csv    ─┘        ▲
                           figures.json  (authored, not generated)
@@ -48,7 +49,7 @@ to paper over. **Lines are derived at export time from parts, never authored her
 
 | Invariant | Why |
 |---|---|
-| culture exists in `cultures.json`, object in `star-names-local.json` | a figure cannot be about a culture or a thing that isn't there |
+| culture exists in `cultures.json`, object in `star-names-local.json` — or the culture is a named tradition (`sanskrit`) and the object an id in `star-names` | a figure cannot be about a culture or a thing that isn't there; the Sanskrit tradition is not a language of the vernacular compilation, so its objects are checked against its own database |
 | every HIP is a real star in the vendored Hipparcos catalogue | catches the failure that actually happens — a mistyped number drawing a line to nowhere |
 | `spans` names every IAU constellation the stars fall in, recomputed | see below |
 | a part with stars is `attested: true`, one without is `attested: false` | an unfilled role must never read as a filled one |
@@ -76,7 +77,7 @@ validator recomputes `spans` from the catalogue and insists the record agrees.
 
 ## What is in it
 
-Five figures, 11 parts, 28 star assignments. Deliberately the ones the sources
+Nine figures, 40 parts, 92 star assignments. Deliberately the ones the sources
 actually draw:
 
 | Figure | Culture | What is attested |
@@ -86,9 +87,20 @@ actually draw:
 | the Mahua tree | Kolami | Crux as the tree; α and β Centauri as the old lady and the young one gathering flowers |
 | Dingdi's cloth-stretching | Mizo | Capella as Dingdi at the loom's apex; the two stars pinning the cloth left unassigned |
 | the ladle | Odia | all seven joined, which Praharaj states — a figure that agrees with the received one is still a figure |
+| the Śiśumāra | Sanskrit | the Bhāgavata's whole-sky body-map (5.23.5-7): Dhruva at the tail-tip, the Seven Sages at the waist, nakshatras for hips, feet, nostrils, eyes, ears, shoulders and sixteen ribs, Agasti on the upper jaw — 17 parts placed, 5 named and left unfilled |
+| Rohiṇī's cart | Sanskrit | the Śārdūlakarṇāvadāna's census: five stars, wagon-shaped — the V of the Hyades the omen books watch for śakaṭa-bheda |
+| the pierced deer | Sanskrit | Aitareya-brāhmaṇa 3.33: the deer's head at Mṛgaśiras, the Belt as the three-jointed arrow, Mṛgavyādha the hunter at Sirius, the doe at Rohiṇī — one hunt across three constellations |
+| the Seven Sages | Sanskrit | Bṛhat-saṃhitā 13.5-6: the seven named in order as one set, and Arundhatī — the text's one per-star claim — beside Vasiṣṭha at Alcor |
 
 Alkaid is unassigned in the Mundari bier because Hoffmann assigns it nothing. That
-is the shape of most records here.
+is the shape of most records here. The Śiśumāra is the one figure the Sanskrit
+tradition itself draws star by star: the older recension (Viṣṇu-purāṇa 2.12 and
+parallels) seats deities on the limbs and identifies almost nothing, so it is the
+Bhāgavata's expansion — nakshatras for limbs — that can be drawn at all. Its
+planets, Nārāyaṇa at the heart, and the star-field as body-hair stay in the scene:
+they are not fixed stars, and a HIP number would be a false claim. The Seven Sages
+are one part, not seven: Varāhamihira assigns the set and the order, not star to
+name, and the record claims no more than the text.
 
 ## Running it
 
