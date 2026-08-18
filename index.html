@@ -45,20 +45,21 @@ input[type=search]{flex:1;min-width:14rem}
 .chip.tribal{color:var(--r-tribal)} .chip.borrowed{color:var(--r-borrowed)}
 .count{color:var(--ink3);font-size:.85rem;margin:0 0 .5rem}
 .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--panel)}
-table{border-collapse:collapse;width:max-content;min-width:100%;font-size:.88rem}
+table{border-collapse:collapse;width:100%;font-size:.88rem}
 th{position:sticky;top:0;background:var(--panel);text-align:left;color:var(--ink3);
   font-weight:600;font-size:.78rem;letter-spacing:.4px;padding:.55rem .7rem;border-bottom:1px solid var(--line)}
 td{padding:.5rem .7rem;border-bottom:1px solid var(--line);vertical-align:top}
 tr:last-child td{border-bottom:none}
-td.nat{font-family:var(--indic);font-size:1.05rem;white-space:nowrap}
+td.nat{font-family:var(--indic);font-size:1.05rem;max-width:18rem}
 td.obj a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--ink3)}
 td.obj a:hover{color:var(--accent)}
 .reg{font-size:.72rem;border:1px solid currentColor;border-radius:999px;padding:.05rem .5rem;white-space:nowrap}
 .reg.vernacular{color:var(--r-vernacular)} .reg.folk{color:var(--r-folk)}
 .reg.tribal{color:var(--r-tribal)} .reg.borrowed{color:var(--r-borrowed)}
-td.cite,td.mean{color:var(--ink2);min-width:14rem;max-width:26rem}
+td.cite,td.mean{color:var(--ink2);min-width:12rem;max-width:22rem}
 td.cite{font-size:.78rem;color:var(--ink3)}
-td.iast{white-space:nowrap}
+.stack{display:block;font-family:var(--sans);font-size:.78rem;color:var(--ink2);
+  white-space:normal;margin-top:.1rem}
 .loading{color:var(--ink3);padding:2rem;text-align:center}
 footer{margin-top:2.2rem;color:var(--ink3);font-size:.82rem}
 footer a{color:var(--ink3)}
@@ -162,25 +163,21 @@ function render() {
       matches(r, state.q) &&
       (!state.lang || r.language === state.lang) &&
       (!state.registers.size || state.registers.has(r.register)));
-    head = "<tr><th>Object</th><th>Language</th><th>Name</th><th>Romanization</th><th>Meaning</th><th>Register</th><th>Source</th></tr>";
+    head = "<tr><th>Object</th><th>Language</th><th>Name</th><th>Meaning</th><th>Source</th></tr>";
     body = rows.map(r => `<tr>
       <td class="obj"><a href="https://sky.alokm.com/sky/${esc(r.key)}/">${esc(r.object)}</a></td>
-      <td>${esc(r.language)}</td>
-      <td class="nat" lang="${esc(r.iso)}">${esc(r.native) || "<span style='color:var(--ink3)'>—</span>"}</td>
-      <td>${esc(r.roman)}</td>
+      <td>${esc(r.language)}${r.register ? `<span class="stack"><span class="reg ${esc(r.register)}">${esc(r.register)}</span></span>` : ""}</td>
+      <td class="nat" lang="${esc(r.iso)}">${esc(r.native) || "<span style='color:var(--ink3)'>—</span>"}${r.roman ? `<span class="stack">${esc(r.roman)}</span>` : ""}</td>
       <td class="mean">${esc(r.meaning)}</td>
-      <td>${r.register ? `<span class="reg ${esc(r.register)}">${esc(r.register)}</span>` : ""}</td>
       <td class="cite">${esc(r.citation)}</td></tr>`).join("");
     $("count").textContent = `${rows.length} names`;
   } else {
     rows = rowsSanskrit(d).filter(r => matches(r, state.q));
-    head = "<tr><th>Name</th><th>IAST</th><th>Category</th><th>Modern identification</th><th>Confidence</th><th>Attested in</th></tr>";
+    head = "<tr><th>Name</th><th>Category</th><th>Modern identification</th><th>Attested in</th></tr>";
     body = rows.map(r => `<tr>
-      <td class="nat obj" lang="sa"><a href="https://sky.alokm.com/star/${esc(r.id)}/">${esc(r.devanagari)}</a></td>
-      <td class="iast">${esc(r.iast)}</td>
+      <td class="nat obj" lang="sa"><a href="https://sky.alokm.com/star/${esc(r.id)}/">${esc(r.devanagari)}</a>${r.iast ? `<span class="stack">${esc(r.iast)}</span>` : ""}</td>
       <td>${esc(r.category)}</td>
-      <td class="mean">${esc(r.modern)}</td>
-      <td>${esc(r.confidence)}</td>
+      <td class="mean">${esc(r.modern) || "<span style='color:var(--ink3)'>—</span>"}${r.confidence ? `<span class="stack">${esc(r.confidence)}</span>` : ""}</td>
       <td class="cite">${esc(r.texts)} · ${r.refs} ref${r.refs === 1 ? "" : "s"}</td></tr>`).join("");
     $("count").textContent = `${rows.length} entries`;
   }
