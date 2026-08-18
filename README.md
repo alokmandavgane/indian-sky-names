@@ -2,6 +2,9 @@
 
 What the languages and traditions of South Asia call the sky — and what they draw in it.
 
+**[Browse the record as tables →](https://alokmandavgane.github.io/indian-sky-names/)**
+— every name, filterable by language and register, straight from the JSON.
+
 Four research databases, built to be checked: every name carries its source cited to the
 page, every Sanskrit attestation reproduces its śloka verbatim with a translation credited
 to its translator, and every editorial judgment is written down next to the data it judges.

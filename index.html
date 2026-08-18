@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indian Sky Names — the record, as a table</title>
+<meta name="description" content="975 vernacular star names in 57 South Asian languages and 168 Sanskrit attestations, every one cited to the page. Browse the record as tables.">
+<style>
+:root {
+  color-scheme: dark light;
+  --bg:#0a0f1e; --panel:#121a30; --ink:#e9eef8; --ink2:#9aa6c0; --ink3:#5d6a88;
+  --line:#232f4d; --accent:#3987e5;
+  --r-vernacular:#3987e5; --r-folk:#c98500; --r-tribal:#d55181; --r-borrowed:#5d6a88;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --indic:"Noto Sans Devanagari","Noto Sans Tamil","Noto Sans Telugu","Noto Sans Kannada",
+    "Noto Sans Malayalam","Noto Sans Bengali","Noto Sans Gujarati","Noto Sans Oriya",
+    "Noto Sans Gurmukhi","Noto Sans Sinhala","Noto Serif Tibetan","Noto Sans Ol Chiki",
+    "Noto Sans Thaana","Noto Nastaliq Urdu",var(--sans);
+}
+@media (prefers-color-scheme: light) {
+  :root { --bg:#fbfaf7; --panel:#fff; --ink:#1a2035; --ink2:#4d5872; --ink3:#79839c;
+    --line:#e0e2ea; --accent:#1a5fb4;
+    --r-vernacular:#1a5fb4; --r-folk:#8a5a00; --r-tribal:#a3305c; --r-borrowed:#79839c; }
+}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55;font-size:15px}
+.wrap{max-width:72rem;margin:0 auto;padding:1.2rem 1.25rem 4rem}
+h1{font-size:1.45rem;margin:.2rem 0 .3rem}
+.sub{color:var(--ink2);max-width:46rem}
+.sub a{color:var(--accent)}
+.charts{margin:.6rem 0 0;color:var(--ink3);font-size:.86rem}
+.charts a{color:var(--ink2)}
+.tabs{display:flex;gap:.5rem;margin:1.2rem 0 .8rem;flex-wrap:wrap}
+.tab{border:1px solid var(--line);background:var(--panel);color:var(--ink2);border-radius:999px;
+  padding:.4rem .95rem;font-size:.9rem;cursor:pointer}
+.tab[aria-selected=true]{color:var(--ink);border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.controls{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:0 0 .7rem}
+input[type=search],select{background:var(--panel);color:var(--ink);border:1px solid var(--line);
+  border-radius:9px;padding:.45rem .7rem;font-size:.9rem;font-family:var(--indic)}
+input[type=search]{flex:1;min-width:14rem}
+.chip{border:1px solid var(--line);background:none;border-radius:999px;padding:.25rem .7rem;
+  font-size:.8rem;cursor:pointer;color:var(--ink2)}
+.chip[aria-pressed=true]{color:var(--ink);border-color:currentColor}
+.chip.vernacular{color:var(--r-vernacular)} .chip.folk{color:var(--r-folk)}
+.chip.tribal{color:var(--r-tribal)} .chip.borrowed{color:var(--r-borrowed)}
+.count{color:var(--ink3);font-size:.85rem;margin:0 0 .5rem}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--panel)}
+table{border-collapse:collapse;width:max-content;min-width:100%;font-size:.88rem}
+th{position:sticky;top:0;background:var(--panel);text-align:left;color:var(--ink3);
+  font-weight:600;font-size:.78rem;letter-spacing:.4px;padding:.55rem .7rem;border-bottom:1px solid var(--line)}
+td{padding:.5rem .7rem;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:none}
+td.nat{font-family:var(--indic);font-size:1.05rem;white-space:nowrap}
+td.obj a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--ink3)}
+td.obj a:hover{color:var(--accent)}
+.reg{font-size:.72rem;border:1px solid currentColor;border-radius:999px;padding:.05rem .5rem;white-space:nowrap}
+.reg.vernacular{color:var(--r-vernacular)} .reg.folk{color:var(--r-folk)}
+.reg.tribal{color:var(--r-tribal)} .reg.borrowed{color:var(--r-borrowed)}
+td.cite,td.mean{color:var(--ink2);min-width:14rem;max-width:26rem}
+td.cite{font-size:.78rem;color:var(--ink3)}
+td.iast{white-space:nowrap}
+.loading{color:var(--ink3);padding:2rem;text-align:center}
+footer{margin-top:2.2rem;color:var(--ink3);font-size:.82rem}
+footer a{color:var(--ink3)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Indian Sky Names</h1>
+  <p class="sub">What the languages and traditions of South Asia call the sky: the vernacular
+  record and the Sanskrit attestations, every name cited to its page. The tables below are the
+  <a href="https://github.com/alokmandavgane/indian-sky-names">repository's</a> own JSON, read
+  directly — what you see is the record. Objects link to the
+  <a href="https://sky.alokm.com">atlas</a>, where each has a page of its own.</p>
+  <p class="charts">Also in the record:
+    <a href="star-names-local/sky-chart.html">the vernacular sky as a chart</a> ·
+    <a href="star-names/sky-chart.html">the Sanskrit sky</a> ·
+    <a href="star-names-local/coverage-matrix.html">the coverage matrix</a></p>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tab-local" aria-selected="true">Vernacular · 57 languages</button>
+    <button class="tab" role="tab" id="tab-sanskrit" aria-selected="false">Sanskrit · 168 entries</button>
+  </div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Filter — name, language, object, meaning…" aria-label="Filter the table">
+    <select id="lang" aria-label="Language"><option value="">All languages</option></select>
+    <span id="chips"></span>
+  </div>
+  <p class="count" id="count"></p>
+  <div class="tablewrap"><div class="loading" id="loading">Loading the record…</div><table id="table" hidden></table></div>
+
+  <footer>
+    Data and prose <a href="LICENSE">CC BY 4.0</a>; scripts <a href="LICENSE-CODE">MIT</a>.
+    A record kept for <a href="https://sky.alokm.com">sky.alokm.com</a> and the भगोल Bhagol app.
+  </footer>
+</div>
+
+<script>
+"use strict";
+/* The page is a viewer of the shipped JSON — no build step, so it cannot lag the record.
+   Each tab's data is fetched when first shown; the local record (~1.9 MB) is the landing tab. */
+const state = { tab: "local", q: "", lang: "", registers: new Set(), data: {} };
+const REGISTERS = ["vernacular", "folk", "tribal", "borrowed"];
+
+const $ = id => document.getElementById(id);
+const esc = s => (s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+async function load(tab) {
+  if (state.data[tab]) return state.data[tab];
+  $("loading").hidden = false; $("table").hidden = true;
+  const url = tab === "local" ? "star-names-local/star-names-local.json" : "star-names/star-names.json";
+  const d = await (await fetch(url)).json();
+  state.data[tab] = d;
+  return d;
+}
+
+function rowsLocal(d) {
+  const rows = [];
+  for (const obj of d.objects) {
+    for (const n of obj.names) {
+      rows.push({
+        object: obj.title, key: obj.key,
+        language: n.language, iso: n.iso639_3 || "",
+        native: n.name_native || "", roman: n.name_roman || "",
+        meaning: n.literal_meaning || "", register: n.register || "",
+        citation: n.citation || "",
+      });
+    }
+  }
+  return rows;
+}
+
+function rowsSanskrit(d) {
+  return d.stars.map(s => ({
+    devanagari: s.name_devanagari || "", iast: s.name_iast || "", id: s.id,
+    category: s.category || "",
+    modern: [s.modern_star && s.modern_star.common_name, s.modern_star && s.modern_star.bayer]
+      .filter(Boolean).join(" · "),
+    confidence: s.identification_confidence || "",
+    refs: (s.references || []).length,
+    texts: [...new Set((s.references || []).map(r => (r.text || "")))].filter(Boolean).join(", "),
+  }));
+}
+
+function matches(row, q) {
+  if (!q) return true;
+  const hay = Object.values(row).join(" ").toLowerCase();
+  // Diacritic-folded too: the query is typed plain far more often than correctly.
+  const folded = hay.normalize("NFD").replace(/[̀-ͯ]/g, "");
+  const needle = q.toLowerCase();
+  return hay.includes(needle) || folded.includes(needle.normalize("NFD").replace(/[̀-ͯ]/g, ""));
+}
+
+function render() {
+  const tab = state.tab, d = state.data[tab];
+  if (!d) return;
+  const table = $("table");
+  let rows, head, body;
+  if (tab === "local") {
+    rows = rowsLocal(d).filter(r =>
+      matches(r, state.q) &&
+      (!state.lang || r.language === state.lang) &&
+      (!state.registers.size || state.registers.has(r.register)));
+    head = "<tr><th>Object</th><th>Language</th><th>Name</th><th>Romanization</th><th>Meaning</th><th>Register</th><th>Source</th></tr>";
+    body = rows.map(r => `<tr>
+      <td class="obj"><a href="https://sky.alokm.com/sky/${esc(r.key)}/">${esc(r.object)}</a></td>
+      <td>${esc(r.language)}</td>
+      <td class="nat" lang="${esc(r.iso)}">${esc(r.native) || "<span style='color:var(--ink3)'>—</span>"}</td>
+      <td>${esc(r.roman)}</td>
+      <td class="mean">${esc(r.meaning)}</td>
+      <td>${r.register ? `<span class="reg ${esc(r.register)}">${esc(r.register)}</span>` : ""}</td>
+      <td class="cite">${esc(r.citation)}</td></tr>`).join("");
+    $("count").textContent = `${rows.length} names`;
+  } else {
+    rows = rowsSanskrit(d).filter(r => matches(r, state.q));
+    head = "<tr><th>Name</th><th>IAST</th><th>Category</th><th>Modern identification</th><th>Confidence</th><th>Attested in</th></tr>";
+    body = rows.map(r => `<tr>
+      <td class="nat obj" lang="sa"><a href="https://sky.alokm.com/star/${esc(r.id)}/">${esc(r.devanagari)}</a></td>
+      <td class="iast">${esc(r.iast)}</td>
+      <td>${esc(r.category)}</td>
+      <td class="mean">${esc(r.modern)}</td>
+      <td>${esc(r.confidence)}</td>
+      <td class="cite">${esc(r.texts)} · ${r.refs} ref${r.refs === 1 ? "" : "s"}</td></tr>`).join("");
+    $("count").textContent = `${rows.length} entries`;
+  }
+  table.innerHTML = head + body;
+  $("loading").hidden = true; table.hidden = false;
+}
+
+function buildControls(tab) {
+  const langSel = $("lang"), chips = $("chips");
+  if (tab === "local") {
+    const d = state.data.local;
+    const langs = [...new Set(d.objects.flatMap(o => o.names.map(n => n.language)))].sort();
+    langSel.innerHTML = '<option value="">All languages</option>' +
+      langs.map(l => `<option${l === state.lang ? " selected" : ""}>${esc(l)}</option>`).join("");
+    langSel.hidden = false;
+    chips.innerHTML = REGISTERS.map(r =>
+      `<button class="chip ${r}" aria-pressed="${state.registers.has(r)}" data-reg="${r}">${r}</button>`).join(" ");
+  } else {
+    langSel.hidden = true; chips.innerHTML = "";
+  }
+}
+
+async function show(tab) {
+  state.tab = tab;
+  $("tab-local").setAttribute("aria-selected", tab === "local");
+  $("tab-sanskrit").setAttribute("aria-selected", tab === "sanskrit");
+  await load(tab);
+  buildControls(tab);
+  render();
+}
+
+$("tab-local").onclick = () => show("local");
+$("tab-sanskrit").onclick = () => show("sanskrit");
+$("q").oninput = e => { state.q = e.target.value.trim(); render(); };
+$("lang").onchange = e => { state.lang = e.target.value; render(); };
+$("chips").onclick = e => {
+  const reg = e.target.dataset && e.target.dataset.reg;
+  if (!reg) return;
+  state.registers.has(reg) ? state.registers.delete(reg) : state.registers.add(reg);
+  buildControls(state.tab); render();
+};
+show("local");
+</script>
+</body>
+</html>
