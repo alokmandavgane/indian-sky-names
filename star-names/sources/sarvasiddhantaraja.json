@@ -75,6 +75,384 @@
    "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
    "identification_notes": "The catalogue's closing entry names Revatī's star by its presiding deity — Pauṣṇa, 'of Pūṣan' — the same deity-title convention the Śārdūlakarṇāvadāna's lists use (cf. this database's Pauṣṇa/Tvāṣṭra aliases). Coordinates agree with ζ Psc, with ε Psc also compatible (Pai & Shylaja 2021). Shloka null: see source caveats.",
    "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped."
+  },
+  {
+   "db_id": "nadyantaka",
+   "name_devanagari": "नाड्यन्तक",
+   "name_iast": "Nāḍyantaka",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "the river's end",
+    "bayer": "γ Phoenicis (α Phe also compatible)",
+    "constellation": "Phoenix"
+   },
+   "identification_confidence": "likely",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 5 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "The magnitude of Nāḍyantaka is five degrees sixteen minutes [of dhruvaka], of the first order of brightness.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "'End of the river' — the catalogue opens south of the ecliptic zero, continuing Eridanus past its classical mouth, mirroring the Arabic river-end tradition for this region. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "matsyodara",
+   "name_devanagari": "मत्स्योदर",
+   "name_iast": "Matsyodara",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Mirach",
+    "bayer": "β Andromedae",
+    "constellation": "Andromeda"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 5 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Matsyodara, the belly of the fish, with its stated pair of coordinates.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "Renders the Arabic Batn al-Ḥūt ('belly of the fish') into Sanskrit — the same star the nakṣatra tradition reaches as Uttarabhādrapadā's neighbour. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "aptapani",
+   "name_devanagari": "आप्तपाणि",
+   "name_iast": "Āptapāṇi",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Schedar",
+    "bayer": "α Cassiopeiae",
+    "constellation": "Cassiopeia"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 6 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Āptapāṇi with its coordinates as stated, of the third order of brightness.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "One of the catalogue's three Cassiopeia stars (with Pīṭhamūla γ Cas and Supīṭha δ Cas) — a constellation the classical nakṣatra lists never touch. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "manusha-shirsha",
+   "name_devanagari": "मानुषशीर्ष",
+   "name_iast": "Mānuṣaśīrṣa",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Algol",
+    "bayer": "β Persei",
+    "constellation": "Perseus"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 11 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Mānuṣaśīrṣa, the human head, with its coordinates as stated.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "Ra's al-Ghūl, the Demon's Head, translated into Sanskrit; the Yantrarāja tradition's Pretaśira ('corpse-head') is the same image a generation earlier. The famous variable enters the Sanskrit record under a severed head's name in both. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "skanda",
+   "name_devanagari": "स्कन्द",
+   "name_iast": "Skanda",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Capella",
+    "bayer": "α Aurigae",
+    "constellation": "Auriga"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 12 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "With a third of a degree added to one degree [of śara], Skanda shines with the first order of brightness.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "Capella under a name of its own — the Sūrya-siddhānta tradition's Brahma-hṛdaya (this database's brahmahridaya) — evidence the catalogue renames as it translates. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "dhruvaksha",
+   "name_devanagari": "ध्रुवाक्ष",
+   "name_iast": "Dhruvākṣa",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "the ecliptic pole star",
+    "bayer": "χ Draconis",
+    "constellation": "Draco"
+   },
+   "identification_confidence": "likely",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 19 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Dhruvākṣa, of the second magnitude, stands always to the north.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The pole of the ECLIPTIC, named as a star — a concept no earlier Indian catalogue names, arriving with the Ptolemaic-Persian frame. Paired with Pūrvadhruvākṣa. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "purva-dhruvaksha",
+   "name_devanagari": "पूर्वध्रुवाक्ष",
+   "name_iast": "Pūrvadhruvākṣa",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "the former pole marker",
+    "bayer": "δ Draconis",
+    "constellation": "Draco"
+   },
+   "identification_confidence": "likely",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 19 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Pūrvadhruvākṣa, the earlier [marker of the ecliptic pole], beside it.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The second of the catalogue's ecliptic-pole pair; δ Dra sits near the pole's precessional path, which the name 'former' may itself record. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "trivikrama",
+   "name_devanagari": "त्रिविक्रम",
+   "name_iast": "Trivikrama",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "three star-pairs in Ursa Major",
+    "bayer": "ι+κ, λ+μ, ν+ξ Ursae Majoris",
+    "constellation": "Ursa Major"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 27 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "The three such twin pairs (yugmaka) are imagined as the feet of Trivikrama.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "Viṣṇu's three strides as three two-star footprints — the Arabic 'leaps of the gazelle' re-imagined. Pai & Shylaja call the figure hitherto unknown; Shylaja links it to the Trivikrama of the Khmer Prasat Kok Po inscription (1004 CE). Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "nauka",
+   "name_devanagari": "नौका",
+   "name_iast": "Naukā",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Naos region",
+    "bayer": "ζ Puppis",
+    "constellation": "Puppis"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 22 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Naukā, the ship, in the southern sky with its coordinates as stated.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The Ship where Greek tradition also sails Argo — and the modern name Naos ('ship') for ζ Pup preserves the same image; the Sanskrit catalogue reaches it independently through the Ptolemaic frame. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "bhujanga",
+   "name_devanagari": "भुजङ्ग",
+   "name_iast": "Bhujaṅga",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Regor region",
+    "bayer": "γ Velorum",
+    "constellation": "Vela"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 24 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Bhujaṅga, the serpent, with its stated coordinates in the south.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The brightest Wolf-Rayet star in the sky, catalogued in Sanskrit in 1639 as a serpent of the far south. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "matrichakra",
+   "name_devanagari": "मातृचक्र",
+   "name_iast": "Mātṛcakra",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Alphecca",
+    "bayer": "α Coronae Borealis",
+    "constellation": "Corona Borealis"
+   },
+   "identification_confidence": "likely",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 37 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Mātṛcakra, the mothers' circle, of the second order of brightness.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The Crown as the circle of the Mothers; the Yantrarāja tradition carries the same object as Mātṛmaṇḍala rendering Arabic al-Fakka. Pai & Shylaja's table admits δ Boo as an alternative reduction. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "dvijeshvara",
+   "name_devanagari": "द्विजेश्वर",
+   "name_iast": "Dvijeśvara",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Gacrux",
+    "bayer": "γ Crucis",
+    "constellation": "Crux"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 37 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Dvijeśvara, lord of the twice-born, in the deep south.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "A Southern Cross star under a Sanskrit name — the catalogue's Persian-Ptolemaic sources reached declinations the nakṣatra tradition never needed. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "nripada",
+   "name_devanagari": "नृपाद",
+   "name_iast": "Nṛpāda",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Rigil Kentaurus",
+    "bayer": "α Centauri",
+    "constellation": "Centaurus"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 40 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Nṛpāda, the foot of the man, with the first order of brightness.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The Centaur's foot, as in the Greek; Shylaja reads the Khmer Prasat Kok Po inscription's bright 'foot of a man' (1004 CE) against this star's tradition in her SN 1006 argument. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "vayasa",
+   "name_devanagari": "वायस",
+   "name_iast": "Vāyasa",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Albireo",
+    "bayer": "β Cygni",
+    "constellation": "Cygnus"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 45 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Vāyasa, the crow, at the bird's head.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The catalogue sees a crow where Ptolemy's tradition sees the Swan's beak; its Kākapuccha ('crow's tail') for Deneb completes the same bird eight verses later. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "matsyasya-puccha",
+   "name_devanagari": "मत्स्यस्यपुच्छ",
+   "name_iast": "Matsyasyapuccha",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Alnair",
+    "bayer": "α Gruis",
+    "constellation": "Grus"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 49 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Matsyasyapuccha, the tail of the fish, in the far south.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The Crane's brightest star read as a fish's tail — the southern Fish imagery of the Arabic tradition extended past Fomalhaut. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "jantupuccha",
+   "name_devanagari": "जन्तुपुच्छ",
+   "name_iast": "Jantupuccha",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Diphda",
+    "bayer": "β Ceti",
+    "constellation": "Cetus"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 51 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Jantupuccha, the creature's tail, with its stated coordinates.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The sea-monster's tail, exactly where Ptolemaic Cetus keeps it. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "kapala",
+   "name_devanagari": "कपाल",
+   "name_iast": "Kapāla",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Fomalhaut",
+    "bayer": "α Piscis Austrini",
+    "constellation": "Piscis Austrinus"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 52 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Kapāla, the skull, of the first order of brightness in the south.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "An attested 1639 Sanskrit name for Fomalhaut — a star whose modern 'Indian' names elsewhere trace only to 20th-century coinages; here the record antedates them by three centuries. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
+  },
+  {
+   "db_id": "kakapuccha",
+   "name_devanagari": "काकपुच्छ",
+   "name_iast": "Kākapuccha",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Deneb",
+    "bayer": "α Cygni",
+    "constellation": "Cygnus"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 53 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Kākapuccha, the crow's tail, bright at the bird's tail.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "Dhanab al-Dajāja, 'the hen's tail', re-imagined as a crow's — and an attested Sanskrit name for Deneb, whose Haṃsa label elsewhere is a 2011 coinage this database already retired. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal."
   }
  ]
 }

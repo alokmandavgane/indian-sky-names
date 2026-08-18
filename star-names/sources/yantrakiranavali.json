@@ -1,0 +1,57 @@
+{
+ "source_text": "Yantrakiraṇāvalī (1423)",
+ "sanskrit_etext_urls": [
+  "https://web.archive.org/web/20240710130443id_/https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol32_3_3_YOhashi.pdf"
+ ],
+ "translation_urls": [
+  "https://www.ias.ac.in/article/fulltext/joaa/041/0020"
+ ],
+ "caveats": [
+  "Padmanābha's astrolabe manual (1423 CE), ch. I (Yantrarājādhikāra), survives in two Lucknow MSS; the complete Sanskrit text and translation is Ohashi, IJHS 32.3 (1997) — an image scan, so shloka fields are empty pending an OCR proofread (nothing retyped).",
+  "Star identifications follow Pai & Shylaja, 'The southern stars identified in Indian astronomical catalogues', JApA 41:20 (2020), who single out these two names as first attestations — Sanskrit formations, not translations from the Arabic."
+ ],
+ "entries": [
+  {
+   "db_id": "ashvamukha",
+   "name_devanagari": "अश्वमुख",
+   "name_iast": "Aśvamukha",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Rasalgethi",
+    "bayer": "α Herculis",
+    "constellation": "Hercules"
+   },
+   "identification_confidence": "likely",
+   "text_date": "1423 CE",
+   "citation": "Yantrakiraṇāvalī, Yantrarājādhikāra star table (ed. Ohashi 1997; identified in Pai & Shylaja 2020)",
+   "shloka_devanagari": "",
+   "shloka_note": "Ohashi's edition is an image scan; pending OCR proofread.",
+   "shloka_source_url": "https://web.archive.org/web/20240710130443id_/https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol32_3_3_YOhashi.pdf",
+   "translation_en": "Aśvamukha, the horse's face, among the stars of the astrolabe table.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/article/fulltext/joaa/041/0020",
+   "identification_notes": "First attestation of the name — a Sanskrit formation, not an Arabic translation (Pai & Shylaja 2020). The kneeling Hercules' head star read as a horse's face. Coordinates reduce to α Her."
+  },
+  {
+   "db_id": "torana",
+   "name_devanagari": "तोरण",
+   "name_iast": "Toraṇa",
+   "name_status": "new-name",
+   "modern_star": {
+    "common_name": "Unukalhai",
+    "bayer": "α Serpentis",
+    "constellation": "Serpens"
+   },
+   "identification_confidence": "likely",
+   "text_date": "1423 CE",
+   "citation": "Yantrakiraṇāvalī, Yantrarājādhikāra star table (ed. Ohashi 1997; identified in Pai & Shylaja 2020)",
+   "shloka_devanagari": "",
+   "shloka_note": "Ohashi's edition is an image scan; pending OCR proofread.",
+   "shloka_source_url": "https://web.archive.org/web/20240710130443id_/https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol32_3_3_YOhashi.pdf",
+   "translation_en": "Toraṇa, the arched gateway, among the stars of the astrolabe table.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/article/fulltext/joaa/041/0020",
+   "identification_notes": "First attestation, a Sanskrit formation (Pai & Shylaja 2020): the Serpent's neck star as a toraṇa, the festal arch. The Sarvasiddhāntarāja later carries the region as Sarpaśīrṣa."
+  }
+ ]
+}

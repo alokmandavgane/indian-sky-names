@@ -56,6 +56,26 @@ P = {
                          "Disputed: the text mixes γ Pegasi (Algenib, plotted here) with α Andromedae; see notes."),
     "revati":           (18.44,   7.57, 5.21, "star", None, None),  # zeta Psc
     # ---- individually named stars ----
+    # ---- the astrolabe-era catalogues (Yantrakiraṇāvalī 1423, Sarvasiddhāntarāja 1639) ----
+    "nadyantaka":       (22.09, -43.32, 3.41, "star", None, None),   # γ Phe
+    "matsyodara":       (17.43,  35.62, 2.05, "star", None, None),   # β And Mirach
+    "aptapani":         (10.13,  56.54, 2.24, "star", None, None),   # α Cas Schedar
+    "manusha-shirsha":  (47.04,  40.96, 2.12, "star", None, None),   # β Per Algol
+    "skanda":           (79.17,  46.00, 0.08, "star", None, None),   # α Aur Capella
+    "dhruvaksha":       (275.26, 72.73, 3.57, "star", None, None),   # χ Dra
+    "purva-dhruvaksha": (288.14, 67.66, 3.07, "star", None, None),   # δ Dra
+    "nauka":            (120.90,-40.00, 2.25, "star", None, None),   # ζ Pup
+    "bhujanga":         (122.38,-47.34, 1.83, "star", None, None),   # γ Vel
+    "matrichakra":      (233.67, 26.71, 2.23, "star", None, None),   # α CrB Alphecca
+    "dvijeshvara":      (187.79,-57.11, 1.64, "star", None, None),   # γ Cru Gacrux
+    "nripada":          (219.90,-60.83,-0.27, "star", None, None),   # α Cen
+    "vayasa":           (292.68, 27.96, 3.18, "star", None, None),   # β Cyg Albireo
+    "matsyasya-puccha": (332.06,-46.96, 1.74, "star", None, None),   # α Gru Alnair
+    "jantupuccha":      (10.90, -17.99, 2.02, "star", None, None),   # β Cet Diphda
+    "kapala":           (344.41,-29.62, 1.16, "star", None, None),   # α PsA Fomalhaut
+    "kakapuccha":       (310.36, 45.28, 1.25, "star", None, None),   # α Cyg Deneb
+    "ashvamukha":       (258.66, 14.39, 3.08, "star", None, None),   # α Her Rasalgethi
+    "torana":           (236.07,  6.43, 2.63, "star", None, None),   # α Ser Unukalhai
     "agastya":          (95.99, -52.70,-0.74, "star", None,
                          "Deep-south star; lies low on the horizon from India — the theme of Bṛhat Saṃhitā ch. 12."),
     "mrigavyadha":      (101.29,-16.72,-1.46, "star", None, None),  # Sirius
@@ -234,6 +254,8 @@ def short_dev(name):
     return re.split(r"[,(（/]", name)[0].strip()
 
 UNPLOTTED_NOTE = {
+    "trivikrama": ("Three two-star footprints spanning forty degrees of Ursa Major are a figure, "
+                   "not a point; the three yugmaka pairs are plotted through the Saptarṣi chart."),
     "yama-samanta": "Sāmanta gives this southern star coordinates (dhruva 66°, 22° south) but no identification "
                     "has been made; recorded unemended rather than guessed at.",
     "suravithi": "A road of the gods named at Mahābhārata 3.44.12 with no asterisms attached — it does not belong "

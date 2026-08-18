@@ -37,6 +37,7 @@ SOURCES = {
     "lexicons_buddhist": "Lexicons, Nirukta & Buddhist",
     "later_siddhantas": "Later siddhāntas & al-Bīrūnī",
     "sarvasiddhantaraja": "Sarvasiddhāntarāja (1639)",
+    "yantrakiranavali": "Yantrakiraṇāvalī (1423)",
     "utpala": "Utpala's commentary",
     "panini": "Pāṇini & Patañjali",
     "vatesvara_samanta": "Vaṭeśvara & Sāmanta",
@@ -124,7 +125,7 @@ CANON = {
 
 # Sources whose entries carry an explicit "db_id" (newer research files); the
 # older four are mapped through CANON above.
-DB_ID_SOURCES = {"vedic_expansion", "puranas", "lexicons_buddhist", "later_siddhantas", "sarvasiddhantaraja",
+DB_ID_SOURCES = {"vedic_expansion", "puranas", "lexicons_buddhist", "later_siddhantas", "sarvasiddhantaraja", "yantrakiranavali",
                  "utpala", "panini", "vatesvara_samanta", "kerala", "xiuyao",
                  "epics", "kavya"}
 
@@ -141,6 +142,15 @@ INDIVIDUAL = ["agastya", "mrigavyadha", "lubdhaka", "agni", "brahmahridaya",
               # further names for the same few bright stars, plus one unidentified
               "kumbhasambhava", "maitravaruni", "muni", "mrigahartri",
               "lopamudravallabha", "auttanapadi", "shula", "kumbhayoni", "yama-samanta"]
+# The astrolabe-era catalogues (Yantrakiraṇāvalī 1423, Sarvasiddhāntarāja 1639):
+# stars the nakṣatra tradition never listed, entering through the Persian-Ptolemaic frame.
+LATE_CATALOGUE = ["nadyantaka", "matsyodara", "aptapani", "manusha-shirsha", "skanda",
+                  "dhruvaksha", "purva-dhruvaksha", "nauka", "bhujanga", "matrichakra",
+                  "dvijeshvara", "nripada", "vayasa", "matsyasya-puccha", "jantupuccha",
+                  "kapala", "kakapuccha", "ashvamukha", "torana"]
+# ...and the one figure among them, three star-pairs read as Viṣṇu's strides.
+LATE_ASTERISM = ["trivikrama"]
+
 SAPTARSHI = ["saptarshi", "marichi", "vasishtha", "angiras", "atri",
              "pulastya", "pulaha", "kratu", "arundhati"]
 # Asterisms of the Vedic star-lore proper (the Orion tableau, the Bears)
@@ -188,6 +198,8 @@ COLLECTIVE = ["yogatara-catalog", "dakshayanyah", "citrashikhandin",
 CATEGORY = {}
 for i in NAKSHATRAS: CATEGORY[i] = "nakshatra"
 for i in INDIVIDUAL: CATEGORY[i] = "individual-star"
+for i in LATE_CATALOGUE: CATEGORY[i] = "individual-star"
+for i in LATE_ASTERISM: CATEGORY[i] = "late-asterism"
 for i in SAPTARSHI: CATEGORY[i] = "saptarshi"
 for i in VEDIC_EXTRA: CATEGORY[i] = "vedic-asterism"
 for i in NAKSHATRA_ALIAS: CATEGORY[i] = "nakshatra-alias"
@@ -371,7 +383,8 @@ def main():
                     s["identification_confidence"] = e["identification_confidence"]
 
     # deterministic order: category blocks, then first-seen within each
-    block = (NAKSHATRAS + NAKSHATRA_ALIAS + INDIVIDUAL + SAPTARSHI + VEDIC_EXTRA
+    block = (NAKSHATRAS + NAKSHATRA_ALIAS + INDIVIDUAL + LATE_CATALOGUE + LATE_ASTERISM
+             + SAPTARSHI + VEDIC_EXTRA
              + SKY_FIGURE + SHISHUMARA_POS + STAR_ROAD + MILKY_WAY + SKY_REGION
              + STAR_WORD + COLLECTIVE)
     ordered = [stars[i] for i in block if i in stars]
