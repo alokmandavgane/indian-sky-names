@@ -6,11 +6,11 @@ What speakers of the different Indian languages call a star, an asterism or a co
 
 > **This file is generated — do not edit it.** The originals are the research files in [`sources/`](sources/). See [`FORMAT.md`](FORMAT.md) for the schema and the editorial rules.
 
-**1000 names** across **57 languages** for **65 sky objects**. 550 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
+**1084 names** across **57 languages** for **118 sky objects**. 550 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
 
 **Register.** Every name is tagged by register. That is the point of the database rather than a detail: most Indian languages inherited the 27 Sanskrit nakshatra names and adapted them phonologically, and a table of those adaptations would be large and nearly uninformative. The tags separate that borrowed layer from names the languages made themselves. **vernacular** — formed in the language itself, not a loan from the prestige tradition; **folk** — rural or colloquial usage, from a dictionary's own usage note or from ethnography; **tribal** — from a distinct Adivasi tradition; **borrowed** — the prestige tradition's name in this language's script and phonology — in every entry here, Sanskrit's. A `borrowed` name also carries `borrowed_from`, naming the tradition it came from. Every one of them here says `sanskrit`; the field exists so that the register need not, because the question *did this language form this name or take it* is the same question outside South Asia, and only the answer's source changes.
 
-Of 1000 names, **768 are not borrowed** — 233 vernacular, 107 folk, 428 tribal, 232 borrowed.
+Of 1084 names, **852 are not borrowed** — 317 vernacular, 107 folk, 428 tribal, 232 borrowed.
 
 **Method.** Compiled from public-domain lexicography and ethnography, chiefly the Digital Dictionaries of South Asia (dsal.uchicago.edu) and archive.org: Platts 1884, Fallon 1879 and Shakespear 1834 for Hindi/Urdu; Molesworth 1857 for Marathi; Maffei 1883 and Dalgado 1893 for Konkani; the Madras Tamil Lexicon 1924-39 and Winslow 1862 for Tamil; Brown 1852/1903 for Telugu; Kittel for Kannada; Gundert 1872 for Malayalam; Männer 1886 for Tulu; Carter and Clough for Sinhala; Praharaj and Jñānendramohana Dāsa for Odia and Bengali; and for the Adivasi languages Hoffmann's Encyclopaedia Mundarica, Bodding and Campbell on Santali, Grignard on Kurukh, Rivers 1906 on the Toda, Man 1883 and Radcliffe-Brown 1922 on the Andamans, Ramamurti 1938 on Sora and Winfield 1929 on Kui; for the north-east, Lorrain 1940 on Mizo and the colonial monographs — Playfair 1909 on the Garos, Hutton 1921 on the Angamis and the Semas, Mills 1926 and 1937 on the Aos and the Rengmas, Parry 1932 on the Lakhers; Elwin 1939 on the Baiga, and Russell & Hiralal 1916; Macalister 1898 and Lalas 2013 for Rajasthani. A second layer, kept in its own source file, comes from MODERN FIELD SURVEYS that have no counterpart in the printed record: Vahia, Halkare and colleagues on the Gonds (2013), the Banjaras and Kolams (2014), the Korku (2016) and the Nicobarese (2018), and Shetye, Halkare and Sule on the Bhil, Pawra and Kokna (2023). Every name from a public-domain source is quoted verbatim from a source that was actually fetched, with the page cited and the URL recorded; where a source printed only a romanization, no script is supplied and nothing was back-transliterated. Work still in copyright — the six field surveys, Turner 1931, Jorgensen, Malla, Manandhar, Maniku 2000, Sharma 2006, Baloch, Grignard, Samsad 2000, Candrakanta 1962 and Lalas 2013 — is paraphrased and cited, never quoted, and every entry now says which it is in `source_access`. Wikipedia was not used as a source.
 
@@ -18,18 +18,18 @@ Of 1000 names, **768 are not borrowed** — 233 vernacular, 107 folk, 428 tribal
 
 | Language | Names | Language | Names |
 |---|--:|---|--:|
-| Kannada | 66 | Angami Naga | 10 |
-| Marathi | 64 | Chaura (Chowra) | 10 |
-| Tamil | 62 | Sema (Sumi) Naga | 10 |
-| Telugu | 57 | Bhili | 9 |
-| Kolami | 43 | Central Nicobarese (Camorta) | 9 |
-| Mizo (Lushai) | 38 | Kurukh | 9 |
-| Malayalam | 36 | Sora | 9 |
-| Sindhi | 34 | Newar (Nepal Bhasa) | 9 |
-| Pardhi | 33 | Tulu | 8 |
-| Korku | 32 | Teressa | 8 |
-| Odia | 31 | Meitei (Manipuri) | 7 |
-| Hindi | 31 | Toda | 7 |
+| Hindi | 98 | Angami Naga | 10 |
+| Marathi | 81 | Chaura (Chowra) | 10 |
+| Kannada | 66 | Sema (Sumi) Naga | 10 |
+| Tamil | 62 | Bhili | 9 |
+| Telugu | 57 | Central Nicobarese (Camorta) | 9 |
+| Kolami | 43 | Kurukh | 9 |
+| Mizo (Lushai) | 38 | Sora | 9 |
+| Malayalam | 36 | Newar (Nepal Bhasa) | 9 |
+| Sindhi | 34 | Tulu | 8 |
+| Pardhi | 33 | Teressa | 8 |
+| Korku | 32 | Meitei (Manipuri) | 7 |
+| Odia | 31 | Toda | 7 |
 | Gondi | 31 | Konkani | 5 |
 | Lambadi (Banjara) | 26 | Cholanaikkan | 5 |
 | Mundari | 26 | Khasi | 5 |
@@ -54,13 +54,13 @@ Of 1000 names, **768 are not borrowed** — 233 vernacular, 107 folk, 428 tribal
 |---|--:|--:|---|
 | [The Pleiades](#the-pleiades) | 41 | 87 | `krittika` |
 | [The Milky Way](#the-milky-way) | 39 | 74 | `akashaganga` |
-| [Ursa Major (the Big Dipper)](#ursa-major-the-big-dipper) | 34 | 99 | `saptarshi` |
+| [Ursa Major (the Big Dipper)](#ursa-major-the-big-dipper) | 34 | 96 | `saptarshi` |
 | [Meteors and shooting stars](#meteors-and-shooting-stars) | 33 | 45 | `tara` |
 | ['Star' as a word](#star-as-a-word) | 31 | 44 | `tara` |
 | [Comets](#comets) | 30 | 45 | — |
 | [Orion](#orion) | 27 | 61 | `mriga` |
 | [Venus as morning star](#venus-as-morning-star) | 27 | 41 | — |
-| [The pole star](#the-pole-star) | 25 | 37 | `dhruva` |
+| [Ursa Minor](#ursa-minor) | 26 | 45 | `dhruva` |
 | [Figures with no secure modern identification](#figures-with-no-secure-modern-identification) | 22 | 48 | — |
 | [Orion's Belt](#orions-belt) | 21 | 31 | `ishus-trikanda` |
 | [Venus](#venus) | 19 | 23 | `shukra` |
@@ -73,50 +73,103 @@ Of 1000 names, **768 are not borrowed** — 233 vernacular, 107 folk, 428 tribal
 | [Aldebaran](#aldebaran) | 11 | 12 | `rohini` |
 | [The Hyades](#the-hyades) | 11 | 11 | `rohini` |
 | [Scorpius](#scorpius) | 10 | 12 | `jyeshtha` |
+| [Auriga](#auriga) | 8 | 8 | — |
+| [Centaurus](#centaurus) | 7 | 14 | — |
 | [Arcturus](#arcturus) | 7 | 9 | `svati` |
 | [Castor and Pollux](#castor-and-pollux) | 7 | 9 | `punarvasu` |
+| [Crux (the Southern Cross)](#crux-the-southern-cross) | 6 | 9 | `trishanku` |
 | [Antares](#antares) | 6 | 6 | `jyeshtha` |
-| [Auriga](#auriga) | 6 | 6 | — |
 | [Leo and Virgo](#leo-and-virgo) | 6 | 6 | — |
-| [Centaurus](#centaurus) | 5 | 11 | — |
+| [Cygnus](#cygnus) | 5 | 6 | — |
 | [Vega](#vega) | 5 | 6 | `abhijit` |
+| [Andromeda](#andromeda) | 5 | 5 | — |
+| [Cassiopeia](#cassiopeia) | 5 | 5 | — |
 | [Eclipses](#eclipses) | 5 | 5 | — |
 | [Directions taken from the sky](#directions-taken-from-the-sky) | 4 | 18 | — |
-| [Pegasus](#pegasus) | 4 | 7 | — |
-| [Crux (the Southern Cross)](#crux-the-southern-cross) | 4 | 6 | `trishanku` |
+| [Canis Major](#canis-major) | 4 | 5 | — |
+| [Pegasus](#pegasus) | 4 | 5 | — |
 | [Seasonal and agricultural star-markers](#seasonal-and-agricultural-star-markers) | 4 | 5 | `ashvayuj` |
 | ['Constellation' as a word](#constellation-as-a-word) | 4 | 4 | `tara` |
+| [Aquila](#aquila) | 4 | 4 | — |
 | [Mars](#mars) | 4 | 4 | `mangala` |
 | [The rainbow](#the-rainbow) | 4 | 4 | — |
-| [Ursa Minor](#ursa-minor) | 4 | 4 | `shishumara` |
+| [Corvus](#corvus) | 3 | 5 | `hasta` |
 | [Taurus](#taurus) | 3 | 5 | — |
-| [Canis Major](#canis-major) | 3 | 4 | — |
 | [Capella](#capella) | 3 | 4 | `brahmahridaya` |
-| [Cygnus](#cygnus) | 3 | 4 | — |
 | ['Sky' as a word](#sky-as-a-word) | 3 | 3 | `tarapatha` |
 | [Altair](#altair) | 3 | 3 | `shravana` |
-| [Aquila](#aquila) | 3 | 3 | — |
-| [Cassiopeia](#cassiopeia) | 3 | 3 | — |
+| [Lupus](#lupus) | 3 | 3 | — |
 | [Regulus](#regulus) | 3 | 3 | `magha` |
 | [The zodiac](#the-zodiac) | 3 | 3 | — |
-| [Corvus](#corvus) | 2 | 4 | `hasta` |
 | [Spica](#spica) | 2 | 4 | `chitra` |
 | [Jupiter](#jupiter) | 2 | 3 | `brihaspati` |
-| [Lupus](#lupus) | 2 | 2 | — |
+| [Argo Navis (Carina)](#argo-navis-carina) | 2 | 2 | — |
+| [Cepheus](#cepheus) | 2 | 2 | — |
+| [Cetus](#cetus) | 2 | 2 | — |
+| [Corona Australis](#corona-australis) | 2 | 2 | — |
+| [Corona Borealis](#corona-borealis) | 2 | 2 | — |
+| [Eridanus](#eridanus) | 2 | 2 | — |
+| [Grus](#grus) | 2 | 2 | — |
 | [Measuring the sky](#measuring-the-sky) | 2 | 2 | — |
+| [Monoceros](#monoceros) | 2 | 2 | — |
+| [Ophiuchus](#ophiuchus) | 2 | 2 | — |
+| [Perseus](#perseus) | 2 | 2 | — |
+| [Piscis Austrinus](#piscis-austrinus) | 2 | 2 | — |
 | [Praesepe and Cancer](#praesepe-and-cancer) | 1 | 2 | `pushya` |
 | [Viśākhā (ι Librae)](#viśākhā-ι-librae) | 1 | 2 | `vishakha` |
 | ['Planet' as a word](#planet-as-a-word) | 1 | 1 | `taragraha` |
+| [Antlia](#antlia) | 1 | 1 | — |
+| [Ara](#ara) | 1 | 1 | — |
 | [Aśvayuj (Sheratan)](#aśvayuj-sheratan) | 1 | 1 | `ashvayuj` |
-| [Corona Australis](#corona-australis) | 1 | 1 | — |
+| [Boötes](#boötes) | 1 | 1 | — |
+| [Caelum](#caelum) | 1 | 1 | — |
+| [Camelopardalis](#camelopardalis) | 1 | 1 | — |
+| [Canis Minor](#canis-minor) | 1 | 1 | — |
+| [Chamaeleon](#chamaeleon) | 1 | 1 | — |
+| [Circinus](#circinus) | 1 | 1 | — |
+| [Columba](#columba) | 1 | 1 | — |
+| [Coma Berenices](#coma-berenices) | 1 | 1 | — |
+| [Crater](#crater) | 1 | 1 | — |
 | [Delphinus](#delphinus) | 1 | 1 | — |
-| [Grus](#grus) | 1 | 1 | — |
+| [Draco](#draco) | 1 | 1 | — |
+| [Equuleus](#equuleus) | 1 | 1 | — |
+| [Fornax](#fornax) | 1 | 1 | — |
+| [Hercules](#hercules) | 1 | 1 | — |
+| [Horologium](#horologium) | 1 | 1 | — |
+| [Hydra](#hydra) | 1 | 1 | — |
+| [Hydrus](#hydrus) | 1 | 1 | — |
+| [Leo Minor](#leo-minor) | 1 | 1 | — |
+| [Lepus](#lepus) | 1 | 1 | — |
+| [Lynx](#lynx) | 1 | 1 | — |
+| [Lyra](#lyra) | 1 | 1 | — |
+| [Mensa](#mensa) | 1 | 1 | — |
 | [Mercury](#mercury) | 1 | 1 | — |
-| [Monoceros](#monoceros) | 1 | 1 | — |
+| [Microscopium](#microscopium) | 1 | 1 | — |
+| [Musca](#musca) | 1 | 1 | — |
 | [Nakṣatra (star / asterism (generic))](#nakṣatra-star--asterism-generic) | 1 | 1 | `nakshatra-generic` |
+| [Norma](#norma) | 1 | 1 | — |
+| [Octans](#octans) | 1 | 1 | — |
+| [Pavo](#pavo) | 1 | 1 | — |
+| [Phoenix](#phoenix) | 1 | 1 | — |
+| [Pictor](#pictor) | 1 | 1 | — |
 | [Pisces](#pisces) | 1 | 1 | — |
+| [Puppis](#puppis) | 1 | 1 | — |
+| [Pyxis](#pyxis) | 1 | 1 | — |
+| [Reticulum](#reticulum) | 1 | 1 | — |
+| [Sagitta](#sagitta) | 1 | 1 | — |
 | [Saturn](#saturn) | 1 | 1 | — |
+| [Sculptor](#sculptor) | 1 | 1 | — |
+| [Scutum](#scutum) | 1 | 1 | — |
+| [Serpens](#serpens) | 1 | 1 | — |
+| [Sextans](#sextans) | 1 | 1 | — |
+| [Telescopium](#telescopium) | 1 | 1 | — |
 | [The turning of the sky](#the-turning-of-the-sky) | 1 | 1 | — |
+| [Triangulum](#triangulum) | 1 | 1 | — |
+| [Triangulum Australe](#triangulum-australe) | 1 | 1 | — |
+| [Tucana](#tucana) | 1 | 1 | — |
+| [Vela](#vela) | 1 | 1 | — |
+| [Volans](#volans) | 1 | 1 | — |
+| [Vulpecula](#vulpecula) | 1 | 1 | — |
 
 ## The Pleiades
 
@@ -1660,17 +1713,14 @@ Sanskrit Ākāśagaṅgā in Tamil phonology; the whole Ganges-in-the-sky family
 
 ## Ursa Major (the Big Dipper)
 
-**Modern:** circumpolar figure — glossed 'the Big Bear' but described as a lizard-shaped chain ending at Polaris · Ursa Minor / Draco / Ursa Major  
+**Modern:** the Big Dipper · Ursa Major  
 **Sanskrit database:** `saptarshi` — Saptarṣayaḥ / Ṛkṣāḥ (the Big Dipper - seven bright stars of Ursa Major (Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, Alkaid)) ([entry](../star-names/star-names.json))  
 **Named in 34 languages:** Angami Naga, Assamese, Bengali, Bhili, Central Nicobarese (Camorta), Chaura (Chowra), Chhattisgarhi, Gondi, Hindi, Kannada, Kashmiri, Kolami, Korku, Kurukh, Lambadi (Banjara), Malayalam, Mara (Lakher), Marathi, Mizo (Lushai), Mundari, Nepali, Odia, Pardhi, Punjabi, Rajasthani, Santali, Sindhi, Sinhala, Tamil, Telugu, Teressa, Toda, Tulu, Urdu
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Assamese | গোধিকা | *godhikā* | 'the iguana / monitor lizard' (Assamese গুঁই guñi) | vernacular |
-| Hindi | रीछ / ريچهـ | *baṛā rīchh / chhoṭā rīchh* | 'the big bear' / 'the little bear' | vernacular |
 | Kannada | ಡೇವಿಡನ ರಥ | *Dēviḍana ratha* | David's chariot | vernacular |
 | Kannada | ದೊಡ್ಡ ಕರಡಿ | *doḍḍa karaḍi* | the big bear | vernacular |
-| Kannada | ಲಘು ಸಪ್ತರ್ಷಿ | *laghu saptarṣi* | the lesser seven sages | vernacular |
 | Nepali | सात् तारा | *sāt tārā* | 'the seven stars' | vernacular |
 | Odia | ସାତଭାଇୟା | *Sātabhāiyā* | 'the seven brothers' | vernacular |
 | Punjabi | — | *haftwarang* | 'the seven ...' (Persian, from Avestan haptōiringa) | vernacular |
@@ -1766,24 +1816,6 @@ Sanskrit Ākāśagaṅgā in Tamil phonology; the whole Ganges-in-the-sky family
 | Telugu | చిత్రశిఖండి | *citra-śikhaṇḍi* | the bright-crested ones | borrowed |
 | Telugu | సప్తర్షులు | *saptarṣulu* | the seven sages | borrowed |
 
-**গোধিকা · godhikā** — Assamese (Assam) · *vernacular* · confidence: disputed
-
-A genuine Assamese sky-figure, and an old one: the dictionary supports it with a line from the Kīrttana (the Kīrttana-ghoṣā of Śaṅkaradeva, 16th c.) — 'গোধিকাৰ পুছ ভাগে দেখিয় অদ্যাপি', 'even today it is seen at the tail-end of the Godhikā'.
-
-> গোধিকা godhikā [সং.] বি. গুঁই; the iguana. 2। আকাশৰ উত্তৰ ফালে গুঁইৰ আকৱতিৰ নিচিনা হৈ শাৰী পাতি থকা কেতেবোৰ তৰা [তাৰ নেজৰ মূৰত ধ্ৰুব তৰা আছে।]; যেনে-"গোধিকাৰ পুছ ভাগে দেখিয় অদ্যাপি" (কীৰ্ত্তন); a number of stars in the north forming the figure of an iguana at the tail of which is situated the pole star; the "Big Bear" constellation.
-> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. গোধিকা godhikā, p. 308 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%97%E0%A7%8B%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE&searchhws=yes&matchtype=exact))
-
-<sub>The identification is internally inconsistent and I have graded it accordingly. The Assamese description — a row of stars in the north shaped like a monitor lizard, WITH DHRUVA AT THE TIP OF ITS TAIL — is the Purāṇic Śiśumāra, the circumpolar porpoise/reptile figure whose tail-tip is the pole star (Ursa Minor with Draco), not Ursa Major, whose stars are nowhere near the pole. The dictionary's own English gloss nevertheless says 'the Big Bear constellation'. I record the Assamese as printed and reject the English equation. Linked to shishumara on that reasoning; 'আকৱতিৰ' is DSAL OCR for আকৃতিৰ.</sub>
-
-**रीछ / ريچهـ · baṛā rīchh / chhoṭā rīchh** — Hindi (Hindustani generally) · *vernacular* · confidence: certain
-
-A calque, almost certainly of Arabic ad-dubb al-akbar / al-aṣghar rather than of English, since Fallon himself glosses sapt-rishī with 'A. dub-i-asgar'. The word rīchh is the inherited Indo-Aryan reflex of Sanskrit ṛkṣa, which in Sanskrit already meant both 'bear' and 'star' - so the calque lands on a word that was etymologically waiting for it.
-
-> H ريچهـ रीछ rīchh; E. bhālū , n. m. S. ऋक्ष Pr. richchho. A bear. Baṛā rīchh; Sant. buṛhī parkom, Ursa major. Chhoṭā rīchh. Ursa minor.
-> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. rīchh, p. 722 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=722))
-
-<sub>Fallon repeats the equation at p. 703, s.v. rish'ī: 'sapt-rishī; H. baṛā rīchh; A. dub-i-asgar. lit. the seven saints. (Ast.) Ursamajor; Charles's Wain.' R. C. Temple reprints Fallon's data in Panjab Notes and Queries, vol. II, note 83, p. 13. Fallon's 'Sant. buṛhī parkom' is a Santali (Munda, not Indo-Aryan) form and is not claimed here.</sub>
-
 **ಡೇವಿಡನ ರಥ · Dēviḍana ratha** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
@@ -1801,15 +1833,6 @@ The book's Kannada rendering of the Western name, presented as such — the rend
 > <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
-
-**ಲಘು ಸಪ್ತರ್ಷಿ · laghu saptarṣi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
-
-The tradition's Saptarṣi extended with laghu- for the Little Bear — a modern formation on Sanskrit material.
-
-> ಕ್ಲ ಕವಾಗಿ ಮೂರ  ನೆಮವನ ವೇಗವು ಏಳು ಮೈಲಿಗಳು.    ೨೮ ಜ್ಯೋತಿರ್ನಿನೋದಿನಿ    ಲಘು ಸಪ್ತರ್ಷಿ       ಆಕೃತಿ ೩. ಸಪ್ತರ್ಸಿ ಮತ್ತು ಲಘು ಸಪ್ತರ್ಷಿ    ಇ ವರೆಗಿರುವ ಅಂತರದಷ್ಟು
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
-
-<sub>Also printed beside it: ಚಿಕ್ಕ ಕರಡಿ. Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
 **सात् तारा · sāt tārā** — Nepali (Nepal, and the Nepali-speaking Darjeeling and Sikkim hills) · *vernacular* · confidence: certain
 
@@ -4854,19 +4877,26 @@ Ramamurti adds, in the entry itself, that the Soras do not distinguish between t
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
 
-## The pole star
+## Ursa Minor
 
-**Modern:** Polaris (the pole star) · α Ursae Minoris · Ursa Minor  
+**Modern:** circumpolar figure — glossed 'the Big Bear' but described as a lizard-shaped chain ending at Polaris · Ursa Minor / Draco / Ursa Major  
 **Sanskrit database:** `dhruva` — Dhruva (Polaris (the pole star)) ([entry](../star-names/star-names.json))  
-**Named in 25 languages:** Bengali, Bhili, Divehi (Mahl), Gondi, Hindi, Kannada, Kashmiri, Korku, Kukna (Kokna), Lambadi (Banjara), Malayalam, Marathi, Mavchi, Meitei (Manipuri), Mizo (Lushai), Nepali, Odia, Pauri Bareli (Pawra), Sindhi, Sinhala, Tamil, Telugu, Teressa, Tibetan, Urdu
+**Named in 26 languages:** Assamese, Bengali, Bhili, Divehi (Mahl), Gondi, Hindi, Kannada, Kashmiri, Korku, Kukna (Kokna), Lambadi (Banjara), Malayalam, Marathi, Mavchi, Meitei (Manipuri), Mizo (Lushai), Nepali, Odia, Pauri Bareli (Pawra), Sindhi, Sinhala, Tamil, Telugu, Teressa, Tibetan, Urdu
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
+| Assamese | গোধিকা | *godhikā* | 'the iguana / monitor lizard' (Assamese গুঁই guñi) | vernacular |
+| Hindi | रीछ / ريچهـ | *baṛā rīchh / chhoṭā rīchh* | 'the big bear' / 'the little bear' | vernacular |
+| Hindi | लघु सप्तर्षि | *laghu saptarṣi* | the lesser seven sages | vernacular |
+| Kannada | ಚಿಕ್ಕ ಕರಡಿ | *cikka karaḍi* | the little bear | vernacular |
+| Kannada | ಲಘು ಸಪ್ತರ್ಷಿ | *laghu saptarṣi* | the lesser seven sages | vernacular |
+| Marathi | ध्रुवमत्स्य | *dhruvamatsya* | the pole-fish | vernacular |
 | Marathi | मेढ | *mēḍha* | a forked stake used as a post | vernacular |
 | Sindhi | جَديِ | *jadī* | — | vernacular |
 | Sindhi | قُطِبُ | *quṭubu* | — | vernacular |
 | Sindhi | ڊۇهُ | *ḍūhu* | — | vernacular |
 | Tibetan | — | *skar-ma brtan-pa; gzaʼ-yi rten* | 'the fixed star'; 'the support of the planets' | vernacular |
+| Urdu | فرقدان | *farqadān* | 'the two calves' (dual of farqad 'a calf') | vernacular |
 | Urdu | جدي | *jadī* | 'the kid, the young he-goat' | vernacular |
 | Urdu | قطبي | *quṭbī tārā* | 'the polar star' | vernacular |
 | Kannada | ಧ್ರುವಪಾಶ | *dhruvapāśa* | the pole-star rope | folk |
@@ -4888,6 +4918,7 @@ Ramamurti adds, in the entry itself, that the Soras do not distinguish between t
 | Korku | — | *Dhur tara* | — | borrowed |
 | Lambadi (Banjara) | — | *Dhruv Tara / Dhruv* | — | borrowed |
 | Malayalam | ധ്രുവം / ധ്രുവന്‍ | *dhruvam / dhruvan* | 'the fixed one' | borrowed |
+| Malayalam | ഋക്ഷം | *ṛkṣam* | 'bear' | borrowed |
 | Marathi | — | *Tārā-bāras* | 'the star twelfth', bāras being the twelfth day of the lunar fortnight | borrowed |
 | Marathi | ध्रुव | *dhruva* | fixed, immovable | borrowed |
 | Marathi | धुरु | *dhuru* | — | borrowed |
@@ -4899,6 +4930,58 @@ Ramamurti adds, in the entry itself, that the Soras do not distinguish between t
 | Sinhala | ධ්‍රැව·තාරකාව | *dh‍ræva·tārakāva* | 'the fixed star' | borrowed |
 | Tamil | துருவம் | *turuvam* | — | borrowed |
 | Telugu | ధ్రువనక్షత్రము | *dhruva-nakṣatramu* | the fixed star | borrowed |
+
+**গোধিকা · godhikā** — Assamese (Assam) · *vernacular* · confidence: disputed
+
+A genuine Assamese sky-figure, and an old one: the dictionary supports it with a line from the Kīrttana (the Kīrttana-ghoṣā of Śaṅkaradeva, 16th c.) — 'গোধিকাৰ পুছ ভাগে দেখিয় অদ্যাপি', 'even today it is seen at the tail-end of the Godhikā'.
+
+> গোধিকা godhikā [সং.] বি. গুঁই; the iguana. 2। আকাশৰ উত্তৰ ফালে গুঁইৰ আকৱতিৰ নিচিনা হৈ শাৰী পাতি থকা কেতেবোৰ তৰা [তাৰ নেজৰ মূৰত ধ্ৰুব তৰা আছে।]; যেনে-"গোধিকাৰ পুছ ভাগে দেখিয় অদ্যাপি" (কীৰ্ত্তন); a number of stars in the north forming the figure of an iguana at the tail of which is situated the pole star; the "Big Bear" constellation.
+> <br>— Candrakanta Abhidhana (Assamese-Assamese-English), 2nd ed., Guwahati: Guwahati Bisbabidyalaya for the Assam Sahitya Sabha, 1962 (DSAL digital ed.), s.v. গোধিকা godhikā, p. 308 ([source](https://dsal.uchicago.edu/cgi-bin/app/candrakanta_query.py?qs=%E0%A6%97%E0%A7%8B%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE&searchhws=yes&matchtype=exact))
+
+<sub>The identification is internally inconsistent and I have graded it accordingly. The Assamese description — a row of stars in the north shaped like a monitor lizard, WITH DHRUVA AT THE TIP OF ITS TAIL — is the Purāṇic Śiśumāra, the circumpolar porpoise/reptile figure whose tail-tip is the pole star (Ursa Minor with Draco), not Ursa Major, whose stars are nowhere near the pole. The dictionary's own English gloss nevertheless says 'the Big Bear constellation'. I record the Assamese as printed and reject the English equation. Linked to shishumara on that reasoning; 'আকৱতিৰ' is DSAL OCR for আকৃতিৰ.</sub>
+
+**रीछ / ريچهـ · baṛā rīchh / chhoṭā rīchh** — Hindi (Hindustani generally) · *vernacular* · confidence: certain
+
+A calque, almost certainly of Arabic ad-dubb al-akbar / al-aṣghar rather than of English, since Fallon himself glosses sapt-rishī with 'A. dub-i-asgar'. The word rīchh is the inherited Indo-Aryan reflex of Sanskrit ṛkṣa, which in Sanskrit already meant both 'bear' and 'star' - so the calque lands on a word that was etymologically waiting for it.
+
+> H ريچهـ रीछ rīchh; E. bhālū , n. m. S. ऋक्ष Pr. richchho. A bear. Baṛā rīchh; Sant. buṛhī parkom, Ursa major. Chhoṭā rīchh. Ursa minor.
+> <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. rīchh, p. 722 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=722))
+
+<sub>Fallon repeats the equation at p. 703, s.v. rish'ī: 'sapt-rishī; H. baṛā rīchh; A. dub-i-asgar. lit. the seven saints. (Ast.) Ursamajor; Charles's Wain.' R. C. Temple reprints Fallon's data in Panjab Notes and Queries, vol. II, note 83, p. 13. Fallon's 'Sant. buṛhī parkom' is a Santali (Munda, not Indo-Aryan) form and is not claimed here.</sub>
+
+**लघु सप्तर्षि · laghu saptarṣi** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose also reports the pauranik शिशुमार चक्र for this circumpolar figure. Dikshit's ध्रुवमत्स्य (1893, also Maharashtra Sabdakosa) is the older Devanagari name.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~141 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~141 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**ಚಿಕ್ಕ ಕರಡಿ · cikka karaḍi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
+
+> ಈ  ಸಣ್ಣ ತಾರೆಯು ಗುರುತಿಸುವ ಪುಂಜವೇ ಲಘು ಸಪ್ತಪಿ೯ (Little  Bear = ಚಿಕ್ಕ ಕರಡಿ). ಇದು ಕೂಡ ತನ್ನ ಅಣ್ಣನಾದ ದೊಡ್ಡ ಕರಡಿ  ಯಂತೆ ಸಪ್ತ ನಕ್ಷತ್ರಗಳಿಂದ
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
+**ಲಘು ಸಪ್ತರ್ಷಿ · laghu saptarṣi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The tradition's Saptarṣi extended with laghu- for the Little Bear — a modern formation on Sanskrit material.
+
+> ಕ್ಲ ಕವಾಗಿ ಮೂರ  ನೆಮವನ ವೇಗವು ಏಳು ಮೈಲಿಗಳು.    ೨೮ ಜ್ಯೋತಿರ್ನಿನೋದಿನಿ    ಲಘು ಸಪ್ತರ್ಷಿ       ಆಕೃತಿ ೩. ಸಪ್ತರ್ಸಿ ಮತ್ತು ಲಘು ಸಪ್ತರ್ಷಿ    ಇ ವರೆಗಿರುವ ಅಂತರದಷ್ಟು
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub>Also printed beside it: ಚಿಕ್ಕ ಕರಡಿ. Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
+**ध्रुवमत्स्य · dhruvamatsya** — Marathi (Maharashtra) · *vernacular* · confidence: likely
+
+> ॰मत्स्य -पु. (ज्यो.) लघुऋक्ष किंवा लघुऋक्षांतील दोन मुख्य तार्‍यांपैकीं एक. दुसरा मुख्य तारा ध्रुव होय.
+> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. ध्रुव (compound ॰मत्स्य), p. 1770 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact))
+
+<sub>A 20th-century Marathi constellation vocabulary rather than village usage: Date's own supporting quotation is from a teacher-training manual listing ध्रुवमत्स्य beside सप्तर्षि, नरतुरंगम ('man-horse' = Sagittarius) and ययाति as figures to teach children. Register 'vernacular' in the sense of Marathi-formed, but the milieu is the modern classroom, not folk tradition. Date is also internally unsure whether the word names Ursa Minor as a whole or one of its two bright stars.</sub>
 
 **मेढ · mēḍha** — Marathi (Maharashtra) · *vernacular* · confidence: certain
 
@@ -4940,6 +5023,15 @@ Das explains the second name: it is called the fixed one because it remains immo
 > <br>— Sarat Chandra Das, A Tibetan-English Dictionary with Sanskrit Synonyms (Calcutta: Bengal Secretariat Book Depot, 1902), s.v. skar-ma brtan-pa, gzaʼ-yi rten ([source](https://archive.org/details/atibetanenglish01dasgoog))
 
 <sub>'ster' is the scan's damage for 'star' and is left as it stands rather than silently mended. Das gives the same star at four separate headwords with four different renderings, of which these two are legible; the others are lost in the OCR. Graded `likely` for that reason. THE SUPPORT OF THE PLANETS is a good name and an exact one: it is the peg the whole sky turns on, which is what dhruva means too.</sub>
+
+**فرقدان · farqadān** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+
+The Arabic al-farqadān, the pair that circles close to the pole. Shakespear (1834, p. 1258) muddles them as 'Two stars near the pole, the greater and lesser bears'; Platts has the identification right.
+
+> A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.
+> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. farqadān, p. 779 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779))
+
+<sub>Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'.</sub>
 
 **جدي · jadī** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
 
@@ -5117,6 +5209,15 @@ At Katarwadi the pole star is Dhruv tara, which the recorders mark as the modern
 > <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ധ്രുവം dhruvam, p. 523 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=523))
 
 <sub>Purely Sanskrit; Gundert records no Dravidian pole-star name for Malayalam. (Thurston, Castes and Tribes of Southern India, vol. I p. 108, records a Dravidian one for the Nilgiri Badagas — 'Aranjoti (the pole-star)', shown to the couple at a wedding — but Badaga is outside this compilation.) The astrological gloss ജലജോയം is obscure.</sub>
+
+**ഋക്ഷം · ṛkṣam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *borrowed* · confidence: disputed
+
+Used in the compound ജന്മര്‍ക്ഷദിനം 'the day of one's birth-asterism'.
+
+> ഋക്ഷം r̥kṣam ṛkšam S. (G. 'rktos) 1. Bear, Ursa minor. 2. constellation in general ജന്മര്‍ക്ഷദി നം Bhg.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഋക്ഷം ṛkṣam, p. 153 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%8B%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%82&searchhws=yes&matchtype=exact))
+
+<sub>Gundert glosses the Bear as Ursa MINOR, where Sanskrit ṛkṣāḥ is standardly Ursa Major (the Saptarṣis) — as Gundert himself has it under സപ്തം. The discrepancy is his, not the language's; flagged disputed. Sense 2, 'constellation in general', is the ordinary Malayalam usage.</sub>
 
 **Tārā-bāras** — Marathi (Bombay Presidency (Deccan and Konkan)) · *borrowed* · confidence: likely
 
@@ -8057,6 +8158,238 @@ THE FIRST nakaiy of the north-east monsoon, and so the hinge of the Divehi year:
 
 <sub>In copyright, so the finding is paraphrased and `quote` is null. In the Sanskrit scheme Mūla is the nineteenth of twenty-seven and structurally unremarkable. Here it opens the second half of the year. The re-indexing is what gives it that weight, which is the clearest single illustration of what the nakaiy system does to the inherited list.</sub>
 
+## Auriga
+
+**Modern:** Auriga · Auriga  
+**Named in 8 languages:** Bhili, Gondi, Hindi, Kannada, Korku, Marathi, Mavchi, Mizo (Lushai)
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | प्रजापति | *prajāpati* | Prajapati | vernacular |
+| Kannada | ಸಾರಥಿ | *Sārathi* | the charioteer | vernacular |
+| Marathi | सारथी | *sārathī* | the charioteer | vernacular |
+| Bhili | — | *Hulgi* | the hulgi bird, with two eggs | tribal |
+| Gondi | — | *Samdur, Samudar* | the sea | tribal |
+| Korku | — | *Kunva* | 'a well' | tribal |
+| Mavchi | — | *dhorkya* | 'cattle herder' | tribal |
+| Mizo (Lushai) | — | *Dingdi-puan-tah* | 'Dingdi's cloth-stretching', puan being a cloth | tribal |
+
+**प्रजापति · prajāpati** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: 'प्रायः प्रजापति मंडल कहा जाता है', with रथी/सारथी as the occasional alternative — genuine received-usage phrasing.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~51 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~51 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. TRAP: प्रजापति also names the planet Uranus in 19th-c. Marathi (Modak's coinage, so used by Dikshit) and a star near Orion's head; the Bhagol app displays सारथी (Dikshit 1893) and keeps प्रजापति in the record only.</sub>
+
+**ಸಾರಥಿ · Sārathi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
+
+> ಆಂಡ್ರೋವಿನಾಡ ನೀಹಾರಕದಲ್ಲಿ  ೧೮೮೫ರಲ್ಲಿ ದೃಷ್ಟಿಗೆ ಬಿದ್ದುದೂ, ೧೮೯೧ರಲ್ಲಿ ಸಾರಥಿ (Charioteer)  ಯಲ್ಲಿ ಮೆರೆದುದೂ, ಈಜೆಗೆ ೧೯೦೧ನೆಯ ಇಸವಿಯಲ್ಲಿ ಪರ್‌ಸಿಯಸ್‌
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
+**सारथी · sārathī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). A calque of Auriga; the star described is Nova Aurigae 1891.
+
+> सन १८९१ च्या दिसेंबरच्या १० व्या तारखेस आकाशगंगेंत सारथी नामक पुंजांत एक तारा दिसूं लागली.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 183 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. In this book प्रजापति means the planet Uranus (Modak's coinage) and a star near Orion's head — never Auriga; the constellation is सारथी.</sub>
+
+**Hulgi** — Bhili (Bhil villages 9 and 11, Mavchi Bhil 7 and 12, Kokna 10, north-western Maharashtra) · *tribal* · confidence: certain
+
+Only a small triangle within Auriga is recognised — ε Aurigae is the bird and η and ζ Aurigae its two eggs.
+
+*No quotation: Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 is in copyright and is paraphrased only.*
+> <br>— Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 ([source](https://articles.adsabs.harvard.edu/pdf/2023JAHH...26..441S))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The survey covered 210 people in 17 meetings across the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna communities of north-western Maharashtra. tribal.json recorded 'Bhili: nothing' and named this paper as a lead it could not obtain; this entry closes that gap. The bird sits in Auriga, its eggs are Orion's Belt in one community and the Pleiades in another. The figure travels; the stars it lands on do not. The digital text of this paper is unreadable — the embedded font subsets carry no ToUnicode map, so extraction yields a substitution cipher, and several different ciphers at that. Every Bhil, Pawra and Kokna reading in this file was therefore taken from a rendered page image, not from extracted text.</sub>
+
+**Samdur, Samudar** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: disputed
+
+Comes overhead at 4 a.m. in late May and is the sign that the rains are coming and farming begins. Its brightness is a forecast: bright means a good monsoon and the Gonds sow cotton and other water-hungry crops, dull means a weak one and they sow crops that need less water.
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Different villages placed Samdur in different constellations and the authors leave the identification open. The sowing rule attached to it is the most concrete piece of practical star-use anywhere in this compilation.</sub>
+
+**Kunva** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
+
+Five of twelve villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The well, with two women drawing water from it — see Reike and Chaike.</sub>
+
+**dhorkya** — Mavchi (Mavchi Bhil village 12 and Kokna village 10, north-western Maharashtra) · *tribal* · confidence: certain
+
+*No quotation: Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 is in copyright and is paraphrased only.*
+> <br>— Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 ([source](https://articles.adsabs.harvard.edu/pdf/2023JAHH...26..441S))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The survey covered 210 people in 17 meetings across the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna communities of north-western Maharashtra. tribal.json recorded 'Bhili: nothing' and named this paper as a lead it could not obtain; this entry closes that gap. The same word as the Pleiades name Dhorkya porya above, moved to a single star. The digital text of this paper is unreadable — the embedded font subsets carry no ToUnicode map, so extraction yields a substitution cipher, and several different ciphers at that. Every Bhil, Pawra and Kokna reading in this file was therefore taken from a rendered page image, not from extracted text.</sub>
+
+**Dingdi-puan-tah** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
+
+The figure is a scene indoors: a named girl at her loom, with the cloth pinned to the wall at two points that are themselves stars.
+
+> Dingdi-puan-tah, n . the name of a Lushai constellation comprising Capella and three other stars in Auriga which form an isosceles triangle. The star at the apex of the triangle represents a young woman named Dingdi engaged in weaving a cloth which is affixed to the wall at the two points marked by the base stars.
+> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Dingdi-puan-tah, p. 116 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=116))
+
+<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. THE BEST-DRAWN FIGURE IN THIS DATABASE. Most sky-figures elsewhere here are a single object — a cot, a plough, a deer. This one has a named character, an action, and two stars doing duty as nails in a wall. Compare the Kolam Mahua tree at Crux with an old woman and a young woman gathering flowers beneath it, in tribal_fieldwork.json: both are domestic scenes rather than emblems, and neither has any counterpart in the Sanskrit sky.</sub>
+
+## Centaurus
+
+**Modern:** Centaurus · Centaurus  
+**Named in 7 languages:** Gondi, Hindi, Kannada, Kolami, Korku, Marathi, Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | नरतुरंग | *naraturaṅga* | the man-horse | vernacular |
+| Kannada | ನರಾಶ್ವ | *narāśva* | the man-horse | vernacular |
+| Marathi | दक्षिणर्क्ष | *dakṣiṇarkṣa* | the southern asterism/bear | vernacular |
+| Marathi | नरतुरंग | *narturaṅga* | the man-horse | vernacular |
+| Gondi | — | *Khayan* | — | tribal |
+| Kolami | — | *Kadma* | 'a young lady' | tribal |
+| Kolami | — | *Murta* | 'an old lady' | tribal |
+| Kolami | — | *Oedda* | 'a man' | tribal |
+| Kolami | — | *Pilla* | 'a woman' | tribal |
+| Korku | — | *Bharada* | — | tribal |
+| Korku | — | *Charakhaya* | — | tribal |
+| Korku | — | *Dhanay* | — | tribal |
+| Korku | — | *Pechla* | — | tribal |
+| Mundari | — | *hirumea repą ipilkiŋ; parkom repą ipilkiŋ* | the two stars trying to steal the co-wife status — or the bed — from one another | tribal |
+
+**नरतुरंग · naraturaṅga** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: 'सेंटौरस् मंडल को भारत में कभी किन्नर, तो कभी नरतुरंग कहा जाता है' — an explicit report of received usage, with किन्नर as the variant.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~89 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~89 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**ನರಾಶ್ವ · narāśva** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary. Figure 13 in the book carries the name as its caption.
+
+> ದೂರವು ಕೂಡ ಬಹಳ ಹೆಚ್ಚಲ್ಲವೆ? ಆದರೆ, ಇದಕ್ಕಾಜೆ  ನಮಗೆ ಅತ್ಯಂತ ಸವಿಖಾಪವರ್ತಿಯಾದ ನರಾಶ್ವ ಇ ವರೆಗೂ ಅಗಾಧ  ವಾದೊಂದು ಶೂನ್ಯ ಪ್ರದೇಶವು ವಿಸ್ತರಿಸಿಕೊಂಡಿರುವುದು. ನೆಪ್ಟ್ಯೂ
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
+**दक्षिणर्क्ष · dakṣiṇarkṣa** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+Dikshit's own coinage, paired with त्रिशंकु: he reads Crux + the bright Centaurus stars as a southern counterpart of the Saptarshi. Used working-style at p. 184 ('दक्षिणर्क्ष सातवी' = α Centauri) and p. 185 (ω Centauri).
+
+> व तदनुसार स्वस्तिक आणि नरतुरंग ह्या दोन पुंजांस अनुक्रमें त्रिशंकु आणि दक्षिणर्क्ष अशीं नांवें मीं योजिलीं आहेत.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 36 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Did not displace Jambhekar's नरतुरंग in later usage.</sub>
+
+**नरतुरंग · narturaṅga** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). The two first-magnitude stars are α and β Centauri.
+
+> यांच्याच डाव्या हातास नरतुरंगांतल्या दोन पहिल्या प्रतीच्या तारा दिसतात. त्या क्षितिजापासून १० अंश मात्र वर दिसतात.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 36 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Same page: Dikshit proposes his own दक्षिणर्क्ष for this constellation; both names entered later usage — Muley (1993) carries नरतुरंग into Hindi.</sub>
+
+**Khayan** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: unidentified
+
+*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
+> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+
+<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Listed in the paper's summary table against Centaurus but with no description, no story and no stars named. Recorded as a bare attestation.</sub>
+
+**Kadma** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The second flower-gatherer under the Mahua tree.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. The pointer stars of Crux read as two women, old and young — a scene rather than a figure, which is how most of the Kolam sky works.</sub>
+
+**Murta** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Standing under the Mahua tree of Crux to collect its fallen flowers.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. </sub>
+
+**Oedda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Landgi Pod the two bright stars beside the Mahua tree are a man and a woman rather than the old lady and the young lady given elsewhere.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. A village variant of Murta above, and worth keeping separate: the other villages make the pair two women of different ages gathering flowers, and this one makes them a couple. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Pilla** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The companion of Oedda at Landgi Pod, in place of Kadma the young lady.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. See Oedda above. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Bharada** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: unidentified
+
+Given with apparent magnitude 2.25.
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so. Bharada is one of the four cases: the paper prints only the lost Greek letter and 'Cen'. Magnitude 2.25 fits γ Cen (2.20) and ε Cen (2.29) about equally, so no identification is claimed.</sub>
+
+**Charakhaya** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
+
+Given with apparent magnitude 0.55.
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so.</sub>
+
+**Dhanay** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
+
+Given with apparent magnitude 0.10.
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so.</sub>
+
+**Pechla** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
+
+Given with apparent magnitude 2.05.
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so.</sub>
+
+**hirumea repą ipilkiŋ; parkom repą ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The two co-wives pulling at opposite corners of the bed, which is why the parallelogram is out of square. Delta Centauri is the brighter and lies a little closer to the bed because, the Mundas say, she is the first wife and has gained the upper hand.
+
+> hirumea repą ipilkiŋ sbst, ltly., the two stars trying to steal from each other the relationship of co-wives, i.e., trying to oust each other from the status of first wife. They are also called parkom repą ipilkiŋ, the two stars trying to steal a bed from each other.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VI, s.v. hirumea repą ipilkiŋ, cols. 1751-1757 ([source](https://archive.org/download/in.ernet.dli.2015.14926/2015.14926.Encyclopedia-Mundarica-Vol-vi-1932_djvu.txt))
+
+<sub>One of the very few star names anywhere that encodes a point of domestic law rather than a season or a trade.</sub>
+
 ## Arcturus
 
 **Modern:** Arcturus · α Boötis · Boötes  
@@ -8243,6 +8576,101 @@ A girl and her lover who ran away together. The Western Rengmas say he is cuttin
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
+## Crux (the Southern Cross)
+
+**Modern:** Crux · Crux  
+**Sanskrit database:** `trishanku` — Triśaṅku (Triśaṅku — a king fixed head-downward in the southern sky) ([entry](../star-names/star-names.json))  
+**Named in 6 languages:** Central Nicobarese (Camorta), Hindi, Kannada, Kolami, Marathi, Teressa
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | स्वस्तिक | *svastika* | the svastika | vernacular |
+| Kannada | ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ | *dakṣiṇa svastika* | the southern svastika | vernacular |
+| Marathi | स्वस्तिक | *svastika* | the svastika | vernacular |
+| Marathi | त्रिशंकु | *triśaṅku* | Trishanku (the king suspended in mid-sky) | vernacular |
+| Central Nicobarese (Camorta) | — | *Mian* | 'a dagger used in fishing' | tribal |
+| Kolami | — | *Irukmara / Ipamaka* | a Mahua tree (Madhuca longifolia), whose flowers are fermented to make liquor | tribal |
+| Kolami | — | *Irup pokke* | 'the flowers of the Mahua' | tribal |
+| Teressa | — | *Kuras* | — | tribal |
+| Kannada | ತ್ರಿಶಂಕು | *Triśaṅku* | — | borrowed |
+
+**स्वस्तिक · svastika** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: 'त्रिशंकु या स्वस्तिक के नाम से भी जाना जाता है', plus the suggestion that ancient India may have known the figure as शूल.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~132 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~132 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ · dakṣiṇa svastika** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The Cross seen as a svastika — the book's own figure caption reads 'Svastika'.
+
+> ೭೫, ೭೬  ದ  ದಕ್ಷಿಣ ಮಾನ Piscis Australis,  (The Southern Fish)  ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ(ತ್ರಿಶಂಕು) ೪೭, ೫೪  ದೊಡ್ಡ ಕರಡಿ (ಸಪ್ತರ್ಷಿ ಪುಂಜ, ೩೦೬)  ಎ೨೪    ೧೪ನ್ಕಿ
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
+**स्वस्तिक · svastika** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36).
+
+> त्यांपैकीं स्वस्तिक नांवाच्या राशींतल्या ४ चांगल्या तेजस्वी तारा मे व जून महिन्यांत आवशीस व जानुआरींत पहाटेस मध्यान्हीं अगदीं दक्षिणेकडे क्षितिजापासून सुमारें ८॥ अंश वर दिसतात.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 36 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Dikshit proposes त्रिशंकु as replacement on the same page; Jyotirvinodini (Kannada, 1931) keeps both as ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ and ತ್ರಿಶಂಕು; Muley (1993) tables स्वस्तिक as the Hindi name.</sub>
+
+**त्रिशंकु · triśaṅku** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+Dikshit's own coinage, argued from his southern-Saptarshi theory (the Trishanku legend told in full on the same page) and used working-style at p. 184 ('त्रिशंकु दुसरी' = α Crucis among the double stars).
+
+> व तदनुसार स्वस्तिक आणि नरतुरंग ह्या दोन पुंजांस अनुक्रमें त्रिशंकु आणि दक्षिणर्क्ष अशीं नांवें मीं योजिलीं आहेत.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 36 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The name the Bhagol app displays for Crux; matches the Kannada ತ್ರಿಶಂಕು of Jyotirvinodini (1931).</sub>
+
+**Mian** — Central Nicobarese (Camorta) (Camorta, Nancowry group, Central Nicobars) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. The only fishing implement in this database's sky, and it belongs to the only seafaring community in it.</sub>
+
+**Irukmara / Ipamaka** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Eight of ten villages. Two named stars stand under the tree to gather its flowers — see Murta and Kadma below.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. THIS IDENTIFIES A NAME tribal.json HAD TO LEAVE UNIDENTIFIED. That file records Gondi Irukna Mara with confidence 'unidentified' because Vahia and Halkare 2013 gave no modern equivalent for it. Irukmara here is transparently the same word, and this paper places it at Crux. The Gondi entry is not altered — a different community's identification is evidence, not proof — but the two should be read together.</sub>
+
+**Irup pokke** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The small stars around the Mahua tree Irukmara, gathered by the old lady and the young one who stand beside it as α and β Centauri.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.3 (Jamini), p. 81 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.3 (Jamini), p. 81 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Mahua flower is the thing the whole figure is about: the tree is named because its flowers are collected in March and April, and here the faint stars around it are the flowers themselves. A figure complete with its crop. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Kuras** — Teressa (Teressa island, Nicobars) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
+
+**ತ್ರಿಶಂಕು · Triśaṅku** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+
+'All these together make the Triśaṅku star-group.'
+
+> ತಲೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಎರಡು ನಕ್ಸತ್ರಗಳಿವೆ. ಇವಿಷ್ಟೂ ಒಟ್ಟು  ಸೇರಿದರೆ "ತ್ರಿಶಂಕು' ನಕ್ಷತ್ರ ಗಣವಾಗುತ್ತದೆ. ೧೪ನೆಯ ಆಕೃತಿಯಲ್ಲಿ  ದಕ್ಷಿಣ ಸ್ವೃಸ್ತಿಕವನ್ನು
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
 ## Antares
 
 **Modern:** Antares · α Scorpii · Scorpius  
@@ -8308,72 +8736,6 @@ Tṛkkēṭṭa is one of the inauspicious birth-stars in Kerala reckoning; Gund
 
 <sub>Carter's 'E. of' = 'Eḷu form of' (verified against Carter's own abbreviation key), i.e. Sanskrit jyeṣṭha in Sinhala phonology. Clough anchors the asterism to the sky: 'Jyeshthá ... the eighteenth, comprising three stars of which one is [α] Scorpionis figured by a ring or earring' (p. 196). Antares itself has no independent Sinhala name — Jayatilaka's only entry is the twentieth-century English loanword අන්ටරේස් anṭarēs, '[lw. Eng. Antares]' (p. 317).</sub>
 
-## Auriga
-
-**Modern:** Auriga · Auriga  
-**Named in 6 languages:** Bhili, Gondi, Kannada, Korku, Mavchi, Mizo (Lushai)
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Kannada | ಸಾರಥಿ | *Sārathi* | the charioteer | vernacular |
-| Bhili | — | *Hulgi* | the hulgi bird, with two eggs | tribal |
-| Gondi | — | *Samdur, Samudar* | the sea | tribal |
-| Korku | — | *Kunva* | 'a well' | tribal |
-| Mavchi | — | *dhorkya* | 'cattle herder' | tribal |
-| Mizo (Lushai) | — | *Dingdi-puan-tah* | 'Dingdi's cloth-stretching', puan being a cloth | tribal |
-
-**ಸಾರಥಿ · Sārathi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
-
-The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
-
-> ಆಂಡ್ರೋವಿನಾಡ ನೀಹಾರಕದಲ್ಲಿ  ೧೮೮೫ರಲ್ಲಿ ದೃಷ್ಟಿಗೆ ಬಿದ್ದುದೂ, ೧೮೯೧ರಲ್ಲಿ ಸಾರಥಿ (Charioteer)  ಯಲ್ಲಿ ಮೆರೆದುದೂ, ಈಜೆಗೆ ೧೯೦೧ನೆಯ ಇಸವಿಯಲ್ಲಿ ಪರ್‌ಸಿಯಸ್‌
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
-
-<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
-
-**Hulgi** — Bhili (Bhil villages 9 and 11, Mavchi Bhil 7 and 12, Kokna 10, north-western Maharashtra) · *tribal* · confidence: certain
-
-Only a small triangle within Auriga is recognised — ε Aurigae is the bird and η and ζ Aurigae its two eggs.
-
-*No quotation: Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 is in copyright and is paraphrased only.*
-> <br>— Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 ([source](https://articles.adsabs.harvard.edu/pdf/2023JAHH...26..441S))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The survey covered 210 people in 17 meetings across the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna communities of north-western Maharashtra. tribal.json recorded 'Bhili: nothing' and named this paper as a lead it could not obtain; this entry closes that gap. The bird sits in Auriga, its eggs are Orion's Belt in one community and the Pleiades in another. The figure travels; the stars it lands on do not. The digital text of this paper is unreadable — the embedded font subsets carry no ToUnicode map, so extraction yields a substitution cipher, and several different ciphers at that. Every Bhil, Pawra and Kokna reading in this file was therefore taken from a rendered page image, not from extracted text.</sub>
-
-**Samdur, Samudar** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: disputed
-
-Comes overhead at 4 a.m. in late May and is the sign that the rains are coming and farming begins. Its brightness is a forecast: bright means a good monsoon and the Gonds sow cotton and other water-hungry crops, dull means a weak one and they sow crops that need less water.
-
-*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
-> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
-
-<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Different villages placed Samdur in different constellations and the authors leave the identification open. The sowing rule attached to it is the most concrete piece of practical star-use anywhere in this compilation.</sub>
-
-**Kunva** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
-
-Five of twelve villages.
-
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The well, with two women drawing water from it — see Reike and Chaike.</sub>
-
-**dhorkya** — Mavchi (Mavchi Bhil village 12 and Kokna village 10, north-western Maharashtra) · *tribal* · confidence: certain
-
-*No quotation: Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 is in copyright and is paraphrased only.*
-> <br>— Shreya Shetye, Ganesh Halkare and Aniket Sule, 'Bhil, Pawra and Kokna astronomy', Journal of Astronomical History and Heritage, 26(2), 441-468 (2023), p. 464 ([source](https://articles.adsabs.harvard.edu/pdf/2023JAHH...26..441S))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The survey covered 210 people in 17 meetings across the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna communities of north-western Maharashtra. tribal.json recorded 'Bhili: nothing' and named this paper as a lead it could not obtain; this entry closes that gap. The same word as the Pleiades name Dhorkya porya above, moved to a single star. The digital text of this paper is unreadable — the embedded font subsets carry no ToUnicode map, so extraction yields a substitution cipher, and several different ciphers at that. Every Bhil, Pawra and Kokna reading in this file was therefore taken from a rendered page image, not from extracted text.</sub>
-
-**Dingdi-puan-tah** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
-
-The figure is a scene indoors: a named girl at her loom, with the cloth pinned to the wall at two points that are themselves stars.
-
-> Dingdi-puan-tah, n . the name of a Lushai constellation comprising Capella and three other stars in Auriga which form an isosceles triangle. The star at the apex of the triangle represents a young woman named Dingdi engaged in weaving a cloth which is affixed to the wall at the two points marked by the base stars.
-> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Dingdi-puan-tah, p. 116 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=116))
-
-<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. THE BEST-DRAWN FIGURE IN THIS DATABASE. Most sky-figures elsewhere here are a single object — a cot, a plough, a deer. This one has a named character, an action, and two stars doing duty as nails in a wall. Compare the Kolam Mahua tree at Crux with an old woman and a young woman gathering flowers beneath it, in tribal_fieldwork.json: both are domestic scenes rather than emblems, and neither has any counterpart in the Sanskrit sky.</sub>
-
 ## Leo and Virgo
 
 **Modern:** Leo · Leo  
@@ -8436,121 +8798,73 @@ Two of ten villages.
 
 <sub>Grierson prints the roman, the Śāradā-derived Devanagari and a Sanskrit gloss for every headword, so the romanization here is the source's own and nothing is transliterated by the compiler. The zodiacal sign, cited from the Kathāsaritsāgara translation.</sub>
 
-## Centaurus
+## Cygnus
 
-**Modern:** Centaurus · Centaurus  
-**Named in 5 languages:** Gondi, Kannada, Kolami, Korku, Mundari
+**Modern:** Cygnus · Cygnus  
+**Named in 5 languages:** Hindi, Kannada, Kolami, Marathi, Mundari
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Kannada | ನರಾಶ್ವ | *narāśva* | the man-horse | vernacular |
-| Gondi | — | *Khayan* | — | tribal |
-| Kolami | — | *Kadma* | 'a young lady' | tribal |
-| Kolami | — | *Murta* | 'an old lady' | tribal |
-| Kolami | — | *Oedda* | 'a man' | tribal |
-| Kolami | — | *Pilla* | 'a woman' | tribal |
-| Korku | — | *Bharada* | — | tribal |
-| Korku | — | *Charakhaya* | — | tribal |
-| Korku | — | *Dhanay* | — | tribal |
-| Korku | — | *Pechla* | — | tribal |
-| Mundari | — | *hirumea repą ipilkiŋ; parkom repą ipilkiŋ* | the two stars trying to steal the co-wife status — or the bed — from one another | tribal |
+| Hindi | हंस | *haṃsa* | the swan | vernacular |
+| Kannada | ರಾಜಹಂಸ | *rājahaṃsa* | the royal swan | vernacular |
+| Marathi | हंस | *haṃsa* | the swan | vernacular |
+| Kolami | — | *Barre; Sir; mais* | 'a buffalo' | tribal |
+| Kolami | — | *Kavadi Kunde / Kavedi Koda* | 'a tower of three pots' | tribal |
+| Mundari | — | *laṇḍae ipil* | the one who is laughing | tribal |
 
-**ನರಾಶ್ವ · narāśva** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**हंस · haṃsa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary. Figure 13 in the book carries the name as its caption.
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
 
-> ದೂರವು ಕೂಡ ಬಹಳ ಹೆಚ್ಚಲ್ಲವೆ? ಆದರೆ, ಇದಕ್ಕಾಜೆ  ನಮಗೆ ಅತ್ಯಂತ ಸವಿಖಾಪವರ್ತಿಯಾದ ನರಾಶ್ವ ಇ ವರೆಗೂ ಅಗಾಧ  ವಾದೊಂದು ಶೂನ್ಯ ಪ್ರದೇಶವು ವಿಸ್ತರಿಸಿಕೊಂಡಿರುವುದು. ನೆಪ್ಟ್ಯೂ
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~240 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~240 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**ರಾಜಹಂಸ · rājahaṃsa** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
+
+> ಸಂಪೂರ್ಣವಾಗಿ ಕತಟಿಬಂಧದಂತೆ ಬಳಸಿ ಸ್ವಚ್ಛವಾದ  ಸಂಧ್ಯಾ ಕಾಲಗಳಲ್ಲಿ ರಾಜಹಂಸ ಮತ್ತು, ಲೈರ್‌ ಪುಂಜಗಳಲ್ಲಿ ಪ್ರಕಾಶಿ  ಸಿವ ನಕ್ಷತ್ರ ವೀಧಿಯನ್ನು ಯಾರು ತಾನೇ
 > <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
-**Khayan** — Gondi (Nagpur region: Chandrapur, Yavatmal, Gondia (Maharashtra), Adilabad (Telangana), Balaghat, Seoni, Mandla (Madhya Pradesh)) · *tribal* · confidence: unidentified
+**हंस · haṃsa** — Marathi (Maharashtra) · *vernacular* · confidence: certain
 
-*No quotation: Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 is in copyright and is paraphrased only.*
-> <br>— Vahia & Halkare, 'Aspects of Gond Astronomy', Journal of Astronomical History and Heritage 16(1), 29-44 (2013); preprint arXiv:1306.2416 ([source](https://arxiv.org/pdf/1306.2416))
+Dikshit's own philology of the name: an admitted translation of the Western Swan, defended as belonging to the tradition because kavya and purana describe swans bathing in the आकाशगंगा — which the constellation in fact sits in.
 
-<sub>In copyright: paraphrased throughout and never quoted, per this compilation's rules, so the quote field is null. The survey covered 15 Gond villages in March 2011, with identifications checked by projecting a sky chart for the informants and later in a planetarium, which is why the modern identifications are given as reported. Listed in the paper's summary table against Centaurus but with no description, no story and no stars named. Recorded as a bare attestation.</sub>
+> हंस हें नांव आमच्या ज्योतिषग्रंथांत नाहीं, पाश्चात्यांच्या नांवावरून भाषांतर करून घेतलें आहे, हें खरें. तरी आमच्या इतर ग्रंथांत तें आहे असें मला वाटतें.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 38 ([source](https://archive.org/details/india.history.resource.92658))
 
-**Kadma** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Cygnus is called हंस नामक तारकापुंज at p. 38 and हंसराशि at p. 183 (the nova of 1876).</sub>
 
-The second flower-gatherer under the Mahua tree.
+**Barre; Sir; mais** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+The best sign of the set: Landgi Pod calls the buffalo excellent, Raipur says lots of rain.
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. The pointer stars of Crux read as two women, old and young — a scene rather than a figure, which is how most of the Kolam sky works.</sub>
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
 
-**Murta** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders, not by the informants. Sir and mais are the Marathi equivalents the villagers gave alongside the Kolami word, and the paper prints all three. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
-Standing under the Mahua tree of Crux to collect its fallen flowers.
+**Kavadi Kunde / Kavedi Koda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Seven of ten villages.
 
 *No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
 > <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. </sub>
 
-**Oedda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+**laṇḍae ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: disputed
 
-At Landgi Pod the two bright stars beside the Mahua tree are a man and a woman rather than the old lady and the young lady given elsewhere.
+The third fire-thief, who cannot help laughing at the discomfiture awaiting the sleeper, and whom the others push aside for fear he will wake the man.
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
+> The one who cannot help laughing, the laṇḍae ipil, is Delta of Cygnus.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. A village variant of Murta above, and worth keeping separate: the other villages make the pair two women of different ages gathering flowers, and this one makes them a couple. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Pilla** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-The companion of Oedda at Landgi Pod, in place of Kadma the young lady.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.6 (Landgi Pod), p. 82 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. See Oedda above. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Bharada** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: unidentified
-
-Given with apparent magnitude 2.25.
-
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so. Bharada is one of the four cases: the paper prints only the lost Greek letter and 'Cen'. Magnitude 2.25 fits γ Cen (2.20) and ε Cen (2.29) about equally, so no identification is claimed.</sub>
-
-**Charakhaya** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
-
-Given with apparent magnitude 0.55.
-
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so.</sub>
-
-**Dhanay** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
-
-Given with apparent magnitude 0.10.
-
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so.</sub>
-
-**Pechla** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
-
-Given with apparent magnitude 2.05.
-
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so.</sub>
-
-**hirumea repą ipilkiŋ; parkom repą ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
-
-The two co-wives pulling at opposite corners of the bed, which is why the parallelogram is out of square. Delta Centauri is the brighter and lies a little closer to the bed because, the Mundas say, she is the first wife and has gained the upper hand.
-
-> hirumea repą ipilkiŋ sbst, ltly., the two stars trying to steal from each other the relationship of co-wives, i.e., trying to oust each other from the status of first wife. They are also called parkom repą ipilkiŋ, the two stars trying to steal a bed from each other.
-> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VI, s.v. hirumea repą ipilkiŋ, cols. 1751-1757 ([source](https://archive.org/download/in.ernet.dli.2015.14926/2015.14926.Encyclopedia-Mundarica-Vol-vi-1932_djvu.txt))
-
-<sub>One of the very few star names anywhere that encodes a point of domestic law rather than a season or a trade.</sub>
+<sub>Hoffmann's own identification, and geometrically awkward: δ Cygni lies a long way from Pegasus. He says himself, of the whole attempt to place these figures near the Pleiades, that it 'is rather a failure'. Recorded with the printed identification and the doubt attached.</sub>
 
 ## Vega
 
@@ -8618,6 +8932,122 @@ The intercalated 28th asterism, squeezed between the 21st and 22nd.
 > <br>— Carter, A Sinhalese-English Dictionary (Colombo, 1924), s.v. අභි ජිත් abhi jit, p. 50 ([source](https://dsal.uchicago.edu/cgi-bin/app/carter_query.py?qs=between%20the%2021st&matchtype=default))
 
 <sub>Sinhala inherited the 27/28 ambiguity along with the system: Carter's own නක්‍ෂත්‍රය entry speaks of 28 asterisms (p. 312) and Clough of 'twenty-eight in the moon's path' (p. 273), while the enumerated Eḷu list runs to 27. Jayatilaka makes the identification explicit at අබිජිත් abijit (p. 462), 'this is identified with vēgā, the brightest star in the constellation'.</sub>
+
+## Andromeda
+
+**Modern:** Andromeda · Andromeda  
+**Named in 5 languages:** Garo, Hindi, Kolami, Marathi, Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | देवयानी | *devayānī* | Devayani | vernacular |
+| Marathi | देवयानी | *devayānī* | Devayani | vernacular |
+| Garo | — | *Manganchi* | — | tribal |
+| Kolami | — | *Samdur* | 'a sea', from which the rain comes | tribal |
+| Mundari | — | *maraṅ parkom ipilko; Siṅgboṅga gitikente parkom ipilko* | the great bed stars; the bed Siṅgboṅga sleeps on | tribal |
+
+**देवयानी · devayānī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. The prose (p. ~283) presents देवयानी-शर्मिष्ठा-ययाति as names 'given in the modern period' — Muley reports the Jambhekar-Dikshit Marathi set, continued into Hindi.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~283 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~283 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**देवयानी · devayānī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). The eighth-magnitude star of 1885 is S Andromedae; the great nebula in the same पुंज is described at p. 186.
+
+> सन १८६६ मध्यें उत्तरमुकुटांत दुसऱ्या प्रतीची, सन १८७६ मध्यें हंसराशींत तिसऱ्या प्रतीची, व सन १८८५ मध्यें देवयानी पुंजांत आठव्या प्रतीची, अशा तारा दिसत होत्या.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 183 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The oldest secure attestation of देवयानी = Andromeda in print known to this record.</sub>
+
+**Manganchi** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
+
+The four upright posts between which the wood for the cremation was heaped; the brightest of the four is the post to which the sacrificial buffalo was tethered.
+
+> (11) Manganchi (Square of Pegasus) represents the four upright posts between which the wood for the cremation was heaped up. The brightest of the four stars is said to represent the post to which the buffalo for sacrifice was tethered.
+> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 86–87 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
+
+<sub>The Mundas see the same four stars as Singbonga's bedstead and the Lakhers as a sheet of bamboo matting. All three read the square as a made rectangular thing; only Garo reads it as four separate uprights and singles out the brightest.</sub>
+
+**Samdur** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Eight of ten villages. Animal asterisms are seen around the Square — a peacock, a buffalo, a frog, a deer, a horse and sometimes a pig — and their relative brightness is taken to forecast the strength of the coming rain.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. A rain-gauge built out of a constellation. CORRECTED: this entry previously said that no name is printed for the individual animals. Table 2 prints none, but the appendix names all of them — Namli the peacock, Barre the buffalo, Pande the frog, Mekam the deer, Gurram the horse and Ture the pig — and they are now six entries of their own, with the recorders' suggested constellations carried as disputed.</sub>
+
+**maraṅ parkom ipilko; Siṅgboṅga gitikente parkom ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+On so great and splendid a bed none but Siṅgboṅga can be supposed to sleep.
+
+> A great bed is seen there, viz., the Great Square delineated by Alpharatz in Andromeda, and Scheat, Markab, Algenib in Pegasus. These four stars are the maraṅ parkom ipilko, also called Siṅgboṅga gitikenteą parkom ipilko
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>parkom is the same string cot that Santali makes into the old woman's bed in Ursa Major. The Mundas run the cot image through four parts of the sky: the god's bed here, the co-wives' bed in Lupus, the bier in Ursa Major, and the watchman's pallet implied by the ember stars.</sub>
+
+## Cassiopeia
+
+**Modern:** Cassiopeia · Cassiopeia  
+**Named in 5 languages:** Garo, Hindi, Kolami, Mara (Lakher), Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | शर्मिष्ठा | *śarmiṣṭhā* | Sharmishtha | vernacular |
+| Marathi | शर्मिष्ठा | *śarmiṣṭhā* | Sharmishtha | vernacular |
+| Garo | — | *Mangripe* | 'the carrying of the body' | tribal |
+| Kolami | — | *Namli / Namali* | 'a peacock' | tribal |
+| Mara (Lakher) | — | *Sohlu vang araipa* | — | tribal |
+
+**शर्मिष्ठा · śarmiṣṭhā** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~289 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~289 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**शर्मिष्ठा · śarmiṣṭhā** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36).
+
+> इ० स० १५७२ च्या नोव्हेंबरपासून सुमारें १६ महिने वृषपर्वा व शर्मिष्ठा ह्यांच्या मध्यें एक प्रदीप्त तारा दिसत होती.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 182 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Tycho's 1572 supernova placed between Cassiopeia and Cepheus.</sub>
+
+**Mangripe** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
+
+The bearing of the corpse to the funeral pyre — the opening scene of the funeral of the moon's mother, which is the single story the Garo sky tells.
+
+> (1) Mangripe (Cassiopeia, lit. the carrying of the bedy) represents the bearing of the body to the funeral pyre.
+> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 86 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
+
+<sub>'bedy' is the scan's damage for 'body', which the same sentence prints correctly two words later. THE GARO SKY IS ONE NARRATIVE. Fourteen names, and all but the two Venus names belong to a single funeral: the cremation of Norekbak-Norekding, also called Asima-Dingsima, mother of Susime the moon. No other tradition in this database organises its whole star-list as episodes of one event.</sub>
+
+**Namli / Namali** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+
+One of the five or six animals that stand around Samdur and forecast the monsoon by their brightness. Landgi Pod reads the peacock as a bad sign, Chinchpod as less rain, Kakban as less rain. Six of the ten villages knew the animals.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The identification is the recorders' own suggestion, offered in one sentence at Janguguda and not attributed to the informants, so the confidence is set to disputed and the suggestion is carried in modern_star rather than asserted. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Sohlu vang araipa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: disputed
+
+Five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended.
+
+> Sohlu vang araipa is a constellation of five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended on the world. This is possibly Cassiopeia.
+> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 496 ([source](https://archive.org/details/lakhers032949mbp))
+
+<sub>Five stars in a W, read as four men holding a skin stretched between them. The Garos read the same five as a corpse being carried. Khazanghra, also called Thimzing, is the Lakher 'great darkness', the mythical eclipse at which everything then alive was turned to stone or to stars. Nearly every Lakher star-name below is an episode interrupted by it.</sub>
 
 ## Eclipses
 
@@ -8865,29 +9295,85 @@ One of six villages.
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Given as the modern-language word. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
-## Pegasus
+## Canis Major
 
-**Modern:** the Great Square of Pegasus · α, β, γ Pegasi with α Andromedae · Pegasus  
-**Named in 4 languages:** Garo, Kolami, Mara (Lakher), Mundari
+**Modern:** Canis Major · Canis Major  
+**Named in 4 languages:** Hindi, Kannada, Kolami, Lambadi (Banjara)
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Garo | — | *Manganchi* | — | tribal |
+| Hindi | वृहद् श्वान | *vṛhad śvān* | the greater dog | vernacular |
+| Kannada | ಮಹಾ ಶ್ವಾನ | *mahā śvāna* | the great dog | vernacular |
+| Kolami | — | *Tiva Pate* | 'the three-legged stool' | tribal |
+| Kolami | — | *Tiva; Miti; Kovela; Konda* | farming tools | tribal |
+| Lambadi (Banjara) | — | *Medi* | — | tribal |
+
+**वृहद् श्वान · vṛhad śvān** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~72 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~72 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. The prose (p. ~72) spells बृहद् श्वान; the table वृहद् श्वान. Sibling of Kannada ಮಹಾ ಶ್ವಾನ (Jyotirvinodini 1931).</sub>
+
+**ಮಹಾ ಶ್ವಾನ · mahā śvāna** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
+
+> ಉತ್ತರ--ಪರ್ಗಿಯಸ್‌, ಸಾರಧಿ, ಧ್ರುವ ಪುಂಜ, ಲಘು ಸಪ್ತರ್ಷಿ,  ಪೂರ್ವ--ಮೃಗಶಿರಾ, ಮಹಾ ಶ್ವಾನ, ಕ್ಲುದ್ರ ಶ್ವಾನ (ಈಶಾನ್ಯ), ಮಿಥುನ (ಈಶಾನ್ಯ), ಕಪೋತ  (ಆಗ್ನೇಯ), ಶಶ
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
+**Tiva Pate** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+The stool a thresher stands on to drop the harvest into the wind, so that the husk blows away. Given at Dubaguda and Jamini with the star named.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 80, and 1.2.3 (Jamini), p. 81 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 80, and 1.2.3 (Jamini), p. 81 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Gondi entry for Tiva in tribal.json places it only as 'stars near Sirius'; the Kolam villages name the star, and it is Adhara. One community's record identifying another's figure, as with Irukmara and Crux. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Tiva; Miti; Kovela; Konda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+At Raipur four names are given for the region without individual identifications, and the recorders note that the Gonds describe the same tools in detail.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.9 (Raipur), p. 83 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.9 (Raipur), p. 83 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Entered as one record because the paper gives them as one list and identifies none of them separately. Tiva is the Gond stool and Kovela the Kolam bird word, so the list mixes the two traditions in a single breath. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Medi** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: likely
+
+Connected by the Banjaras with the processing of the harvest. Reported in one village only.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. Reported from a single village, and the paper gives no closer identification than the constellation, so it is graded 'likely'. Compare Kolam Met, in this file, which is a threshing-pole name for Sirius — the same region of sky and probably the same word.</sub>
+
+## Pegasus
+
+**Modern:** Pegasus · Pegasus  
+**Named in 4 languages:** Hindi, Kolami, Mara (Lakher), Mundari
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | हयशिर | *hayaśira* | the horse's head | vernacular |
 | Kolami | — | *Mekam / Mokam; Rohi; Gorya* | 'a deer' | tribal |
-| Kolami | — | *Samdur* | 'a sea', from which the rain comes | tribal |
 | Mara (Lakher) | — | *Aphilu* | — | tribal |
 | Mundari | — | *bursi ipilko* | the smouldering-fire stars | tribal |
 | Mundari | — | *bursi kumbuṛu ipilko (bursi repą ipilkiŋ)* | the fire-thief stars | tribal |
-| Mundari | — | *maraṅ parkom ipilko; Siṅgboṅga gitikente parkom ipilko* | the great bed stars; the bed Siṅgboṅga sleeps on | tribal |
 
-**Manganchi** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
+**हयशिर · hayaśira** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-The four upright posts between which the wood for the cremation was heaped; the brightest of the four is the post to which the sacrificial buffalo was tethered.
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: 'हमारे यहां इस मंडल को अब महाश्व या हयशिर के नाम से भी जाना जाता है' — received-usage phrasing; महाश्व is the variant.
 
-> (11) Manganchi (Square of Pegasus) represents the four upright posts between which the wood for the cremation was heaped up. The brightest of the four stars is said to represent the post to which the buffalo for sacrifice was tethered.
-> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 86–87 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~241 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~241 ([source](https://archive.org/details/akash-gunakar))
 
-<sub>The Mundas see the same four stars as Singbonga's bedstead and the Lakhers as a sheet of bamboo matting. All three read the square as a made rectangular thing; only Garo reads it as four separate uprights and singles out the brightest.</sub>
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
 **Mekam / Mokam; Rohi; Gorya** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
 
@@ -8897,15 +9383,6 @@ Average rain at Landgi Pod and Raipur, less than normal at Chinchpod, more at on
 > <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders. Rohi and Gorya are the Marathi words given beside the Kolami one. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Samdur** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-Eight of ten villages. Animal asterisms are seen around the Square — a peacock, a buffalo, a frog, a deer, a horse and sometimes a pig — and their relative brightness is taken to forecast the strength of the coming rain.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. A rain-gauge built out of a constellation. CORRECTED: this entry previously said that no name is printed for the individual animals. Table 2 prints none, but the appendix names all of them — Namli the peacock, Barre the buffalo, Pande the frog, Mekam the deer, Gurram the horse and Ture the pig — and they are now six entries of their own, with the recorders' suggested constellations carried as disputed.</sub>
 
 **Aphilu** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: disputed
 
@@ -8933,80 +9410,6 @@ Three men creep up on a sleeping watchman to steal embers from the fire under hi
 > <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
 
 <sub>Two names for the same pair: Encyclopaedia Mundarica vol. II gives the headword Bursi-kumbuṛu-ipilko (kumbuṛu 'thief'), the ipil article gives bursi repą ipilkiŋ (repą 'to steal from one another').</sub>
-
-**maraṅ parkom ipilko; Siṅgboṅga gitikente parkom ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
-
-On so great and splendid a bed none but Siṅgboṅga can be supposed to sleep.
-
-> A great bed is seen there, viz., the Great Square delineated by Alpharatz in Andromeda, and Scheat, Markab, Algenib in Pegasus. These four stars are the maraṅ parkom ipilko, also called Siṅgboṅga gitikenteą parkom ipilko
-> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
-
-<sub>parkom is the same string cot that Santali makes into the old woman's bed in Ursa Major. The Mundas run the cot image through four parts of the sky: the god's bed here, the co-wives' bed in Lupus, the bier in Ursa Major, and the watchman's pallet implied by the ember stars.</sub>
-
-## Crux (the Southern Cross)
-
-**Modern:** the Southern Cross · Crux  
-**Sanskrit database:** `trishanku` — Triśaṅku (Triśaṅku — a king fixed head-downward in the southern sky) ([entry](../star-names/star-names.json))  
-**Named in 4 languages:** Central Nicobarese (Camorta), Kannada, Kolami, Teressa
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Kannada | ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ | *dakṣiṇa svastika* | the southern svastika | vernacular |
-| Central Nicobarese (Camorta) | — | *Mian* | 'a dagger used in fishing' | tribal |
-| Kolami | — | *Irukmara / Ipamaka* | a Mahua tree (Madhuca longifolia), whose flowers are fermented to make liquor | tribal |
-| Kolami | — | *Irup pokke* | 'the flowers of the Mahua' | tribal |
-| Teressa | — | *Kuras* | — | tribal |
-| Kannada | ತ್ರಿಶಂಕು | *Triśaṅku* | — | borrowed |
-
-**ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ · dakṣiṇa svastika** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
-
-The Cross seen as a svastika — the book's own figure caption reads 'Svastika'.
-
-> ೭೫, ೭೬  ದ  ದಕ್ಷಿಣ ಮಾನ Piscis Australis,  (The Southern Fish)  ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ(ತ್ರಿಶಂಕು) ೪೭, ೫೪  ದೊಡ್ಡ ಕರಡಿ (ಸಪ್ತರ್ಷಿ ಪುಂಜ, ೩೦೬)  ಎ೨೪    ೧೪ನ್ಕಿ
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
-
-<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
-
-**Mian** — Central Nicobarese (Camorta) (Camorta, Nancowry group, Central Nicobars) · *tribal* · confidence: certain
-
-*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. The only fishing implement in this database's sky, and it belongs to the only seafaring community in it.</sub>
-
-**Irukmara / Ipamaka** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-Eight of ten villages. Two named stars stand under the tree to gather its flowers — see Murta and Kadma below.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. THIS IDENTIFIES A NAME tribal.json HAD TO LEAVE UNIDENTIFIED. That file records Gondi Irukna Mara with confidence 'unidentified' because Vahia and Halkare 2013 gave no modern equivalent for it. Irukmara here is transparently the same word, and this paper places it at Crux. The Gondi entry is not altered — a different community's identification is evidence, not proof — but the two should be read together.</sub>
-
-**Irup pokke** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-The small stars around the Mahua tree Irukmara, gathered by the old lady and the young one who stand beside it as α and β Centauri.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.3 (Jamini), p. 81 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.3 (Jamini), p. 81 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Mahua flower is the thing the whole figure is about: the tree is named because its flowers are collected in March and April, and here the faint stars around it are the flowers themselves. A figure complete with its crop. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Kuras** — Teressa (Teressa island, Nicobars) · *tribal* · confidence: certain
-
-*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
-
-**ತ್ರಿಶಂಕು · Triśaṅku** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
-
-'All these together make the Triśaṅku star-group.'
-
-> ತಲೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಎರಡು ನಕ್ಸತ್ರಗಳಿವೆ. ಇವಿಷ್ಟೂ ಒಟ್ಟು  ಸೇರಿದರೆ "ತ್ರಿಶಂಕು' ನಕ್ಷತ್ರ ಗಣವಾಗುತ್ತದೆ. ೧೪ನೆಯ ಆಕೃತಿಯಲ್ಲಿ  ದಕ್ಷಿಣ ಸ್ವೃಸ್ತಿಕವನ್ನು
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
-
-<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
 ## Seasonal and agricultural star-markers
 
@@ -9114,6 +9517,52 @@ The living Assamese word for a star-cluster, and the word the dictionary itself 
 
 <sub>Kittel preserves the Sanskrit bear/star polysemy intact. Telugu రిక్క rikka is the Middle-Indic descendant of the same word, but by Brown's time it means simply 'star' and has lost the bear.</sub>
 
+## Aquila
+
+**Modern:** Aquila · Aquila  
+**Named in 4 languages:** Hindi, Kannada, Kolami, Mizo (Lushai)
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | गरुड | *garuḍa* | Garuda, the eagle | vernacular |
+| Kannada | ಜಟಾಯು | *Jaṭāyu* | the Ramayana's vulture | vernacular |
+| Kolami | — | *Gurram / Guram* | 'a horse' | tribal |
+| Mizo (Lushai) | — | *Si-kawi-kâp* | — | tribal |
+
+**गरुड · garuḍa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: the mandala holding Shravana; एक्विला glossed गरुड या बाज़ पक्षी.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~236 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~236 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**ಜಟಾಯು · Jaṭāyu** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The epic vulture set on the Eagle — the book's own coinage; later Kannada usage (Nakshatra Darshana, 1954) moved Garuḍa here instead.
+
+> ಇಸವಿಯಲ್ಲಿ ಪರ್‌ಸಿಯಸ್‌  ಪುಂಜದಲ್ಲಿ ಕಂಗೊಳಿಸಿದುದೂ, ೧೯೧೮ನೆಯ ಆಗಸ್ಟಿನಲ್ಲಿ ಜಟಾಯು  ಪು೦ಜದಲ್ಲಿ ಮೈದೋರಿದುದೂ ಅಲ್ಪಕಾಲಿಕ ನಕ್ಷತ್ರಗಳೇ.   ಭೂ ನಿವಾಸಿಗಳ ದ
+> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+
+<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+
+**Gurram / Guram** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+
+Average rain at Landgi Pod, less rain at Kakban.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders. Gurram is the Telugu word for a horse; the paper notes elsewhere that the Kolams take their counting above three from Telugu, and the borrowing shows here too. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+**Si-kawi-kâp** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
+
+> Si-kawi-kâp, n . the name of a Lushai constellation comprising three stars in Aquila and four stars in Delphin.
+> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Si-kawi-kâp, p. 417 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=417))
+
+<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. A second figure spanning two modern constellations, and it overlaps Si-hnawk-khur on the same four Delphinus stars. Lorrain does not reconcile them; both are entered.</sub>
+
 ## Mars
 
 **Modern:** Mars  
@@ -9209,52 +9658,64 @@ One of six villages. Read as the sign that the current spell of rain has ended.
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The recorders mark it as taken from the modern languages, and it is entered as borrowed on their judgement. THE RAINBOW IS A BOW IN ALL THREE COMMUNITIES SURVEYED and the only question is whose: Indra's here, the god Bhimayak's among the Kolams, and among the Gonds a gulel, a catapult, with no owner named. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
 
-## Ursa Minor
+## Corvus
 
-**Modern:** the Little Dipper · Ursa Minor  
-**Sanskrit database:** `shishumara` — Śiśumāra (the celestial porpoise/dolphin — a whole star-figure, not a single star) ([entry](../star-names/star-names.json))  
-**Named in 4 languages:** Kannada, Malayalam, Marathi, Urdu
+**Modern:** Corvus · Corvus  
+**Sanskrit database:** `hasta` — Hasta (Gienah) ([entry](../star-names/star-names.json))  
+**Named in 3 languages:** Hindi, Kashmiri, Marathi
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Kannada | ಚಿಕ್ಕ ಕರಡಿ | *cikka karaḍi* | the little bear | vernacular |
-| Marathi | ध्रुवमत्स्य | *dhruvamatsya* | the pole-fish | vernacular |
-| Urdu | فرقدان | *farqadān* | 'the two calves' (dual of farqad 'a calf') | vernacular |
-| Malayalam | ഋക്ഷം | *ṛkṣam* | 'bear' | borrowed |
+| Hindi | काक | *kāka* | the crow | vernacular |
+| Marathi | — | *Hasti Nakshatra* | the Elephant asterism | folk |
+| Marathi | हत्ती | *hattī* | elephant | folk |
+| Marathi | हत्तीबार | *hattībāra* | the elephant-crop | folk |
+| Kashmiri | ह॑स्तु॒ | *hostu* | — | borrowed |
 
-**ಚಿಕ್ಕ ಕರಡಿ · cikka karaḍi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**काक · kāka** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
 
-> ಈ  ಸಣ್ಣ ತಾರೆಯು ಗುರುತಿಸುವ ಪುಂಜವೇ ಲಘು ಸಪ್ತಪಿ೯ (Little  Bear = ಚಿಕ್ಕ ಕರಡಿ). ಇದು ಕೂಡ ತನ್ನ ಅಣ್ಣನಾದ ದೊಡ್ಡ ಕರಡಿ  ಯಂತೆ ಸಪ್ತ ನಕ್ಷತ್ರಗಳಿಂದ
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~130 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~130 ([source](https://archive.org/details/akash-gunakar))
 
-<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
-**ध्रुवमत्स्य · dhruvamatsya** — Marathi (Maharashtra) · *vernacular* · confidence: likely
+**Hasti Nakshatra** — Marathi (Satara district, Deccan) · *folk* · confidence: certain
 
-> ॰मत्स्य -पु. (ज्यो.) लघुऋक्ष किंवा लघुऋक्षांतील दोन मुख्य तार्‍यांपैकीं एक. दुसरा मुख्य तारा ध्रुव होय.
-> <br>— Y. R. Date et al., Maharashtra Sabdakosa (Poona, 1932-38), s.v. ध्रुव (compound ॰मत्स्य), p. 1770 ([source](https://dsal.uchicago.edu/cgi-bin/app/marathi_query.py?qs=%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5&searchhws=yes&matchtype=exact))
+names the heavy westerly downpour of September, distinguished by cultivators from the regular south-west monsoon
 
-<sub>A 20th-century Marathi constellation vocabulary rather than village usage: Date's own supporting quotation is from a teacher-training manual listing ध्रुवमत्स्य beside सप्तर्षि, नरतुरंगम ('man-horse' = Sagittarius) and ययाति as figures to teach children. Register 'vernacular' in the sense of Marathi-formed, but the milieu is the modern classroom, not folk tradition. Date is also internally unsure whether the word names Ursa Minor as a whole or one of its two bright stars.</sub>
+> it is known as the fall of the Hasti Nakshatra or the Elephant Guest-house.
+> <br>— Gazetteer of the Bombay Presidency, Vol. XIX: Satara (Bombay: Government Central Press, 1885), p. 19 ([source](https://archive.org/details/wbsl.15257))
 
-**فرقدان · farqadān** — Urdu (Urdu, from Arabic) · *vernacular* · confidence: certain
+<sub>Independent confirmation, from revenue-survey fieldwork rather than a dictionary, of the elephant reading of Hasta that Molesworth records s.v. हत्ती. The sentence quoted is preceded by: 'A heavy burst, often six inches, of westerly rain nearly always happens in September. The people do not regard this as part of the regular south-west monsoon' — that lead-in is quoted here in the printed reading rather than the scan's, which garbles it as 'A heavy bursty often six inches^ of westerly rain nearly alw^ays happens'. The Nasik volume (Vol. XVI, 1883, p. 15) has the same: the rains end 'until the Hasta Nakshatra or sign of the Elephant in the first half of October' (the scan prints 'Rasta'), and it calls the September-October rains 'the elephant showers'. Roman only; no Devanagari is printed in the Gazetteer.</sub>
 
-The Arabic al-farqadān, the pair that circles close to the pole. Shakespear (1834, p. 1258) muddles them as 'Two stars near the pole, the greater and lesser bears'; Platts has the identification right.
+**हत्ती · hattī** — Marathi (Maharashtra) · *folk* · confidence: certain
 
-> A فرقدان farqadān , s.m. dual (of فرقد farqad, 'a calf'), Two bright stars in Ursa Minor near the pole-star.
-> <br>— John T. Platts, A Dictionary of Urdu, Classical Hindi and English (London, 1884), s.v. farqadān, p. 779 ([source](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=779))
+हत्तीचें उथाण, the sultriness of the Hasta period; Pr. पडेल हत्ती तर पाडील भिंती, 'if the elephant falls it will bring down walls' — of torrential rain
 
-<sub>Identification with β and γ UMi is the standard sense of al-farqadān; Platts says only 'two bright stars in Ursa Minor near the pole-star'.</sub>
+> हत्ती hattī m (हस्ती S) An elephant. Pr. हत्तीबरोबर बैलाचें वारगोळें. 2 The thirteenth nakshatra or lunar mansion. Note. This asterism is properly named हस्त, being designated by a hand, not by an elephant. It is by popular understanding, howsoever extensive or established, or howsoever inclusive of the erudite or educated, that it is named हत्ती, and that it acquires references and associations as outpouring heavy rain. Pr. पडेल हत्ती तर पाडील भिंती.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. हत्ती, p. 885 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80&searchhws=yes&matchtype=exact))
 
-**ഋക്ഷം · ṛkṣam** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *borrowed* · confidence: disputed
+<sub>A pure case of folk reanalysis, and Molesworth says so in as many words: हस्त means 'hand', but Marathi speakers — learned ones included — hear हत्ती 'elephant', and the whole weather-imagery of the asterism (an elephant's downpour, walls knocked flat) follows from the mishearing. This is the answer to 'what does Marathi call Corvus': not a crow, an elephant. The reanalysis has entered ritual: Molesworth s.v. हस्तागौर (p. 892) describes 'the image or figure of गौरी seated upon an elephant, and worshiped whilst the sun is in हस्तनक्षत्र', and s.v. गजगौरीव्रत (p. 219) the same rite as performed when 'the sun enters the constellation of elephant'.</sub>
 
-Used in the compound ജന്മര്‍ക്ഷദിനം 'the day of one's birth-asterism'.
+**हत्तीबार · hattībāra** — Marathi (Maharashtra) · *folk* · confidence: certain
 
-> ഋക്ഷം r̥kṣam ṛkšam S. (G. 'rktos) 1. Bear, Ursa minor. 2. constellation in general ജന്മര്‍ക്ഷദി നം Bhg.
-> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഋക്ഷം ṛkṣam, p. 153 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%8B%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%82&searchhws=yes&matchtype=exact))
+the second fruit crop of the year, ripening under Hasta
 
-<sub>Gundert glosses the Bear as Ursa MINOR, where Sanskrit ṛkṣāḥ is standardly Ursa Major (the Saptarṣis) — as Gundert himself has it under സപ്തം. The discrepancy is his, not the language's; flagged disputed. Sense 2, 'constellation in general', is the ordinary Malayalam usage.</sub>
+> हत्तीबार hattībāra m (Elephant-crop.) A term for the fruit-crop which ripens under हस्तनक्षत्र, i. e. the second crop. The two other crops are मृगबार & आंबेबार.
+> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. हत्तीबार, p. 885 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%B0&searchhws=yes&matchtype=exact))
+
+<sub>Shows the star-name in load-bearing agricultural use: the farming year's three fruit crops are named मृगबार, हत्तीबार and आंबेबार, two of the three after asterisms.</sub>
+
+**ह॑स्तु॒ · hostu** — Kashmiri (Kashmir valley) · *borrowed* · confidence: certain
+
+The thirteenth of the twenty-seven lunar mansions.
+
+> hostu 1 ह॑स्तु॒ । हस्तः, नक्षत्रविशेषः m. the thirteenth of the twenty-seven lunar mansions or lunar asterisms, in Sanskrit hasta, said to be shaped like a hand and to be part of the constellation Corvus.
+> <br>— Sir George Abraham Grierson, A Dictionary of the Kashmiri Language, compiled partly from materials left by the late Pandit Isvara Kaula (Calcutta: Asiatic Society of Bengal, 1916-1932), s.v. hostu, p. 354 ([source](https://dsal.uchicago.edu/cgi-bin/app/grierson_query.py?page=354))
+
+<sub>Grierson prints the roman, the Śāradā-derived Devanagari and a Sanskrit gloss for every headword, so the romanization here is the source's own and nothing is transliterated by the compiler. The hand-shape and the identification with Corvus are Grierson's.</sub>
 
 ## Taurus
 
@@ -9312,54 +9773,6 @@ Used for time measurement; the paper says the details were not given.
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The survey covered 210 people in 17 meetings across the Bhil, Mavchi Bhil, Vasave Bhil, Pawra and Kokna communities of north-western Maharashtra. tribal.json recorded 'Bhili: nothing' and named this paper as a lead it could not obtain; this entry closes that gap. The digital text of this paper is unreadable — the embedded font subsets carry no ToUnicode map, so extraction yields a substitution cipher, and several different ciphers at that. Every Bhil, Pawra and Kokna reading in this file was therefore taken from a rendered page image, not from extracted text.</sub>
 
-## Canis Major
-
-**Modern:** Canis Major · Canis Major  
-**Named in 3 languages:** Kannada, Kolami, Lambadi (Banjara)
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Kannada | ಮಹಾ ಶ್ವಾನ | *mahā śvāna* | the great dog | vernacular |
-| Kolami | — | *Tiva Pate* | 'the three-legged stool' | tribal |
-| Kolami | — | *Tiva; Miti; Kovela; Konda* | farming tools | tribal |
-| Lambadi (Banjara) | — | *Medi* | — | tribal |
-
-**ಮಹಾ ಶ್ವಾನ · mahā śvāna** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
-
-The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
-
-> ಉತ್ತರ--ಪರ್ಗಿಯಸ್‌, ಸಾರಧಿ, ಧ್ರುವ ಪುಂಜ, ಲಘು ಸಪ್ತರ್ಷಿ,  ಪೂರ್ವ--ಮೃಗಶಿರಾ, ಮಹಾ ಶ್ವಾನ, ಕ್ಲುದ್ರ ಶ್ವಾನ (ಈಶಾನ್ಯ), ಮಿಥುನ (ಈಶಾನ್ಯ), ಕಪೋತ  (ಆಗ್ನೇಯ), ಶಶ
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
-
-<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
-
-**Tiva Pate** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-The stool a thresher stands on to drop the harvest into the wind, so that the husk blows away. Given at Dubaguda and Jamini with the star named.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 80, and 1.2.3 (Jamini), p. 81 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.1 (Dubaguda), p. 80, and 1.2.3 (Jamini), p. 81 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The Gondi entry for Tiva in tribal.json places it only as 'stars near Sirius'; the Kolam villages name the star, and it is Adhara. One community's record identifying another's figure, as with Irukmara and Crux. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Tiva; Miti; Kovela; Konda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-At Raipur four names are given for the region without individual identifications, and the recorders note that the Gonds describe the same tools in detail.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.9 (Raipur), p. 83 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Appendix 1.2.9 (Raipur), p. 83 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Entered as one record because the paper gives them as one list and identifies none of them separately. Tiva is the Gond stool and Kovela the Kolam bird word, so the list mixes the two traditions in a single breath. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Medi** — Lambadi (Banjara) (Banjara tandas of Vidarbha, Maharashtra (villages in the Nagpur–Amravati–Yavatmal region)) · *tribal* · confidence: likely
-
-Connected by the Banjaras with the processing of the harvest. Reported in one village only.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 1, p. 69 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of thirteen items in the paper's Table 1, which records for each belief how many of the six Banjara villages surveyed reported it. Reported from a single village, and the paper gives no closer identification than the constellation, so it is graded 'likely'. Compare Kolam Met, in this file, which is a threshing-pole name for Sirius — the same region of sky and probably the same word.</sub>
-
 ## Capella
 
 **Modern:** Capella · α Aurigae · Auriga  
@@ -9408,54 +9821,6 @@ The Sūrya-siddhānta tradition's name, in Kannada.
 > <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
-
-## Cygnus
-
-**Modern:** Cygnus · Cygnus  
-**Named in 3 languages:** Kannada, Kolami, Mundari
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Kannada | ರಾಜಹಂಸ | *rājahaṃsa* | the royal swan | vernacular |
-| Kolami | — | *Barre; Sir; mais* | 'a buffalo' | tribal |
-| Kolami | — | *Kavadi Kunde / Kavedi Koda* | 'a tower of three pots' | tribal |
-| Mundari | — | *laṇḍae ipil* | the one who is laughing | tribal |
-
-**ರಾಜಹಂಸ · rājahaṃsa** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
-
-The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
-
-> ಸಂಪೂರ್ಣವಾಗಿ ಕತಟಿಬಂಧದಂತೆ ಬಳಸಿ ಸ್ವಚ್ಛವಾದ  ಸಂಧ್ಯಾ ಕಾಲಗಳಲ್ಲಿ ರಾಜಹಂಸ ಮತ್ತು, ಲೈರ್‌ ಪುಂಜಗಳಲ್ಲಿ ಪ್ರಕಾಶಿ  ಸಿವ ನಕ್ಷತ್ರ ವೀಧಿಯನ್ನು ಯಾರು ತಾನೇ
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
-
-<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
-
-**Barre; Sir; mais** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
-
-The best sign of the set: Landgi Pod calls the buffalo excellent, Raipur says lots of rain.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders, not by the informants. Sir and mais are the Marathi equivalents the villagers gave alongside the Kolami word, and the paper prints all three. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Kavadi Kunde / Kavedi Koda** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-Seven of ten villages.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. </sub>
-
-**laṇḍae ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: disputed
-
-The third fire-thief, who cannot help laughing at the discomfiture awaiting the sleeper, and whom the others push aside for fear he will wake the man.
-
-> The one who cannot help laughing, the laṇḍae ipil, is Delta of Cygnus.
-> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
-
-<sub>Hoffmann's own identification, and geometrically awkward: δ Cygni lies a long way from Pegasus. He says himself, of the whole attempt to place these figures near the Pleiades, that it 'is rather a failure'. Recorded with the printed identification and the doubt attached.</sub>
 
 ## 'Sky' as a word
 
@@ -9533,79 +9898,43 @@ Names the national festival of Kerala: Gundert, 'the national feast on new moon 
 
 <sub>The clearest case in Malayalam of an asterism name outgrowing astronomy: Ōṇam is now first a harvest festival and only second a star. Gundert's ഓണം entry (p. 184) leads with 'The 22nd constellation, Aquila'.</sub>
 
-## Aquila
+## Lupus
 
-**Modern:** Aquila · Aquila  
-**Named in 3 languages:** Kannada, Kolami, Mizo (Lushai)
+**Modern:** Lupus · Lupus  
+**Named in 3 languages:** Hindi, Kannada, Mundari
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Kannada | ಜಟಾಯು | *Jaṭāyu* | the Ramayana's vulture | vernacular |
-| Kolami | — | *Gurram / Guram* | 'a horse' | tribal |
-| Mizo (Lushai) | — | *Si-kawi-kâp* | — | tribal |
+| Hindi | वृक | *vṛka* | the wolf | vernacular |
+| Kannada | ವೃಕ | *vṛka* | the wolf | vernacular |
+| Mundari | — | *hirumea parkom ipilko* | the co-wives' bed stars | tribal |
 
-**ಜಟಾಯು · Jaṭāyu** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**वृक · vṛka** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-The epic vulture set on the Eagle — the book's own coinage; later Kannada usage (Nakshatra Darshana, 1954) moved Garuḍa here instead.
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
 
-> ಇಸವಿಯಲ್ಲಿ ಪರ್‌ಸಿಯಸ್‌  ಪುಂಜದಲ್ಲಿ ಕಂಗೊಳಿಸಿದುದೂ, ೧೯೧೮ನೆಯ ಆಗಸ್ಟಿನಲ್ಲಿ ಜಟಾಯು  ಪು೦ಜದಲ್ಲಿ ಮೈದೋರಿದುದೂ ಅಲ್ಪಕಾಲಿಕ ನಕ್ಷತ್ರಗಳೇ.   ಭೂ ನಿವಾಸಿಗಳ ದ
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. Sibling of Kannada ವೃಕ (Jyotirvinodini 1931).</sub>
+
+**ವೃಕ · vṛka** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+
+The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
+
+> ಅಣು ಮಾತ್ರವಾದು  ವೆಂಬ ಜ್ಞಾನವಿರಬಹುದಾದರೂ ಈ ಭೂಮ್ಯಾಕಾಶಗಳಿಗಿಂತಲೂ  ಮಹತ್ತರವೂ ವೃಕಾವೃಕ್ತಗಳಿಗಿಂತಲೂ ಶ್ರೇ ಷ್ಮೃತರವೂ ಸಾಮಾನ್ಯ  ಪ್ರಾಪಂಚಿಕ ವೃವಹಾರಗಳಿಗಿಂತಲೂ
 > <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
-**Gurram / Guram** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
+**hirumea parkom ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
 
-Average rain at Landgi Pod, less rain at Kakban.
+The bed two co-wives are fighting over — that is, the mastership of the house.
 
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
+> The bed, hirumea parkom ipilko, is situated in Lupus, to the N. E. of the Southern Cross, and is represented by four stars, Alpha, Beta, Mu and Ro, which delineate a nearly equilateral parallelogram.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VI, s.v. hirumea parkom ipilko, cols. 1751-1757 ([source](https://archive.org/download/in.ernet.dli.2015.14926/2015.14926.Encyclopedia-Mundarica-Vol-vi-1932_djvu.txt))
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders. Gurram is the Telugu word for a horse; the paper notes elsewhere that the Kolams take their counting above three from Telugu, and the borrowing shows here too. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Si-kawi-kâp** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
-
-> Si-kawi-kâp, n . the name of a Lushai constellation comprising three stars in Aquila and four stars in Delphin.
-> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Si-kawi-kâp, p. 417 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=417))
-
-<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. A second figure spanning two modern constellations, and it overlaps Si-hnawk-khur on the same four Delphinus stars. Lorrain does not reconcile them; both are entered.</sub>
-
-## Cassiopeia
-
-**Modern:** Cassiopeia · Cassiopeia  
-**Named in 3 languages:** Garo, Kolami, Mara (Lakher)
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Garo | — | *Mangripe* | 'the carrying of the body' | tribal |
-| Kolami | — | *Namli / Namali* | 'a peacock' | tribal |
-| Mara (Lakher) | — | *Sohlu vang araipa* | — | tribal |
-
-**Mangripe** — Garo (the Garo Hills, Assam (now Meghalaya)) · *tribal* · confidence: certain
-
-The bearing of the corpse to the funeral pyre — the opening scene of the funeral of the moon's mother, which is the single story the Garo sky tells.
-
-> (1) Mangripe (Cassiopeia, lit. the carrying of the bedy) represents the bearing of the body to the funeral pyre.
-> <br>— Major A. Playfair, The Garos (London: David Nutt, 1909), p. 86 ([source](https://archive.org/details/in.ernet.dli.2015.500276))
-
-<sub>'bedy' is the scan's damage for 'body', which the same sentence prints correctly two words later. THE GARO SKY IS ONE NARRATIVE. Fourteen names, and all but the two Venus names belong to a single funeral: the cremation of Norekbak-Norekding, also called Asima-Dingsima, mother of Susime the moon. No other tradition in this database organises its whole star-list as episodes of one event.</sub>
-
-**Namli / Namali** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: disputed
-
-One of the five or six animals that stand around Samdur and forecast the monsoon by their brightness. Landgi Pod reads the peacock as a bad sign, Chinchpod as less rain, Kakban as less rain. Six of the ten villages knew the animals.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. The identification is the recorders' own suggestion, offered in one sentence at Janguguda and not attributed to the informants, so the confidence is set to disputed and the suggestion is carried in modern_star rather than asserted. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
-
-**Sohlu vang araipa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: disputed
-
-Five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended.
-
-> Sohlu vang araipa is a constellation of five stars formed out of four men and a flying fox's skin which they were stretching out to dry when the great darkness descended on the world. This is possibly Cassiopeia.
-> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 496 ([source](https://archive.org/details/lakhers032949mbp))
-
-<sub>Five stars in a W, read as four men holding a skin stretched between them. The Garos read the same five as a corpse being carried. Khazanghra, also called Thimzing, is the Lakher 'great darkness', the mythical eclipse at which everything then alive was turned to stone or to stars. Nearly every Lakher star-name below is an episode interrupted by it.</sub>
+<sub>hirumea is the Mundari term for the relationship between two co-wives (vol. VI s.v.).</sub>
 
 ## Regulus
 
@@ -9679,55 +10008,6 @@ A technical term of Kerala astronomy: ഭഗണം also means a complete revolut
 > <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. ഭഗണം bhagaṇam, p. 756 ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?qs=%E0%B4%AD%E0%B4%97%E0%B4%A3%E0%B4%82&searchhws=yes&matchtype=exact))
 
 <sub>Gundert's citation 'Gan.' is a Malayalam mathematical/astronomical work — direct lexical evidence that the technical vocabulary of the Kerala school passed into the general language. Note also ഭഗണന്‍ 'an astrologer' in the same entry.</sub>
-
-## Corvus
-
-**Modern:** Gienah · γ Corvi · Corvus  
-**Sanskrit database:** `hasta` — Hasta (Gienah) ([entry](../star-names/star-names.json))  
-**Named in 2 languages:** Kashmiri, Marathi
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Marathi | — | *Hasti Nakshatra* | the Elephant asterism | folk |
-| Marathi | हत्ती | *hattī* | elephant | folk |
-| Marathi | हत्तीबार | *hattībāra* | the elephant-crop | folk |
-| Kashmiri | ह॑स्तु॒ | *hostu* | — | borrowed |
-
-**Hasti Nakshatra** — Marathi (Satara district, Deccan) · *folk* · confidence: certain
-
-names the heavy westerly downpour of September, distinguished by cultivators from the regular south-west monsoon
-
-> it is known as the fall of the Hasti Nakshatra or the Elephant Guest-house.
-> <br>— Gazetteer of the Bombay Presidency, Vol. XIX: Satara (Bombay: Government Central Press, 1885), p. 19 ([source](https://archive.org/details/wbsl.15257))
-
-<sub>Independent confirmation, from revenue-survey fieldwork rather than a dictionary, of the elephant reading of Hasta that Molesworth records s.v. हत्ती. The sentence quoted is preceded by: 'A heavy burst, often six inches, of westerly rain nearly always happens in September. The people do not regard this as part of the regular south-west monsoon' — that lead-in is quoted here in the printed reading rather than the scan's, which garbles it as 'A heavy bursty often six inches^ of westerly rain nearly alw^ays happens'. The Nasik volume (Vol. XVI, 1883, p. 15) has the same: the rains end 'until the Hasta Nakshatra or sign of the Elephant in the first half of October' (the scan prints 'Rasta'), and it calls the September-October rains 'the elephant showers'. Roman only; no Devanagari is printed in the Gazetteer.</sub>
-
-**हत्ती · hattī** — Marathi (Maharashtra) · *folk* · confidence: certain
-
-हत्तीचें उथाण, the sultriness of the Hasta period; Pr. पडेल हत्ती तर पाडील भिंती, 'if the elephant falls it will bring down walls' — of torrential rain
-
-> हत्ती hattī m (हस्ती S) An elephant. Pr. हत्तीबरोबर बैलाचें वारगोळें. 2 The thirteenth nakshatra or lunar mansion. Note. This asterism is properly named हस्त, being designated by a hand, not by an elephant. It is by popular understanding, howsoever extensive or established, or howsoever inclusive of the erudite or educated, that it is named हत्ती, and that it acquires references and associations as outpouring heavy rain. Pr. पडेल हत्ती तर पाडील भिंती.
-> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. हत्ती, p. 885 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80&searchhws=yes&matchtype=exact))
-
-<sub>A pure case of folk reanalysis, and Molesworth says so in as many words: हस्त means 'hand', but Marathi speakers — learned ones included — hear हत्ती 'elephant', and the whole weather-imagery of the asterism (an elephant's downpour, walls knocked flat) follows from the mishearing. This is the answer to 'what does Marathi call Corvus': not a crow, an elephant. The reanalysis has entered ritual: Molesworth s.v. हस्तागौर (p. 892) describes 'the image or figure of गौरी seated upon an elephant, and worshiped whilst the sun is in हस्तनक्षत्र', and s.v. गजगौरीव्रत (p. 219) the same rite as performed when 'the sun enters the constellation of elephant'.</sub>
-
-**हत्तीबार · hattībāra** — Marathi (Maharashtra) · *folk* · confidence: certain
-
-the second fruit crop of the year, ripening under Hasta
-
-> हत्तीबार hattībāra m (Elephant-crop.) A term for the fruit-crop which ripens under हस्तनक्षत्र, i. e. the second crop. The two other crops are मृगबार & आंबेबार.
-> <br>— J. T. Molesworth, A Dictionary, Marathi and English, 2nd ed. rev. and enl. (Bombay: Bombay Education Society's Press, 1857), s.v. हत्तीबार, p. 885 ([source](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%B0&searchhws=yes&matchtype=exact))
-
-<sub>Shows the star-name in load-bearing agricultural use: the farming year's three fruit crops are named मृगबार, हत्तीबार and आंबेबार, two of the three after asterisms.</sub>
-
-**ह॑स्तु॒ · hostu** — Kashmiri (Kashmir valley) · *borrowed* · confidence: certain
-
-The thirteenth of the twenty-seven lunar mansions.
-
-> hostu 1 ह॑स्तु॒ । हस्तः, नक्षत्रविशेषः m. the thirteenth of the twenty-seven lunar mansions or lunar asterisms, in Sanskrit hasta, said to be shaped like a hand and to be part of the constellation Corvus.
-> <br>— Sir George Abraham Grierson, A Dictionary of the Kashmiri Language, compiled partly from materials left by the late Pandit Isvara Kaula (Calcutta: Asiatic Society of Bengal, 1916-1932), s.v. hostu, p. 354 ([source](https://dsal.uchicago.edu/cgi-bin/app/grierson_query.py?page=354))
-
-<sub>Grierson prints the roman, the Śāradā-derived Devanagari and a Sanskrit gloss for every headword, so the romanization here is the source's own and nothing is transliterated by the compiler. The hand-shape and the identification with Corvus are Grierson's.</sub>
 
 ## Spica
 
@@ -9813,33 +10093,199 @@ Ramamurti attributes the name to the influence of the Oriya astrologers.
 
 <sub>Ramamurti gives a second Jupiter name, baːmbədaː- tuj-ən, at its own headword and adds that it is 'due to the influence of the Oriya astrologers' — a lexicographer marking the borrowed layer in the field, which is precisely what the register column of this database exists to do.</sub>
 
-## Lupus
+## Argo Navis (Carina)
 
-**Modern:** Lupus · Lupus  
-**Named in 2 languages:** Kannada, Mundari
+**Modern:** Carina · Carina  
+**Named in 2 languages:** Hindi, Marathi
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Kannada | ವೃಕ | *vṛka* | the wolf | vernacular |
-| Mundari | — | *hirumea parkom ipilko* | the co-wives' bed stars | tribal |
+| Hindi | नौतल | *nautala* | the ship's keel | vernacular |
+| Marathi | नौका | *naukā* | the ship | vernacular |
 
-**ವೃಕ · vṛka** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**नौतल · nautala** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Muley names the IAU quarters of old Argo separately: नौतल (keel), पिच्छल (stern), पाल (sail), दिक्सूचक (compass); Dikshit's undivided नौका is the older Devanagari name.
 
-> ಅಣು ಮಾತ್ರವಾದು  ವೆಂಬ ಜ್ಞಾನವಿರಬಹುದಾದರೂ ಈ ಭೂಮ್ಯಾಕಾಶಗಳಿಗಿಂತಲೂ  ಮಹತ್ತರವೂ ವೃಕಾವೃಕ್ತಗಳಿಗಿಂತಲೂ ಶ್ರೇ ಷ್ಮೃತರವೂ ಸಾಮಾನ್ಯ  ಪ್ರಾಪಂಚಿಕ ವೃವಹಾರಗಳಿಗಿಂತಲೂ
-> <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~97 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~97 ([source](https://archive.org/details/akash-gunakar))
 
-<sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
-**hirumea parkom ipilko** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+**नौका · naukā** — Marathi (Maharashtra) · *vernacular* · confidence: certain
 
-The bed two co-wives are fighting over — that is, the mastership of the house.
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). नौका is the undivided Argo; the 46-year variable described is η Carinae, so the app hangs the name on Carina. Muley (1993) names the IAU quarters separately (नौतल, पिच्छल, पाल).
 
-> The bed, hirumea parkom ipilko, is situated in Lupus, to the N. E. of the Southern Cross, and is represented by four stars, Alpha, Beta, Mu and Ro, which delineate a nearly equilateral parallelogram.
-> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VI, s.v. hirumea parkom ipilko, cols. 1751-1757 ([source](https://archive.org/download/in.ernet.dli.2015.14926/2015.14926.Encyclopedia-Mundarica-Vol-vi-1932_djvu.txt))
+> नौकापुंजांत तिसरी एक तारा आहे. १८९३ च्या आरंभीं तिचे विषुवांश १०।४०।५५ आणि द० क्रांति ५९।७।१५ आहे. मेच्या १७ व्या तारखेस ही ७ वाजतां मध्यान्हीं येते. हिच्या तेजांत फार विलक्षण फेरफार होतो. परंतु त्याचा काळ सुमारें ४६ वर्षें आहे.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 182 ([source](https://archive.org/details/india.history.resource.92658))
 
-<sub>hirumea is the Mundari term for the relationship between two co-wives (vol. VI s.v.).</sub>
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Also नौकापुंज at p. 36, among the seven stars of Dikshit's southern Saptarshi.</sub>
+
+## Cepheus
+
+**Modern:** Cepheus · Cepheus  
+**Named in 2 languages:** Hindi, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | वृषपर्वा | *vṛṣaparvā* | Vrishaparva | vernacular |
+| Marathi | वृषपर्वा | *vṛṣaparvā* | Vrishaparva (Sharmishtha's father) | vernacular |
+
+**वृषपर्वा · vṛṣaparvā** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: 'सेफियस के लिए वृषपर्वा का नाम चुना गया' — reported as a modern selection.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~262 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~262 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**वृषपर्वा · vṛṣaparvā** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). The bright star between the two figures is Tycho's supernova of 1572.
+
+> इ० स० १५७२ च्या नोव्हेंबरपासून सुमारें १६ महिने वृषपर्वा व शर्मिष्ठा ह्यांच्या मध्यें एक प्रदीप्त तारा दिसत होती.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 182 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The whole Yayati-cycle family is mapped onto the Greek royal-family constellations.</sub>
+
+## Cetus
+
+**Modern:** Cetus · Cetus  
+**Named in 2 languages:** Hindi, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | तिमिंगल | *timiṅgala* | the whale | vernacular |
+| Marathi | तिमिंगल | *timiṅgala* | the whale (whale-swallower) | vernacular |
+
+**तिमिंगल · timiṅgala** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~279 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~279 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. The table also offers केतु — never adopted by the app: it collides with the lunar node.</sub>
+
+**तिमिंगल · timiṅgala** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). Mira is glossed अद्भुत 'the wonderful' — a Marathi rendering of the Latin name.
+
+> मिरा ( अद्भुत ) या नांवाची दुसरी एक रूपविकारी तारा तिमिंगल पुंजांत आहे.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 182 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The 1893 type is worn here; the OCR reads तिर्मंगल, but तिमिंगल (Skt. timiṅgila) is the evident form, and Muley (1993) prints तिमिंगल in Hindi.</sub>
+
+## Corona Australis
+
+**Modern:** Corona Australis · Corona Australis  
+**Named in 2 languages:** Hindi, Korku
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | दक्षिणी किरीट | *dakṣiṇī kirīṭ* | the southern crown | vernacular |
+| Korku | — | *Nangi* | — | tribal |
+
+**दक्षिणी किरीट · dakṣiṇī kirīṭ** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**Nangi** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. No gloss is printed.</sub>
+
+## Corona Borealis
+
+**Modern:** Corona Borealis · Corona Borealis  
+**Named in 2 languages:** Hindi, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | उत्तरी किरीट | *uttarī kirīṭ* | the northern crown | vernacular |
+| Marathi | उत्तरमुकुट | *uttaramukuṭa* | the northern crown | vernacular |
+
+**उत्तरी किरीट · uttarī kirīṭ** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~161 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~161 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. Dikshit's उत्तरमुकुट (1893) is the older Devanagari name for the figure.</sub>
+
+**उत्तरमुकुट · uttaramukuṭa** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). The 1866 nova is T Coronae Borealis.
+
+> सन १८६६ मध्यें उत्तरमुकुटांत दुसऱ्या प्रतीची, सन १८७६ मध्यें हंसराशींत तिसऱ्या प्रतीची, व सन १८८५ मध्यें देवयानी पुंजांत आठव्या प्रतीची, अशा तारा दिसत होत्या.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 182-183 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The word is hyphenated across the page break (उत्तरमु-/कुटांत); the quote joins it. Muley (1993) prints उत्तरी किरीट.</sub>
+
+## Eridanus
+
+**Modern:** Eridanus · Eridanus  
+**Named in 2 languages:** Hindi, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | वैतरणी | *vaitaraṇī* | the Vaitarani, river of the dead | vernacular |
+| Marathi | यमुनानदी | *yamunānadī* | the river Yamuna | vernacular |
+
+**वैतरणी · vaitaraṇī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: the sky-river 'was given the name of the pauranik Vaitarani' in modern Indian astronomy; नदीमुख 'river's mouth' is its star Achernar. Dikshit's यमुना (1893) is the older Devanagari name.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~305 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~305 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**यमुनानदी · yamunānadī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). The first-magnitude star described is Achernar. The book's own index has 'यमुना तारकापुंज ३९'.
+
+> दुसरी यमुनानदी नांवाच्या राशींत फार दक्षिणेस आहे. ती दिसेंबरच्या अखेरीस आवशीस मध्यान्हीं येते व त्यावेळीं क्षितिजावर सुमारें बारा तेरा अंश मात्र दिसते.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 39 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Muley (1993) renamed the river वैतरणी in Hindi; यमुना is the older Devanagari name.</sub>
+
+## Grus
+
+**Modern:** Grus · Grus  
+**Named in 2 languages:** Hindi, Mizo (Lushai)
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | सारस | *sārasa* | the crane | vernacular |
+| Mizo (Lushai) | — | *Pukula Thang* | 'Pukula's deer-trap' | tribal |
+
+**सारस · sārasa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**Pukula Thang** — Mizo (Lushai) (the Lushai Hills (now Mizoram)) · *tribal* · confidence: likely
+
+A deer-trap set by a mythical character called Pukula.
+
+> Pukula Thang is a deer-trap set by a mythical character called Pukula.
+> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 498 ([source](https://archive.org/details/lakhers032949mbp))
+
+<sub>Parry's footnote refers the identification to Lorrain and Savidge's Grammar and Dictionary of the Lushai Language, where Pukula thang is identified as the constellation Grus — a book distinct from the 1940 Dictionary this file otherwise quotes, and the reason this name is not already here. Parry lists it among the Lushei names for which he could find no Lakher equivalent.</sub>
 
 ## Measuring the sky
 
@@ -9868,6 +10314,116 @@ The Tamil Lexicon's second sense at this headword, after 'stake, peg, spike'.
 > <br>— Tamil Lexicon, published under the authority of the University of Madras (Madras, 1924-1939), s.v. சங்கு⁵, vol. III p. 1229 ([source](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?page=1229))
 
 <sub>The second entry in the database's 'Measuring the sky' object, which Mizo suk-chen opened in northeast.json. The two are opposite methods: the Mizo hold up a pestle against the sky and count its lengths, the Tamil plant a post and read its shadow. The word is Sanskrit śaṅku and the instrument is the classical one, so this is the learned tradition rather than a fisherman's rule of thumb — see the summary on what could not be found of the latter.</sub>
+
+## Monoceros
+
+**Modern:** Monoceros · Monoceros  
+**Named in 2 languages:** Hindi, Mizo (Lushai)
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | एकशृंग | *ekaśṛṅga* | the unicorn | vernacular |
+| Mizo (Lushai) | — | *Nufa Thembu Inchuh* | — | tribal |
+
+**एकशृंग · ekaśṛṅga** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**Nufa Thembu Inchuh** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
+
+> Nufa Thembu Inchuh, n . the name given to two stars in close proximity to one another in the Unicorn constellation.
+> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Nufa Thembu Inchuh, p. 345 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=345))
+
+<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. 'The Unicorn constellation' is Monoceros. Inchuh is Lorrain's word for a mutual or reciprocal action; nu-fa is mother-and-child. No fuller gloss is given and none is invented.</sub>
+
+## Ophiuchus
+
+**Modern:** Ophiuchus · Ophiuchus  
+**Named in 2 languages:** Hindi, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | सर्पधर | *sarpadhara* | the serpent-bearer | vernacular |
+| Marathi | भुजगधारी | *bhujagadhārī* | the serpent-holder | vernacular |
+
+**सर्पधर · sarpadhara** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~192 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~192 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. Dikshit's भुजगधारी (1893) is the older Devanagari calque of the same sense.</sub>
+
+**भुजगधारी · bhujagadhārī** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). A calque of Ophiuchus; the star described is Kepler's supernova of 1604.
+
+> इ० स० १६०४ च्या सप्टंबरपासून १६ महिने भुजगधारीमध्यें एक तारा दिसत होती. सुमारें पाऊण महिना ती शुक्राच्या खालोखाल होती.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 182 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. Muley (1993) uses the synonymous सर्पधर in Hindi.</sub>
+
+## Perseus
+
+**Modern:** Perseus · Perseus  
+**Named in 2 languages:** Hindi, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | ययाति | *yayāti* | Yayati | vernacular |
+| Marathi | ययाति | *yayāti* | Yayati | vernacular |
+
+**ययाति · yayāti** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: 'इस मंडल को अब हम ययाति कहते हैं.'
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~311 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~311 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**ययाति · yayāti** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). The mythological family is mapped as a set: ययाति (Perseus) beside देवयानी (Andromeda), शर्मिष्ठा (Cassiopeia), वृषपर्वा (Cepheus).
+
+> ययाति नामक पुंजामध्यें एक तारा आहे. १८९१ च्या आरंभीं तिचे विषुवांश ३।१।१२ व क्रांति उ० ४०।३२।३६ आहे. हिला अलगोल असें युरोपियन ( मूळचें आरबी ) नांव आहे.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 181 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The star located in it is Algol; Dikshit flags the name as European, originally Arabic.</sub>
+
+## Piscis Austrinus
+
+**Modern:** Piscis Austrinus · Piscis Austrinus  
+**Named in 2 languages:** Hindi, Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | दक्षिण मीन | *dakṣiṇa mīna* | the southern fish | vernacular |
+| Marathi | याम्यमत्स्य | *yāmyamatsya* | the southern fish | vernacular |
+
+**दक्षिण मीन · dakṣiṇa mīna** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Its bright star Fomalhaut is मत्स्यमुख 'the fish's mouth'. Dikshit's याम्यमत्स्य (1893) is the older Devanagari name.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~249 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~249 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+**याम्यमत्स्य · yāmyamatsya** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). The first-magnitude star described is Fomalhaut, one of the two bright stars Dikshit says the old Sanskrit texts missed.
+
+> त्यांपैकीं याम्यमत्स्य पुंजांत एक आहे. ती नवंबरांत आवशीस मध्यान्हीं येते. व तेव्हां खस्वस्तिकाच्या दक्षिणेस सुमारें ५० अंश दिसते.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 39 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The 1893 type prints the conjunct ambiguously (the OCR reads याममत्स्य); याम्य 'southern' is the evident formation, mirroring Latin austrinus.</sub>
 
 ## Praesepe and Cancer
 
@@ -9946,6 +10502,42 @@ The Tamil opposition between the wandering and the fixed lights: kōṇmīṉ 'p
 
 <sub>The Tamil Lexicon (s.v. கோண்மீன், vol. II p. 1181) defines it 'Planet, dist. fr. nāṇ-mīṉ; கிரகம்' and cites this exact line as சிறுபாண். 242. Kalittokai 5 sets the two words side by side in one line, 'நாளும் கோள்மீன் தகைத்தலும் தகைமே' (PM 0221), with the fuller form கோள்மீன்.</sub>
 
+## Antlia
+
+**Modern:** Antlia · Antlia  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | वाताकर्ष | *vātākarṣa* | the air-pump | vernacular |
+
+**वाताकर्ष · vātākarṣa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Ara
+
+**Modern:** Ara · Ara  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | वेदी | *vedī* | the altar | vernacular |
+
+**वेदी · vedī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
 ## Aśvayuj (Sheratan)
 
 **Modern:** Sheratan · β Arietis · Aries  
@@ -9965,21 +10557,167 @@ One of the twelve Tamil month-names still in daily use, all of them asterism-der
 
 <sub>The Lexicon's derivations for the rest of the twelve, all verified at the same endpoint: சித்திரை Cittirai < citrā (p. 1391), வைகாசி Vaikāci < vaiśākha (p. 3849), ஆடி Āṭi < āṣāḍha (p. 219), ஆவணி Āvaṇi < śrāvaṇa (p. 249), புரட்டாசி Puraṭṭāci cf. proṣṭhapadā (p. 2769), கார்த்திகை Kārttikai < kṛttikā (p. 880), மார்கழி Mārkaḻi < mārgaśīrṣa (p. 3170), தை Tai < taiṣī (p. 2074), மாசி Māci < māgha (p. 3147), பங்குனி Paṅkuṉi < Pkt. phagguṇi < phalgunī (p. 2390). ஆனி Āṉi (p. 221) is the exception: the Lexicon gives it NO etymology at all, while recording that it also names the 19th nakṣatra (Mūlam) and the 21st (Uttirāṭam) — a gap worth flagging.</sub>
 
-## Corona Australis
+## Boötes
 
-**Modern:** Corona Australis · Corona Australis  
-**Named in 1 languages:** Korku
+**Modern:** Boötes · Boötes  
+**Named in 1 languages:** Hindi
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Korku | — | *Nangi* | — | tribal |
+| Hindi | ईश | *īśa* | the lord (Bhutesh) | vernacular |
 
-**Nangi** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: certain
+**ईश · īśa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: 'भारतीय ज्योतिष में बोतीज मंडल को प्रायः ईश (भूतेश अथवा भूतप)' — the fuller form भूतेश is what the app displays.
 
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. No gloss is printed.</sub>
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~159 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~159 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Caelum
+
+**Modern:** Caelum · Caelum  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | तक्षणी | *takṣaṇī* | the chisel | vernacular |
+
+**तक्षणी · takṣaṇī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Camelopardalis
+
+**Modern:** Camelopardalis · Camelopardalis  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | जिराफ़ | *jirāf* | the giraffe | vernacular |
+
+**जिराफ़ · jirāf** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Canis Minor
+
+**Modern:** Canis Minor · Canis Minor  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | लघु श्वान | *laghu śvān* | the lesser dog | vernacular |
+
+**लघु श्वान · laghu śvān** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~72 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~72 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Chamaeleon
+
+**Modern:** Chamaeleon · Chamaeleon  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | गिरगिट | *girgiṭ* | the chameleon | vernacular |
+
+**गिरगिट · girgiṭ** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Circinus
+
+**Modern:** Circinus · Circinus  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | परकार | *parkār* | the compasses (drawing tool) | vernacular |
+
+**परकार · parkār** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Columba
+
+**Modern:** Columba · Columba  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | कपोत | *kapota* | the dove | vernacular |
+
+**कपोत · kapota** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~307 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~307 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Coma Berenices
+
+**Modern:** Coma Berenices · Coma Berenices  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | केश | *keśa* | the hair (of Berenice) | vernacular |
+
+**केश · keśa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~163 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~163 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Crater
+
+**Modern:** Crater · Crater  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | चषक | *caṣaka* | the cup | vernacular |
+
+**चषक · caṣaka** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
 ## Delphinus
 
@@ -9997,23 +10735,221 @@ One of the twelve Tamil month-names still in daily use, all of them asterism-der
 
 <sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. Lorrain's 'Delphin' is Delphinus. Four stars there is Job's Coffin, the little diamond that is the whole of the constellation to the naked eye.</sub>
 
-## Grus
+## Draco
 
-**Modern:** Grus · Grus  
-**Named in 1 languages:** Mizo (Lushai)
+**Modern:** Draco · Draco  
+**Named in 1 languages:** Hindi
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Mizo (Lushai) | — | *Pukula Thang* | 'Pukula's deer-trap' | tribal |
+| Hindi | कालिय | *kāliya* | Kaliya, the serpent | vernacular |
 
-**Pukula Thang** — Mizo (Lushai) (the Lushai Hills (now Mizoram)) · *tribal* · confidence: likely
+**कालिय · kāliya** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-A deer-trap set by a mythical character called Pukula.
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
 
-> Pukula Thang is a deer-trap set by a mythical character called Pukula.
-> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 498 ([source](https://archive.org/details/lakhers032949mbp))
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~145 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~145 ([source](https://archive.org/details/akash-gunakar))
 
-<sub>Parry's footnote refers the identification to Lorrain and Savidge's Grammar and Dictionary of the Lushai Language, where Pukula thang is identified as the constellation Grus — a book distinct from the 1940 Dictionary this file otherwise quotes, and the reason this name is not already here. Parry lists it among the Lushei names for which he could find no Lakher equivalent.</sub>
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. TRAP: शिशुमार is claimed for Draco (tradition, and the Bhagol app), for Delphinus (this book, p. ~213), and शिशुमार चक्र for Ursa Minor (p. ~141). The app keeps शिशुमार on Draco and records कालिय as the modern alternative.</sub>
+
+## Equuleus
+
+**Modern:** Equuleus · Equuleus  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | लघु अश्व | *laghu aśva* | the little horse | vernacular |
+
+**लघु अश्व · laghu aśva** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Fornax
+
+**Modern:** Fornax · Fornax  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | भट्ठी | *bhaṭṭhī* | the furnace | vernacular |
+
+**भट्ठी · bhaṭṭhī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Hercules
+
+**Modern:** Hercules · Hercules  
+**Named in 1 languages:** Marathi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Marathi | शौरि | *śauri* | Shauri (Krishna, the hero) | vernacular |
+
+**शौरि · śauri** — Marathi (Maharashtra) · *vernacular* · confidence: certain
+
+One of the Sanskrit names for the Western constellations that Dikshit credits to Bal Shastri Jambhekar (d. 1846) and reports as current: 'पाश्चात्यांनीं कल्पिलेल्या बाकीच्या राशींस संस्कृत संज्ञा शास्त्री जांभेकर यांनीं दिल्या आहेत. त्याच हल्लीं मराठींत येतात.' (p. 35-36). शौरि renders the hero Hercules; the passage describes the solar apex, toward which 'our sun with its family' travels.
+
+> सुमारें विषुवांश १७।२२।४० क्रांति उ० ३९।५६ या बिंदूकडे म्हणजे शौरिनामक पुंजांतील एका बिंदूकडे आपला सूर्य सपरिवार चालला आहे.
+> <br>— S. B. Dikshit, Jyotirvilas, 2nd ed. (Bombay, 1893; 1st ed. 1892), p. 187 ([source](https://archive.org/details/india.history.resource.92658))
+
+<sub>Quote transcribed verbatim from the scan's page images (leaf = printed page + 25 up to p. 40, + 30 in the taraka chapter), not from the OCR layer, which garbles conjuncts here. The only Indian name for Hercules in this record — Muley (1993) leaves the constellation as हर्क्यूलीज in Hindi.</sub>
+
+## Horologium
+
+**Modern:** Horologium · Horologium  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | घड़ी | *ghaṛī* | the clock | vernacular |
+
+**घड़ी · ghaṛī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Hydra
+
+**Modern:** Hydra · Hydra  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | महासर्प | *mahāsarpa* | the great serpent | vernacular |
+
+**महासर्प · mahāsarpa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~134 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~134 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Hydrus
+
+**Modern:** Hydrus · Hydrus  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | जलसर्प | *jalasarpa* | the water-snake | vernacular |
+
+**जलसर्प · jalasarpa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Leo Minor
+
+**Modern:** Leo Minor · Leo Minor  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | लघु सिंह | *laghu siṃha* | the lesser lion | vernacular |
+
+**लघु सिंह · laghu siṃha** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Lepus
+
+**Modern:** Lepus · Lepus  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | शशक | *śaśaka* | the hare | vernacular |
+
+**शशक · śaśaka** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Lynx
+
+**Modern:** Lynx · Lynx  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | बिडाल | *biḍāla* | the (wild) cat | vernacular |
+
+**बिडाल · biḍāla** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Lyra
+
+**Modern:** Lyra · Lyra  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | वीणा | *vīṇā* | the veena | vernacular |
+
+**वीणा · vīṇā** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: लाइरा glossed वीणा; अभिजित् is its great star.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~241 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~241 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Mensa
+
+**Modern:** Mensa · Mensa  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | पठार | *paṭhāra* | the plateau | vernacular |
+
+**पठार · paṭhāra** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
 ## Mercury
 
@@ -10031,21 +10967,41 @@ A deer-trap set by a mythical character called Pukula.
 
 <sub>Hutton's 'probably' is the grade. Named for the Tushomi, a neighbouring group, on the same pattern as Siyepu for the Semas themselves — the two brightest planets divided between two peoples.</sub>
 
-## Monoceros
+## Microscopium
 
-**Modern:** two close stars in Monoceros · Monoceros  
-**Named in 1 languages:** Mizo (Lushai)
+**Modern:** Microscopium · Microscopium  
+**Named in 1 languages:** Hindi
 
 | Language | Name | Romanized | Literally | Register |
 |---|---|---|---|---|
-| Mizo (Lushai) | — | *Nufa Thembu Inchuh* | — | tribal |
+| Hindi | सूक्ष्मदर्शी | *sūkṣmadarśī* | the microscope | vernacular |
 
-**Nufa Thembu Inchuh** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
+**सूक्ष्मदर्शी · sūkṣmadarśī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
 
-> Nufa Thembu Inchuh, n . the name given to two stars in close proximity to one another in the Unicorn constellation.
-> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Nufa Thembu Inchuh, p. 345 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=345))
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
 
-<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. 'The Unicorn constellation' is Monoceros. Inchuh is Lorrain's word for a mutual or reciprocal action; nu-fa is mother-and-child. No fuller gloss is given and none is invented.</sub>
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Musca
+
+**Modern:** Musca · Musca  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | मक्षिका | *makṣikā* | the fly | vernacular |
+
+**मक्षिका · makṣikā** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
 ## Nakṣatra (star / asterism (generic))
 
@@ -10066,6 +11022,96 @@ used in divining for lost property
 
 <sub>A folk-astrological class rather than a name for particular stars, hence no identification. Related to but distinct from अंधळ्या, the Citrā rain-name above.</sub>
 
+## Norma
+
+**Modern:** Norma · Norma  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | गुनिया | *guniyā* | the set-square | vernacular |
+
+**गुनिया · guniyā** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Octans
+
+**Modern:** Octans · Octans  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | अष्टक | *aṣṭaka* | the octant | vernacular |
+
+**अष्टक · aṣṭaka** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal. Prose: the south celestial pole lies 'अष्टक (ओक्टेंस) नामक मंडल में'.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~89 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~89 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Pavo
+
+**Modern:** Pavo · Pavo  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | मयूर | *mayūra* | the peacock | vernacular |
+
+**मयूर · mayūra** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Phoenix
+
+**Modern:** Phoenix · Phoenix  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | अमरपक्षी | *amarapakṣī* | the deathless bird | vernacular |
+
+**अमरपक्षी · amarapakṣī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Pictor
+
+**Modern:** Pictor · Pictor  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | चित्रफलक | *citraphalaka* | the painter's easel | vernacular |
+
+**चित्रफलक · citraphalaka** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
 ## Pisces
 
 **Modern:** suggested by the recorders as Pisces · Pisces  
@@ -10083,6 +11129,78 @@ Brings good rain at Landgi Pod and Kakban, an excellent monsoon at Chinchpod.
 > <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2 row 12, p. 71, and Appendix 1.2.2 (Janguguda), p. 80 ([source](https://arxiv.org/abs/1406.3044))
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. Identification suggested by the recorders. Beduk is the Marathi word, given beside the Kolami one. The same frog eats the Moon in the Kolam account of a lunar eclipse. From the village-by-village appendix rather than the summary tables, which is where most of the Kolam and Banjara vocabulary actually is; the appendix was re-read after Vahia, Yadav and Menon's NCSM book (see the caveats) showed that this compilation had worked from the tables alone.</sub>
+
+## Puppis
+
+**Modern:** Puppis · Puppis  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | पिच्छल | *picchala* | the stern (of the ship) | vernacular |
+
+**पिच्छल · picchala** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Pyxis
+
+**Modern:** Pyxis · Pyxis  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | दिक्सूचक | *diksūcaka* | the direction-pointer (compass) | vernacular |
+
+**दिक्सूचक · diksūcaka** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Reticulum
+
+**Modern:** Reticulum · Reticulum  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | जाल | *jāla* | the net | vernacular |
+
+**जाल · jāla** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Sagitta
+
+**Modern:** Sagitta · Sagitta  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | वाण | *vāṇa* | the arrow | vernacular |
+
+**वाण · vāṇa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
 ## Saturn
 
@@ -10102,6 +11220,96 @@ Named by colour, like veṇmīṉ 'white star' for Venus and cemmīṉ 'red star
 
 <sub>The Tamil Lexicon (s.v. மைம்மீன், vol. V p. 3369, https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%AE%E0%AF%88%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D&searchhws=yes&matchtype=exact) defines it 'The planet Saturn, as black in colour; சனி' and cites this line as புறநா. 117. This one couplet is the single richest Tamil astronomical line: it gives maimmīṉ (Saturn), tūmam (comet) and veḷḷi (Venus) in two lines, all three as omens of drought. No Sanskrit-database counterpart; the planets are not individually in that database.</sub>
 
+## Sculptor
+
+**Modern:** Sculptor · Sculptor  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | शिल्पकार | *śilpakāra* | the sculptor | vernacular |
+
+**शिल्पकार · śilpakāra** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Scutum
+
+**Modern:** Scutum · Scutum  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | ढाल | *ḍhāla* | the shield | vernacular |
+
+**ढाल · ḍhāla** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Serpens
+
+**Modern:** Serpens · Serpens  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | सर्प | *sarpa* | the serpent | vernacular |
+
+**सर्प · sarpa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~192 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~192 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Sextans
+
+**Modern:** Sextans · Sextans  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | षडंश | *ṣaḍaṃśa* | the sixth-part (sextant) | vernacular |
+
+**षडंश · ṣaḍaṃśa** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Telescopium
+
+**Modern:** Telescopium · Telescopium  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | दूरदर्शी | *dūradarśī* | the telescope | vernacular |
+
+**दूरदर्शी · dūradarśī** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
 ## The turning of the sky
 
 **Modern:** the diurnal rotation of the stars  
@@ -10119,6 +11327,114 @@ Glossed by the paper with Marathi tārakābhramaṇ, the wheeling of the stars.
 > <br>— Ganesh Halkare, Purushottam Dahedar, Wayne Orchiston and M.N. Vahia, 'Astronomy of the Pardhi tribe of central India', Journal of Astronomical History and Heritage, 22(1), 179-194 (2019), Table 4, p. 184 ([source](https://articles.adsabs.harvard.edu/pdf/2019JAHH...22..179H))
 
 <sub>A WORD FOR THE MOTION ITSELF, which almost nothing else in this database has. The sky turning is usually left implicit; the Pardhi name it, and the word is the ordinary one for walking or going. In copyright: the finding is paraphrased and `quote` is null, on the convention this file uses throughout. The paper prints each name in Devanagari as well as roman; name_native is null because the Devanagari in the available scan cannot be read with the confidence this database requires of a native-script field, exactly as for the Korku and Bhil entries.</sub>
+
+## Triangulum
+
+**Modern:** Triangulum · Triangulum  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | त्रिभुज | *tribhuja* | the triangle | vernacular |
+
+**त्रिभुज · tribhuja** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~283 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347, and p. ~283 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Triangulum Australe
+
+**Modern:** Triangulum Australe · Triangulum Australe  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | दक्षिणी त्रिभुज | *dakṣiṇī tribhuja* | the southern triangle | vernacular |
+
+**दक्षिणी त्रिभुज · dakṣiṇī tribhuja** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Tucana
+
+**Modern:** Tucana · Tucana  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | कारंडव | *kāraṇḍava* | the duck | vernacular |
+
+**कारंडव · kāraṇḍava** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Vela
+
+**Modern:** Vela · Vela  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | पाल | *pāla* | the sail | vernacular |
+
+**पाल · pāla** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Volans
+
+**Modern:** Volans · Volans  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | उड़न-मीन | *uṛan-mīna* | the flying fish | vernacular |
+
+**उड़न-मीन · uṛan-mīna** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
+
+## Vulpecula
+
+**Modern:** Vulpecula · Vulpecula  
+**Named in 1 languages:** Hindi
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Hindi | शृगाल | *śṛgāla* | the jackal (the little fox) | vernacular |
+
+**शृगाल · śṛgāla** — Hindi (Pan-Hindi (national print)) · *vernacular* · confidence: certain
+
+The book's भारतीय नाम for the constellation in its complete 88-constellation concordance. Muley himself notes (p. ~16) that uniform Indian names across languages were still to be settled — the set is part report of circulating usage, part proposal.
+
+*No quotation: Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 is in copyright and is paraphrased only.*
+> <br>— Gunakar Muley, Akash Darshan (New Delhi: Rajkamal Prakashan, 1993), Appendix 4, 'Tara-mandal suchi', pp. 344-347 ([source](https://archive.org/details/akash-gunakar))
+
+<sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
 ## Findings, per research file
 
