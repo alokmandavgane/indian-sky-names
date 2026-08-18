@@ -102,7 +102,7 @@ nine entries.
 | `citation`, `source_type`, `source_date`, `source_url` | author, work, edition, headword, page |
 | `quote` | verbatim from the fetched source. `null` **only** where the source is in copyright |
 | `source_access` | `public-domain` · `in-copyright-paraphrased` · `not-obtained`. 693 and 282; the third value is empty and must stay empty — see below |
-| `confidence` | `certain` · `likely` · `disputed` · `unidentified` |
+| `confidence` | `certain` · `likely` · `disputed` · `unidentified` · `rejected`. The first four grade how securely the source's identification lands on a modern object. `rejected` is stronger than `disputed`: the compiler judges the printed identification *wrong* — the citation is verbatim and stands, but the reading it transmits is not to be presented at all, and consumers (the app, the exported sky cultures) drop the entry while the record keeps it, with the judgement argued in `notes` |
 
 ## Editorial rules
 

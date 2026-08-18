@@ -35,7 +35,7 @@ REGISTER_BLURB = {
 # it; `borrowed_from` says where from. Splitting those two questions is what lets
 # the same four registers describe a Vietnamese name against literary Chinese.
 TRADITIONS = ["sanskrit"]
-CONF_RANK = {"certain": 0, "likely": 1, "disputed": 2, "unidentified": 3}
+CONF_RANK = {"certain": 0, "likely": 1, "disputed": 2, "unidentified": 3, "rejected": 4}
 
 
 def anchor(s):

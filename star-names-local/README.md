@@ -1981,14 +1981,14 @@ The thieves came to steal the cot, which belonged to an old woman, but God caugh
 
 <sub>Register folk, not tribal: the Dhuri are a Chhattisgarhi caste of rice-parchers, not an Adivasi community, and Russell prints no vernacular words — hence the bracketed name_roman. Included because it is the earliest printed attestation of the cot and three thieves, 1916, decades before the Gond fieldwork and independent of Grignard and Campbell, and because it shows the figure circulating outside the tribal communities too.</sub>
 
-**झुमका / جهمکا · jhumkā (sāt sahelyoṅ kā jhūmkā)** — Hindi (Hindustani generally) · *folk* · confidence: certain
+**झुमका / جهمکا · jhumkā (sāt sahelyoṅ kā jhūmkā)** — Hindi (Hindustani generally) · *folk* · confidence: rejected
 
 jhumkā is the pendant cluster of an ear-ring; applied to the sky it names both the Bear and the Pleiades, which is a genuine ambiguity in the sources and not a slip - Platts gives both senses in one entry. The full phrase sāt sahelyoṅ kā jhūmkā ('the seven girl-friends') fixes it on the Bear.
 
 > H جهمکا झुमका jhum'kā, jhūmkā , n. m. 1. A cluster; a bunch of flowers or fruit. 2. The bell-shaped pendant of an earring. 3. (sāt sahelyoṅ kā jhūmkā) Charles's wain; Ursa major. 4. A flower; Gloriosa superba.
 > <br>— S. W. Fallon, A New Hindustani-English Dictionary (Banaras/London, 1879), s.v. jhum'kā, p. 499 ([source](https://dsal.uchicago.edu/cgi-bin/app/fallon_query.py?page=499))
 
-<sub>Independently confirmed for Urdu from the Panjab: L. Whyte King's list gives 'Urdu; jhamakkā, a cluster' for the Great and Lesser Bear, with the editor R. C. Temple adding '[This last is more commonly sāt sahelion ké jhamkā, the cluster of seven maidens.]' - Panjab Notes and Queries, vol. II (Feb. 1885), note 521, p. 84. Platts, p. 407, lists the same word for 'Charles's Wain, Ursa Major; the Pleiades'.</sub>
+<sub>Independently confirmed for Urdu from the Panjab: L. Whyte King's list gives 'Urdu; jhamakkā, a cluster' for the Great and Lesser Bear, with the editor R. C. Temple adding '[This last is more commonly sāt sahelion ké jhamkā, the cluster of seven maidens.]' - Panjab Notes and Queries, vol. II (Feb. 1885), note 521, p. 84. Platts, p. 407, lists the same word for 'Charles's Wain, Ursa Major; the Pleiades'. GRADED REJECTED (2026-08-18): the citation is verbatim and the Bear sense is genuinely in Fallon, Platts, and Temple's aside — but the compiler judges the identification the dictionaries transmit to be wrong, not merely contested. Every part of the word's own semantics — a cluster, a bunch, the pendant cluster of an ear-drop — describes the Pleiades, where Platts also files it and where the whole ornament vocabulary (guchchā tārā, kirhkaṭī's nose-jewel, Lambadi's Shirser Jhumko) points; 'seven' is the one thread tying it to the Bear, and sāt is what the Kṛttikās are called too (the seven sisters). The Bear reading is taken for a lexicographers' fixation, not a speakers' usage, and is not presented. The record keeps the entry for the argument's sake; a source showing a speaker pointing at the Bear and saying jhumkā would reopen it.</sub>
 
 **ನೇಗಿಲು · nēgilu** — Kannada (Karnataka (Mysore)) · *folk* · confidence: high
 
