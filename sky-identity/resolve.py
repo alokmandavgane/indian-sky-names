@@ -46,6 +46,14 @@ LOCAL_CHART = os.path.join(DOCS, "star-names-local", "sources", "build_chart.py"
 SANSKRIT_DB = os.path.join(DOCS, "star-names", "star-names.json")
 LOCAL_DB = os.path.join(DOCS, "star-names-local", "star-names-local.json")
 FIGURES = os.path.join(DOCS, "constellation-lines", "constellation-lines.json")
+# Since the split, DOCS is this repo's root; the constellation-lines database stayed
+# with the app. A checkout mounted beside it (bhagol's docs/catalogue) finds it one
+# level further up; a fully standalone clone cannot resolve figures, and says so.
+if not os.path.exists(FIGURES):
+    FIGURES = os.path.join(DOCS, "..", "constellation-lines", "constellation-lines.json")
+if not os.path.exists(FIGURES):
+    raise SystemExit("resolve.py needs the app repo's constellation-lines database; "
+                     "run from a checkout mounted beside it (bhagol docs/catalogue).")
 
 # How close a catalogue star must sit to a plotted position to be believed. The
 # tables round to two decimals (~36"), and the nearest naked-eye star to any given
