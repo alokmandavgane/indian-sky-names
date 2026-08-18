@@ -584,6 +584,51 @@
    "source_access": "public-domain",
    "confidence": "likely",
    "notes": "The one nakshatra whose constituent stars the Veda names individually. The names are the record's; which sister is which star nobody says, so the figure is one part of six placed stars, and the seventh is a gap the chart made, not the text."
+  },
+  {
+   "id": "sanskrit-trivikrama-footprints",
+   "culture": "sanskrit",
+   "object": "trivikrama",
+   "spans": [
+    "UMa"
+   ],
+   "name_native": "त्रिविक्रम",
+   "name_roman": "Trivikrama",
+   "name_meaning": "Viṣṇu of the three strides; three star-pairs as his three footprints",
+   "scene": "Viṣṇu, as the dwarf who grew, crossed the worlds in three strides — and the catalogue reads the three faint star-pairs strung along the Bear's southern paws as the three footprints (pādān) he left on the sky. The same three pairs are the Arabic tradition's leaps of the gazelle; Nityānanda saw strides where the desert saw springs.",
+   "parts": [
+    {
+     "role": "the first footprint (yugmaka)",
+     "hip": [
+      44127,
+      44471
+     ],
+     "attested": true,
+     "note": "ι and κ UMa — the pair the catalogue counts first."
+    },
+    {
+     "role": "the second footprint (yugmaka)",
+     "hip": [
+      50372,
+      50801
+     ],
+     "attested": true,
+     "note": "λ and μ UMa."
+    },
+    {
+     "role": "the third footprint (yugmaka)",
+     "hip": [
+      55219,
+      55203
+     ],
+     "attested": true,
+     "note": "ν and ξ UMa."
+    }
+   ],
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 27 and Nityānanda's own note (ed. Pai & Shylaja, JApA 42:113 (2021), n. 36); discussed in Shylaja & Pai, JAHH 22(2) (2019), 296–298",
+   "source_access": "open-access",
+   "confidence": "certain",
+   "notes": "The one figure of the astrolabe-era catalogues: Pai & Shylaja call it hitherto unknown. Each footprint is a two-star pair the text itself calls a yugmaka and jointly pādān, 'the feet' — the pairing is the source's own, so all three lines are attested, and no line joins the footprints to each other: three prints, not a path. Shylaja links the figure to the Trivikrama of the Khmer Prasat Kok Po inscription (1004 CE)."
   }
  ]
 }

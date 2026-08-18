@@ -51,9 +51,8 @@ FIGURES = os.path.join(DOCS, "constellation-lines", "constellation-lines.json")
 # level further up; a fully standalone clone cannot resolve figures, and says so.
 if not os.path.exists(FIGURES):
     FIGURES = os.path.join(DOCS, "..", "constellation-lines", "constellation-lines.json")
-if not os.path.exists(FIGURES):
-    raise SystemExit("resolve.py needs the app repo's constellation-lines database; "
-                     "run from a checkout mounted beside it (bhagol docs/catalogue).")
+# Missing figures only matter when they are actually read — validate.py imports this
+# module for its HIP tables, and an import must not die on a neighbour it will not use.
 
 # How close a catalogue star must sit to a plotted position to be believed. The
 # tables round to two decimals (~36"), and the nearest naked-eye star to any given
@@ -183,6 +182,9 @@ def load_figure_constellations():
     field stars too, and a culture that names "Orion" means the shape, not every
     star inside its boundary.
     """
+    if not os.path.exists(FIGURES):
+        raise SystemExit("resolve.py needs the app repo's constellation-lines database; "
+                         "run from a checkout mounted beside it (bhagol docs/catalogue).")
     data = json.load(open(FIGURES, encoding="utf-8"))
     out = {}
     for c in data["constellations"]:
