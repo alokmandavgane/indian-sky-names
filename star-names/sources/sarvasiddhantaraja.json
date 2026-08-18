@@ -1,0 +1,80 @@
+{
+ "source_text": "Sarvasiddhāntarāja (1639)",
+ "sanskrit_etext_urls": [
+  "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf"
+ ],
+ "translation_urls": [
+  "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf"
+ ],
+ "caveats": [
+  "No e-text of the Sarvasiddhāntarāja exists (GRETIL/SARIT/Wikisource verified negative, 2026-08-18). The only witness for the star catalogue is Pai & Shylaja's edition (JApA 42:113, 2021, open access) of a single manuscript, BORI 206 of A 1883-84; verse numbers follow it.",
+  "shloka_devanagari is null throughout: the edition PDF's Devanagari carries no ToUnicode maps (legacy Type1C fonts), so the mūla cannot be extracted mechanically; the verses are readable in the published PDF at the URL. Pending an OCR proofread — nothing here is retyped.",
+  "Translations are literal renderings by the compiler after the edition's; the edition's own English is in copyright and not reproduced.",
+  "This first tranche carries only references to stars already in the database. The catalogue's genuinely new names — Nāḍyantaka, Matsyodara, Mānuṣaśīrṣa, Skanda, Dhruvākṣa, the Trivikrama figure — need entries of their own with positions and app keys, and follow separately."
+ ],
+ "entries": [
+  {
+   "db_id": "pushya",
+   "name_devanagari": "पुष्य",
+   "name_iast": "Puṣya",
+   "name_status": "new-attestation-of-existing",
+   "modern_star": {
+    "common_name": "Praesepe cluster",
+    "bayer": "M44 (in Cancer)",
+    "constellation": "Cancer"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 18 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "[Puṣya] is situated always along the north and shines like a cloud-cluster (megha-pratima).",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "Nityānanda's catalogue describes Puṣya's junction object as megha-pratimo vibhāti, 'shines like a cloud' — which Pai & Shylaja read as the first Indian record of a star cluster as such (Praesepe, M44). The catalogue's agnimāna 'fire-like' magnitude grade covers nebulous objects generally; this entry is its clearest case. Shloka null: no e-text exists and the edition PDF's Devanagari is not machine-extractable (no ToUnicode maps); the verse is readable in the published PDF.",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped."
+  },
+  {
+   "db_id": "lubdhaka",
+   "name_devanagari": "लुब्धक",
+   "name_iast": "Lubdhaka",
+   "name_status": "new-attestation-of-existing",
+   "modern_star": {
+    "common_name": "Sirius",
+    "bayer": "α Canis Majoris",
+    "constellation": "Canis Major"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 16 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "Along the south, with the first order of brightness, the star Lubdhaka shines at twenty-three degrees [of dhruvaka]. Some also call it Mṛgavyādha.",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The catalogue lists Lubdhaka with first-magnitude brightness in the south and adds the gloss kecin mṛgavyādham api bruvanti — 'some also say Mṛgavyādha' — carrying both classical names of Sirius in one 17th-century entry. Coordinates reduce to α CMa (Pai & Shylaja 2021, Table 1). Shloka null: see source caveats.",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped."
+  },
+  {
+   "db_id": "revati",
+   "name_devanagari": "पौष्ण",
+   "name_iast": "Pauṣṇa",
+   "name_status": "deity-title",
+   "modern_star": {
+    "common_name": "Revatī's junction star",
+    "bayer": "ζ Piscium",
+    "constellation": "Pisces"
+   },
+   "identification_confidence": "certain",
+   "text_date": "1639 CE",
+   "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 55 (ed. Pai & Shylaja 2021)",
+   "shloka_devanagari": "",
+   "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "translation_en": "…the asterism Pauṣṇa, [its coordinates given] to finer parts by the twofold measure — these five [close the list].",
+   "translator": "Literal rendering by the compiler",
+   "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+   "identification_notes": "The catalogue's closing entry names Revatī's star by its presiding deity — Pauṣṇa, 'of Pūṣan' — the same deity-title convention the Śārdūlakarṇāvadāna's lists use (cf. this database's Pauṣṇa/Tvāṣṭra aliases). Coordinates agree with ζ Psc, with ε Psc also compatible (Pai & Shylaja 2021). Shloka null: see source caveats.",
+   "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped."
+  }
+ ]
+}

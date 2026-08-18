@@ -35,7 +35,11 @@ import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.dirname(HERE)
-CL_SOURCES = os.path.join(DOCS, "constellation-lines", "sources")
+# Since the split from the app repo the Hipparcos extract lives here, in shared-data/;
+# the app-repo layout is the fallback for a checkout mounted beside it (docs/catalogue).
+CL_SOURCES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shared-data")
+if not os.path.exists(os.path.join(CL_SOURCES, "hipparcos-mag7.csv")):
+    CL_SOURCES = os.path.join(DOCS, "constellation-lines", "sources")
 
 SANSKRIT_CHART = os.path.join(DOCS, "star-names", "sources", "build_chart.py")
 LOCAL_CHART = os.path.join(DOCS, "star-names-local", "sources", "build_chart.py")

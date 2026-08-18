@@ -6,11 +6,11 @@ What speakers of the different Indian languages call a star, an asterism or a co
 
 > **This file is generated — do not edit it.** The originals are the research files in [`sources/`](sources/). See [`FORMAT.md`](FORMAT.md) for the schema and the editorial rules.
 
-**975 names** across **57 languages** for **65 sky objects**. 531 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
+**976 names** across **57 languages** for **65 sky objects**. 532 link to an entry in the separate Sanskrit database at [`../star-names/`](../star-names/); the rest have no Sanskrit counterpart, which is the interesting part.
 
 **Register.** Every name is tagged by register. That is the point of the database rather than a detail: most Indian languages inherited the 27 Sanskrit nakshatra names and adapted them phonologically, and a table of those adaptations would be large and nearly uninformative. The tags separate that borrowed layer from names the languages made themselves. **vernacular** — formed in the language itself, not a loan from the prestige tradition; **folk** — rural or colloquial usage, from a dictionary's own usage note or from ethnography; **tribal** — from a distinct Adivasi tradition; **borrowed** — the prestige tradition's name in this language's script and phonology — in every entry here, Sanskrit's. A `borrowed` name also carries `borrowed_from`, naming the tradition it came from. Every one of them here says `sanskrit`; the field exists so that the register need not, because the question *did this language form this name or take it* is the same question outside South Asia, and only the answer's source changes.
 
-Of 975 names, **754 are not borrowed** — 220 vernacular, 106 folk, 428 tribal, 221 borrowed.
+Of 976 names, **754 are not borrowed** — 220 vernacular, 106 folk, 428 tribal, 222 borrowed.
 
 **Method.** Compiled from public-domain lexicography and ethnography, chiefly the Digital Dictionaries of South Asia (dsal.uchicago.edu) and archive.org: Platts 1884, Fallon 1879 and Shakespear 1834 for Hindi/Urdu; Molesworth 1857 for Marathi; Maffei 1883 and Dalgado 1893 for Konkani; the Madras Tamil Lexicon 1924-39 and Winslow 1862 for Tamil; Brown 1852/1903 for Telugu; Kittel for Kannada; Gundert 1872 for Malayalam; Männer 1886 for Tulu; Carter and Clough for Sinhala; Praharaj and Jñānendramohana Dāsa for Odia and Bengali; and for the Adivasi languages Hoffmann's Encyclopaedia Mundarica, Bodding and Campbell on Santali, Grignard on Kurukh, Rivers 1906 on the Toda, Man 1883 and Radcliffe-Brown 1922 on the Andamans, Ramamurti 1938 on Sora and Winfield 1929 on Kui; for the north-east, Lorrain 1940 on Mizo and the colonial monographs — Playfair 1909 on the Garos, Hutton 1921 on the Angamis and the Semas, Mills 1926 and 1937 on the Aos and the Rengmas, Parry 1932 on the Lakhers; Elwin 1939 on the Baiga, and Russell & Hiralal 1916; Macalister 1898 and Lalas 2013 for Rajasthani. A second layer, kept in its own source file, comes from MODERN FIELD SURVEYS that have no counterpart in the printed record: Vahia, Halkare and colleagues on the Gonds (2013), the Banjaras and Kolams (2014), the Korku (2016) and the Nicobarese (2018), and Shetye, Halkare and Sule on the Bhil, Pawra and Kokna (2023). Every name from a public-domain source is quoted verbatim from a source that was actually fetched, with the page cited and the URL recorded; where a source printed only a romanization, no script is supplied and nothing was back-transliterated. Work still in copyright — the six field surveys, Turner 1931, Jorgensen, Malla, Manandhar, Maniku 2000, Sharma 2006, Baloch, Grignard, Samsad 2000, Candrakanta 1962 and Lalas 2013 — is paraphrased and cited, never quoted, and every entry now says which it is in `source_access`. Wikipedia was not used as a source.
 
@@ -22,7 +22,7 @@ Of 975 names, **754 are not borrowed** — 220 vernacular, 106 folk, 428 tribal,
 | Tamil | 62 | Chaura (Chowra) | 10 |
 | Telugu | 57 | Sema (Sumi) Naga | 10 |
 | Kolami | 43 | Bhili | 9 |
-| Kannada | 41 | Central Nicobarese (Camorta) | 9 |
+| Kannada | 42 | Central Nicobarese (Camorta) | 9 |
 | Mizo (Lushai) | 38 | Kurukh | 9 |
 | Malayalam | 36 | Sora | 9 |
 | Sindhi | 34 | Newar (Nepal Bhasa) | 9 |
@@ -70,9 +70,9 @@ Of 975 names, **754 are not borrowed** — 220 vernacular, 106 folk, 428 tribal,
 | [The Moon](#the-moon) | 12 | 17 | `chandra` |
 | [Sirius](#sirius) | 12 | 16 | `lubdhaka` |
 | [Canopus](#canopus) | 11 | 14 | `agastya` |
+| [Aldebaran](#aldebaran) | 11 | 12 | `rohini` |
 | [The Hyades](#the-hyades) | 11 | 11 | `rohini` |
 | [Scorpius](#scorpius) | 10 | 12 | `jyeshtha` |
-| [Aldebaran](#aldebaran) | 10 | 11 | `rohini` |
 | [Arcturus](#arcturus) | 7 | 8 | `svati` |
 | [Castor and Pollux](#castor-and-pollux) | 6 | 8 | `punarvasu` |
 | [Antares](#antares) | 6 | 6 | `jyeshtha` |
@@ -7580,6 +7580,131 @@ The heliacal rising (agastyōdayamu) is an almanac event in the Telugu country.
 
 <sub>No vernacular name for Canopus in either dictionary — the Sanskrit sage-name is used in both languages (Kannada ಅಗಸ್ತ್ಯ, Kittel p. 12). Given the star's importance in the southern sky this is a real negative finding.</sub>
 
+## Aldebaran
+
+**Modern:** Aldebaran · α Tauri · Taurus  
+**Sanskrit database:** `rohini` — Rohiṇī (Aldebaran) ([entry](../star-names/star-names.json))  
+**Named in 11 languages:** Kannada, Kolami, Korku, Malayalam, Mara (Lakher), Marathi, Mizo (Lushai), Mundari, Sora, Telugu, Teressa
+
+| Language | Name | Romanized | Literally | Register |
+|---|---|---|---|---|
+| Telugu | బండిరిక్క | *baṇḍi-rikka* | the cart star | vernacular |
+| Kolami | — | *Bhori* | 'a bird' | tribal |
+| Korku | — | *Pati* | 'the husband' | tribal |
+| Mara (Lakher) | — | *Lodo pazo adongpa* | — | tribal |
+| Mizo (Lushai) | — | *Khiangte Zâwng-zîm* | — | tribal |
+| Mundari | — | *jarom ipilkiŋ* | the two egg stars | tribal |
+| Mundari | — | *putam ipil* | the dove star | tribal |
+| Sora | — | *kukkur-ən-a-arreʼ-tuj-ən* | — | tribal |
+| Teressa | — | *Takaru Kalitpicho* | — | tribal |
+| Kannada | ರೋಹಿಣಿ | *Rōhiṇi* | — | borrowed |
+| Malayalam | രോഹിണി | *rōhiṇi* | 'the red one' | borrowed |
+| Marathi | — | *Rohini* | — | borrowed |
+
+**బండిరిక్క · baṇḍi-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
+
+Named from the V of the Hyades, seen as a bullock cart.
+
+> బండి [Tel.] n. A cart, gig, carriage, coach, waggon, శకటము. … బండిమొగ్గరము banḍi-moggaramu. n. A certain military evolution called శకటవ్యూహము, which is shaped like a cart. బండిరిక్క banḍi-rikka. n. The star called రోహిణి.
+> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. బండి banḍi, p. 864 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=864))
+
+<sub>The single best Telugu-Sanskrit correspondence in this file. The Sanskrit database has the same figure under 'rohini-shakata' (Rohiṇī-śakaṭa / Prājāpatya śakaṭa, 'the Wain of Rohiṇī' = the Hyades V with Aldebaran). Brown's Telugu word for it is baṇḍi, the ordinary Dravidian word for a bullock cart, not a rendering of śakaṭa; his own gloss for the military formation śakaṭa-vyūha on the same line shows he knew the two words were equivalents. Telugu preserved the cart independently.</sub>
+
+**Bhori** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
+
+Seen with two eggs beside it. Five of ten villages.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. The bird-and-eggs figure attached to Aldebaran, exactly as Mundari putam ipil is Aldebaran the dove with her two eggs jarom ipilkiŋ in tribal.json. Mundari is Munda and Kolami is Dravidian. Note also that Bhori appears in the Kolam Milky Way name Bhori Sanko above, which the paper does not explain.</sub>
+
+**Pati** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: unidentified
+
+Head of the family group the Korku see around Aldebaran.
+
+*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so. The magnitude column for this row reads '420, 4.25' in the source, evidently a typesetting failure, so even the magnitude is not usable. No identification is claimed.</sub>
+
+**Lodo pazo adongpa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: likely
+
+About ten stars representing men catching rats in a lodo — the small fenced rubbish dump beside every Lakher jhum house.
+
+> Lodo pazo adongpa is a constellation of about ten stars representing men catching rats in a rubbish dump near a jhum house. ... This constellation is known to the Lusheis as Khiangte zong zim, or the Khiangtes catching monkeys, and is identified by Savidge and Lorrain as a group of stars in Taurus near Aldebaron.
+> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 496–497 ([source](https://archive.org/details/lakhers032949mbp))
+
+<sub>MEN CATCHING SMALL ANIMALS, in three languages and two constellations. Hutton's footnote on this passage points out that the Angami Zuthekroko, 'the rat-diggers', is the same figure and is usually the Pleiades — which is the next cluster over. The Lakhers catch rats, the Lusheis monkeys, the Angamis rats again. The identification is Savidge's and Lorrain's, and it is theirs that makes this `likely` rather than `unidentified`. Khazanghra, also called Thimzing, is the Lakher 'great darkness', the mythical eclipse at which everything then alive was turned to stone or to stars. Nearly every Lakher star-name below is an episode interrupted by it.</sub>
+
+**Khiangte Zâwng-zîm** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
+
+Khiangte is the name of a Lushai clan, given at the immediately preceding headword.
+
+> Khiangte Zâwng-zîm, n . the name of a constellation: a group of stars in Taurus, near Aldebaran.
+> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Khiangte Zâwng-zîm, p. 263 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=263))
+
+<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. A constellation named for a clan. Nothing else in this database attaches a lineage name to a group of stars.</sub>
+
+**jarom ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
+
+The two eggs left in the dove's nest. Hoffmann remarks that there are never more than two eggs in a dove's nest, which is why the dual is right.
+
+> (8) jarom ipilkiŋ, the two eggs in the dove's nest, two small stars of the fourth magnitude close together, North of Aldebaran, E. S. E. of the Pleiads.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>No Bayer letters given by Hoffmann; none supplied here.</sub>
+
+**putam ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
+
+The dove flushed off her nest by the ploughman's mallet, which alighted a little way off to wait until the enemy had gone.
+
+> (7) putam ipil, the dove started from her nest, Aldebaran, one of the Hyades, the star counted ninth in brightness.
+> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
+
+<sub>Santali potam is the imperial pigeon (Campbell). Hoffmann uses this entry to correct M.B. Bhaduri's paper in Man in India, which had taken his informant's rohṛa — the name of a beetle that appears for two or three days at the end of May — for Hindi Rohiṇī, i.e. Aldebaran.</sub>
+
+**kukkur-ən-a-arreʼ-tuj-ən** — Sora (the Sora country of the Ganjam and Koraput hills, Odisha and northern Andhra) · *tribal* · confidence: likely
+
+> kuk'kur-ən-a-'arreʼ-tuj-ən, the fourth of the lunar mansions.
+> <br>— G.V. Ramamurti, Sora-English Dictionary (Delhi: Manager of Publications, 1938), s.v. kuk'kur-ən-a-'arreʼ-'tuj-ən, p. 146 ([source](https://archive.org/details/in.ernet.dli.2015.98075))
+
+<sub>Built on the same kukkur as the Pleiades name, and counted fourth where the Pleiades are counted third — which is the Indian nakshatra order, Kṛttikā third and Rohiṇī fourth. That a Munda hill language of Ganjam counts its stars in the order of the Sanskrit lunar mansions is worth more than the name itself, and it is the reason the sanskrit_db_id is filled in on a `likely` grade rather than left null.</sub>
+
+**Takaru Kalitpicho** — Teressa (Teressa island, Nicobars) · *tribal* · confidence: certain
+
+The second element is the general word for 'star'.
+
+*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
+> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
+
+<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
+
+**ರೋಹಿಣಿ · Rōhiṇi** — Kannada (Karnataka (epigraphic: Mysuru, Maṇḍya, Tumakūru, Chāmarājanagara districts)) · *borrowed* · confidence: high
+
+Attested in dated Kannada stone inscriptions across six and a half centuries — the earliest of 1032 CE (Moon with Aldebaran, Nanjangūḍu), the last of 1679 CE — recording the Moon, Saturn or an occultation at the star as the timing detail of a grant. Epigraphy, not lexicography: the star's name as village record-keepers actually wrote it, with a date astronomy can verify.
+
+> ಕಾರ್ತಿಕಬ ೨ ರೋಹಿಣಿ
+> <br>— Epigraphia Carnatica III (Mysore), Nanjangūḍu nos. 164 & 165 (23 Oct 1032 CE), and six further records to 1679 CE, as compiled and verified in B. S. Shylaja & Geetha Kydala Ganesha, 'Conjunction of planets – historical records of India', Current Science 120(8) (2021), 1399–1400, Table 1 ([source](https://www.currentscience.ac.in/Volumes/120/08/1399.pdf))
+
+<sub>First epigraphic attestation in this database. The name is the Sanskrit nakṣatra name in Kannada script and phonology — Shylaja & Ganesha's compilations find no separate Kannada lexical tradition in the inscriptions, which is itself a finding this record should carry. The quoted phrase is EC-III Nanjangūḍu 164's dating formula as printed in their Table 1 ('Kārtika ba 2, Rohiṇi').</sub>
+
+**രോഹിണി · rōhiṇi** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *borrowed* · confidence: certain
+
+Aṣṭamirōhiṇi, the eighth lunar day falling in Rohiṇi in the month Ciṅṅam, is Kṛṣṇa's birthday and a fast day in Kerala.
+
+> the 4th Nakšatra, with Aldebaran ചിങ്ങമാം മാസ വും അഷ്ടമിരോ. നാള്‍ Bhg. CG. K/?/šṇa's birthday.
+> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. രോഹം rōham, p. 889 (sub-entry രോഹിണി) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=889))
+
+**Rohini** — Marathi (Bombay Presidency (Deccan and Konkan)) · *borrowed* · confidence: certain
+
+thunder in Rohiṇī portends a Boterun — seventy-two days without rain; lightning from a clear sky in the same asterism causes Rohini-tap, 'the burning heat of Rohiṇī'
+
+> Thunder during the Rohini nakshatra is a bad omen : it foreshadows either a famine, or a Boterun, i. e. complete cessation of rains for seventy-two days, after the thunder-claps are heard.
+> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 78 ([source](https://archive.org/details/folkloreofbombay00reen/page/n80))
+
+<sub>Boterun and Rohini-tap are both vernacular formations built on the asterism name; Rohini-tap is Rohiṇī + ताप 'burning heat'. The archive.org OCR mangles both words (it prints 'seventy-t wo' and 'Rohini-t^azf' where the italic type sits); the readings given here follow the printed page. On the same page Enthoven adds the counterpart for Hasta: 'Thunder or lightning in the Hasta nakshatra foretells good harvests and a prosperous year.'</sub>
+
 ## The Hyades
 
 **Modern:** the Hyades · Taurus  
@@ -7823,121 +7948,6 @@ THE FIRST nakaiy of the north-east monsoon, and so the hinge of the Divehi year:
 > <br>— Hassan Ahmed Maniku, A Concise Etymological Vocabulary of Dhivehi Language, Journal of the Royal Asiatic Society of Sri Lanka, Special Volume XLIV (Colombo, 2000), s.v. mula, p. 181 ([source](https://dsal.uchicago.edu/cgi-bin/app/maniku_query.py?page=181))
 
 <sub>In copyright, so the finding is paraphrased and `quote` is null. In the Sanskrit scheme Mūla is the nineteenth of twenty-seven and structurally unremarkable. Here it opens the second half of the year. The re-indexing is what gives it that weight, which is the clearest single illustration of what the nakaiy system does to the inherited list.</sub>
-
-## Aldebaran
-
-**Modern:** Aldebaran · α Tauri · Taurus  
-**Sanskrit database:** `rohini` — Rohiṇī (Aldebaran) ([entry](../star-names/star-names.json))  
-**Named in 10 languages:** Kolami, Korku, Malayalam, Mara (Lakher), Marathi, Mizo (Lushai), Mundari, Sora, Telugu, Teressa
-
-| Language | Name | Romanized | Literally | Register |
-|---|---|---|---|---|
-| Telugu | బండిరిక్క | *baṇḍi-rikka* | the cart star | vernacular |
-| Kolami | — | *Bhori* | 'a bird' | tribal |
-| Korku | — | *Pati* | 'the husband' | tribal |
-| Mara (Lakher) | — | *Lodo pazo adongpa* | — | tribal |
-| Mizo (Lushai) | — | *Khiangte Zâwng-zîm* | — | tribal |
-| Mundari | — | *jarom ipilkiŋ* | the two egg stars | tribal |
-| Mundari | — | *putam ipil* | the dove star | tribal |
-| Sora | — | *kukkur-ən-a-arreʼ-tuj-ən* | — | tribal |
-| Teressa | — | *Takaru Kalitpicho* | — | tribal |
-| Malayalam | രോഹിണി | *rōhiṇi* | 'the red one' | borrowed |
-| Marathi | — | *Rohini* | — | borrowed |
-
-**బండిరిక్క · baṇḍi-rikka** — Telugu (Telugu country (Madras Presidency: Coastal Andhra, Rayalaseema, Telangana)) · *vernacular* · confidence: certain
-
-Named from the V of the Hyades, seen as a bullock cart.
-
-> బండి [Tel.] n. A cart, gig, carriage, coach, waggon, శకటము. … బండిమొగ్గరము banḍi-moggaramu. n. A certain military evolution called శకటవ్యూహము, which is shaped like a cart. బండిరిక్క banḍi-rikka. n. The star called రోహిణి.
-> <br>— Brown, C. P., A Telugu-English Dictionary, new ed., thoroughly revised and brought up to date (Madras: Society for Promoting Christian Knowledge, 1903), s.v. బండి banḍi, p. 864 ([source](https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?page=864))
-
-<sub>The single best Telugu-Sanskrit correspondence in this file. The Sanskrit database has the same figure under 'rohini-shakata' (Rohiṇī-śakaṭa / Prājāpatya śakaṭa, 'the Wain of Rohiṇī' = the Hyades V with Aldebaran). Brown's Telugu word for it is baṇḍi, the ordinary Dravidian word for a bullock cart, not a rendering of śakaṭa; his own gloss for the military formation śakaṭa-vyūha on the same line shows he knew the two words were equivalents. Telugu preserved the cart independently.</sub>
-
-**Bhori** — Kolami (Kolam villages of Yavatmal and Chandrapur districts, Vidarbha, Maharashtra, and adjoining Adilabad, Telangana) · *tribal* · confidence: certain
-
-Seen with two eggs beside it. Five of ten villages.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, Kishore Menon and Harini Calamur, 'The astronomy of two Indian tribes: the Banjaras and the Kolams', Journal of Astronomical History and Heritage, 17(1), 65-84 (2014), Table 2, p. 71 ([source](https://arxiv.org/abs/1406.3044))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. One of the items in the paper's Table 2, which records for each belief how many of the ten Kolam villages surveyed reported it. The Kolams were foragers until about fifty years before the survey. The bird-and-eggs figure attached to Aldebaran, exactly as Mundari putam ipil is Aldebaran the dove with her two eggs jarom ipilkiŋ in tribal.json. Mundari is Munda and Kolami is Dravidian. Note also that Bhori appears in the Kolam Milky Way name Bhori Sanko above, which the paper does not explain.</sub>
-
-**Pati** — Korku (Melghat, Amravati district, Maharashtra, and adjoining Betul and Khandwa districts, Madhya Pradesh) · *tribal* · confidence: unidentified
-
-Head of the family group the Korku see around Aldebaran.
-
-*No quotation: M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare and Purushottam Dahedar, 'Astronomy of the Korku tribe of India', Journal of Astronomical History and Heritage, 19(2), 216-232 (2016), Table 2, p. 221 ([source](https://articles.adsabs.harvard.edu/pdf/2016JAHH...19..216V))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 2, which pairs each Korku name with a conventional star and its apparent magnitude — the most precise table in this whole body of fieldwork. The Greek letters are lost in the digital text of this paper: the ADS scan renders every Greek glyph as a solid black box, in the page image as well as in the extracted text. Where the paper also prints the star's proper name the designation is unambiguous and is restored here; where it prints only the Greek letter and the constellation, nothing is restored and the entry says so. The magnitude column for this row reads '420, 4.25' in the source, evidently a typesetting failure, so even the magnitude is not usable. No identification is claimed.</sub>
-
-**Lodo pazo adongpa** — Mara (Lakher) (the Lakher country, southern Lushai Hills (now southern Mizoram) and the Chin Hills) · *tribal* · confidence: likely
-
-About ten stars representing men catching rats in a lodo — the small fenced rubbish dump beside every Lakher jhum house.
-
-> Lodo pazo adongpa is a constellation of about ten stars representing men catching rats in a rubbish dump near a jhum house. ... This constellation is known to the Lusheis as Khiangte zong zim, or the Khiangtes catching monkeys, and is identified by Savidge and Lorrain as a group of stars in Taurus near Aldebaron.
-> <br>— N.E. Parry, The Lakhers (London: Macmillan, 1932), p. 496–497 ([source](https://archive.org/details/lakhers032949mbp))
-
-<sub>MEN CATCHING SMALL ANIMALS, in three languages and two constellations. Hutton's footnote on this passage points out that the Angami Zuthekroko, 'the rat-diggers', is the same figure and is usually the Pleiades — which is the next cluster over. The Lakhers catch rats, the Lusheis monkeys, the Angamis rats again. The identification is Savidge's and Lorrain's, and it is theirs that makes this `likely` rather than `unidentified`. Khazanghra, also called Thimzing, is the Lakher 'great darkness', the mythical eclipse at which everything then alive was turned to stone or to stars. Nearly every Lakher star-name below is an episode interrupted by it.</sub>
-
-**Khiangte Zâwng-zîm** — Mizo (Lushai) (the Lushai Hills, Assam (now Mizoram)) · *tribal* · confidence: certain
-
-Khiangte is the name of a Lushai clan, given at the immediately preceding headword.
-
-> Khiangte Zâwng-zîm, n . the name of a constellation: a group of stars in Taurus, near Aldebaran.
-> <br>— J. Herbert Lorrain, Dictionary of the Lushai Language, Bibliotheca Indica Work No. 261 (Calcutta: The Asiatic Society, 1940), s.v. Khiangte Zâwng-zîm, p. 263 ([source](https://dsal.uchicago.edu/cgi-bin/app/lorrain_query.py?page=263))
-
-<sub>Lorrain's dictionary is public domain (he died in 1944) and is quoted verbatim from DSAL's page view. A constellation named for a clan. Nothing else in this database attaches a lineage name to a group of stars.</sub>
-
-**jarom ipilkiŋ** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: likely
-
-The two eggs left in the dove's nest. Hoffmann remarks that there are never more than two eggs in a dove's nest, which is why the dual is right.
-
-> (8) jarom ipilkiŋ, the two eggs in the dove's nest, two small stars of the fourth magnitude close together, North of Aldebaran, E. S. E. of the Pleiads.
-> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
-
-<sub>No Bayer letters given by Hoffmann; none supplied here.</sub>
-
-**putam ipil** — Mundari (Chota Nagpur plateau, Ranchi district, Jharkhand) · *tribal* · confidence: certain
-
-The dove flushed off her nest by the ploughman's mallet, which alighted a little way off to wait until the enemy had gone.
-
-> (7) putam ipil, the dove started from her nest, Aldebaran, one of the Hyades, the star counted ninth in brightness.
-> <br>— Hoffmann, Encyclopaedia Mundarica, vol. VII, s.v. ipil, cols. 1919-1925 ([source](https://archive.org/download/dli.bengal.10689.20088/10689.20088_djvu.txt))
-
-<sub>Santali potam is the imperial pigeon (Campbell). Hoffmann uses this entry to correct M.B. Bhaduri's paper in Man in India, which had taken his informant's rohṛa — the name of a beetle that appears for two or three days at the end of May — for Hindi Rohiṇī, i.e. Aldebaran.</sub>
-
-**kukkur-ən-a-arreʼ-tuj-ən** — Sora (the Sora country of the Ganjam and Koraput hills, Odisha and northern Andhra) · *tribal* · confidence: likely
-
-> kuk'kur-ən-a-'arreʼ-tuj-ən, the fourth of the lunar mansions.
-> <br>— G.V. Ramamurti, Sora-English Dictionary (Delhi: Manager of Publications, 1938), s.v. kuk'kur-ən-a-'arreʼ-'tuj-ən, p. 146 ([source](https://archive.org/details/in.ernet.dli.2015.98075))
-
-<sub>Built on the same kukkur as the Pleiades name, and counted fourth where the Pleiades are counted third — which is the Indian nakshatra order, Kṛttikā third and Rohiṇī fourth. That a Munda hill language of Ganjam counts its stars in the order of the Sanskrit lunar mansions is worth more than the name itself, and it is the reason the sanskrit_db_id is filled in on a `likely` grade rather than left null.</sub>
-
-**Takaru Kalitpicho** — Teressa (Teressa island, Nicobars) · *tribal* · confidence: certain
-
-The second element is the general word for 'star'.
-
-*No quotation: M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 is in copyright and is paraphrased only.*
-> <br>— M.N. Vahia, Ganesh Halkare, S.A. Awaradi and Kishore Menon, 'In situ studies of astronomy of the Nicobarese tribe of Nicobar Islands', Heritage: Journal of Multidisciplinary Studies in Archaeology, 6, 1014-1039 (2018), Table 3, pp. 1026-1027 ([source](https://www.heritageuniversityofkerala.com/JournalPDF/Volume6/53.pdf))
-
-<sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
-
-**രോഹിണി · rōhiṇi** — Malayalam (Kerala (Malabar, Cochin, Travancore)) · *borrowed* · confidence: certain
-
-Aṣṭamirōhiṇi, the eighth lunar day falling in Rohiṇi in the month Ciṅṅam, is Kṛṣṇa's birthday and a fast day in Kerala.
-
-> the 4th Nakšatra, with Aldebaran ചിങ്ങമാം മാസ വും അഷ്ടമിരോ. നാള്‍ Bhg. CG. K/?/šṇa's birthday.
-> <br>— Gundert, A Malayalam and English Dictionary (1872), s.v. രോഹം rōham, p. 889 (sub-entry രോഹിണി) ([source](https://dsal.uchicago.edu/cgi-bin/app/gundert_query.py?page=889))
-
-**Rohini** — Marathi (Bombay Presidency (Deccan and Konkan)) · *borrowed* · confidence: certain
-
-thunder in Rohiṇī portends a Boterun — seventy-two days without rain; lightning from a clear sky in the same asterism causes Rohini-tap, 'the burning heat of Rohiṇī'
-
-> Thunder during the Rohini nakshatra is a bad omen : it foreshadows either a famine, or a Boterun, i. e. complete cessation of rains for seventy-two days, after the thunder-claps are heard.
-> <br>— R. E. Enthoven, The Folklore of Bombay (Oxford: Clarendon Press, 1924), p. 78 ([source](https://archive.org/details/folkloreofbombay00reen/page/n80))
-
-<sub>Boterun and Rohini-tap are both vernacular formations built on the asterism name; Rohini-tap is Rohiṇī + ताप 'burning heat'. The archive.org OCR mangles both words (it prints 'seventy-t wo' and 'Rohini-t^azf' where the italic type sits); the readings given here follow the printed page. On the same page Enthoven adds the counterpart for Hasta: 'Thunder or lightning in the Hasta nakshatra foretells good harvests and a prosperous year.'</sub>
 
 ## Arcturus
 

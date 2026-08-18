@@ -1256,6 +1256,20 @@
           "source_notes": "THREE stars, vardhamāna-shaped (an auspicious 'growing' diagram), deity Bṛhaspati, gotra Aupamanyavīya. Three stars = δ, γ, θ Cancri; matches Colebrooke's 'Stars in Cancer' for the Amarakośa's Puṣya/Sidhya/Tiṣya trio."
         },
         {
+          "text": "Sarvasiddhāntarāja (1639)",
+          "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 18 (ed. Pai & Shylaja 2021)",
+          "text_date": "1639 CE",
+          "name_status": "new-attestation-of-existing",
+          "shloka_devanagari": "",
+          "shloka_script": "devanagari",
+          "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+          "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+          "translation_en": "[Puṣya] is situated always along the north and shines like a cloud-cluster (megha-pratima).",
+          "translator": "Literal rendering by the compiler",
+          "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+          "source_notes": "Nityānanda's catalogue describes Puṣya's junction object as megha-pratimo vibhāti, 'shines like a cloud' — which Pai & Shylaja read as the first Indian record of a star cluster as such (Praesepe, M44). The catalogue's agnimāna 'fire-like' magnitude grade covers nebulous objects generally; this entry is its clearest case. Shloka null: no e-text exists and the edition PDF's Devanagari is not machine-extractable (no ToUnicode maps); the verse is readable in the published PDF."
+        },
+        {
           "text": "Pāṇini & Patañjali",
           "citation": "Aṣṭādhyāyī 3.1.116; Patañjali, Mahābhāṣya on 2.3.45 (Kielhorn i.460.2)",
           "text_date": "c. 500–350 BCE (sūtra); c. 150 BCE (Mahābhāṣya)",
@@ -3433,6 +3447,20 @@
           "translator": "Literal rendering by the compiler",
           "translation_source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt",
           "source_notes": "ONE star, tilaka-shaped, deity Pūṣa, gotra Aṣṭabhaginīya ('of the eight sisters'). The single-star count matches the siddhāntic use of Revatī's yogatārā as the zero-point of the sphere; Pūṣan lordship agrees with the Vedic lists."
+        },
+        {
+          "text": "Sarvasiddhāntarāja (1639)",
+          "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 55 (ed. Pai & Shylaja 2021)",
+          "text_date": "1639 CE",
+          "name_status": "deity-title",
+          "shloka_devanagari": "",
+          "shloka_script": "devanagari",
+          "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+          "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+          "translation_en": "…the asterism Pauṣṇa, [its coordinates given] to finer parts by the twofold measure — these five [close the list].",
+          "translator": "Literal rendering by the compiler",
+          "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+          "source_notes": "The catalogue's closing entry names Revatī's star by its presiding deity — Pauṣṇa, 'of Pūṣan' — the same deity-title convention the Śārdūlakarṇāvadāna's lists use (cf. this database's Pauṣṇa/Tvāṣṭra aliases). Coordinates agree with ζ Psc, with ε Psc also compatible (Pai & Shylaja 2021). Shloka null: see source caveats."
         },
         {
           "text": "Pāṇini & Patañjali",
@@ -5761,6 +5789,20 @@
           "translator": "Paraphrase by the compiler",
           "translation_source_url": "https://archive.org/download/Brahmasphutasiddhanta/Brahmasphutasiddhanta_djvu.txt",
           "source_notes": "Lubdhaka and Mṛgavyādha are strictly synonymous in Brahmagupta's tradition: the heading of the verse in this edition reads 'idānīṃ lubdhakasya dhruvaśarāṃśān āha' — 'now he states the polar longitude and latitude degrees OF LUBDHAKA' — introducing the verse whose subject-word is mṛgavyādhaḥ. Pṛthūdaka's gloss on the chapter-scope verse likewise lists 'the risings and settings of the asterisms, of a planet, of Lubdhaka, and of the sage Agastya'. Śrīpati's Siddhāntaśekhara also uses Lubdhaka. This is the astronomical attestation the Amarakośa conspicuously lacks."
+        },
+        {
+          "text": "Sarvasiddhāntarāja (1639)",
+          "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 16 (ed. Pai & Shylaja 2021)",
+          "text_date": "1639 CE",
+          "name_status": "new-attestation-of-existing",
+          "shloka_devanagari": "",
+          "shloka_script": "devanagari",
+          "shloka_note": "No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.",
+          "shloka_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+          "translation_en": "Along the south, with the first order of brightness, the star Lubdhaka shines at twenty-three degrees [of dhruvaka]. Some also call it Mṛgavyādha.",
+          "translator": "Literal rendering by the compiler",
+          "translation_source_url": "https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf",
+          "source_notes": "The catalogue lists Lubdhaka with first-magnitude brightness in the south and adds the gloss kecin mṛgavyādham api bruvanti — 'some also say Mṛgavyādha' — carrying both classical names of Sirius in one 17th-century entry. Coordinates reduce to α CMa (Pai & Shylaja 2021, Table 1). Shloka null: see source caveats."
         },
         {
           "text": "Vaṭeśvara & Sāmanta",
@@ -9569,6 +9611,12 @@
       "AL-BĪRŪNĪ'S NAKSHATRA COORDINATE TABLE WAS NOT FULLY TRANSCRIBED. Its OCR is heavily damaged; only the identification column was extracted reliably, plus two coordinate rows (Abhijit 265°/62°N — note this differs from the Sūrya Siddhānta value; Śatabhiṣaj 10s 20°). Recovering the full numeric column requires the page images and would be worth doing, since Burgess says the Khaṇḍakhādyaka latitudes 'often vary considerably' from both the Sūrya Siddhānta and the Siddhānta Śiromaṇi, and al-Bīrūnī is our only witness for them.",
       "TWO AL-BĪRŪNĪ OBJECTS ARE NOTED BUT GIVEN NO ENTRY, because he supplies no Sanskrit name. (1) A 'fever-star' seen from Langabalus, 'composed of the tail of the Small Bear and his back, and of some small stars situated there; it is called the axe of the mill' — and, crucially, 'BRAHMAGUPTA MENTIONS IT IN CONNECTION WITH THE FISH', i.e. Brahmagupta treated this Ursa Minor group as part of the Śiśumāra, a datum about the figure's extent worth chasing in the BSS Golādhyāya. (2) The Pauliśa Siddhānta's rule for Agastya's heliacal setting, with the observational note that 'They observe it first when the sun enters the station Hasta, and they lose it out of sight when he enters the station Rohiṇī.'",
       "NAME-COLLISION WARNING. Brahmagupta's yogatārā table uses deity-epithets that collide with existing entries for entirely different stars: Prājeśa/Prajāpati means ROHIṆĪ (α Tauri), whereas the Prajāpati on file is δ Aurigae; and Āgneya means KṚTTIKĀ (η Tauri), whereas the Agni/Hutabhuj on file is β Tauri. Sūrya Siddhānta 9.13–15 uses the same style of epithet (maitra, sārpa, raudrarkṣa, tiṣya, saumya, aśvinidaivata, vaiṣṇava, vāsava, ahirbudhnya). These are recorded as alternative names of the nakshatras, deliberately NOT merged with the same-named fixed stars."
+    ],
+    "Sarvasiddhāntarāja (1639)": [
+      "No e-text of the Sarvasiddhāntarāja exists (GRETIL/SARIT/Wikisource verified negative, 2026-08-18). The only witness for the star catalogue is Pai & Shylaja's edition (JApA 42:113, 2021, open access) of a single manuscript, BORI 206 of A 1883-84; verse numbers follow it.",
+      "shloka_devanagari is null throughout: the edition PDF's Devanagari carries no ToUnicode maps (legacy Type1C fonts), so the mūla cannot be extracted mechanically; the verses are readable in the published PDF at the URL. Pending an OCR proofread — nothing here is retyped.",
+      "Translations are literal renderings by the compiler after the edition's; the edition's own English is in copyright and not reproduced.",
+      "This first tranche carries only references to stars already in the database. The catalogue's genuinely new names — Nāḍyantaka, Matsyodara, Mānuṣaśīrṣa, Skanda, Dhruvākṣa, the Trivikrama figure — need entries of their own with positions and app keys, and follow separately."
     ],
     "Utpala's commentary": [
       "NO CRITICAL EDITION WAS CONSULTED, AND NO MANUSCRIPT. Every Devanagari string here is transcribed from archive.org OCR of a printed edition. To guard against OCR fiction, every passage quoted was checked word-for-word against at least two, usually three, independent scans of different printed editions; the URLs of all three are given in every shloka_note. Where the scans genuinely differ the divergence is stated in identification_notes and NOT silently resolved.",

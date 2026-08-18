@@ -21,7 +21,7 @@ Authentic references to star names in Sanskrit texts: the original shloka (copie
 | [मृगशीर्ष](#मृगशीर्ष-mṛgaśīrṣa--meissa) | Mṛgaśīrṣa | Meissa | λ Orionis | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
 | [आर्द्रा](#आर्द्रा-ārdrā--betelgeuse) | Ārdrā | Betelgeuse | α Orionis | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
 | [पुनर्वसु](#पुनर्वसु-punarvasu--pollux) | Punarvasu | Pollux | β Geminorum | certain | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
-| [पुष्य](#पुष्य-puṣya--asellus-australis) | Puṣya | Asellus Australis | δ Cancri | likely | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
+| [पुष्य](#पुष्य-puṣya--asellus-australis) | Puṣya | Asellus Australis | δ Cancri | likely | Chinese Buddhist witnesses; Classical kāvya; Lexicons, Nirukta & Buddhist; Mahābhārata & Rāmāyaṇa; Pāṇini & Patañjali; Sarvasiddhāntarāja (1639); Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
 | [आश्लेषा](#आश्लेषा-āśleṣā--ashlesha) | Āśleṣā | Ashlesha | ε Hydrae | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [मघा](#मघा-maghā--regulus) | Maghā | Regulus | α Leonis | certain | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [पूर्वफल्गुनी](#पूर्वफल्गुनी-pūrva-phalgunī--zosma) | Pūrva-Phalgunī | Zosma | δ Leonis | likely | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
@@ -41,7 +41,7 @@ Authentic references to star names in Sanskrit texts: the original shloka (copie
 | [शतभिषज्](#शतभिषज्-śatabhiṣaj--hydor) | Śatabhiṣaj | Hydor | λ Aquarii | disputed | Chinese Buddhist witnesses; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [पूर्वभाद्रपदा](#पूर्वभाद्रपदा-pūrva-bhādrapadā--markab) | Pūrva-Bhādrapadā | Markab | α Pegasi | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [उत्तरभाद्रपदा](#उत्तरभाद्रपदा-uttara-bhādrapadā--algenib--alpheratz) | Uttara-Bhādrapadā | Algenib / Alpheratz | γ Pegasi / α Andromedae | disputed | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
-| [रेवती](#रेवती-revatī--revati) | Revatī | Revati | ζ Piscium | likely | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Siddhānta Śiromaṇi; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
+| [रेवती](#रेवती-revatī--revati) | Revatī | Revati | ζ Piscium | likely | Chinese Buddhist witnesses; Lexicons, Nirukta & Buddhist; Pāṇini & Patañjali; Sarvasiddhāntarāja (1639); Siddhānta Śiromaṇi; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [अघा](#अघा-aghā--regulus) | Aghā | Regulus | α Leonis | likely | Ṛgveda & Vedāṅga Jyotiṣa |
 | [अर्जुन्यौ](#अर्जुन्यौ-arjunyau-arjunī--the-two-phalgunīs--zosmachertan-group-and-denebola) | Arjunyau (Arjunī) | the two Phalgunīs — Zosma/Chertan group and Denebola | δ & θ Leonis; β Leonis | likely | Ṛgveda & Vedāṅga Jyotiṣa |
 | [निष्ट्यम् / निस्त्या](#निष्ट्यम्--निस्त्या-niṣṭya--nistyā--arcturus) | Niṣṭya / Nistyā | Arcturus | α Boötis | likely | Ṛgveda & Vedāṅga Jyotiṣa |
@@ -97,7 +97,7 @@ Authentic references to star names in Sanskrit texts: the original shloka (copie
 | [वित्त](#वित्त-vitta--dhaniṣṭhā-β-delphini) | Vitta | Dhaniṣṭhā (β Delphini) | β Delphini | certain | Vaṭeśvara & Sāmanta |
 | [अगस्त्य](#अगस्त्य-agastya--canopus) | Agastya | Canopus | α Carinae | disputed | Bṛhat Saṃhitā; Classical kāvya; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Purāṇas; Pāṇini & Patañjali; Siddhānta Śiromaṇi; Sūrya Siddhānta; Utpala's commentary; Vaṭeśvara & Sāmanta; Āryabhaṭīya commentaries |
 | [मृगव्याध](#मृगव्याध-mṛgavyādha--sirius) | Mṛgavyādha | Sirius | α Canis Majoris | disputed | Later siddhāntas & al-Bīrūnī; Sūrya Siddhānta; Vaṭeśvara & Sāmanta; Vedic corpus |
-| [लुब्धक](#लुब्धक-lubdhaka--sirius) | Lubdhaka | Sirius | α Canis Majoris | disputed | Bṛhat Saṃhitā; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Siddhānta Śiromaṇi; Vaṭeśvara & Sāmanta |
+| [लुब्धक](#लुब्धक-lubdhaka--sirius) | Lubdhaka | Sirius | α Canis Majoris | disputed | Bṛhat Saṃhitā; Later siddhāntas & al-Bīrūnī; Lexicons, Nirukta & Buddhist; Sarvasiddhāntarāja (1639); Siddhānta Śiromaṇi; Vaṭeśvara & Sāmanta |
 | [अग्नि](#अग्नि-हुतभुज्-agni-hutabhuj--elnath) | Agni (Hutabhuj) | Elnath | β Tauri | certain | Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [ब्रह्महृदय](#ब्रह्महृदय-brahmahṛdaya--capella) | Brahmahṛdaya | Capella | α Aurigae | certain | Later siddhāntas & al-Bīrūnī; Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
 | [प्रजापति](#प्रजापति-prajāpati--prijipati) | Prajāpati | Prijipati | δ Aurigae | disputed | Sūrya Siddhānta; Vaṭeśvara & Sāmanta |
@@ -928,6 +928,15 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 > <br>— Literal rendering by the compiler ([source](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_zArdUlakarNAvadAna.txt))
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** THREE stars, vardhamāna-shaped (an auspicious 'growing' diagram), deity Bṛhaspati, gotra Aupamanyavīya. Three stars = δ, γ, θ Cancri; matches Colebrooke's 'Stars in Cancer' for the Amarakośa's Puṣya/Sidhya/Tiṣya trio.</sub>
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 18 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *[Puṣya] is situated always along the north and shines like a cloud-cluster (megha-pratima).*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** Nityānanda's catalogue describes Puṣya's junction object as megha-pratimo vibhāti, 'shines like a cloud' — which Pai & Shylaja read as the first Indian record of a star cluster as such (Praesepe, M44). The catalogue's agnimāna 'fire-like' magnitude grade covers nebulous objects generally; this entry is its clearest case. Shloka null: no e-text exists and the edition PDF's Devanagari is not machine-extractable (no ToUnicode maps); the verse is readable in the published PDF.</sub>
 
 **Aṣṭādhyāyī 3.1.116; Patañjali, Mahābhāṣya on 2.3.45 (Kielhorn i.460.2)** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी/तृतीयः_अध्यायः)
 
@@ -2466,6 +2475,15 @@ Sūrya Siddhānta ch. 8 defines each nakshatra's junction star by polar coordina
 
 <sub>**Identification notes (Lexicons, Nirukta & Buddhist):** ONE star, tilaka-shaped, deity Pūṣa, gotra Aṣṭabhaginīya ('of the eight sisters'). The single-star count matches the siddhāntic use of Revatī's yogatārā as the zero-point of the sphere; Pūṣan lordship agrees with the Vedic lists.</sub>
 
+**Sarvasiddhāntarāja, saṃkrāntyādi 55 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *…the asterism Pauṣṇa, [its coordinates given] to finer parts by the twofold measure — these five [close the list].*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The catalogue's closing entry names Revatī's star by its presiding deity — Pauṣṇa, 'of Pūṣan' — the same deity-title convention the Śārdūlakarṇāvadāna's lists use (cf. this database's Pauṣṇa/Tvāṣṭra aliases). Coordinates agree with ζ Psc, with ε Psc also compatible (Pai & Shylaja 2021). Shloka null: see source caveats.</sub>
+
 **Aṣṭādhyāyī 4.1.146 and 4.4.122; gaṇapāṭha, gaurādi gaṇa on 4.1.41** — [Sanskrit e-text](https://sa.wikisource.org/wiki/अष्टाध्यायी-गणपाठः)
 
 > ४.१.१४६ रेवती आदिभ्यः ठक् । … गौरादिः: … सौधर्म। रोहिणीनक्षत्रे। रेवतीनक्षत्रे। विकल। निष्फल। पुष्कल। … इतिगौरादिः।
@@ -2750,6 +2768,15 @@ Stars outside the nakshatra series that the texts name in their own right.
 > <br>— Paraphrase by the compiler ([source](https://archive.org/download/Brahmasphutasiddhanta/Brahmasphutasiddhanta_djvu.txt))
 
 <sub>**Identification notes (Later siddhāntas & al-Bīrūnī):** Lubdhaka and Mṛgavyādha are strictly synonymous in Brahmagupta's tradition: the heading of the verse in this edition reads 'idānīṃ lubdhakasya dhruvaśarāṃśān āha' — 'now he states the polar longitude and latitude degrees OF LUBDHAKA' — introducing the verse whose subject-word is mṛgavyādhaḥ. Pṛthūdaka's gloss on the chapter-scope verse likewise lists 'the risings and settings of the asterisms, of a planet, of Lubdhaka, and of the sage Agastya'. Śrīpati's Siddhāntaśekhara also uses Lubdhaka. This is the astronomical attestation the Amarakośa conspicuously lacks.</sub>
+
+**Sarvasiddhāntarāja, saṃkrāntyādi 16 (ed. Pai & Shylaja 2021)** — [Sanskrit e-text](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf)
+
+> *No published e-text exists; the verse is readable in Pai & Shylaja's edition (JApA 42:113, 2021, open access), whose PDF is not machine-extractable (no ToUnicode maps). Pending an OCR proofread — never retyped.*
+>
+> — *Along the south, with the first order of brightness, the star Lubdhaka shines at twenty-three degrees [of dhruvaka]. Some also call it Mṛgavyādha.*
+> <br>— Literal rendering by the compiler ([source](https://www.ias.ac.in/public/Volumes/joaa/042/00/0113.pdf))
+
+<sub>**Identification notes (Sarvasiddhāntarāja (1639)):** The catalogue lists Lubdhaka with first-magnitude brightness in the south and adds the gloss kecin mṛgavyādham api bruvanti — 'some also say Mṛgavyādha' — carrying both classical names of Sirius in one 17th-century entry. Coordinates reduce to α CMa (Pai & Shylaja 2021, Table 1). Shloka null: see source caveats.</sub>
 
 **Siddhānta Darpaṇa of Candraśekhara Sāmanta, Grahagaṇita, Tripraśnādhikāra, 12th prakāśa (Bhagrahayogavarṇana) 25–26** — [Sanskrit e-text](https://archive.org/download/in.ernet.dli.2015.292705/2015.292705.A-Treatise_djvu.txt)
 
@@ -6299,6 +6326,13 @@ These are the working caveats recorded during compilation — read them before t
 - AL-BĪRŪNĪ'S NAKSHATRA COORDINATE TABLE WAS NOT FULLY TRANSCRIBED. Its OCR is heavily damaged; only the identification column was extracted reliably, plus two coordinate rows (Abhijit 265°/62°N — note this differs from the Sūrya Siddhānta value; Śatabhiṣaj 10s 20°). Recovering the full numeric column requires the page images and would be worth doing, since Burgess says the Khaṇḍakhādyaka latitudes 'often vary considerably' from both the Sūrya Siddhānta and the Siddhānta Śiromaṇi, and al-Bīrūnī is our only witness for them.
 - TWO AL-BĪRŪNĪ OBJECTS ARE NOTED BUT GIVEN NO ENTRY, because he supplies no Sanskrit name. (1) A 'fever-star' seen from Langabalus, 'composed of the tail of the Small Bear and his back, and of some small stars situated there; it is called the axe of the mill' — and, crucially, 'BRAHMAGUPTA MENTIONS IT IN CONNECTION WITH THE FISH', i.e. Brahmagupta treated this Ursa Minor group as part of the Śiśumāra, a datum about the figure's extent worth chasing in the BSS Golādhyāya. (2) The Pauliśa Siddhānta's rule for Agastya's heliacal setting, with the observational note that 'They observe it first when the sun enters the station Hasta, and they lose it out of sight when he enters the station Rohiṇī.'
 - NAME-COLLISION WARNING. Brahmagupta's yogatārā table uses deity-epithets that collide with existing entries for entirely different stars: Prājeśa/Prajāpati means ROHIṆĪ (α Tauri), whereas the Prajāpati on file is δ Aurigae; and Āgneya means KṚTTIKĀ (η Tauri), whereas the Agni/Hutabhuj on file is β Tauri. Sūrya Siddhānta 9.13–15 uses the same style of epithet (maitra, sārpa, raudrarkṣa, tiṣya, saumya, aśvinidaivata, vaiṣṇava, vāsava, ahirbudhnya). These are recorded as alternative names of the nakshatras, deliberately NOT merged with the same-named fixed stars.
+
+### Sarvasiddhāntarāja (1639)
+
+- No e-text of the Sarvasiddhāntarāja exists (GRETIL/SARIT/Wikisource verified negative, 2026-08-18). The only witness for the star catalogue is Pai & Shylaja's edition (JApA 42:113, 2021, open access) of a single manuscript, BORI 206 of A 1883-84; verse numbers follow it.
+- shloka_devanagari is null throughout: the edition PDF's Devanagari carries no ToUnicode maps (legacy Type1C fonts), so the mūla cannot be extracted mechanically; the verses are readable in the published PDF at the URL. Pending an OCR proofread — nothing here is retyped.
+- Translations are literal renderings by the compiler after the edition's; the edition's own English is in copyright and not reproduced.
+- This first tranche carries only references to stars already in the database. The catalogue's genuinely new names — Nāḍyantaka, Matsyodara, Mānuṣaśīrṣa, Skanda, Dhruvākṣa, the Trivikrama figure — need entries of their own with positions and app keys, and follow separately.
 
 ### Utpala's commentary
 

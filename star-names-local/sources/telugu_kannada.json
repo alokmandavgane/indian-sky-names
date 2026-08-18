@@ -2592,6 +2592,33 @@
    "source_access": "public-domain",
    "confidence": "certain",
    "notes": "Included for the parenthesis: the Kannada nighaṇṭu Śabdamaṇidarpaṇa glosses the Sanskrit collective bhagaṇa simply with ಮೀನ್, 'fish/star'. Brown has the same word in Telugu, భగణము (p. 922), 'An assemblage of stars'. HOMONYM: also a metrical foot in both languages."
+  },
+  {
+   "sky_object": "Rohiṇī (4th lunar mansion) / Aldebaran",
+   "sanskrit_db_id": "rohini",
+   "modern_star": {
+    "common_name": "Aldebaran",
+    "bayer": "α Tauri",
+    "constellation": "Taurus"
+   },
+   "language": "Kannada",
+   "iso639_3": "kan",
+   "region": "Karnataka (epigraphic: Mysuru, Maṇḍya, Tumakūru, Chāmarājanagara districts)",
+   "name_native": "ರೋಹಿಣಿ",
+   "name_roman": "Rōhiṇi",
+   "literal_meaning": null,
+   "register": "borrowed",
+   "borrowed_from": "sanskrit",
+   "usage_note": "Attested in dated Kannada stone inscriptions across six and a half centuries — the earliest of 1032 CE (Moon with Aldebaran, Nanjangūḍu), the last of 1679 CE — recording the Moon, Saturn or an occultation at the star as the timing detail of a grant. Epigraphy, not lexicography: the star's name as village record-keepers actually wrote it, with a date astronomy can verify.",
+   "quote": "ಕಾರ್ತಿಕಬ ೨ ರೋಹಿಣಿ",
+   "quote_lang": "kn",
+   "citation": "Epigraphia Carnatica III (Mysore), Nanjangūḍu nos. 164 & 165 (23 Oct 1032 CE), and six further records to 1679 CE, as compiled and verified in B. S. Shylaja & Geetha Kydala Ganesha, 'Conjunction of planets – historical records of India', Current Science 120(8) (2021), 1399–1400, Table 1",
+   "source_type": "epigraphy",
+   "source_date": "1032–1679 CE (inscriptions); compilation 2021",
+   "source_access": "public-domain",
+   "source_url": "https://www.currentscience.ac.in/Volumes/120/08/1399.pdf",
+   "confidence": "high",
+   "notes": "First epigraphic attestation in this database. The name is the Sanskrit nakṣatra name in Kannada script and phonology — Shylaja & Ganesha's compilations find no separate Kannada lexical tradition in the inscriptions, which is itself a finding this record should carry. The quoted phrase is EC-III Nanjangūḍu 164's dating formula as printed in their Table 1 ('Kārtika ba 2, Rohiṇi')."
   }
  ],
  "caveats": [

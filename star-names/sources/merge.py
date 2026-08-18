@@ -36,6 +36,7 @@ SOURCES = {
     "puranas": "Purāṇas",
     "lexicons_buddhist": "Lexicons, Nirukta & Buddhist",
     "later_siddhantas": "Later siddhāntas & al-Bīrūnī",
+    "sarvasiddhantaraja": "Sarvasiddhāntarāja (1639)",
     "utpala": "Utpala's commentary",
     "panini": "Pāṇini & Patañjali",
     "vatesvara_samanta": "Vaṭeśvara & Sāmanta",
@@ -123,7 +124,7 @@ CANON = {
 
 # Sources whose entries carry an explicit "db_id" (newer research files); the
 # older four are mapped through CANON above.
-DB_ID_SOURCES = {"vedic_expansion", "puranas", "lexicons_buddhist", "later_siddhantas",
+DB_ID_SOURCES = {"vedic_expansion", "puranas", "lexicons_buddhist", "later_siddhantas", "sarvasiddhantaraja",
                  "utpala", "panini", "vatesvara_samanta", "kerala", "xiuyao",
                  "epics", "kavya"}
 

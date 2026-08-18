@@ -71,7 +71,11 @@ def star_field(mag_limit=4.0):
     so that this reads as a sky chart and not as a scatter plot.
     """
     import csv
-    path = os.path.join(OUT, "..", "constellation-lines", "sources", "hipparcos-mag7.csv")
+    # The Hipparcos extract lives in this repo (shared-data/) since the split from the app
+    # repo; the old app-repo layout is kept as a fallback for a checkout mounted beside it.
+    path = os.path.join(OUT, "..", "shared-data", "hipparcos-mag7.csv")
+    if not os.path.exists(path):
+        path = os.path.join(OUT, "..", "..", "constellation-lines", "sources", "hipparcos-mag7.csv")
     out = []
     with open(path, encoding="utf-8") as f:
         for row in csv.DictReader(f):
