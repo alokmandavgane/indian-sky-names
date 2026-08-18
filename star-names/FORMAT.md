@@ -56,6 +56,7 @@ three references.
 | `modern_star` | `{common_name, bayer, constellation}` |
 | `identification_confidence` | `certain` · `likely` · `disputed` · `unidentified` — the merged entry takes the **least** confident value across its sources |
 | `identification_notes` | reasoning, conflicts, homonym warnings. Becomes `source_notes` in the merged file. |
+| `content_note` | optional, rare: why this reference's prose should be chosen rather than landed on (frank sexual/marital content). Presence is the flag the app reads — it keeps the card shut by default, never hidden. The text stays here so the judgment sits next to the passage it judges. |
 | `citation` | work + chapter.verse |
 | `text_date` | date of the text, not the manuscript |
 | `shloka_devanagari` | **verbatim from a fetched e-text.** `null` if unobtainable — never reconstructed |

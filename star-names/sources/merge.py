@@ -345,6 +345,11 @@ def main():
                 "translation_source_url": e["translation_source_url"],
                 "source_notes": e["identification_notes"],
             }
+            # Editorial exception, not a schema column: prose a reader should choose rather
+            # than land on. Carried only where set — one reference in 448 — so the merged
+            # file says it is exceptional by containing it exactly where it applies.
+            if e.get("content_note"):
+                ref["content_note"] = e["content_note"]
             if cid not in stars:
                 stars[cid] = {
                     "id": cid,
