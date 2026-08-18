@@ -89,6 +89,12 @@ def main():
                 f"on {e.get('name_roman')!r}")
             assert bf is None or bf in TRADITIONS, (
                 f"{name}: unknown tradition {bf!r} on {e.get('name_roman')!r}")
+            # `confidence` is a closed vocabulary too, and every consumer ranks or
+            # filters on it: a value outside it (the Jyotirvinodini import's "high",
+            # 2026-08-18) silently sorted below `likely` in one reader and past a
+            # filter in another. Asserted so a synonym can never grade anything again.
+            conf = e.get("confidence")
+            assert conf in CONF_RANK, f"{name}: bad confidence {conf!r} on {e.get('name_roman')!r}"
             e = dict(e, _source_group=src["source_group"])
             groups[canon(e, sk_titles)].append(e)
 

@@ -1816,7 +1816,7 @@ Sanskrit Ākāśagaṅgā in Tamil phonology; the whole Ganges-in-the-sky family
 | Telugu | చిత్రశిఖండి | *citra-śikhaṇḍi* | the bright-crested ones | borrowed |
 | Telugu | సప్తర్షులు | *saptarṣulu* | the seven sages | borrowed |
 
-**ಡೇವಿಡನ ರಥ · Dēviḍana ratha** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಡೇವಿಡನ ರಥ · Dēviḍana ratha** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
@@ -1825,7 +1825,7 @@ The book's Kannada rendering of the Western name, presented as such — the rend
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
-**ದೊಡ್ಡ ಕರಡಿ · doḍḍa karaḍi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ದೊಡ್ಡ ಕರಡಿ · doḍḍa karaḍi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
@@ -1990,7 +1990,7 @@ jhumkā is the pendant cluster of an ear-ring; applied to the sky it names both 
 
 <sub>Independently confirmed for Urdu from the Panjab: L. Whyte King's list gives 'Urdu; jhamakkā, a cluster' for the Great and Lesser Bear, with the editor R. C. Temple adding '[This last is more commonly sāt sahelion ké jhamkā, the cluster of seven maidens.]' - Panjab Notes and Queries, vol. II (Feb. 1885), note 521, p. 84. Platts, p. 407, lists the same word for 'Charles's Wain, Ursa Major; the Pleiades'. GRADED REJECTED (2026-08-18): the citation is verbatim and the Bear sense is genuinely in Fallon, Platts, and Temple's aside — but the compiler judges the identification the dictionaries transmit to be wrong, not merely contested. Every part of the word's own semantics — a cluster, a bunch, the pendant cluster of an ear-drop — describes the Pleiades, where Platts also files it and where the whole ornament vocabulary (guchchā tārā, kirhkaṭī's nose-jewel, Lambadi's Shirser Jhumko) points; 'seven' is the one thread tying it to the Bear, and sāt is what the Kṛttikās are called too (the seven sisters). The Bear reading is taken for a lexicographers' fixation, not a speakers' usage, and is not presented. The record keeps the entry for the argument's sake; a source showing a speaker pointing at the Bear and saying jhumkā would reopen it.</sub>
 
-**ನೇಗಿಲು · nēgilu** — Kannada (Karnataka (Mysore)) · *folk* · confidence: high
+**ನೇಗಿಲು · nēgilu** — Kannada (Karnataka (Mysore)) · *folk* · confidence: certain
 
 'Some commonly call it the plough' — the book reporting Kannada usage, not coining it.
 
@@ -2448,7 +2448,7 @@ The inherited Sanskrit name, retained unchanged; Platts and Fallon both file it 
 
 <sub>Recorded to mark the borrowed layer explicitly; the analytic interest is in the folk names that compete with it.</sub>
 
-**ಅರುಂಧತಿ · Arundhati** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ಅರುಂಧತಿ · Arundhati** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 Named at Mizar's side, with the marriage custom: 'this little star is Arundhati — the one Indians show at weddings'.
 
@@ -2457,7 +2457,7 @@ Named at Mizar's side, with the marriage custom: 'this little star is Arundhati 
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
-**ವಸಿಷ್ಠ · Vasiṣṭha** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ವಸಿಷ್ಠ · Vasiṣṭha** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 Listed with the seven sages by name.
 
@@ -4958,7 +4958,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
-**ಚಿಕ್ಕ ಕರಡಿ · cikka karaḍi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಚಿಕ್ಕ ಕರಡಿ · cikka karaḍi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
@@ -4967,7 +4967,7 @@ The book's Kannada rendering of the Western name, presented as such — the rend
 
 <sub> Form verified against the archive.org OCR of the book (2026-08-18); the appendix indexes every name alphabetically. Quote is a verbatim byte-slice of the archive.org OCR (imperfect OCR quoted as scanned; the page images are the authority).</sub>
 
-**ಲಘು ಸಪ್ತರ್ಷಿ · laghu saptarṣi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಲಘು ಸಪ್ತರ್ಷಿ · laghu saptarṣi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The tradition's Saptarṣi extended with laghu- for the Little Bear — a modern formation on Sanskrit material.
 
@@ -5151,7 +5151,7 @@ Fallon's headword form dhurū is the vernacular reduction of Sanskrit dhruva, an
 
 <sub>The forty-night vow: Chaina Mall, 'Pole Star - Dhru', Panjab Notes and Queries, vol. II, note 735. Platts, p. 543, gives the tatsama dhruv / dhruv-tārā. The Dhruva legend as told in the North-Western Provinces is summarised by Crooke, The Popular Religion and Folk-lore of Northern India (1896), I. 24-25.</sub>
 
-**ಧ್ರುವ · Dhruva** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ಧ್ರುವ · Dhruva** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 > ಆ ವರೆಗೆ ಸ ಸರಳರೇಖೆಯನ್ನೆಳೆದು ಅದನ್ನು  ಹಾಗೆಯೇ ಮುಂದಕ್ಕೆ ಸಾಗಿಸಿದರೆ ಅದು ಧ್ರುವವನ್ನು ಮುಟ್ಟುವುದು.  ಈ ಧ್ರುವದ ಸುತ್ತಲೂ ೨೪ ಗಂಟಿಗಳಲ್ಲೊಂದಾವೃತ್ತಿ ಈ ತಾರಾ
 > <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
@@ -5794,7 +5794,7 @@ Feared above all after childbirth; its evil influence is keirtpudrtviti, and the
 | Odia | ଇଲ୍ୱଳା | *Ilwaḻā* | Ilvala, the asura brother of Vātāpi killed by Agastya | borrowed |
 | Odia | ଉଷା, ଅନିରୁଦ୍ଧ, ଚିତ୍ରଲେଖା | *Uṣā, Aniruddha, Citralekhā* | Uṣā daughter of king Bāṇa, her husband Aniruddha, and her companion Citralekhā | borrowed |
 
-**ಮೂವರು ಅರಸರು · mūvaru arasaru** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಮೂವರು ಅರಸರು · mūvaru arasaru** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
@@ -7321,7 +7321,7 @@ Maniku glosses it 'sun, daystar' and gives the archaic form އިރަ ira at its 
 | Sindhi | لَڀْڌَڪُ | *labhdhaku* | — | borrowed |
 | Sinhala | සාරමේය·තාරකාව | *sāramēya·tārakāva* | 'the dog star' (Sanskrit sārameya 'canine, son of Saramā') | borrowed |
 
-**ಅಗ್ನಿ ನಕ್ಷತ್ರ · Agni-nakṣatra** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಅಗ್ನಿ ನಕ್ಷತ್ರ · Agni-nakṣatra** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 Applied to Sirius for its sparkle — distinct from the Sūrya-siddhānta tradition's Agni (β Tauri); the appendix glosses it 'The Sparkling One'.
 
@@ -7407,7 +7407,7 @@ The Sanskrit star-name surviving unaltered in the modern Bengali lexicon, with i
 > লুব্ধক n. a hunter; a fowler; a lecher; (astr.) the Sirius, the Dogstar.
 > <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. লুব্ধ lubdha, sub-entry লুব্ধক, p. 930 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%B2%E0%A7%81%E0%A6%AC%E0%A7%8D%E0%A6%A7&searchhws=yes&matchtype=exact))
 
-**ವ್ಯಾಧ · Vyādha** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ವ್ಯಾಧ · Vyādha** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 The classical hunter-name of Sirius carried into modern Kannada.
 
@@ -7714,7 +7714,7 @@ The entry carries into modern Bengali the Agastya-yātrā observance keyed to th
 > অগস্ত্য agastya n. a mythological sage of India; (astrol.) the Canopus. ~যাত্রা n. the first day of the month of Bhadra (ভাদ্র) when the sage Agastya asked the bending Vindhyas to wait till he came back and he never came back (this day has since been regarded by the Hindus as extremely inauspicious to set out on a journey…)
 > <br>— Sailendra Biswas, Samsad Bengali-English Dictionary, 3rd ed., Calcutta: Sahitya Samsad, 2000 (DSAL digital ed.), s.v. অগস্ত্য agastya, p. 6 ([source](https://dsal.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?qs=%E0%A6%85%E0%A6%97%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AF&searchhws=yes&matchtype=exact))
 
-**ಅಗಸ್ತ್ಯ · Agastya** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ಅಗಸ್ತ್ಯ · Agastya** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 The tradition's Agastya, in Kannada scientific prose.
 
@@ -7889,7 +7889,7 @@ The second element is the general word for 'star'.
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
 
-**ರೋಹಿಣಿ · Rōhiṇi** — Kannada (Karnataka (epigraphic: Mysuru, Maṇḍya, Tumakūru, Chāmarājanagara districts)) · *borrowed* · confidence: high
+**ರೋಹಿಣಿ · Rōhiṇi** — Kannada (Karnataka (epigraphic: Mysuru, Maṇḍya, Tumakūru, Chāmarājanagara districts)) · *borrowed* · confidence: certain
 
 Attested in dated Kannada stone inscriptions across six and a half centuries — the earliest of 1032 CE (Moon with Aldebaran, Nanjangūḍu), the last of 1679 CE — recording the Moon, Saturn or an occultation at the star as the timing detail of a grant. Epigraphy, not lexicography: the star's name as village record-keepers actually wrote it, with a date astronomy can verify.
 
@@ -8183,7 +8183,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. TRAP: प्रजापति also names the planet Uranus in 19th-c. Marathi (Modak's coinage, so used by Dikshit) and a star near Orion's head; the Bhagol app displays सारथी (Dikshit 1893) and keeps प्रजापति in the record only.</sub>
 
-**ಸಾರಥಿ · Sārathi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಸಾರಥಿ · Sārathi** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
@@ -8275,7 +8275,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
-**ನರಾಶ್ವ · narāśva** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ನರಾಶ್ವ · narāśva** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary. Figure 13 in the book carries the name as its caption.
 
@@ -8442,7 +8442,7 @@ AGRICULTURAL/SEASONAL. The kārte of Svāti, thirteen days of the sun in October
 
 <sub>svāti-cippalu, 'the oysters that gape expecting drops of rain in Svāti', is the Telugu form of the pan-Indian belief that a raindrop falling in Svāti becomes a pearl. Registered folk because kārte and the oyster proverb belong to the popular almanac, not the śāstra.</sub>
 
-**ಸ್ವಾತೀ · Svātī** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ಸ್ವಾತೀ · Svātī** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 > ಮಾನವಾದ ("ಚಿತ್ಕಾ' (Spica) ನಕ ತುವು ಒಪ್ಪುತ್ತಿರುವುದು. ಇದು  ಮಖಾ, ಸ್ವಾತೀ ನಕ್ಸತ್ರಗಳೂಡನೆ ಕೂಡಿ ಒಂದು ತ್ರಿಭುಜವಾಗುತ್ತದೆ.  ಕನ್ನಾ ರಾಶಿಗೆ ಇದೇ ಗುರುತು.
 > <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
@@ -8569,7 +8569,7 @@ A girl and her lover who ran away together. The Western Rengmas say he is cuttin
 
 <sub>The eloping pair joins the Lushei Chongmawi and Hrangchhuana, who are also lovers and also two bright stars, and the Garo sisters and Angami Star-Girls, who are not. Mills letters his three Rengma languages: (A) the southern section of the Western Rengmas, (B) the northern section of the Western Rengmas, (C) the Eastern Rengmas. The letters are reproduced from his own key at p. xv.</sub>
 
-**ಪುನರ್ವಸು · Punarvasu** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ಪುನರ್ವಸು · Punarvasu** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 > ರಾಶಿಯೇ ಪ್ರಕಾಶದಲ್ಲಿ ಕಟ್ಟಿಕಡೆಯಾದುದು. ಇದು  ಮಿಥುನಕ್ಕೆ ೆಳಗಡೆಯಲ್ಲಿ, ಎಂದರೆ ಪುನರ್ವಸು, ಪುನರ್ವಸು ದ್ವಿತೀಯ  ಇವುಗಳ ಮಧ್ಯೇ ಎಳೆದ ರೇಖೆಯ ಅಧೋಭಾಗದಲ್ಲಿ ಸ್ಥಿತವಾಗಿ
 > <br>— N. Venkatesha Ayyangar (transl.), Jyotirvinodini (Bengaluru: Karnataka Sahitya Parishattu, 1931; Karnataka Vaijnanika Grantha Mala 1), Appendix III (alphabetical sky-index), pp. 301-306 ([source](https://archive.org/details/in.ernet.dli.2015.363462))
@@ -8603,7 +8603,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
-**ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ · dakṣiṇa svastika** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ದಕ್ಷಿಣ ಸ್ವಸ್ತಿಕ · dakṣiṇa svastika** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The Cross seen as a svastika — the book's own figure caption reads 'Svastika'.
 
@@ -8662,7 +8662,7 @@ The small stars around the Mahua tree Irukmara, gathered by the old lady and the
 
 <sub>In copyright: the finding is paraphrased and `quote` is null, the convention this database already uses for the Gondi entries in tribal.json. From the paper's Table 3, which sets the terms of three Nicobar localities side by side. tribal.json already has four Nicobarese words from Whitehead's Car-Nicobarese dictionary; these are a century later, from different islands, and none of them overlaps. </sub>
 
-**ತ್ರಿಶಂಕು · Triśaṅku** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ತ್ರಿಶಂಕು · Triśaṅku** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 'All these together make the Triśaṅku star-group.'
 
@@ -8821,7 +8821,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
-**ರಾಜಹಂಸ · rājahaṃsa** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ರಾಜಹಂಸ · rājahaṃsa** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
@@ -8906,7 +8906,7 @@ Part of a Santal figure in Lyra: two small stars are a pigeon's eggs and the bri
 
 <sub>potam is the imperial pigeon, Carpophaga sylvatica (Campbell s.v.), bele an egg. The bird-and-eggs motif recurs across the whole set with different stars attached: Mundari puts the dove at Aldebaran with two egg stars beside it, Gondi puts Purad and Mes east of Sirius. Santali is the only one that also supplies the thief.</sub>
 
-**ಅಭಿಜಿತ್ · Abhijit** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ಅಭಿಜಿತ್ · Abhijit** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 The classical 28th nakṣatra, standing for Vega in the book's northern-sky tours.
 
@@ -9317,7 +9317,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. The prose (p. ~72) spells बृहद् श्वान; the table वृहद् श्वान. Sibling of Kannada ಮಹಾ ಶ್ವಾನ (Jyotirvinodini 1931).</sub>
 
-**ಮಹಾ ಶ್ವಾನ · mahā śvāna** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಮಹಾ ಶ್ವಾನ · mahā śvāna** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
@@ -9538,7 +9538,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership.</sub>
 
-**ಜಟಾಯು · Jaṭāyu** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ಜಟಾಯು · Jaṭāyu** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The epic vulture set on the Eagle — the book's own coinage; later Kannada usage (Nakshatra Darshana, 1954) moved Garuḍa here instead.
 
@@ -9813,7 +9813,7 @@ The blacksmith's double bellows; Epsilon Aurigae is the sharp vertex of the isos
 
 <sub>Compare Kurukh, where the blacksmith's bellows (lohrā-capuā bīnkō) is the name of the Pleiades and not of a figure in Auriga. Same implement, same word, different stars — good evidence that the naming is independent rather than borrowed one way.</sub>
 
-**ಬ್ರಹ್ಮಹೃದಯ · Brahmahṛdaya** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: high
+**ಬ್ರಹ್ಮಹೃದಯ · Brahmahṛdaya** — Kannada (Karnataka (Mysore)) · *borrowed* · confidence: certain
 
 The Sūrya-siddhānta tradition's name, in Kannada.
 
@@ -9918,7 +9918,7 @@ The book's भारतीय नाम for the constellation in its complete 88
 
 <sub>Paraphrased, no quote: the book is in copyright (© Shanti Gunakar Muley, first ed. February 1993). Name read from the printed भारतीय नाम column of the Appendix 4 table on the scan's page images (leaves 172-173). The book grew from serials in Navbharat Times (1988-89) and Saptahik Hindustan (1991-92), so the names reached a national Hindi readership. Sibling of Kannada ವೃಕ (Jyotirvinodini 1931).</sub>
 
-**ವೃಕ · vṛka** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: high
+**ವೃಕ · vṛka** — Kannada (Karnataka (Mysore)) · *vernacular* · confidence: certain
 
 The book's Kannada rendering of the Western name, presented as such — the rendering itself entered Kannada astronomy vocabulary.
 
