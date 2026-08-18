@@ -1,9 +1,9 @@
 # The Devanagari names of the modern constellations
 
 *Research note, 2026-08-18. This documents the sources behind the Devanagari constellation
-names the Bhagol app adopted on this date. Converting this note into full per-name entries
-in `hindi_urdu_punjabi.json` (Hindi, Muley) and `marathi_gujarati.json` (Marathi,
-Jambhekar/Dikshit) is recorded as pending work — the citations below are entry-grade.*
+names the Bhagol app adopted on this date. The full per-name entries now exist:
+17 Marathi entries (Dikshit, quoted against the page images) in `marathi_gujarati.json`
+and 56 Hindi entries (Muley, paraphrased) in `hindi_urdu_punjabi.json`.*
 
 ## The chain of authority
 
@@ -89,11 +89,11 @@ Jambhekar/Dikshit) is recorded as pending work — the citations below are entry
 | Tucana | कारंडव / Karandav | AD 347 | |
 | Ursa Minor | लघु सप्तर्षि / Laghu Saptarshi | AD ~141, 347 | JV's ध्रुवमत्स्य (p. 20; also Maharashtra Sabdakosa, already in DB) the older name |
 | Vela | पाल / Pal | AD 347 | |
-| Volans | उड़न-मीन / Udan-Meen | AD 347 | |
 | Vulpecula | शृगाल / Shrigal | AD 347 | |
 | Ara, Octans, Antlia, Caelum | वेदी, अष्टक, वाताकर्ष, तक्षणी | AD 344–347 | |
-| hi-only (en keeps Latin) | जिराफ़, घड़ी, गुनिया, परकार, भट्ठी, पठार, जाल, ढाल, शिल्पकार, चित्रफलक, दिक्सूचक, सूक्ष्मदर्शी, दूरदर्शी | AD 344–347 | descriptive translations, not proper names |
-| Serpens Caput/Cauda | सर्पशीर्ष / सर्पपुच्छ (hi only) | AD gives सर्प (347); the शीर्ष/पुच्छ qualifiers are ours, translating the IAU split | flagged as compiler's construction |
+| hi-only (en keeps Latin) | जाल, शिल्पकार, चित्रफलक, दिक्सूचक, सूक्ष्मदर्शी, दूरदर्शी, केश | AD 344–347 | Sanskrit-compound translations; Devanagari display only |
+| Record-only (pulled from the base display 2026-08-18 evening) | जिराफ़, घड़ी, गुनिया, परकार, भट्ठी, पठार, ढाल, उड़न-मीन | AD 344–347 | Hindi-register translations (five merely repeat Muley's gloss column); they letter the opt-in Hindi culture layer, where the Muley citation shows, but not the base "Sanskrit" display |
+| Serpens Caput/Cauda | — | AD gives only सर्प (347) | the app briefly showed सर्पशीर्ष/सर्पपुच्छ, the compiler's own construction; withdrawn the same day — the halves stay Latin in the base display |
 | Not adopted | Apus, Lacerta (blank in AD), Dorado, Indus, Delphinus, Canes Venatici (transliterations only) | | |
 
 ## Named stars the sources add (not yet entries)
