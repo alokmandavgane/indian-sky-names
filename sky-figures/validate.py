@@ -23,9 +23,16 @@ trusted:
     crossing a boundary is not an error; failing to declare it is;
   * a part with stars is `attested: true` and one without is `attested: false`,
     so an unfilled role can never read as a filled one;
-  * `quote`-style access discipline: `source_access` is one of the two values the
-    name database uses, and the same rule applies — in-copyright material is
-    paraphrased, never quoted.
+  * an authored `join` names two stars the part itself places, and says in its
+    note who joined them. Lines are otherwise derived at export time from the
+    received (IAU) figure, and that rule is right for the ordinary case: a source
+    that says four stars are a cot has not said which corner joins which. It is
+    wrong when the source *has* said — when the text pairs two stars itself, or
+    counts a row in order — because then the missing line is not restraint but a
+    dropped claim. `join` is how a part says so, and these invariants are what
+    keep it from becoming a licence to draw;
+  * `quote`-style access discipline: `source_access` says what may be done with
+    the source's words — in-copyright material is paraphrased, never quoted.
 
     python3 validate.py
 
@@ -43,7 +50,14 @@ CULTURES = os.path.join(DOCS, "sky-identity", "cultures.json")
 LOCAL_DB = os.path.join(DOCS, "star-names-local", "star-names-local.json")
 SANSKRIT_DB = os.path.join(DOCS, "star-names", "star-names.json")
 
-ACCESS = {"public-domain", "in-copyright-paraphrased"}
+# Three, where the name database needs two. The vernacular compilation reads
+# lexicons and field reports, which are either out of copyright or not; a figure
+# of the Sanskrit tradition can also rest on a modern critical edition of a text
+# that is itself long out of copyright — Nityānanda's Trivikrama is read through
+# Pai & Shylaja's open-access edition of it. That is neither of the other two: the
+# primary source may be quoted freely, and the edition carries a licence that
+# permits quotation with attribution rather than forbidding it.
+ACCESS = {"public-domain", "in-copyright-paraphrased", "open-access"}
 CONFIDENCE = {"certain", "likely", "disputed", "unidentified"}
 
 # The Sanskrit textual tradition draws figures too — the Purāṇic Śiśumāra is one —
@@ -69,6 +83,50 @@ def load_catalogue():
     return hip_table, constellation
 
 
+def check_joins(joins, hips, part, role, bad):
+    """The invariants on an authored `join`. Returns how many lines it draws.
+
+    Every one of these is a way the field could quietly say more than the source
+    does. A join naming a star the part does not place would draw a line out of
+    the figure and into the sky — and it would do it *silently*, because the
+    renderer resolves joins as indices into the part's own stars and drops what it
+    cannot find. A join on an unfilled role would trace a shape nobody assigned.
+    And a join with nothing said about it in the note is the one that matters
+    most: this field exists to carry a claim the source makes, so a claim with no
+    stated authority is exactly what it must not be used for.
+    """
+    if not isinstance(joins, list):
+        bad(f"part {role!r}: `join` must be a list of [hipA, hipB] pairs")
+        return 0
+    if not part.get("attested") or len(hips) < 2:
+        bad(f"part {role!r}: `join` on a role with {len(hips)} star(s) — a line "
+            f"needs two stars the source placed")
+        return 0
+    if not (part.get("note") or "").strip():
+        bad(f"part {role!r}: `join` with no note — a drawn line has to say who drew it")
+
+    placed, seen = set(hips), set()
+    for pair in joins:
+        if not (isinstance(pair, list) and len(pair) == 2):
+            bad(f"part {role!r}: join {pair!r} is not a pair")
+            continue
+        a, b = pair
+        if a == b:
+            bad(f"part {role!r}: join {pair!r} joins HIP {a} to itself")
+            continue
+        missing = [h for h in pair if h not in placed]
+        if missing:
+            bad(f"part {role!r}: join {pair!r} names HIP {', '.join(str(h) for h in missing)}, "
+                f"which this part does not place — a line may only join its own stars")
+            continue
+        key = (min(a, b), max(a, b))
+        if key in seen:
+            bad(f"part {role!r}: join {pair!r} is drawn twice")
+            continue
+        seen.add(key)
+    return len(seen)
+
+
 def main():
     figs = json.load(open(FIGURES, encoding="utf-8"))["figures"]
     cultures = json.load(open(CULTURES, encoding="utf-8"))["cultures"]
@@ -77,7 +135,7 @@ def main():
     hip_table, constellation_of = load_catalogue()
 
     errors, ids = [], set()
-    n_parts = n_attested = n_stars = 0
+    n_parts = n_attested = n_stars = n_joins = 0
 
     for f in figs:
         fid = f.get("id") or "<no id>"
@@ -132,6 +190,10 @@ def main():
                 elif h in constellation_of:
                     touched.add(constellation_of[h])
 
+            joins = p.get("join")
+            if joins is not None:
+                n_joins += check_joins(joins, hips, p, role, bad)
+
         declared = set(f.get("spans") or [])
         if declared != touched and touched:
             bad(f"spans {sorted(declared)} but the stars are in {sorted(touched)} — "
@@ -139,7 +201,7 @@ def main():
 
     print(f"{len(figs)} figures, {n_parts} parts ({n_attested} with stars, "
           f"{n_parts - n_attested} recorded as roles the source leaves unfilled), "
-          f"{n_stars} star assignments")
+          f"{n_stars} star assignments, {n_joins} lines the sources draw themselves")
 
     by_culture = {}
     for f in figs:

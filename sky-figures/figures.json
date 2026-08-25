@@ -361,8 +361,11 @@
       85927,
       85696
      ],
+     "join": [
+      [85927, 85696]
+     ],
      "attested": true,
-     "note": "λ and υ Scorpii — the stinger."
+     "note": "λ and υ Scorpii — the stinger. Joined because the nakshatra is named for the shape and not for the pair: mūla is the root, and the two stars half a degree apart are the barb it ends in. The received figure runs the tail down to Shaula and stops, leaving Lesath beside it unattached."
     },
     {
      "role": "the eight southern-path nakshatras beginning with Maghā, as the ribs of the left side (vāma-pārśva-vaṅkri)",
@@ -376,8 +379,17 @@
       74392,
       78401
      ],
+     "join": [
+      [49669, 54872],
+      [54872, 57632],
+      [57632, 59803],
+      [59803, 65474],
+      [65474, 69673],
+      [69673, 74392],
+      [74392, 78401]
+     ],
      "attested": true,
-     "note": "Maghā through Anurādhā, one junction star each: Regulus, Zosma, Denebola, Gienah, Spica, Arcturus, ι Librae, Dschubba. The text says 'the eight beginning with Maghā'; the terminus is supplied by commentators and confirmed by counting. Viśākhā is carried at ι Librae, the database's reading — the Śārdūlakarṇāvadāna's two-star horn shape would put it at α/β Librae instead."
+     "note": "Maghā through Anurādhā, one junction star each: Regulus, Zosma, Denebola, Gienah, Spica, Arcturus, ι Librae, Dschubba. Joined along that order, which is the text's: ribs are a row and the eight are counted, so the sequence is the claim. The line between any two is the record's own — the received figures cross this row at right angles and join none of it except Zosma to Denebola, an accident of Leo. The text says 'the eight beginning with Maghā'; the terminus is supplied by commentators and confirmed by counting. Viśākhā is carried at ι Librae, the database's reading — the Śārdūlakarṇāvadāna's two-star horn shape would put it at α/β Librae instead."
     },
     {
      "role": "the eight northern-path nakshatras beginning with Mṛgaśīrṣa, counted backwards, as the ribs of the right side (dakṣiṇa-pārśva-vaṅkri)",
@@ -391,8 +403,17 @@
       1067,
       113963
      ],
+     "join": [
+      [26207, 21421],
+      [21421, 17702],
+      [17702, 12719],
+      [12719, 8903],
+      [8903, 5737],
+      [5737, 1067],
+      [1067, 113963]
+     ],
      "attested": true,
-     "note": "Mṛgaśiras back through Pūrvabhādrapadā (prātilomyena), one junction star each: Meissa, Aldebaran, Alcyone, 35 Arietis, Sheratan, ζ Piscium, Algenib, Markab. The terminus is inferred, and confirmed by counting."
+     "note": "Mṛgaśiras back through Pūrvabhādrapadā (prātilomyena), one junction star each: Meissa, Aldebaran, Alcyone, 35 Arietis, Sheratan, ζ Piscium, Algenib, Markab. The terminus is inferred, and confirmed by counting. Joined along the backward count, for the reason the other side is joined along the forward one: the ribs are a row and the text gives its order. Of these seven lines the received figures draw one, Algenib to Markab, and only because it is an edge of the Square of Pegasus."
     },
     {
      "role": "Śatabhiṣā, the right shoulder (skandha)",
@@ -603,8 +624,11 @@
       44127,
       44471
      ],
+     "join": [
+      [44127, 44471]
+     ],
      "attested": true,
-     "note": "ι and κ UMa — the pair the catalogue counts first."
+     "note": "ι and κ UMa — the pair the catalogue counts first. Joined because the text pairs them: a yugmaka is a couple, and the received figure walks past both of them to θ UMa without ever putting them together."
     },
     {
      "role": "the second footprint (yugmaka)",
@@ -612,8 +636,11 @@
       50372,
       50801
      ],
+     "join": [
+      [50372, 50801]
+     ],
      "attested": true,
-     "note": "λ and μ UMa."
+     "note": "λ and μ UMa. Joined on the same authority as the first, and against the same accident: both hang off ψ UMa in the received figure and never off each other."
     },
     {
      "role": "the third footprint (yugmaka)",
@@ -621,8 +648,11 @@
       55219,
       55203
      ],
+     "join": [
+      [55219, 55203]
+     ],
      "attested": true,
-     "note": "ν and ξ UMa."
+     "note": "ν and ξ UMa. The received figure happens to join this pair, so the line was drawn here before it was drawn at the other two — which is how the omission was noticed. The pairing is stated anyway: what draws the third print should be the text, not the coincidence."
     }
    ],
    "citation": "Sarvasiddhāntarāja, saṃkrāntyādi 27 and Nityānanda's own note (ed. Pai & Shylaja, JApA 42:113 (2021), n. 36); discussed in Shylaja & Pai, JAHH 22(2) (2019), 296–298",

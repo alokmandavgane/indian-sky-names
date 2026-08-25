@@ -43,7 +43,40 @@ gives them.
 A role the source names but does not fill is still recorded, with an empty list and
 `attested: false` — Lorrain says Dingdi's cloth is pinned to the wall at two stars
 and never says which two, and that gap is part of the record rather than something
-to paper over. **Lines are derived at export time from parts, never authored here.**
+to paper over. **Lines are derived at export time from parts, except where the
+source draws one itself.**
+
+### The exception, and why it had to exist
+
+That last rule read *never authored here* until Nityānanda's Trivikrama was added,
+and that figure is what broke it. The Sarvasiddhāntarāja reads three faint star-pairs
+along the Bear's southern paws as Viṣṇu's three footprints, and calls each pair a
+*yugmaka* — a couple. The pairing is the text's own claim, as explicit as this
+material ever gets. Deriving the lines from the received figure drew one of the three:
+the IAU tracing happens to join ν to ξ UMa, and walks past ι–κ and λ–μ to a third star
+each time. So the sky showed one footprint and two loose dots — not restraint, just a
+dropped claim, and the drawing rule silently deciding which of a source's assertions
+survived.
+
+Where a source states the join, the part carries it:
+
+```json
+{
+  "role": "the first footprint (yugmaka)",
+  "hip": [44127, 44471],
+  "join": [[44127, 44471]],
+  "attested": true,
+  "note": "ι and κ UMa — the pair the catalogue counts first. Joined because the text pairs them: …"
+}
+```
+
+The invariants below are what keep this from becoming a licence to draw. A `join`
+may only name stars its own part places; it may not join a star to itself, repeat a
+pair, or appear on a role with fewer than two stars; and it must have a note, because
+this field exists to carry a claim a source makes and a claim with no stated
+authority is exactly what it must not be used for. Everything untraced still derives,
+which is most of the record: six parts of two figures carry a `join`, and the other
+thirty-eight do not.
 
 ## What the validator enforces
 
@@ -53,9 +86,12 @@ to paper over. **Lines are derived at export time from parts, never authored her
 | every HIP is a real star in the vendored Hipparcos catalogue | catches the failure that actually happens — a mistyped number drawing a line to nowhere |
 | `spans` names every IAU constellation the stars fall in, recomputed | see below |
 | a part with stars is `attested: true`, one without is `attested: false` | an unfilled role must never read as a filled one |
-| citation present; `source_access` from the name database's vocabulary | in-copyright material is paraphrased, never quoted — the same rule as everywhere else |
+| an authored `join` names only stars its own part places, joins no star to itself, repeats no pair, sits on no role with fewer than two stars, and carries a note | see above — and the first of these because the drawing end resolves a join by indexing into the part's stars and silently ignores what it cannot find, so a mistyped number would not draw a wrong line, it would draw *no* line and look exactly like a source that never spoke |
+| citation present; `source_access` one of `public-domain`, `in-copyright-paraphrased`, `open-access` | in-copyright material is paraphrased, never quoted. The third value is for a text long out of copyright read through a modern critical edition that licenses quotation with attribution — Nityānanda through Pai & Shylaja |
 
-All five are negative-tested.
+None of these is negative-tested: there is no test file in this directory, and an
+earlier version of this line claimed otherwise. The rules are exercised only by the
+record they run against, which means a rule that stopped firing would go unnoticed.
 
 ### `spans` is not a containment rule, and that is the point
 
@@ -77,7 +113,7 @@ validator recomputes `spans` from the catalogue and insists the record agrees.
 
 ## What is in it
 
-Ten figures, 41 parts, 98 star assignments. Deliberately the ones the sources
+Eleven figures, 44 parts, 104 star assignments. Deliberately the ones the sources
 actually draw:
 
 | Figure | Culture | What is attested |
@@ -92,6 +128,7 @@ actually draw:
 | the pierced deer | Sanskrit | Aitareya-brāhmaṇa 3.33: the deer's head at Mṛgaśiras, the Belt as the three-jointed arrow, Mṛgavyādha the hunter at Sirius, the doe at Rohiṇī — one hunt across three constellations |
 | the Seven Sages | Sanskrit | Bṛhat-saṃhitā 13.5-6: the seven named in order as one set, and Arundhatī — the text's one per-star claim — beside Vasiṣṭha at Alcor |
 | the seven Kṛttikās | Sanskrit | Taittirīya-brāhmaṇa 3.1.4.1: Ambā, Dulā, Nitatnī and the four rain-names, one set over the Pleiades — six charted, Pleione below the chart's field limit |
+| Trivikrama's three footprints | Sanskrit | Sarvasiddhāntarāja saṃkrāntyādi 27: three star-pairs along the Bear's southern paws as the three strides — ι–κ, λ–μ and ν–ξ UMa, each a *yugmaka* the text pairs itself, which is why all three are drawn joined and none is joined to another. The same pairs are the Arabic tradition's leaps of the gazelle |
 
 Alkaid is unassigned in the Mundari bier because Hoffmann assigns it nothing. That
 is the shape of most records here. The Śiśumāra is the one figure the Sanskrit
@@ -115,5 +152,8 @@ This is the record Phase 3's Stellarium exporter and Phase 4's per-culture figur
 layer both read. Stellarium wants lines; parts are what the sources give, so the
 exporter derives lines from parts and must mark that derivation as its own — a
 figure whose vertex order was chosen by a program is not a figure a source drew.
+The lines that come from a `join` are the other case and are credited the other
+way: they are the compilation's reading of a cited text, not the IAU's tracing,
+and the exporter's licence note says so rather than crediting them to MacRobert.
 A culture with names and no lines is a perfectly legitimate skyculture, and most
 of the 58 will be exactly that.
