@@ -274,6 +274,22 @@
    "hint": "delta Vir",
    "agrees": true
   },
+  "aptapani": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 3179,
+   "separation_arcsec": 11.5,
+   "vmag": 2.24,
+   "designation": "α Cas",
+   "flamsteed": "18",
+   "proper_name": "Schedar",
+   "spectral": "K0II-IIIvar",
+   "resolution": "position",
+   "plotted_vmag": 2.24,
+   "vmag_agrees": true,
+   "hint": "α Cas Schedar",
+   "agrees": true
+  },
   "ardra": {
    "source": "sanskrit",
    "kind": "star",
@@ -337,6 +353,22 @@
    "vmag_agrees": true,
    "hint": "eps Hya",
    "agrees": null
+  },
+  "ashvamukha": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 84345,
+   "separation_arcsec": 6.7,
+   "vmag": 2.78,
+   "designation": "α1 Her",
+   "flamsteed": "64",
+   "proper_name": "Rasalgethi",
+   "spectral": "M5IIvar",
+   "resolution": "position",
+   "plotted_vmag": 3.08,
+   "vmag_agrees": false,
+   "hint": "α Her Rasalgethi",
+   "agrees": true
   },
   "ashvattha": {
    "source": "sanskrit",
@@ -508,6 +540,22 @@
    "hint": "35 Arietis (Musca Borealis)",
    "agrees": true
   },
+  "bhujanga": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 39953,
+   "separation_arcsec": 14.4,
+   "vmag": 1.75,
+   "designation": "γ2 Vel",
+   "flamsteed": "",
+   "proper_name": "",
+   "spectral": "WC8 + O9I",
+   "resolution": "position",
+   "plotted_vmag": 1.83,
+   "vmag_agrees": false,
+   "hint": "γ Vel",
+   "agrees": true
+  },
   "brahma-nakshatra": {
    "source": "sanskrit",
    "kind": "star",
@@ -607,6 +655,38 @@
     7283
    ],
    "hint": "Polaris (the pole star)",
+   "agrees": true
+  },
+  "dhruvaksha": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 89937,
+   "separation_arcsec": 13.3,
+   "vmag": 3.55,
+   "designation": "χ Dra",
+   "flamsteed": "44",
+   "proper_name": "",
+   "spectral": "F7Vvar",
+   "resolution": "position",
+   "plotted_vmag": 3.57,
+   "vmag_agrees": true,
+   "hint": "χ Dra",
+   "agrees": true
+  },
+  "dvijeshvara": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 61084,
+   "separation_arcsec": 9.6,
+   "vmag": 1.59,
+   "designation": "γ Cru",
+   "flamsteed": "",
+   "proper_name": "Gacrux",
+   "spectral": "M4III",
+   "resolution": "position",
+   "plotted_vmag": 1.64,
+   "vmag_agrees": true,
+   "hint": "γ Cru Gacrux",
    "agrees": true
   },
   "ekapada": {
@@ -709,6 +789,22 @@
    ],
    "members_from": "designations"
   },
+  "jantupuccha": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 3419,
+   "separation_arcsec": 16.2,
+   "vmag": 2.04,
+   "designation": "β Cet",
+   "flamsteed": "16",
+   "proper_name": "Diphda",
+   "spectral": "K0III",
+   "resolution": "position",
+   "plotted_vmag": 2.02,
+   "vmag_agrees": true,
+   "hint": "β Cet Diphda",
+   "agrees": true
+  },
   "jiva-pushya": {
    "source": "sanskrit",
    "kind": "star",
@@ -762,6 +858,41 @@
     80910
    ],
    "hint": "Antares (Cor Scorpionis)",
+   "agrees": true
+  },
+  "kakapuccha": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 102098,
+   "separation_arcsec": 5.3,
+   "vmag": 1.25,
+   "designation": "α Cyg",
+   "flamsteed": "50",
+   "proper_name": "Deneb",
+   "spectral": "A2Ia",
+   "resolution": "position",
+   "plotted_vmag": 1.25,
+   "vmag_agrees": true,
+   "hint": "α Cyg Deneb",
+   "agrees": true
+  },
+  "kapala": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 113368,
+   "separation_arcsec": 8.7,
+   "vmag": 1.17,
+   "designation": "α PsA",
+   "flamsteed": "24",
+   "proper_name": "Fomalhaut",
+   "spectral": "A3V",
+   "resolution": "position",
+   "plotted_vmag": 1.16,
+   "vmag_agrees": true,
+   "crowded_by": [
+    113532
+   ],
+   "hint": "α PsA Fomalhaut",
    "agrees": true
   },
   "kattika-karttika": {
@@ -978,6 +1109,22 @@
    "hint": "Canopus",
    "agrees": true
   },
+  "manusha-shirsha": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 14576,
+   "separation_arcsec": 16.8,
+   "vmag": 2.09,
+   "designation": "β Per",
+   "flamsteed": "26",
+   "proper_name": "Algol",
+   "spectral": "B8V",
+   "resolution": "position",
+   "plotted_vmag": 2.12,
+   "vmag_agrees": true,
+   "hint": "β Per Algol",
+   "agrees": true
+  },
   "marichi": {
    "source": "sanskrit",
    "kind": "star",
@@ -992,6 +1139,54 @@
    "plotted_vmag": 1.85,
    "vmag_agrees": true,
    "hint": "Alkaid",
+   "agrees": true
+  },
+  "matrichakra": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 76267,
+   "separation_arcsec": 18.5,
+   "vmag": 2.22,
+   "designation": "α CrB",
+   "flamsteed": "5",
+   "proper_name": "Alphecca",
+   "spectral": "A0V",
+   "resolution": "position",
+   "plotted_vmag": 2.23,
+   "vmag_agrees": true,
+   "hint": "α CrB Alphecca",
+   "agrees": true
+  },
+  "matsyasya-puccha": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 109268,
+   "separation_arcsec": 5.8,
+   "vmag": 1.73,
+   "designation": "α Gru",
+   "flamsteed": "",
+   "proper_name": "Alnair",
+   "spectral": "B7IV",
+   "resolution": "position",
+   "plotted_vmag": 1.74,
+   "vmag_agrees": true,
+   "hint": "α Gru Alnair",
+   "agrees": true
+  },
+  "matsyodara": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 5447,
+   "separation_arcsec": 7.9,
+   "vmag": 2.07,
+   "designation": "β And",
+   "flamsteed": "43",
+   "proper_name": "Mirach",
+   "spectral": "M0IIIvar",
+   "resolution": "position",
+   "plotted_vmag": 2.05,
+   "vmag_agrees": true,
+   "hint": "β And Mirach",
    "agrees": true
   },
   "mriga": {
@@ -1123,6 +1318,22 @@
    "hint": "Canopus",
    "agrees": true
   },
+  "nadyantaka": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 6867,
+   "separation_arcsec": 9.0,
+   "vmag": 3.41,
+   "designation": "γ Phe",
+   "flamsteed": "",
+   "proper_name": "",
+   "spectral": "K5II-III",
+   "resolution": "position",
+   "plotted_vmag": 3.41,
+   "vmag_agrees": true,
+   "hint": "γ Phe",
+   "agrees": true
+  },
   "nairrita": {
    "source": "sanskrit",
    "kind": "star",
@@ -1140,6 +1351,25 @@
    "agrees": true,
    "alias_of": "mula"
   },
+  "nauka": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 39429,
+   "separation_arcsec": 15.7,
+   "vmag": 2.21,
+   "designation": "ζ Pup",
+   "flamsteed": "",
+   "proper_name": "Naos",
+   "spectral": "O5IAf",
+   "resolution": "position",
+   "plotted_vmag": 2.25,
+   "vmag_agrees": true,
+   "crowded_by": [
+    39373
+   ],
+   "hint": "ζ Pup",
+   "agrees": true
+  },
   "nishtya": {
    "source": "sanskrit",
    "kind": "star",
@@ -1154,6 +1384,25 @@
    "plotted_vmag": -0.05,
    "vmag_agrees": true,
    "hint": "Arcturus",
+   "agrees": true
+  },
+  "nripada": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 71683,
+   "separation_arcsec": 40.3,
+   "vmag": -0.01,
+   "designation": "α Cen",
+   "flamsteed": "",
+   "proper_name": "Rigil Kentaurus",
+   "spectral": "G2V",
+   "resolution": "position",
+   "plotted_vmag": -0.27,
+   "vmag_agrees": false,
+   "crowded_by": [
+    71681
+   ],
+   "hint": "α Cen",
    "agrees": true
   },
   "paitamaha": {
@@ -1372,6 +1621,22 @@
     114031
    ],
    "hint": "Markab",
+   "agrees": true
+  },
+  "purva-dhruvaksha": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 94376,
+   "separation_arcsec": 5.4,
+   "vmag": 3.07,
+   "designation": "δ Dra",
+   "flamsteed": "57",
+   "proper_name": "Altais",
+   "spectral": "G9III",
+   "resolution": "position",
+   "plotted_vmag": 3.07,
+   "vmag_agrees": true,
+   "hint": "δ Dra",
    "agrees": true
   },
   "purva-phalguni": {
@@ -1707,6 +1972,22 @@
    "hint": "Asellus Australis",
    "agrees": true
   },
+  "skanda": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 24608,
+   "separation_arcsec": 6.3,
+   "vmag": 0.08,
+   "designation": "α Aur",
+   "flamsteed": "13",
+   "proper_name": "Capella",
+   "spectral": "M1: comp",
+   "resolution": "position",
+   "plotted_vmag": 0.08,
+   "vmag_agrees": true,
+   "hint": "α Aur Capella",
+   "agrees": true
+  },
   "svati": {
    "source": "sanskrit",
    "kind": "star",
@@ -1754,6 +2035,22 @@
    "plotted_vmag": 3.94,
    "vmag_agrees": true,
    "hint": "the later Puṣya: the Asellus stars and Praesepe region",
+   "agrees": true
+  },
+  "torana": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 77070,
+   "separation_arcsec": 20.0,
+   "vmag": 2.63,
+   "designation": "α Ser",
+   "flamsteed": "24",
+   "proper_name": "Unukalhai",
+   "spectral": "K2III",
+   "resolution": "position",
+   "plotted_vmag": 2.63,
+   "vmag_agrees": true,
+   "hint": "α Ser Unukalhai",
    "agrees": true
   },
   "trishanku": {
@@ -1907,6 +2204,25 @@
     65477
    ],
    "hint": "Mizar",
+   "agrees": true
+  },
+  "vayasa": {
+   "source": "sanskrit",
+   "kind": "star",
+   "hip": 95947,
+   "separation_arcsec": 1.6,
+   "vmag": 3.05,
+   "designation": "β1 Cyg",
+   "flamsteed": "6",
+   "proper_name": "Albireo",
+   "spectral": "K3II+...",
+   "resolution": "position",
+   "plotted_vmag": 3.18,
+   "vmag_agrees": false,
+   "crowded_by": [
+    95951
+   ],
+   "hint": "β Cyg Albireo",
    "agrees": true
   },
   "vichritau": {
@@ -2201,8 +2517,8 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "suggested by the recorders as Aquila —",
-   "agrees": false,
+   "hint": "Aquila —",
+   "agrees": null,
    "iau_constellations": [
     "Aql"
    ],
@@ -2272,7 +2588,7 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Adhara ε Canis Majoris",
+   "hint": "Canis Major —",
    "agrees": false,
    "iau_constellations": [
     "CMa"
@@ -2354,7 +2670,7 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Centaurus",
+   "hint": "Centaurus —",
    "agrees": null,
    "iau_constellations": [
     "Cen"
@@ -2404,8 +2720,8 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Gienah γ Corvi",
-   "agrees": false,
+   "hint": "Corvus —",
+   "agrees": null,
    "iau_constellations": [
     "Crv"
    ],
@@ -2422,8 +2738,8 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Crux (the Southern Cross) α, β, γ, δ Crucis",
-   "agrees": false,
+   "hint": "Crux —",
+   "agrees": null,
    "iau_constellations": [
     "Cru"
    ],
@@ -2439,8 +2755,8 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "suggested by the recorders as Cygnus —",
-   "agrees": false,
+   "hint": "Cygnus —",
+   "agrees": null,
    "iau_constellations": [
     "Cyg"
    ],
@@ -2545,8 +2861,8 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Alpha, Beta, Mu and Rho Lupi α, β, μ, ρ Lupi",
-   "agrees": false,
+   "hint": "Lupus —",
+   "agrees": null,
    "iau_constellations": [
     "Lup"
    ],
@@ -2570,7 +2886,7 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Lyra",
+   "hint": "Lyra —",
    "agrees": null,
    "iau_constellations": [
     "Lyr"
@@ -2597,8 +2913,8 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "two close stars in Monoceros —",
-   "agrees": false,
+   "hint": "Monoceros —",
+   "agrees": null,
    "iau_constellations": [
     "Mon"
    ],
@@ -2654,7 +2970,7 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Norma",
+   "hint": "Norma —",
    "agrees": null,
    "iau_constellations": [
     "Nor"
@@ -2707,7 +3023,7 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Orion's Belt (Mintaka, Alnilam, Alnitak) δ, ε, ζ Orionis",
+   "hint": "Orion's Belt δ, ε, ζ Orionis",
    "agrees": false,
    "member_hips": [
     25930,
@@ -2720,8 +3036,8 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "the Great Square of Pegasus α, β, γ Pegasi with α Andromedae",
-   "agrees": false,
+   "hint": "Pegasus —",
+   "agrees": null,
    "iau_constellations": [
     "Peg"
    ],
@@ -2812,8 +3128,8 @@
    "crowded_by": [
     7283
    ],
-   "hint": "Polaris (the pole star) α Ursae Minoris",
-   "agrees": true
+   "hint": "Pole Star",
+   "agrees": false
   },
   "local:praesepe": {
    "source": "local",
@@ -2921,7 +3237,7 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "circumpolar figure — glossed 'the Big Bear' but described as a lizard-shaped chain ending at Polaris",
+   "hint": "the Big Dipper —",
    "agrees": false,
    "iau_constellations": [
     "UMa"
@@ -2954,7 +3270,7 @@
    "source": "local",
    "kind": "figure",
    "resolution": "figure",
-   "hint": "Ursa Minor α–η Ursae Minoris",
+   "hint": "circumpolar figure — glossed 'the Big Bear' but described as a lizard-shaped chain ending at Polaris",
    "agrees": false,
    "iau_constellations": [
     "UMi"
