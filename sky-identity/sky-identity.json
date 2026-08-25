@@ -2332,6 +2332,7 @@
     "ardra",
     "mrigashirsha"
    ],
+   "note": "Matsya 124.55 as transmitted repeats the name नागवीथी here; Gajavīthī is the required reading.",
    "member_hips": [
     21421,
     26207,
@@ -2380,6 +2381,7 @@
     "uttara-bhadrapada",
     "revati"
    ],
+   "note": "Drawn on the Matsya reading. Bṛhat Saṃhitā 9.2cd gives Govīthī = Aśvinī, Revatī and the two Bhādrapadās — close to the Matsya, adding only Aśvinī. The Hasta/Citrā/Svāti version belongs to the sequential scheme at BS 9.1, which Varāhamihira attributes to others.",
    "member_hips": [
     1067,
     5743,
@@ -2396,6 +2398,7 @@
     "dhanishtha",
     "shatabhishaj"
    ],
+   "note": "Drawn on the Matsya reading (vāruṇa = Śatabhiṣaj), which Bṛhat Saṃhitā 9.3ab confirms exactly: the triad beginning at Śravaṇa.",
    "member_hips": [
     97649,
     101769,
@@ -2411,6 +2414,10 @@
     "mula",
     "purva-ashadha",
     "uttara-ashadha"
+   ],
+   "note": "Drawn on the Matsya 124.53 / Viṣṇu 2.8.85 reading (Mūla + both Aṣāḍhās). Matsya 124.58, in the same chapter, instead gives Hasta, Citrā and Svātī — the text contradicts itself.",
+   "same_members_as": [
+    "vaishvanari"
    ],
    "member_hips": [
     85927,
@@ -2443,6 +2450,10 @@
     "mula",
     "purva-ashadha",
     "uttara-ashadha"
+   ],
+   "note": "Matsya 124.59 gives Vaiśvānarī the same three asterisms that 124.53 gives Ajavīthī, so the two roads are drawn on top of each other here. The contradiction is the text's, not the chart's.",
+   "same_members_as": [
+    "ajavithi"
    ],
    "member_hips": [
     85927,

@@ -621,13 +621,34 @@ def main():
     # own — so their records are minted here, with members by object key so a road
     # can never disagree with the nakshatras it runs through.
     roads = position_table(SANSKRIT_CHART, "ROADS")
+    road_notes = position_table(SANSKRIT_CHART, "ROAD_NOTE")
+    # Two roads can hold the same three nakshatras, and that is not a resolution
+    # failure — Matsya 124.59 gives Vaiśvānarī the triad 124.53 has already given
+    # Ajavīthī, and the chapter contradicts itself. The chart says so where it draws
+    # them on top of each other; a consumer reading only this file would see two
+    # clean records claiming one stretch of sky. So the chart's note travels with
+    # the record, and a road that shares its members with another and says nothing
+    # about it is an error rather than a row.
+    twins_of = {}
     for road, members in roads.items():
-        res_s.setdefault(road, {
+        twins_of.setdefault(frozenset(members), []).append(road)
+    for road, members in roads.items():
+        rec = res_s.setdefault(road, {
             "source": "sanskrit",
             "kind": "road",
             "resolution": "not-a-single-star",
             "member_objects": list(members),
         })
+        twins = sorted(r for r in twins_of[frozenset(members)] if r != road)
+        if road in road_notes:
+            rec["note"] = road_notes[road]
+        if twins:
+            rec["same_members_as"] = twins
+            if road not in road_notes:
+                raise SystemExit(
+                    f"star-road {road} has the same nakshatras as "
+                    f"{', '.join(twins)} and no note saying which text does that"
+                )
 
     combined = {**res_s, **{"local:" + k: v for k, v in res_l.items()}}
     for road, members in roads.items():
