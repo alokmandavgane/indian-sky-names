@@ -379,17 +379,8 @@
       74392,
       78401
      ],
-     "join": [
-      [49669, 54872],
-      [54872, 57632],
-      [57632, 59803],
-      [59803, 65474],
-      [65474, 69673],
-      [69673, 74392],
-      [74392, 78401]
-     ],
      "attested": true,
-     "note": "Maghā through Anurādhā, one junction star each: Regulus, Zosma, Denebola, Gienah, Spica, Arcturus, ι Librae, Dschubba. Joined along that order, which is the text's: ribs are a row and the eight are counted, so the sequence is the claim. The line between any two is the record's own — the received figures cross this row at right angles and join none of it except Zosma to Denebola, an accident of Leo. The text says 'the eight beginning with Maghā'; the terminus is supplied by commentators and confirmed by counting. Viśākhā is carried at ι Librae, the database's reading — the Śārdūlakarṇāvadāna's two-star horn shape would put it at α/β Librae instead."
+     "note": "Maghā through Anurādhā, one junction star each: Regulus, Zosma, Denebola, Gienah, Spica, Arcturus, ι Librae, Dschubba. Counted, and deliberately not traced. These eight carried an authored `join` chaining them in the text's order, on the argument that a row of ribs is a row; it is withdrawn. What the verse states is an enumeration — मघादीन्यष्ट नक्षत्राणि, 'the eight beginning with Maghā' — and an enumeration is not a pairing: no word here does what yugmaka does for Trivikrama's footprints, which is the standard `join` was added to meet. And the drawn result asserted a second thing nobody said, because eight nakshatras strung along the ecliptic is the shape of a star-road (vīthī), a scheme of other texts that divides this same band into nines. The order stays in the record, where it is the claim; it is no longer a line. The terminus is supplied by commentators and confirmed by counting. Viśākhā is carried at ι Librae, the database's reading — the Śārdūlakarṇāvadāna's two-star horn shape would put it at α/β Librae instead. Zosma to Denebola still draws, from the received figure: it is an accident of Leo and credited to Leo."
     },
     {
      "role": "the eight northern-path nakshatras beginning with Mṛgaśīrṣa, counted backwards, as the ribs of the right side (dakṣiṇa-pārśva-vaṅkri)",
@@ -403,17 +394,8 @@
       1067,
       113963
      ],
-     "join": [
-      [26207, 21421],
-      [21421, 17702],
-      [17702, 12719],
-      [12719, 8903],
-      [8903, 5737],
-      [5737, 1067],
-      [1067, 113963]
-     ],
      "attested": true,
-     "note": "Mṛgaśiras back through Pūrvabhādrapadā (prātilomyena), one junction star each: Meissa, Aldebaran, Alcyone, 35 Arietis, Sheratan, ζ Piscium, Algenib, Markab. The terminus is inferred, and confirmed by counting. Joined along the backward count, for the reason the other side is joined along the forward one: the ribs are a row and the text gives its order. Of these seven lines the received figures draw one, Algenib to Markab, and only because it is an edge of the Square of Pegasus."
+     "note": "Mṛgaśiras back through Pūrvabhādrapadā (prātilomyena), one junction star each: Meissa, Aldebaran, Alcyone, 35 Arietis, Sheratan, ζ Piscium, Algenib, Markab. The terminus is inferred, and confirmed by counting. Counted and not traced, for the reason the other side gives: the backward count is an order the text states, not a set of pairs it draws, and a chain through eight nakshatras reads as a star-road it never claims. Algenib to Markab still draws, from the received figure, and only because it is an edge of the Square of Pegasus."
     },
     {
      "role": "Śatabhiṣā, the right shoulder (skandha)",

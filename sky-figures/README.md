@@ -75,8 +75,31 @@ may only name stars its own part places; it may not join a star to itself, repea
 pair, or appear on a role with fewer than two stars; and it must have a note, because
 this field exists to carry a claim a source makes and a claim with no stated
 authority is exactly what it must not be used for. Everything untraced still derives,
-which is most of the record: six parts of two figures carry a `join`, and the other
-thirty-eight do not.
+which is most of the record: four parts of two figures carry a `join`, and the other
+forty do not.
+
+### The exception's limit: a row counted is not a row drawn
+
+The field was used a second way and it did not hold. The Bhāgavata gives the
+Śiśumāra sixteen ribs — *the eight beginning with Maghā* down the left side, *the
+eight beginning with Mṛgaśīrṣa, backwards* up the right — and both rows were
+authored with a `join` chaining them in the text's order, on the argument that
+ribs are a row and the order is the claim. Fourteen lines, withdrawn.
+
+Two things were wrong with them. The verse **enumerates**; it does not pair. That
+is what separates it from the Trivikrama case, where *yugmaka* is the text's own
+word for a couple — the standard the field was added to meet, and one an ordering
+does not clear. And the drawn result asserted something no Purāṇa says: eight
+nakshatras strung along the ecliptic is the shape of a **star-road** (vīthī), the
+nine-fold division of that same band made by Matsya 124 and Bṛhat Saṃhitā 9, and a
+reader who knows the vīthīs reads the ribs as one. A line that is defensible and
+still says the wrong thing is not a line to draw.
+
+The rows stay in the record with their order, their stars and their inferred
+termini. What went is the assertion that consecutive ribs are joined. Two lines
+across the sixteen survive because the received figures draw them — Zosma to
+Denebola inside Leo, Algenib to Markab along the Square of Pegasus — and they are
+credited to those figures, which is what derivation means.
 
 ## What the validator enforces
 
