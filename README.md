@@ -27,7 +27,8 @@ the directory's build script.
   a page, with essays reading across the record.
 - **भगोल Bhagol** — the planetarium app for
   [Android](https://play.google.com/store/apps/details?id=com.alokm.android.stardroid) and
-  iOS, which letters its live sky from these databases.
+  [iPhone](https://apps.apple.com/app/id6797572192), which letters its live sky from these
+  databases.
 
 ## Contributing
 
